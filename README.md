@@ -7,4 +7,4 @@ CrowdAnki plugin
 
 
 **If you want to help** 
-go to [https://github.com/Stvad/CrowdAnki?tab=readme-ov-file](https://github.com/Stvad/CrowdAnki?tab=readme-ov-file)https://github.com/Stvad/CrowdAnki?tab=readme-ov-file and read on how to make changes
+go to https://github.com/Stvad/CrowdAnki?tab=readme-ov-file#to-start-working-on-the-deck-your-collaborators-need-to and read on how to make changes
