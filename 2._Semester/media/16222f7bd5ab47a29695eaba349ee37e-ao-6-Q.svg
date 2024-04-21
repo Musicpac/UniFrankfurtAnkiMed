@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="539">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="16222f7bd5ab47a29695eaba349ee37e-ao-1" height="25" width="96.73913" y="52.30434" x="992.3913" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="16222f7bd5ab47a29695eaba349ee37e-ao-2" height="18.47826" width="208.69565" y="84.91304" x="996.73913" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="16222f7bd5ab47a29695eaba349ee37e-ao-3" height="20.65217" width="58.69565" y="112.08695" x="996.73913" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="16222f7bd5ab47a29695eaba349ee37e-ao-4" height="23.91304" width="183.69565" y="138.17391" x="992.3913" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="16222f7bd5ab47a29695eaba349ee37e-ao-5" height="16.30435" width="206.52174" y="168.60869" x="995.65217" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="16222f7bd5ab47a29695eaba349ee37e-ao-6" height="21.73913" width="116.30435" y="195.7826" x="996.73913" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  <rect id="16222f7bd5ab47a29695eaba349ee37e-ao-7" height="26.08696" width="100" y="219.69564" x="996.73913" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="16222f7bd5ab47a29695eaba349ee37e-ao-8" height="21.73913" width="129.34783" y="250.13043" x="996.73913" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="16222f7bd5ab47a29695eaba349ee37e-ao-9" y="82.73912" x="659.78261" stroke-width="0" fill="#000000">Colon (Ratte)</text>
+  <rect id="16222f7bd5ab47a29695eaba349ee37e-ao-10" height="53.26087" width="177.17391" y="49.04347" x="575" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="16222f7bd5ab47a29695eaba349ee37e-ao-11" y="34.91304" x="651.08696" stroke-width="0" fill="#000000">Präparat:</text>
+ </g>
+</svg>

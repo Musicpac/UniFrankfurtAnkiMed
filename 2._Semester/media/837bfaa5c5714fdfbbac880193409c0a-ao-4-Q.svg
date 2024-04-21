@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2192" height="1176">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="837bfaa5c5714fdfbbac880193409c0a-ao-1" height="42.92763" width="658.71713" y="228.02965" x="1520.50008" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="837bfaa5c5714fdfbbac880193409c0a-ao-2" height="44.4079" width="655.7566" y="339.04939" x="1521.98034" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="837bfaa5c5714fdfbbac880193409c0a-ao-3" height="41.44737" width="657.23686" y="448.58887" x="1521.98034" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="837bfaa5c5714fdfbbac880193409c0a-ao-4" height="39.96711" width="655.7566" y="395.29939" x="1523.4606" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  <rect id="837bfaa5c5714fdfbbac880193409c0a-ao-5" height="42.92763" width="660.19739" y="281.31913" x="1520.50008" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="837bfaa5c5714fdfbbac880193409c0a-ao-6" y="141.43425" x="1823.95403" stroke-width="0" fill="#000000">Trachea (6)</text>
+  <rect id="837bfaa5c5714fdfbbac880193409c0a-ao-7" height="39.96711" width="145.06579" y="114.78951" x="1754.38166" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>
