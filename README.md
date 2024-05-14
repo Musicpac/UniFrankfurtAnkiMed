@@ -5,13 +5,10 @@ But until then its just a small continues project of mine in the hopes to bring 
 
 **Experience with deck**
 
-First semester worked --> For anatomy I only used this deck and reached 43/50 Points
-
-Latin --> All this deck
-
-Chem --> Partly previous knowledge (NileRed, Ex&F, etc.) and for all chem structes etc. I used this deck
-
-Bio --> This deck was the major part and I also used old exams.
+First semester worked --> For anatomy I only used this deck and reached 43/50 Points \n
+Latin --> All this deck \n
+Chem --> Partly previous knowledge (NileRed, Ex&F, etc.) and for all chem structes etc. I used this deck \n
+Bio --> This deck was the major part and I also used old exams. \n
 
 **Prerequisites**
 
