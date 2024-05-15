@@ -147,7 +147,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Gliederung des vegatativen Nervensystems",
-                                        "<b>Zentralen &amp; Periphären Anteil<br><br>Afferente &amp; Efferente Fasern</b><br>- Afferen: vermitteln Wahrnehmung (Informationen aus Körper)<br>- Efferent: Steuern Organfunktion<br>&nbsp; &nbsp; &nbsp;- Sympathikus<br>&nbsp; &nbsp; &nbsp;- Parasympthikus"
+                                        "<b>Zentralen &amp; Periphären Anteil<br><br>Afferente &amp; Efferente Fasern</b><br>- Afferent: vermitteln Wahrnehmung (Informationen aus Körper)<br>- Efferent: Steuern Organfunktion<br>&nbsp; &nbsp; &nbsp;- Sympathikus<br>&nbsp; &nbsp; &nbsp;- Parasympthikus"
                                     ],
                                     "guid": "e:I*J#auj~",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -655,7 +655,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wie entsteht das extraembryonale Mesoderm",
-                                "- entsteht (vermutlich aus Hypoblasten) zwischen Häuser Membran und Zytotrophoblast bis es den kompletten Embryo umgibt<div>- bildet zusammen mit Zytotrophoblast und Synsytiotrophoblast das <b>Chorion</b><br><div><br></div><div><img src=\"paste-d4887032ad3e719b555f29064e2c280d7e7857e3.png\"><br></div></div>"
+                                "- entsteht (vermutlich aus Hypoblasten) zwischen Häuser Membran und Zytotrophoblast bis es den kompletten Embryo umgibt<div>- bildet zusammen mit Zytotrophoblast und Synzytiotrophoblast das <b>Chorion</b><br><div><br></div><div><img src=\"paste-d4887032ad3e719b555f29064e2c280d7e7857e3.png\"><br></div></div>"
                             ],
                             "guid": "LP@jGk:#M/",
                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -917,7 +917,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was ist die Hämatopoese",
-                                        "Entwicklung der verschiedenen Blutzellinien"
+                                        "Entwicklung der verschiedenen Blutzelllinien"
                                     ],
                                     "guid": "Y$C`$nMIi",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -947,7 +947,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Unterscheidung Arterie &amp; Vene",
-                                        "<b>Adventitia:</b>&nbsp;Arterie: relativ dünn / vene dicker evtl sogar mit Muskelzellen<br><br><b>Tunica media: </b>bei Arterien sehr viel dicker und teilweise mit elastischen oder muskelfasern<br><br><b>Schichtgrenzen:</b> Bei Arterien sehr viel besser zu erkennen<br><br><b>Lumen</b>:<br>- Arterie: Rund und im Verhältnis zu Wanddicke klein<br>- vene: kollabiet (oval) / groß im Verhältnis zur Wanddicke<br><br><b>Klappen:</b> nur bei Venen"
+                                        "<b>Adventitia:</b>&nbsp;Arterie: relativ dünn / vene dicker evtl sogar mit Muskelzellen<br><br><b>Tunica media: </b>bei Arterien sehr viel dicker und teilweise mit elastischen oder muskelfasern<br><br><b>Schichtgrenzen:</b> Bei Arterien sehr viel besser zu erkennen<br><br><b>Lumen</b>:<br>- Arterie: Rund und im Verhältnis zu Wanddicke klein<br>- vene: kollabiert (oval) / groß im Verhältnis zur Wanddicke<br><br><b>Klappen:</b> nur bei Venen"
                                     ],
                                     "guid": "HL2a4`DHED",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -1320,7 +1320,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "&nbsp;Tunica mucosa genauer Aufbau",
-                                        "<img src=\"Bildschirmfoto 2023-04-25 um 21.56.28.png\"><br>- Lamina propria mucosae mit Lamina epitheliasis mucosae richtung Lumen (hochprismatisches Epithel)<br>- lamina epithelialis (inschichtige, hochprismatische Epithel) hat Bürstensaum (Mikrovillisaum)<br>- Epithel ist in Falten geworfen, die aber bei Füllung verstreichen<br>- Vertiefungen: Rokitanski-Aschoff-Krypten"
+                                        "<img src=\"Bildschirmfoto 2023-04-25 um 21.56.28.png\"><br>- Lamina propria mucosae mit Lamina epitheliasis mucosae richtung Lumen (hochprismatisches Epithel)<br>- lamina epithelialis (einschichtige, hochprismatische Epithel) hat Bürstensaum (Mikrovillisaum)<br>- Epithel ist in Falten geworfen, die aber bei Füllung verstreichen<br>- Vertiefungen: Rokitanski-Aschoff-Krypten"
                                     ],
                                     "guid": "E+SWa]%+DU",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -1340,7 +1340,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Tunica muscularis der Gallenblase",
-                                        "- Schwerengitter artig angeordnete glatte Muskulatur<br>- für Austreibung der Galle<br>- Artieriolen<br>* Kontraktion wird durch das Darmhormon Cholezystokinin &amp; vegetatioves Nervensystem ausgelöst<br><br><img src=\"Bildschirmfoto 2023-04-25 um 22.02.53.png\">"
+                                        "- Schwerengitter artig angeordnete glatte Muskulatur<br>- für Austreibung der Galle<br>- Arteriolen<br>* Kontraktion wird durch das Darmhormon Cholezystokinin &amp; vegetatives Nervensystem ausgelöst<br><br><img src=\"Bildschirmfoto 2023-04-25 um 22.02.53.png\">"
                                     ],
                                     "guid": "x~8G{DyW0!",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -1359,8 +1359,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Was sind Rokitansky-Asxhoff-Krypten &amp; Luschkasche Kanäle",
-                                        "- Mukosa ist in hohe Falten aufgeworfen (Krypten dazwischen: Rokitansky-Asxhoff-Krypten)<br><div>\n<div>\n<div>\n<div>- Anschnitte der Krypten werden als\nLuschka-Kanäle bezeichnet<br>\n</div>\n</div>\n</div></div>"
+                                        "Was sind Rokitansky-Aschoff-Krypten &amp; Luschka-Kanäle",
+                                        "- Mukosa ist in hohe Falten aufgeworfen (Krypten dazwischen: Rokitansky-Aschoff-Krypten)<br><div>\n<div>\n<div>\n<div>- Anschnitte der Krypten werden als\nLuschka-Kanäle bezeichnet<br>\n</div>\n</div>\n</div></div>"
                                     ],
                                     "guid": "j)zQ*bL|L=",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -1390,7 +1390,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was sagst du wenn du die Gallenblase bekommst",
-                                        "Schichtung:<br>&nbsp; - Tunica serosa + tlea subersora<br>&nbsp; - Tunica muscularis (2-Schichtig)<br>&nbsp; - Tunica mucosa (aus Lamina epithelialis &amp; Lamina propria)<br>&nbsp; &nbsp; &nbsp; → eimschichtig hochprismatisches Epithel mitMikrovilli (resorbierendes epithel)<br><br>Genereller Eindruck:<br>&nbsp; - Schleimhautfalten &amp; Brücken<br>&nbsp; &nbsp;- Rokitansky-Aschoff-Krypten &amp; Luschka Gänge)"
+                                        "Schichtung:<br>&nbsp; - Tunica serosa + Tunica subserosa<br>&nbsp; - Tunica muscularis (2-Schichtig)<br>&nbsp; - Tunica mucosa (aus Lamina epithelialis &amp; Lamina propria)<br>&nbsp; &nbsp; &nbsp; → einschichtig hochprismatisches Epithel mit Mikrovilli (resorbierendes Epithel)<br><br>Genereller Eindruck:<br>&nbsp; - Schleimhautfalten &amp; Brücken<br>&nbsp; &nbsp;- Rokitansky-Aschoff-Krypten &amp; Luschka Kanälen)"
                                     ],
                                     "guid": "zJzQiY~TUb",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2141,7 +2141,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was ist ein Übergangsepithel/Urothel",
-                                        "- Mehrschichtiges Epithel mit variabler Epithelhöhe (je nach Füllzustand der ableitenden Harnwege)<br><br><b>Aufbau:</b><br>- Basalmembran<br>- Stratum basale<br>- Stratum intermedium<br>- Stratum superficiale<br>- Deckzellen mit Crusta (aus uroplakinen -&gt; chem. &amp; menan. Widerstandsfähigkeit)<br><br><b>Eigenschaften:</b> <br>- Anpassungsfähigkeit bei variabler Druck-/Volumenbelastung<br>- Permeabilitätsschranke für den Harm<br><br><br><img src=\"IMG_E513E316D7F4-1.jpeg\"><img src=\"IMG_53534D9CFFEB-1.jpeg\">"
+                                        "- Mehrschichtiges Epithel mit variabler Epithelhöhe (je nach Füllzustand der ableitenden Harnwege)<br><br><b>Aufbau:</b><br>- Basalmembran<br>- Stratum basale<br>- Stratum intermedium<br>- Stratum superficiale<br>- Deckzellen mit Crusta (aus uroplakinen -&gt; chem. &amp; mechan. Widerstandsfähigkeit)<br><br><b>Eigenschaften:</b> <br>- Anpassungsfähigkeit bei variabler Druck-/Volumenbelastung<br>- Permeabilitätsschranke für den Harm<br><br><br><img src=\"IMG_E513E316D7F4-1.jpeg\"><img src=\"IMG_53534D9CFFEB-1.jpeg\">"
                                     ],
                                     "guid": "EkVHQ7-5R1",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2151,7 +2151,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<img src=\"IMG_9E148709FB23-1.jpeg\">",
-                                        "<b>Harnblase (Verica Uterina) (5) - Masson Goldner</b><br><br><br><img src=\"IMG_2753B485C187-1.jpeg\"><br><br><br><img src=\"IMG_FE49BDCDD123-1.jpeg\">"
+                                        "<b>Harnblase (Vesica urinaria) (5) - Masson Goldner</b><br><br><br><img src=\"IMG_2753B485C187-1.jpeg\"><br><br><br><img src=\"IMG_FE49BDCDD123-1.jpeg\">"
                                     ],
                                     "guid": "py7`:%asJI",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2171,7 +2171,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Harnblase was kann man sagen",
-                                        "<b>Tunica mucosa (Urothel)</b><div>&nbsp; - relativ dick</div><div>&nbsp; - gut gegen Muscularis verschiebbar</div><div>&nbsp; - weißt deutliche Falten auf</div><div>&nbsp; - unter Urothel Kapillaren</div><div>&nbsp; - Crusta</div><div><br><div><b>Tunica muscularis</b></div><div>&nbsp; - 3 schichtig</div><div><br></div><div><b>Tunica serosa</b></div></div>"
+                                        "<b>Tunica mucosa (Urothel)</b><div>&nbsp; - relativ dick</div><div>&nbsp; - gut gegen Muscularis verschiebbar</div><div>&nbsp; - weißt deutliche Falten auf</div><div>&nbsp; - unter Urothel Kapillaren</div><div>&nbsp; - Crusta</div><div><br><div><b>Tunica muscularis</b></div><div><b>&nbsp;&nbsp;</b>- M. detrusor vesicae</div><div>&nbsp; - 3 schichtig</div><div><br></div><div><b>Tunica serosa</b></div></div><div><b>&nbsp;&nbsp;</b>- Teil des Bauchfells</div>"
                                     ],
                                     "guid": "p%oqHx}K_S",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2483,7 +2483,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Schichten der Hezmuskulatur<div><br></div><div><img src=\"paste-e12835e79761806a7d0d1080f9c6458ab7b1c904.png\"><br></div>",
-                                        "<img src=\"paste-3999c6f831718b30107100061e3b6781562e13af.jpg\"><div><br></div><div>Endokard: Herzinnenhaut</div><div>Myokardinfarkt: Herzmuskel (Arbeitsmuskulatur/Erregungsleitungsmuskukatur)</div><div>Epikard: denkt Herz nach Außen ab</div>"
+                                        "<img src=\"paste-3999c6f831718b30107100061e3b6781562e13af.jpg\"><div><br></div><div>Endokard: Herzinnenhaut</div><div>Myokardinfarkt: Herzmuskel (Arbeitsmuskulatur/Erregungsleitungsmuskukatur)</div><div>Epikard: deckt Herz nach Außen ab</div>"
                                     ],
                                     "guid": "LyL&R7j:L$",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -2493,7 +2493,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Myokard&nbsp;",
-                                        "= Herzmuskelschicht<div><br></div><div>- Herzmuskelzellen: Kardiomyozyten</div><div>- dichtes Kapillarnetz mit Erythrozyten (bei Eisebhämatoxilin sind die schwarz)</div><div>- netzartige Verzweigung</div><div>- ein oder zwei Zentralständige zigarrenförmige Zellkerne</div><div>- Zellkerne an Polen hell gefärbt, weil keine Myofibrille&nbsp;</div><div>- sichtbare Querstreifung (durch Miofibrillrn aus Aktin &amp; Myosin)</div><div>- Zellkerne neben den Muskelzellen sind von Fibrozyten, Kapillaren oder Endothelzellen</div><div><br></div><div>- Muskelzellinneres sieht gepunktete aus: Kohnheim Felderung (ist aber nur Artefakt, weil Myofibrillen beim Fixieren verkleben)</div>"
+                                        "= Herzmuskelschicht<div><br></div><div>- Herzmuskelzellen: Kardiomyozyten</div><div>- dichtes Kapillarnetz mit Erythrozyten (bei Eisenhämatoxilin sind die schwarz)</div><div>- netzartige Verzweigung</div><div>- ein oder zwei Zentralständige zigarrenförmige Zellkerne</div><div>- Zellkerne an Polen hell gefärbt, weil keine Myofibrille&nbsp;</div><div>- sichtbare Querstreifung (durch Miofibrillen aus Aktin &amp; Myosin)</div><div>- Zellkerne neben den Muskelzellen sind von Fibrozyten, Kapillaren oder Endothelzellen</div><div><br></div><div>- Muskelzellinneres sieht gepunktete aus: Kohnheim Felderung (ist aber nur Artefakt, weil Myofibrillen beim Fixieren verkleben)</div>"
                                     ],
                                     "guid": "e|3_vV86*=",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -2503,7 +2503,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was ist ein echtes/unechtes bzw funktionelles Synzytium",
-                                        "Mehrkernige Plasmamasse dir aus zusammenschmelzen der Zellen entsteht)<div><br></div><div><u>Echtes Synzytium:</u></div><div>- Skelettmuskulatur</div><div>Verschmelzen der Zellen unter Auflösung der Zellgrenzen</div><div><br></div><div><u>Funktionelles (Unechtes) Synzytium:</u> &nbsp; &nbsp;&nbsp;</div><div>- Herzmuskulatur</div><div>- elektrische und metabolische Kopplung über Nexus (Disci intercalaris)</div>"
+                                        "Mehrkernige Plasmamasse dir aus zusammenschmelzen der Zellen entsteht)<div><br></div><div><u>Echtes Synzytium:</u></div><div>- Skelettmuskulatur</div><div>- Verschmelzen der Zellen unter Auflösung der Zellgrenzen</div><div><br></div><div><u>Funktionelles (Unechtes) Synzytium:</u> &nbsp; &nbsp;&nbsp;</div><div>- Herzmuskulatur</div><div>- elektrische und metabolische Kopplung über Nexus (Gap Junction (Disci intercalaris))</div>"
                                     ],
                                     "guid": "CxG4q]EAbd",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -2513,7 +2513,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Können sich die Zellen der Herzmuskulatur regenerieren, warum?",
-                                        "- nein<div>- keine Satelitenzellen mit Stammzellcharakter</div><div>- ohne Stammzellen keine Regeneration möglic</div><div><br></div>"
+                                        "- jein<div>- keine Satellitenzellen mit Stammzellcharakter</div><div>- ohne Stammzellen keine Regeneration möglich</div><div><br></div><div>- Dennoch wurde durch&nbsp;<sup>14</sup>C-Methode nachgewiesen, das ein 25 - Jähriger ca. 1% der Herzmuskelzellen pro Jahr ersetzt.</div><div><br></div><div><a href=\"https://www.science.org/doi/abs/10.1126/science.1164680\">https://www.science.org/doi/abs/10.1126/science.1164680</a><br></div>"
                                     ],
                                     "guid": "c1v$u/-OuX",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -2522,8 +2522,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Wasnsind die Disci intercalares / Glanzstreifen",
-                                        "- Zellen der Herzmuskulatur sind sehr stark gekoppelt<div>- Disci intercalares sind Stellen an denen sehr viele dieser Kopplungen (Desmosomen, Gap junctions,…)mforkommen und lassen sich deswegen gut anfärben</div><div>Erscheinen als dunkle Linie im LM</div><div>- laufen nicht nur quer sondern auch longitudinal (Verzahnung)</div><div>- werden als Glanzstreifen bezeichnet&nbsp;</div><div><br></div><div><img src=\"paste-1e6e2de00bcbc7db746f5401981c1a3f5a0f8f1b.png\"><br></div>"
+                                        "Was sind die Disci intercalares / Glanzstreifen",
+                                        "- Zellen der Herzmuskulatur sind sehr stark gekoppelt<div>- Disci intercalares sind Stellen an denen sehr viele dieser Kopplungen (Desmosomen, Gap junctions,…) vorkommen und lassen sich deswegen gut anfärben</div><div>Erscheinen als dunkle Linie im LM</div><div>- laufen nicht nur quer sondern auch longitudinal (Verzahnung)</div><div>- werden als Glanzstreifen bezeichnet&nbsp;</div><div><br></div><div><img src=\"paste-1e6e2de00bcbc7db746f5401981c1a3f5a0f8f1b.png\"><br></div>"
                                     ],
                                     "guid": "L4=dxo.,dZ",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -4057,7 +4057,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Entwicklung Mamma",
-                                                "<div style=\"text-align: justify;\">-&nbsp; entsteht aus Milchleiste (Epithelstrang beidseitig von Axilla bis Leistenbeuge)</div><div style=\"text-align: justify;\">- Aus zwei verbleibenden Epithelknospen sprossen bis zur geburt Milchgänge in die Subkutid</div><div style=\"text-align: justify;\">- verzweigen sich während der Kindheit weiter (bis Terminalductus (es bilden sich kaum Lobuli)</div><div style=\"text-align: justify;\">- männliche brust bleibt so&nbsp;</div><div style=\"text-align: justify;\">- weibliche Brust: Zunahme des Stromas &amp; Proliferation des gangsystems mit pubertät</div>"
+                                                "<div style=\"text-align: justify;\">-&nbsp; entsteht aus Milchleiste (Epithelstrang beidseitig von Axilla bis Leistenbeuge)</div><div style=\"text-align: justify;\">- Aus zwei verbleibenden Epithelknospen sprossen bis zur geburt Milchgänge in die Subkutis</div><div style=\"text-align: justify;\">- verzweigen sich während der Kindheit weiter (bis Terminalductus (es bilden sich kaum Lobuli)</div><div style=\"text-align: justify;\">- männliche Brust bleibt so&nbsp;</div><div style=\"text-align: justify;\">- weibliche Brust: Zunahme des Stromas &amp; Proliferation des Gangsystems mit Pubertät</div>"
                                             ],
                                             "guid": "AF#YYG{1/s",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4086,8 +4086,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Steruerung von Synthese &amp; sekretion der milch (Laktion)",
-                                                "- gesteruert durch Prolaktin<br>- das wird während der Schwangerschaft von dem hohen Progesteron Spiegel behindert<br>- kommt erst nach Ausstoßung der plazenta in gang"
+                                                "Steuerung von Synthese &amp; sekretion der Milch (Laktation)",
+                                                "- gesteuert durch Prolaktin<br>- Während die Plazenta im Körper der Mutter ist wird Progesteron ausgeschüttet, welches das Prolaktin behindert<br>- Nach der Nachgeburt beginnt die Milchproduktion"
                                             ],
                                             "guid": "x2Id7+o#>!",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4097,7 +4097,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Welche Anteile der Milch werden wie sezerniert?",
-                                                "Fett: apokrine Sekretion<br>Lactose &amp; Proteine: Exozytose / merokrine Sekretion"
+                                                "Fett: apokrine Sekretion<br>Lactose &amp; Proteine: Exozytose / Merokrine Sekretion<br><img alt=\"Drüsenepithel-Karteikarten | Quizlet\" src=\"https://o.quizlet.com/Nd6-ffA2pjKksLk.txYamw.png\">"
                                             ],
                                             "guid": "x-{Ky9q8|(",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4117,7 +4117,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Abgrenzung Mamma / Prostata",
-                                                "<div style=\"text-align: justify;\">- Mamma hat supranukleoläre vakuolen (Prostata nicht)</div><div style=\"text-align: justify;\">- Mamma Drüsen haben einschichtig isoprismatisches Epithel (Prostatadrüsen unregelmäßig)</div><div style=\"text-align: justify;\">- Lamina propria bei prostata mehr und hat mehr Muskelzellen</div><div style=\"text-align: justify;\">- Prostata hat Prostatasteine</div>"
+                                                "<div style=\"text-align: justify;\">- Mamma hat supranukleoläre vakuolen (Prostata nicht)</div><div style=\"text-align: justify;\">- Mamma Drüsen haben einschichtig isoprismatisches Epithel (Prostatadrüsen unregelmäßig)</div><div style=\"text-align: justify;\">- Lamina propria bei prostata mehr und hat mehr Muskelzellen</div><div style=\"text-align: justify;\">- Prostata hat Prostatakristalle</div>"
                                             ],
                                             "guid": "uB6CZ_{_UD",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4203,7 +4203,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Eisprung",
+                                                "Ei-Sprung",
                                                 "- Ruptur des Graaf-Follikel (Eizelle + Corona radiata werden abgegeben)<br>- Wenn Follikel platzt: Blut gelangt&nbsp; in Antrum folliculi (= Corpus rubrum)<br>- Follikelepithelzellen + Zellen der Theca interna bilden Corpus luteum<br><br><b>Keine Befruchtung:</b><br>- Corpus luteum wird zu Corpus albicans"
                                             ],
                                             "guid": "kZ!<vq6>j6",
@@ -4277,7 +4277,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Wie entsteht die Plazenta",
-                                                "<div style=\"text-align: justify;\">- Trophoblast nimmt durch molekulare Adhäsionsmechanismen Kontakt mit uterusepithel auf (mit Embryonalem Pol)&amp; dringt dort ein (Implantation)</div><div style=\"text-align: justify;\">- Trophoblasten differenzieren sich &amp; verschmelzen zu Synzytiothrophoblasten</div><div style=\"text-align: justify;\">- deren Masse vergrößert sich permanent (mitotisch aktive Zytotrophoblasten fusionieren mit Synzytiotrophoblast)</div><div style=\"text-align: justify;\">- 10. Tag: Keim ist vollständig im Endometrium</div><div style=\"text-align: justify;\">- Stratum functionale auf Mutterseite wird&nbsp;<b>Dezidua </b>genannt</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">- 9. Tag: Im Synzytiothrophoblasten entstehen Lakunen (später intervillöser Raum)</div><div style=\"text-align: justify;\">- Lakunen füllen sich mit Mütterlichem Blut</div><div style=\"text-align: justify;\">- von fetalseite (Chorionplatte) aus bilden sich Chorionzotten&nbsp;</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ nur aus beiden Trophoblastenschichten (Primärzotte)</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ mit Gerüst aus Mesenchym (Sekundärzotte)</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ mit Blutgefäßen (Tertiärzotte)</div>"
+                                                "<div style=\"text-align: justify;\">- Trophoblast nimmt durch molekulare Adhäsionsmechanismen Kontakt mit Uterusepithel auf (mit Embryonalem Pol) &amp; dringt dort ein (Implantation)</div><div style=\"text-align: justify;\">- Trophoblasten differenzieren sich &amp; verschmelzen zu Synzytiothrophoblasten</div><div style=\"text-align: justify;\">- deren Masse vergrößert sich permanent (mitotisch aktive Zytotrophoblasten fusionieren mit Synzytiotrophoblast)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">- 9. Tag: Im Synzytiothrophoblasten entstehen Lakunen (später intervillöser Raum)</div><div style=\"text-align: justify;\">- Lakunen füllen sich mit Mütterlichem Blut</div><div style=\"text-align: justify;\">- von Fetalseite (Chorionplatte) aus bilden sich Chorionzotten&nbsp;</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ nur aus beiden Trophoblastenschichten (Primärzotte)</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ mit Gerüst aus Mesenchym (Sekundärzotte)</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ mit Blutgefäßen (Tertiärzotte)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">- 10. Tag: Keim ist vollständig im Endometrium</div><div style=\"text-align: justify;\">- Stratum functionale auf Mutterseite wird&nbsp;<b>Dezidua </b>genannt</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div>"
                                             ],
                                             "guid": "cQ>u,#SJ.O",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -4287,7 +4287,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Was ist die Plazenta",
-                                                "<div style=\"text-align: justify;\">- temporäres, diskusförmiges Oragn</div><div style=\"text-align: justify;\">- wird nach der Geburt als Nachgeburt von Mutter abgestoßen</div><div style=\"text-align: justify;\">- besteht aus einem fetalen (Chorionplatte) &amp; einem mütterlichen (Basalplatte) Teil &amp; Intervillöser Raum dazwischen</div><div style=\"text-align: justify;\">- Funktion: Stoffaustausch, Sauerstoffversorgung, Ausscheidungsorgan, Hormonsynthese, Schutz</div><div style=\"text-align: justify;\">- 500-700g</div>"
+                                                "<div style=\"text-align: justify;\">- temporäres, diskusförmiges Organ</div><div style=\"text-align: justify;\">- wird nach der Geburt als Nachgeburt von Mutter abgestoßen</div><div style=\"text-align: justify;\">- besteht aus einem fetalen (Chorionplatte) &amp; einem mütterlichen (Basalplatte) Teil &amp; Intervillöser Raum dazwischen</div><div style=\"text-align: justify;\">- Funktion: Stoffaustausch, Sauerstoffversorgung, Ausscheidungsorgan, Hormonsynthese, Schutz</div><div style=\"text-align: justify;\">- 500-700g</div>"
                                             ],
                                             "guid": "E;_(v-%pKo",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -4326,8 +4326,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Plazentraschranke",
-                                                "<div style=\"text-align: justify;\">- die Strukturen, die maternales &amp; embryonales Blut trennen (müssen beim Stoffaustausch durchquert werden)</div><div style=\"text-align: justify;\">- Gase &amp; hydrophobe Moleküle können einfach durch</div><div style=\"text-align: justify;\">- hydrophile Moleküle werden aufgehalten (werden nur selektiv durchgeschleust)</div><div style=\"text-align: justify;\">- Synzytiotrophoblasten besitzen viele ABC-Pumpem, die Arzneimittel &amp; Schadstoffe rauspumpen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Bestandteile:</b><br></div><div style=\"text-align: justify;\">1. Synzytiotrophoblast</div><div style=\"text-align: justify;\">(2. Zytotrophoblast (nur in 1. Hälfte))</div><div style=\"text-align: justify;\">3. Basallamina</div><div style=\"text-align: justify;\">4. Mesenchymales Bindegewebe</div><div style=\"text-align: justify;\">5. Basallamina der fetalen kapillare</div><div style=\"text-align: justify;\">6. Endothel</div><div style=\"text-align: justify;\"><br></div>"
+                                                "Plazentaschranke",
+                                                "<div style=\"text-align: justify;\">- die Strukturen, die maternales &amp; embryonales Blut trennen (müssen beim Stoffaustausch durchquert werden)</div><div style=\"text-align: justify;\">- Gase &amp; hydrophobe Moleküle können einfach durch</div><div style=\"text-align: justify;\">- hydrophile Moleküle werden aufgehalten (werden nur selektiv durchgeschleust)</div><div style=\"text-align: justify;\">- Synzytiotrophoblasten besitzen viele ABC-Transporter (ATP-bindende Kassette), die Arzneimittel &amp; Schadstoffe rauspumpen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Bestandteile:</b><br></div><div style=\"text-align: justify;\">1. Synzytiotrophoblaste</div><div style=\"text-align: justify;\">(2. Zytotrophoblast (nur in 1. Hälfte))</div><div style=\"text-align: justify;\">3. Basallamina</div><div style=\"text-align: justify;\">4. Mesenchymales Bindegewebe</div><div style=\"text-align: justify;\">5. Basallamina der fetalen Kapillaren</div><div style=\"text-align: justify;\">6. Endothel</div><div style=\"text-align: justify;\"><br></div>"
                                             ],
                                             "guid": "q83-&gIN_~",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4347,7 +4347,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Was sind fibrinoid Ansammlungen",
-                                                "- erscheinen stark eosinophil<br>- dienen dem verschluss einer kaputten Synzytiotrophoblastenschranke oder der Verankerung der Haftzotten auf der Mütterlichen Seite<br>"
+                                                "- erscheinen stark eosinophil<br>- dienen dem Verschluss einer kaputten Synzytiotrophoblastenschranke oder der Verankerung der Haftzotten auf der Mütterlichen Seite<br>"
                                             ],
                                             "guid": "m<]&@%S,#s",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4357,7 +4357,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Plazentazotten",
-                                                "<div style=\"text-align: justify;\">- reich kapillarisiert (mit Fetalem Blut)</div><div style=\"text-align: justify;\">- Gesamtoberfläche 12 m<sup>2</sup></div><div style=\"text-align: justify;\">- bestehen aus mesenchym in dem Hofbauer zellen (Makrophagen) vorkommen</div><div style=\"text-align: justify;\">- von außem von Synzytiotrophoblast und Zytotrophoblast (in 1. Schwangerschaftshälfte bedeckt)</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ Zytotrophoblast ist Vorrat für Synzytiotrophoblast</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→&nbsp; Zytotrophoblaste verbrauchen sich dann orgendwann</div>"
+                                                "<div style=\"text-align: justify;\">- reich kapillarisiert (mit fetalem Blut)</div><div style=\"text-align: justify;\">- Gesamtoberfläche 12 m<sup>2</sup></div><div style=\"text-align: justify;\">- bestehen aus Mesenchym in dem Hofbauer-Zellen (Makrophagen) vorkommen</div><div style=\"text-align: justify;\">- von außem von Synzytiotrophoblast und Zytotrophoblast (in 1. Schwangerschaftshälfte bedeckt)</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ Zytotrophoblast ist Vorrat für Synzytiotrophoblast</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→&nbsp; Zytotrophoblaste verbrauchen sich dann irgendwann</div>"
                                             ],
                                             "guid": "xFO+kIxZ}E",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4367,7 +4367,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Hormonproduktion durch Synzytiotrophoblasten",
-                                                "<b>HCG</b> <i>(humanes Chorion-Gonadotropin)</i> → Aufrechterhaltung Corpus luteum<br><br><b>Progesteron</b> → Aufrechterhaltung der Dezidua / Ruhigstellung des Myometriums / Differenzierung der Brustdrüsen<br><br><b>Estrogene</b> → Wachstum des Uterus &amp; der Brüste"
+                                                "<b>HCG</b> <i>(humanes Chorion-Gonadotropin)</i> → Aufrechterhaltung Corpus luteum<br><br><b>Progesteron</b> → Aufrechterhaltung der Dezidua / Ruhigstellung des Myometriums / Differenzierung der Brustdrüsen<br><br><b>Estrogene/Östrogen</b> → Wachstum des Uterus &amp; der Brüste"
                                             ],
                                             "guid": "pdhNG^$ams",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4418,7 +4418,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Wo liegt die Portio vaginalis?",
-                                                "<div><img src=\"IMG_92180F438C6E-1.jpeg\">im Cervixbereich überhalb des Ostium uteri externum und unterhalb der Portio supravaginalis&nbsp;</div>"
+                                                "<div>im Cervixbereich oberhalb des Ostium uteri externum und unterhalb der Portio supravaginalis&nbsp;<br></div><div><img src=\"IMG_92180F438C6E-1.jpeg\"></div>"
                                             ],
                                             "guid": "4iQX^MfUK",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4427,8 +4427,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Wie entstehen die Retentionszyten",
-                                                "Vaginalepithel verdeckt oft Ausführungsgänge der Gl. cervicales des uterus und die schwellen dann an"
+                                                "Wie entstehen die Retentionszysten",
+                                                "Vaginalepithel verdeckt oft Ausführungsgänge der Gl. cervicales des Uterus und die schwellen dann an"
                                             ],
                                             "guid": "ndpMt[7,60",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4438,7 +4438,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "<img src=\"IMG_DFD2E6B37D60-1.jpeg\">",
-                                                "<b>Portio vaginalis (H.E.)<br></b>- erkennt man am Epithelübergang<br>- in der Mitte Myometrium<br>- Retentionszyste<br><br><img src=\"IMG_9A8DD1E1E7B8-1.jpeg\"><img src=\"IMG_BDAF81C1D792-1.jpeg\"><br><img src=\"IMG_556DF7EEF000-1.jpeg\">"
+                                                "<b>Portio vaginalis (H.E.) Übergang von Cervix Epithel zu Vaginal Epithel<br></b>- erkennt man am Epithelübergang<br>- in der Mitte Myometrium<br>- Retentionszyste<br>∟Entsteht aus Drüse welche vom Epithel überwachsen wurde<br><br><img src=\"IMG_9A8DD1E1E7B8-1.jpeg\"><img src=\"IMG_BDAF81C1D792-1.jpeg\"><br><img src=\"IMG_556DF7EEF000-1.jpeg\">"
                                             ],
                                             "guid": "F%oZDomYIC",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4448,7 +4448,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Schichten der Vagina",
-                                                "<b>Tunica mucosa</b><br>- mehrschchtug unverhorntes Plattenepithe<br>- Lamina propria<br>- Drüsenfrei<br><br><b>Tunica muscularis<br><br>Tunica adventitia</b>"
+                                                "<div style=\"text-align: left;\"><b>Tunica mucosa</b></div><div style=\"text-align: left;\">- mehrschichtig unverhorntes Plattenepithel</div><div style=\"text-align: left;\">∟Basalschicht</div><div style=\"text-align: left;\">∟Parabasalschicht</div><div style=\"text-align: left;\">∟Intermediärschicht</div><div style=\"text-align: left;\">∟Superfizialschicht</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">- Lamina propria</div><div style=\"text-align: left;\">- Drüsenfrei</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left; font-weight: bold;\"><b>Tunica muscularis</b></div><div style=\"text-align: left;\"><b>∟</b>größtenteils glatte Muskulatur und Bindegewebe</div><div style=\"text-align: left;\">∟Bindegewebe ist scherengitterartig angeordnet und elastisch</div><div style=\"text-align: left;\">&nbsp; &nbsp; ∟ ermöglicht Dehnung der Vagina</div><div style=\"text-align: left;\"><b>Tunica adventitia</b></div><div style=\"text-align: left;\"><b>∟</b>Parakolpium bindet Vagina in Umgebung ein</div><div style=\"text-align: left;\">∟ geht kranial in parametrium über</div>"
                                             ],
                                             "guid": "IDbUqQQ]Zm",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4599,7 +4599,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Unterteilung des Stromas (Lamina propria)",
-                                                "<div style=\"text-align: justify;\"><b>Stratum funktionale:</b>&nbsp;</div><div style=\"text-align: justify;\">&nbsp; &nbsp;- unterliegt den zyklischen Veränderungen</div><div style=\"text-align: justify;\">&nbsp; &nbsp;- wird während der Menstruation abgestoßen</div><div style=\"text-align: justify;\">&nbsp; &nbsp;- regeneriert sich auch stratum basale</div><div style=\"text-align: justify;\"><b><br></b></div><b><div style=\"text-align: justify;\"><b>Stratum basale:</b></div></b><div style=\"text-align: justify;\">&nbsp; &nbsp;- grenzt direkt an das Myometrium</div><div style=\"text-align: justify;\">&nbsp; &nbsp;- enthält verzweigte Endabschnitte der Uterusdrüsen</div><div style=\"text-align: justify;\">&nbsp; &nbsp;- unterliegt kaum zyklischen Änderungen</div><div style=\"text-align: justify;\">&nbsp; &nbsp;- von hier geht Wiederaufbau der Schleimhaut aus</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">→ die beiden Schichten gehen ohne scharfe Grenze ineinander über<br></div><div style=\"text-align: justify; \"><br></div><div style=\"text-align: justify; \"><img src=\"IMG_B92B4B2E792D-1.jpeg\"><br></div>"
+                                                "<div style=\"text-align: justify;\"><b>Stratum functionale:</b>&nbsp;</div><div style=\"text-align: justify;\">&nbsp; &nbsp;- unterliegt den zyklischen Veränderungen</div><div style=\"text-align: justify;\">&nbsp; &nbsp;- wird während der Menstruation abgestoßen</div><div style=\"text-align: justify;\">&nbsp; &nbsp;- regeneriert sich aus stratum basale</div><div style=\"text-align: justify;\"><b><br></b></div><b><div style=\"text-align: justify;\"><b>Stratum basale:</b></div></b><div style=\"text-align: justify;\">&nbsp; &nbsp;- grenzt direkt an das Myometrium</div><div style=\"text-align: justify;\">&nbsp; &nbsp;- enthält verzweigte Endabschnitte der Uterusdrüsen</div><div style=\"text-align: justify;\">&nbsp; &nbsp;- unterliegt kaum zyklischen Änderungen</div><div style=\"text-align: justify;\">&nbsp; &nbsp;- von hier geht Wiederaufbau der Schleimhaut aus</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">→ die beiden Schichten gehen ohne scharfe Grenze in einander über<br></div><div style=\"text-align: justify; \"><br></div><div style=\"text-align: justify; \"><img src=\"IMG_B92B4B2E792D-1.jpeg\"><br></div>"
                                             ],
                                             "guid": "gHs;B242XJ",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4608,8 +4608,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "histologischer Wandbau des uterus",
-                                                "<div style=\"text-align: justify;\"><b>Endometrium </b><i>(Tunica mucosa)</i></div><div style=\"text-align: justify;\"><u>Lamina epithelialis:</u>&nbsp;einschichtig hochprismatisches Epithel</div><u><div style=\"text-align: justify;\"><u>Lamina propria:</u>&nbsp;</div></u><div style=\"text-align: justify;\">&nbsp; - durchsetzt von Drüsen&nbsp;</div><div style=\"text-align: justify;\">&nbsp; - Zellreich &amp; Faserarm</div><div style=\"text-align: justify;\">&nbsp; - Theoretisch Unterscheidung in Stratum basale &amp; functionale</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Myometrium</b> <i>(Tunica muscularis)</i></div></b><div style=\"text-align: justify;\">&nbsp; - longitudinal, zirkuläre &amp; schräge Züge glatter Muskulatur</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Perimetrium</b> <i>(Tunica serosa &amp; Tela subserosa)</i></div></b>"
+                                                "histologischer Wandbau des Uterus",
+                                                "<div style=\"text-align: justify;\"><b>Endometrium </b><i>(Tunica mucosa)</i></div><div style=\"text-align: justify;\"><u>Lamina epithelialis:</u>&nbsp;einschichtig hochprismatisches Epithel</div><u><div style=\"text-align: justify;\"><u>Lamina propria:</u>&nbsp;</div></u><div style=\"text-align: justify;\">&nbsp; - durchsetzt von Drüsen&nbsp;</div><div style=\"text-align: justify;\">&nbsp; - Zellreich &amp; Faserarm</div><div style=\"text-align: justify;\">&nbsp; - Theoretisch Unterscheidung in Stratum basale &amp; functionale</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Myometrium</b> <i>(Tunica muscularis)</i></div></b><div style=\"text-align: justify;\">&nbsp; - longitudinal, zirkuläre &amp; schräge Züge glatter Muskulatur</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Perimetrium <i>(Tunica serosa &amp; Tela subserosa)</i></b></div><div style=\"text-align: justify;\">- Viszerale Bauchfell des Uterus. Bildet Excavatio rectouterina und Excavatio vesicouterina<br></div>"
                                             ],
                                             "guid": "PON9ix/HRf",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4619,7 +4619,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Histologische Veränderungen des Uterus je nach Zyklus",
-                                                "<div style=\"text-align: justify;\"><b>Desquamatiosphase</b></div><div style=\"text-align: justify;\">- Funktionalis zerfällt</div><div style=\"text-align: justify;\">- Blutgefäße werden eröffnet</div><div style=\"text-align: justify;\">- Blutgerinnung ist herabgesetzt</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Prolioferationsphase</b></div><div style=\"text-align: justify;\">- Stratum basale bringt neues Stratum funktionale hervor</div><div style=\"text-align: justify;\">- frühe Proliferationsphase: gestreckte Drüsen später zunehmend geschlängelt</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Sekretionsphase</b></div><u><div style=\"text-align: justify;\"><u>Frühes Stadium</u></div></u><div style=\"text-align: justify;\">&nbsp; - drüsenzellen haben retronukleäre vakuolen (= cytoplasmatische Ansammlungen von Glykogen)&nbsp;</div><div style=\"text-align: justify;\">&nbsp; - Zellkerne sind nach apikal verschoben</div><div style=\"text-align: justify;\"><br></div><u><div style=\"text-align: justify;\"><u>Spätes Stadium</u></div></u><div style=\"text-align: justify;\">&nbsp; - Funktionalis hat optimale Einnistungshöhe erreicht (21. Tag)</div><div style=\"text-align: justify;\">&nbsp; - Drüsenepithel ist in kleine Fältchen verworfen</div><div style=\"text-align: justify;\">&nbsp; - Lumen der Drüsen enthält Sekret (Glykoproteine, Muzin, Lipide) → wird vom Stroma eingelagert &amp; soll später der Ernährung des Keims dienen</div><div style=\"text-align: justify;\">&nbsp; - Einwanderung immunzellen</div><div style=\"text-align: justify;\">&nbsp; - Stratum funktionale in Stratum compactum (kl. Drüsenlumina) &amp; Startum spongiosum (größere)</div><div style=\"text-align: justify;\">&nbsp; - Startum functionale wird dann von Blutvesorgung abgeschnitten</div>"
+                                                "<div style=\"text-align: justify;\"><b>Desquamatiosphase</b></div><div style=\"text-align: justify;\">- Stratum functionale zerfällt</div><div style=\"text-align: justify;\">- Blutgefäße werden eröffnet</div><div style=\"text-align: justify;\">- Blutgerinnung ist herabgesetzt</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Proliferationsphase</b></div><div style=\"text-align: justify;\">- Stratum basale bringt neues Stratum functionale hervor</div><div style=\"text-align: justify;\">- frühe Proliferationsphase: gestreckte Drüsen später zunehmend geschlängelt</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Sekretionsphase</b></div><u><div style=\"text-align: justify;\"><u>Frühes Stadium</u></div></u><div style=\"text-align: justify;\">&nbsp; - Drüsenzellen haben retronukleäre vakuolen (= cytoplasmatische Ansammlungen von Glykogen)&nbsp;</div><div style=\"text-align: justify;\">&nbsp; - Zellkerne sind nach apikal verschoben</div><div style=\"text-align: justify;\"><br></div><u><div style=\"text-align: justify;\"><u>Spätes Stadium</u></div></u><div style=\"text-align: justify;\">&nbsp; - Functionalis hat optimale Einnistungshöhe erreicht (21. Tag)</div><div style=\"text-align: justify;\">&nbsp; - Drüsenepithel ist in kleine Fältchen verworfen</div><div style=\"text-align: justify;\">&nbsp; - Lumen der Drüsen enthält Sekret (Glykoproteine, Muzin, Lipide) → wird vom Stroma eingelagert &amp; soll später der Ernährung des Keims dienen</div><div style=\"text-align: justify;\">&nbsp; - Einwanderung Immunzellen</div><div style=\"text-align: justify;\">&nbsp; - Stratum functionale in Stratum compactum (kl. Drüsenlumina) &amp; Stratum spongiosum (größere)</div><div style=\"text-align: justify;\">&nbsp; - Stratum functionale wird dann von Blutvesorgung abgeschnitten</div>"
                                             ],
                                             "guid": "F]YmpSB.?!",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4649,7 +4649,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "<img src=\"IMG_659253CF054C-1.jpeg\">",
-                                                "<b>Uterus Querschnitt - H.E. (Proliferationsphase)&nbsp;<br></b><br><img src=\"IMG_197C44C287DB-1.jpeg\"><img src=\"IMG_4908A870ECED-1.jpeg\"><br>* hier sind auch noch Spiralarterien<br><img src=\"IMG_A96DCCE8DDF6-1.jpeg\">"
+                                                "<b>Uterus Querschnitt - H.E. (Proliferationsphase)&nbsp;<br></b><br><img src=\"IMG_197C44C287DB-1.jpeg\"><img src=\"IMG_4908A870ECED-1.jpeg\"><br>NICHT Gl. Urethrales sonder Gl uterina<br><br>* hier sind auch noch Spiralarterien<br><img src=\"IMG_A96DCCE8DDF6-1.jpeg\">"
                                             ],
                                             "guid": "lQ6^ngGKXr",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -5251,7 +5251,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Befestigung des Colon transversum an der hinteren Bauchwand",
-                                                "- mit Mesocolon transversum<br>- Mesocolon ist an Radix mesocolica<br><br>Radix mesocolica ist genau Trennlinie für Oberen &amp; Unteren Bauchraum"
+                                                "- mit Mesocolon transversum<br>- Mesocolon ist an Radix mesocolica<br><br>Radix mesocolica ist genau Trennlinie für Oberen &amp; Unteren Bauchraum und verläuft auf der Pankreas"
                                             ],
                                             "guid": "br:L0Zm(Q]",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -5291,7 +5291,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "was ist das Ostium ileale?",
-                                                "- Übergang von terminalem Ileum zum Caecum<br>- Ileumende stülpt hier die Ringmuskelschicht des Dickdarms nach vorne in das Dickdarminnere (= Valva ileocaecales) und erreicht so eine \"Verschlussklappe\"<br>- Verhindet Rückfluss des Dickdarmninhaltes<br>- Ringmuskelschicht von Ileum und Caecum wirkt als Sphinkter<br><br>&nbsp;<img src=\"IMG_029936D12426-1.jpeg\"><br>"
+                                                "- Übergang von terminalem Ileum zum Caecum<br>- Ileumende stülpt hier die Ringmuskelschicht des Dickdarms nach vorne in das Dickdarminnere (= Valva ileocaecales) und erreicht so eine \"Verschlussklappe\"<br>- Verhindert Rückfluss des Dickdarmninhaltes<br>- Ringmuskelschicht von Ileum und Caecum wirkt als Sphinkter<br><br>&nbsp;<img src=\"IMG_029936D12426-1.jpeg\"><br>"
                                             ],
                                             "guid": "tsei`G_/Q3",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -5697,12 +5697,12 @@
                                                 "<img src=\"Bildschirmfoto 2023-04-27 um 12.18.04.png\" />",
                                                 "<img src=\"967930b8249d4fffacb27278742f4427-ao-19-Q.svg\" />",
                                                 "",
-                                                "- fettgeweboge Duplikatur des Peritoneums<br>- an der großern Kurvatur des Magens befestigt",
+                                                "- fettgewebige Duplikatur des Peritoneums<br>- an der großern Kurvatur des Magens befestigt",
                                                 "",
                                                 "",
                                                 "",
                                                 "<img src=\"967930b8249d4fffacb27278742f4427-ao-19-A.svg\">",
-                                                "<img src=\"967930b8249d4fffacb27278742f4427-ao-O.svg\" />"
+                                                "<img src=\"967930b8249d4fffacb27278742f4427-ao-O.svg\">"
                                             ],
                                             "guid": "g_pWv9wWLE",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -6438,7 +6438,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Papilla duodeni minor",
-                                                "- nicht immer vorhanden (aber bei ca. 60%)<div>- Mündung des Ductus pancreaticus accessorius (kann Alternativweg sein, falls im major nen Stein hängt)</div><div>- liegt weiter kranial als Papilla duodeni major</div><div><br></div><div><img src=\"paste-b1c39293fe766311426b537ee5850c7c27e55495.png\"><br></div>"
+                                                "- nicht immer vorhanden (aber bei ca. 60%)<div>- Mündung des Ductus pancreaticus accessorius (kann Alternativweg sein, falls im major ein Stein hängt)</div><div>- liegt weiter kranial als Papilla duodeni major</div><div><br></div><div><img src=\"paste-b1c39293fe766311426b537ee5850c7c27e55495.png\"><br></div>"
                                             ],
                                             "guid": "->f]K=.Gq",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -6608,7 +6608,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Entstehung Duodenum (zsmhang mit Lunge, Leber &amp; Bauchspeicheldrüse)",
-                                                "<div><p>1. Starkes Längenwachstum der Duodenalanlage:&nbsp;eine C-förmige Schlinge entsteht</p></div><div>2. Nach der Magendrehung zeigt die Wölbung der Schlinge nach rechts&nbsp;<br></div><div>&nbsp; &nbsp; &nbsp;- Oberer Schenkel wird zu Pars superior</div><div>&nbsp; &nbsp; &nbsp;- Der konvexe Schenkel wird zu Pars descendens</div><div>&nbsp; &nbsp; &nbsp;- unterer Schenkel: Pars inferior</div><div><br></div><div>3.&nbsp;Zu Beginn des 2. Embryonalmonats proliferieren die Epithelzellen so stark, dass das Duodenum zeitweise obliteriert ist</div><div>&nbsp; &nbsp; &nbsp;-&nbsp;Gegen Ende des 2. Monats ist das Lumen wieder vollständig rekanalisiert</div>\n\n<div><br></div><div><u>Zusammenhang mit Lunge, Leber &amp; Pankreas</u></div><div><u><br></u></div>-&nbsp;Duodenum entsteht aus dem Endabschnitt des Vorderdarms &amp; Anfangsabschnitt des Mitteldarms<div>- an Grenze zwischen Vorder- &amp; Mitteldarm entsteht Leberknospe (hier auch Wechsel Gefäßversorgung von Truncus coeliacus auf A.&nbsp; Mesenterica sup.)</div><div>- bei Duodenumanlage entsteht Hepatopankreatischer Ring, aus dem Leber &amp; Bauchspeicheldrüse hervorgehen<br></div><div>- restlicher Vorderdarm bleibt als Duodenum zurück</div><div>- Epithel proliferierst hier zwischendurch so stark, dass das Lumen geschlossen ist - wird dann aber später wieder frei</div><div><br></div>"
+                                                "<div><p>1. Starkes Längenwachstum der Duodenalanlage:&nbsp;eine C-förmige Schlinge entsteht</p></div><div>2. Nach der Magendrehung zeigt die Wölbung der Schlinge nach rechts&nbsp;<br></div><div>&nbsp; &nbsp; &nbsp;- Oberer Schenkel wird zu Pars superior</div><div>&nbsp; &nbsp; &nbsp;- Der konvexe Schenkel wird zu Pars descendens</div><div>&nbsp; &nbsp; &nbsp;- unterer Schenkel: Pars inferior</div><div><br></div><div>3.&nbsp;Zu Beginn des 2. Embryonalmonats proliferieren die Epithelzellen so stark, dass das Duodenum zeitweise obliteriert ist</div><div>&nbsp; &nbsp; &nbsp;-&nbsp;Gegen Ende des 2. Monats ist das Lumen wieder vollständig rekanalisiert</div>\n\n<div><br></div><div><u>Zusammenhang mit Lunge, Leber &amp; Pankreas</u></div><div><u><br></u></div>-&nbsp;Duodenum entsteht aus dem Endabschnitt des Vorderdarms &amp; Anfangsabschnitt des Mitteldarms<div>- an Grenze zwischen Vorder- &amp; Mitteldarm entsteht Leberknospe (hier auch Wechsel Gefäßversorgung von Truncus coeliacus auf A.&nbsp; Mesenterica sup.)</div><div>- bei Duodenumanlage entsteht Hepatopankreatischer Ring, aus dem Leber &amp; Bauchspeicheldrüse hervorgehen<br></div><div>- restlicher Vorderdarm bleibt als Duodenum zurück</div><div>- Epithel proliferiert hier zwischendurch so stark, dass das Lumen geschlossen ist - wird dann aber später wieder frei</div><div><br></div>"
                                             ],
                                             "guid": "bQ^FAR;E(r",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -7386,7 +7386,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Gefäßversorgung der Gallenblase",
-                                                "<div><b>Arteriell</b></div>- über A. Cystica&nbsp;<div>- kommt aus R. Dexter der A. Hepatica propria</div><div>- die kommt aus A. Hepatica communis (aus Truncus coeliacus)</div><div><br></div><div><b>Venöser Abfluss</b></div><div>- Vv. Cysticae und dann in V. Portae</div>"
+                                                "<div><b>Arteriell</b></div>- über A. Cystica&nbsp;<div>- kommt aus R. Dexter der A. Hepatica propria</div><div>- die kommt aus A. Hepatica communis (aus Truncus coeliacus)</div><div><br></div><div><b>Venöser Abfluss</b></div><div>- Vv. Cysticae und dann in V. Portae</div><div><br></div><div><img alt=\"Chirurgie 4-Karteikarten | Quizlet\" src=\"https://o.quizlet.com/uT3E2v8YOewWxpA5lz.GKA.jpg\"><br></div>"
                                             ],
                                             "guid": "z[M}&oDZ$|",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -8873,7 +8873,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Topographie Harnblase Frau",
-                                                "- zwischen Harnblase &amp; Rektum: Gebärmutter<br>- Excavatio vesicouterina (zwischen Harnblase &amp; Uterus)<br>- Excavatio rectouterina (Douglasraum zwischen Uterus &amp; rectum)<br><br><img src=\"IMG_3E1808141173-1.jpeg\">"
+                                                "- zwischen Harnblase &amp; Rektum: Gebärmutter<br>- Excavatio vesicouterina (zwischen Harnblase &amp; Uterus)<br>- Excavatio rectouterina (Douglas-Raum zwischen Uterus &amp; rectum)<br><br><img src=\"IMG_3E1808141173-1.jpeg\">"
                                             ],
                                             "guid": "d19&2J/6*m",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -8923,7 +8923,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Innervation der Blase",
-                                                "Plexus vesicalis<br>- Sympathikus: Nn. splanchnici lumbales → Kontraktion der Blasenwandmuskulatur (Retention Urin)<br>- Parasympathikus: Segmenten S2-S4 → Kontraktion des M. detrusor vesicae / Relaxion des M. sphincter urethra internus (Miktion)<div><br></div><div><img src=\"paste-87a88aa758c12f64f87677ad987d7267590c4fe4.png\"><br></div>"
+                                                "Plexus vesicalis<br>- Sympathikus: Nn. splanchnici lumbales → Kontraktion der Blasenwandmuskulatur (Retention Urin)<br>- Parasympathikus: Nn. splanchnici pelvici: Segmenten S2-S4 → Kontraktion des M. detrusor vesicae / Relaxion des M. sphincter urethra internus (Miktion)<div><br></div><div><img src=\"paste-87a88aa758c12f64f87677ad987d7267590c4fe4.png\"><br></div>"
                                             ],
                                             "guid": "qo`GwsPSyt",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -11460,7 +11460,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Wie nennt man die Ebene die oberes und unteres Mediastinum voneinander trennt?",
+                                                "Wie nennt man die Ebene die oberes und unteres Mediastinum von einander trennt?",
                                                 "Transthorakale Ebene<div>(Gedachte Ebene zwischen Angulus sterni &amp; Th4)</div>"
                                             ],
                                             "guid": "f8)()wk0e0",
