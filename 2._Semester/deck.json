@@ -371,6 +371,23 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-1-A.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-1-Q.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-2-A.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-2-Q.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-3-A.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-3-Q.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-4-A.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-4-Q.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-5-A.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-5-Q.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-6-A.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-6-Q.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-7-A.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-7-Q.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-8-A.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-8-Q.svg",
+                        "29208fb4bcdf4086939bf94b8971ff19-ao-O.svg",
                         "_amboss-deck-0.4.2.js",
                         "_amboss-feat-ankiphil2.png",
                         "_amboss-hammer.svg",
@@ -595,7 +612,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wie verändert sich der Trophoblast im Laufe der Nidation (Einnistung)",
-                                "- differenzieren sich zu Synzytiotrophoblasten und Zytotrophoblasten<div><br></div><div><b>Synzytiotrophoblasten</b>: dringen mit fingerfertigen Fortsätzen in Uterusschleimhaut ein</div><div><br></div><div><img src=\"paste-1f193672368b56e9a59381f427fb26219b66c7fe.png\"><br></div>"
+                                "- differenzieren sich zu Zytotrophoblasten und Synzytiotrophoblasten<div><br></div><div><b>Synzytiotrophoblasten</b>: dringen mit fingerfertigen Fortsätzen in Uterusschleimhaut ein</div><div><br></div><div><img src=\"paste-1f193672368b56e9a59381f427fb26219b66c7fe.png\"><br></div>"
                             ],
                             "guid": "cEPXbw#I<c",
                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -779,6 +796,158 @@
                             ],
                             "guid": "DTKF~]%1Ze",
                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "29208fb4bcdf4086939bf94b8971ff19-ao-1",
+                                "",
+                                "<img src=\"paste-9480e34565779f249cad908d65588fb09ae36cfb.png\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-1-A.svg\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-O.svg\" />"
+                            ],
+                            "guid": "jJ{8,qAIz+",
+                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "29208fb4bcdf4086939bf94b8971ff19-ao-2",
+                                "",
+                                "<img src=\"paste-9480e34565779f249cad908d65588fb09ae36cfb.png\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-2-A.svg\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-O.svg\" />"
+                            ],
+                            "guid": "sPP/R}=6pW",
+                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "29208fb4bcdf4086939bf94b8971ff19-ao-3",
+                                "",
+                                "<img src=\"paste-9480e34565779f249cad908d65588fb09ae36cfb.png\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-3-A.svg\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-O.svg\" />"
+                            ],
+                            "guid": "oGJvRrbYah",
+                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "29208fb4bcdf4086939bf94b8971ff19-ao-4",
+                                "",
+                                "<img src=\"paste-9480e34565779f249cad908d65588fb09ae36cfb.png\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-4-A.svg\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-O.svg\" />"
+                            ],
+                            "guid": "A^7X.uaxU2",
+                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "29208fb4bcdf4086939bf94b8971ff19-ao-5",
+                                "",
+                                "<img src=\"paste-9480e34565779f249cad908d65588fb09ae36cfb.png\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-5-A.svg\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-O.svg\" />"
+                            ],
+                            "guid": "K[0R5DaR1/",
+                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "29208fb4bcdf4086939bf94b8971ff19-ao-6",
+                                "",
+                                "<img src=\"paste-9480e34565779f249cad908d65588fb09ae36cfb.png\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-6-A.svg\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-O.svg\" />"
+                            ],
+                            "guid": "r3RP-d1E/~",
+                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "29208fb4bcdf4086939bf94b8971ff19-ao-7",
+                                "",
+                                "<img src=\"paste-9480e34565779f249cad908d65588fb09ae36cfb.png\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-7-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-7-A.svg\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-O.svg\" />"
+                            ],
+                            "guid": "m-p|vV]o(#",
+                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "29208fb4bcdf4086939bf94b8971ff19-ao-8",
+                                "",
+                                "<img src=\"paste-9480e34565779f249cad908d65588fb09ae36cfb.png\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-8-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-8-A.svg\" />",
+                                "<img src=\"29208fb4bcdf4086939bf94b8971ff19-ao-O.svg\" />"
+                            ],
+                            "guid": "j[z&^k|3JZ",
+                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
                             "tags": []
                         }
                     ],
@@ -1031,7 +1200,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>Schichten der Trachea</div><div><br></div><img src=\"paste-bbdc602587069b2bd5d970ad289905b4647015eb.jpg\">",
+                                        "<div>Schichten der Trachea</div><div><br></div><img src=\"paste-bbdc602587069b2bd5d970ad289905b4647015eb.jpg\" width=\"1000\">",
                                         "<img src=\"paste-f1e989ad706d457cfc6cb61166476cfd4fdf8dbd.png\">"
                                     ],
                                     "guid": "NXa4K*4.di",
@@ -1052,7 +1221,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Merkmale Bronchioli",
-                                        "- ein Bronchiolus versorgt ein Lungenläppchen (Lobulus pulmonis)<div>- respiratorisches Flimmerepithel nur einschichtig</div><div>- KEIN Knorpel, KEINE Drüsen, KEINE (oder nur sehr wenige) &nbsp;Becherzellen (wichtigste Abgrenzung zu Bronchien)</div><div>- enthalten Keulenzellen (sind aber eig kaum von Epithelzellen zu unterscheiden)</div><div>- kr-feigere Ringmuskelschicht&nbsp;</div>"
+                                        "- ein Bronchiolus versorgt ein Lungenläppchen (Lobulus pulmonis)<div>- respiratorisches Flimmerepithel nur einschichtig</div><div>- KEIN Knorpel, KEINE Drüsen, KEINE (oder nur sehr wenige) &nbsp;Becherzellen (wichtigste Abgrenzung zu Bronchien)</div><div>- enthalten Keulenzellen (sind aber eig kaum von Epithelzellen zu unterscheiden)</div><div>- kräftige Ringmuskelschicht&nbsp;</div>"
                                     ],
                                     "guid": "y^HAW2%?6|",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -1182,7 +1351,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Pneumozyt Typ II",
-                                        "- produzieren <strong>Surfactant</strong>&nbsp;(Phospolipide&nbsp;und spezielle Proteine)&nbsp;das die&nbsp;Oberflächenspannung&nbsp;herabsetzt<div>- Ersatz von Typ-1-Pneumozyten&nbsp;bei Gewebsverletzung</div><div>- Bedecken&nbsp;<strong>5%</strong>&nbsp;der Alveolaroberfläche (liegen verstreut zwischen den Pneumozyten Typ 1 (meistens in Nieschen um Gasaustausch nicht zu behindern))</div>"
+                                        "- produzieren <strong>Surfactant</strong>&nbsp;(Phospolipide&nbsp;und spezielle Proteine)&nbsp;das die&nbsp;Oberflächenspannung&nbsp;herabsetzt<div>- Ersatz von Typ-1-Pneumozyten&nbsp;bei Gewebsverletzung</div><div>- Bedecken&nbsp;<strong>5%</strong>&nbsp;der Alveolaroberfläche (liegen verstreut zwischen den Pneumozyten Typ 1 (meistens in Nieschen (um Gasaustausch nicht zu behindern))</div>"
                                     ],
                                     "guid": "Lu9m9%m1wp",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -1201,7 +1370,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"paste-f7af945d76780cdb5bdec892615c1515d78da699.png\"><div><br></div><div><img src=\"paste-29d647eaa4eaffc3eec5289e404cc9f54e530ad0.png\"><br></div>",
+                                        "<img src=\"paste-f7af945d76780cdb5bdec892615c1515d78da699.png\" width=\"1000\"><div><br></div><div><img src=\"paste-29d647eaa4eaffc3eec5289e404cc9f54e530ad0.png\" width=\"1000\"><br></div>",
                                         "<b>Lunge Elastikafärbung</b><div><br></div><div>- Färbt elastische Fasern dunkel</div><div>- die Fallen zunächst in den Wänden der Blutgefäße &amp; Bronchien auf</div><div>- soll zeigen, dass in Alveolenwänden viele Elastische Fasern sind (garantiert Elastizität der Lunge)</div>"
                                     ],
                                     "guid": "p1!oP3xb:2",
@@ -1641,7 +1810,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<img src=\"IMG_95AE5F0A1ACA-1.jpeg\">",
+                                                "<img src=\"IMG_95AE5F0A1ACA-1.jpeg\" width=\"1000\">",
                                                 "<b>Ileum (57 - H.E.)<br></b><i>Längsschnitt, weil man die Kerckringschen Falten sieht</i><br><br><img src=\"IMG_B470844CDD91-1.jpeg\"><img src=\"IMG_AB7F067AB40E-1.jpeg\"><img src=\"IMG_68C9DA28894F-1.jpeg\"><img src=\"IMG_0D5AF6F3A6C7-1.jpeg\">"
                                             ],
                                             "guid": "OXCj*$+u)K",
@@ -1682,13 +1851,13 @@
                                         "paste-084c89ebc1aa3a4950b46197cc5382685a7f9b76.png",
                                         "paste-1920a3ad892dd7fce90294a466989c4229d75d15.png",
                                         "paste-2c422c8245657e9ba6d6766ba0a1e7f6bdafea8b.jpg",
+                                        "paste-492635fb488d25bde088e2b926b444a73242271f.jpg",
                                         "paste-4c304aafc4a381688dbc348deacbf9ee522a18aa.jpg",
                                         "paste-52d22c1c163d16994b0f500f517b4ceb8079a68f.jpg",
                                         "paste-549115adb0644c054408f22f6d5155576862d439.png",
                                         "paste-5c2f03d26d708b722f5f2a7e9ee4594431a5ddb3.jpg",
                                         "paste-5e746e68ee45a67e4abe97e56b5b8d3d1b72f776.jpg",
                                         "paste-71b7f52b2b18038c79d57f6848715ebecd808072.jpg",
-                                        "paste-7842df31f6ead9fda97a5987d945f2ac4b62f337.png",
                                         "paste-814678a2745ece4e3cdac18022cfa634f43c0d79.png",
                                         "paste-8933b45d11509f23e4e68feed2b35db94b748326.jpg",
                                         "paste-97421aa21d0a4bdc054eef0ba75814969b3c9ac5.jpg",
@@ -1715,7 +1884,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Veränderung der Histologie im GIT",
-                                                "<img src=\"paste-7842df31f6ead9fda97a5987d945f2ac4b62f337.png\">"
+                                                "<img src=\"paste-492635fb488d25bde088e2b926b444a73242271f.jpg\">"
                                             ],
                                             "guid": "f&*gTP#NI{",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2745,10 +2914,12 @@
                                         "_meditricks_mtsp_scripts_v1000_ankiphil.min.js",
                                         "_meditricks_mtsp_scripts_v1000_iframe.map",
                                         "_meditricks_mtsp_styles_v1000_ankiphil.min.css",
+                                        "frog.jpg",
                                         "paste-04d5cecbe2c982145fd7e89085d2a76da646bfb5.png",
                                         "paste-09204b96a1f6d8a6494d61a0d340e9f3a27ca54a.jpg",
                                         "paste-29024a0189ddd9afdec822c314a2e33f8ea41e02.png",
                                         "paste-345b9668a95c213202901d286a30cd4d390f5f47.png",
+                                        "paste-43e2233fcceff21bfc35949be9555d75ec891545.jpg",
                                         "paste-4f5b44b4f86359d75dc686b068997dccfdf929f6.png",
                                         "paste-5936a0246dd89fb2a106d4a9d0b43b7fac19c270.png",
                                         "paste-5d4cb770adadf76a78785e2cdad8fd142df9d10d.png",
@@ -2767,7 +2938,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Sertolizellen&nbsp;",
-                                                "<div style=\"text-align: justify;\"><i>Epithelzellen der Hodenkanälchen</i></div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Aussehen:</b></div></b><div style=\"text-align: justify;\">- großer, ovaler, euchromatische Zellkern mit gut sichtbarem zentralständigen Nucleolus</div><div style=\"text-align: justify;\">- langgestreckter „Körper“ (sind in Basallamina verankert und reichen bis ins Lumen)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Vorkommen</b></div><div style=\"text-align: justify;\">- liegen entweder alleine in einem Tubuli seminiferi contori vor = keine Spermatogenese</div><div style=\"text-align: justify;\">- wenn aktive Spermatogenese: zwischen den Keimzellen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Aufgabe:</b></div><div style=\"text-align: justify;\">- Stützgerüst für Keimzellen (sind mit Hemidesmosomen in Basalmembran verankert)</div><div style=\"text-align: justify;\">- Ernährung der Keimzellen</div><div style=\"text-align: justify;\">- Kontrolle der Vermehrung, Reifung &amp; Differenzierung</div><div style=\"text-align: justify;\">- Produktion von ABP (Androgen-bindendes Protein), Inhibin, AMH (Anti-Müller-Hormon)</div><div style=\"text-align: justify;\">- Sertolizellen stehen untereinander über Tight junctions in Verbindung = Blut-Hoden-Schranke</div><div style=\"text-align: justify;\">- haben Exportpumpen um Schadstoffe hinter Blut-Hoden Schranke zu pumpen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify; \"><img src=\"paste-29024a0189ddd9afdec822c314a2e33f8ea41e02.png\"><br></div>"
+                                                "<div style=\"text-align: justify;\"><i>Epithelzellen der Hodenkanälchen</i></div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Aussehen:</b></div></b><div style=\"text-align: justify;\">- großer, ovaler, euchromatische Zellkern mit gut sichtbarem zentralständigen Nucleolus</div><div style=\"text-align: justify;\">- langgestreckter „Körper“ (sind in Basallamina verankert und reichen bis ins Lumen)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Vorkommen</b></div><div style=\"text-align: justify;\">- liegen entweder alleine in einem Tubuli seminiferi contori vor = keine Spermatogenese</div><div style=\"text-align: justify;\">- wenn aktive Spermatogenese: zwischen den Keimzellen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Aufgabe:</b></div><div style=\"text-align: justify;\">- Stützgerüst für Keimzellen (sind mit Hemidesmosomen in Basalmembran verankert)</div><div style=\"text-align: justify;\">- Ernährung der Keimzellen</div><div style=\"text-align: justify;\">- Kontrolle der Vermehrung, Reifung &amp; Differenzierung</div><div style=\"text-align: justify;\">- Produktion von ABP (Androgen-bindendes Protein), Inhibin, AMH (Anti-Müller-Hormon)</div><div style=\"text-align: justify;\">- Sertolizellen stehen untereinander über Tight junctions in Verbindung = Blut-Hoden-Schranke</div><div style=\"text-align: justify;\">- haben Exportpumpen um Schadstoffe hinter Blut-Hoden Schranke zu pumpen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"paste-43e2233fcceff21bfc35949be9555d75ec891545.jpg\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify; \"><img src=\"paste-29024a0189ddd9afdec822c314a2e33f8ea41e02.png\"><br></div>"
                                             ],
                                             "guid": "d<~IdF/hH%",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2867,7 +3038,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Tubuli seminiferi contorti",
-                                                "- Hauptbestandteil des Hodenparenchyms<div>- hier werden Spermien produziert</div><div>- Keimepithel besteht aus Keimzellen &amp; Sertolizellen (somatische Zellen)</div><div>- Spermatogonien liegen basal und wandern mit zunehmender Reifung luminal</div><div>- Umgeben von einer basalmembran &amp; Lamina propria</div><div>- hier sind auch Muskelzellen</div><div><br></div><div>&nbsp;</div><div><img src=\"paste-04d5cecbe2c982145fd7e89085d2a76da646bfb5.png\"><br></div>"
+                                                "- entfaltet 50-60 cm lang<br>- Hauptbestandteil des Hodenparenchyms<div>- hier werden Spermien produziert</div><div>- Keimepithel besteht aus Keimzellen &amp; Sertolizellen (somatische Zellen)</div><div>- Spermatogonien liegen basal und wandern mit zunehmender Reifung luminal</div><div>- Umgeben von einer basalmembran &amp; Lamina propria</div><div>- hier sind auch Muskelzellen</div><div><br></div><div>&nbsp;</div><div><img src=\"paste-04d5cecbe2c982145fd7e89085d2a76da646bfb5.png\"><br></div>"
                                             ],
                                             "guid": "CZ}Jhi{I+S",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2887,7 +3058,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Aus was bestehen Stereozilien",
-                                                "Aktinfilamenten"
+                                                "Aktinfilamenten;<br>Sind keine echten Zillien → besitzen keine Motilität → Name Stereovilli ist \"korrekter\"<br>∟Stereovilli sind lange Mikrovilli<br><img alt=\"High-Fidelity Stereocilia | NIH Intramural Research Program\" src=\"frog.jpg\"><br>Abbildung zeigt das Innenohr eines Frosches"
                                             ],
                                             "guid": "bc;`?4Y,8N",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2896,7 +3067,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "eingentliche &amp; zusammengeknäulte gänge Tubuli seminiferi contorti",
+                                                "eingentliche &amp; zusammengeknäulte länge Tubuli seminiferi contorti",
                                                 "eigentlich: 50-60 cm<br>Zusammengeknäult: 3 cm"
                                             ],
                                             "guid": "nCs+byK_RT",
@@ -3010,12 +3181,7 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "Bildschirmfoto 2023-05-02 um 22.19.02.png",
-                                        "IMG_061FDE225A20-1.jpeg",
                                         "IMG_6D528CD5175D-1.jpeg",
-                                        "IMG_B6DD8375D207-1.jpeg",
-                                        "IMG_D463454C5A8D-1.jpeg",
-                                        "IMG_F7E8D58BCE85-1.jpeg",
                                         "_amboss-deck-0.4.2.js",
                                         "_amboss-feat-ankiphil2.png",
                                         "_amboss-hammer.svg",
@@ -3043,16 +3209,6 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<img src=\"IMG_061FDE225A20-1.jpeg\">",
-                                                "<i>72 - <b>Niere</b> (H.E.)<br></i><br><img src=\"IMG_B6DD8375D207-1.jpeg\"><img src=\"IMG_F7E8D58BCE85-1.jpeg\"><img src=\"IMG_D463454C5A8D-1.jpeg\"><img src=\"Bildschirmfoto 2023-05-02 um 22.19.02.png\">"
-                                            ],
-                                            "guid": "rBzF6:Gb9f",
-                                            "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
                                                 "Aus was besteht die Prostata Histologisch?",
                                                 "30-50 verzweigte tubuloalveoläre Einzeldrüsen, die mit 15-30 Ausführungsgängen v.a. in das distale Segment des Urethra münden<br>- Prostatadrüsen sind ins Stroma eingebettet (Stroma myelasticum prostatae)"
                                             ],
@@ -3074,7 +3230,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Epithel der Prostatadrüsen",
-                                                "zweireihiges Epithel<br>ausgefranzter Zellpol (apokrine Sekretion)<br><br><b>Basalzellen (an Basalmembran)</b><br>- stammzellen zur Epithelregeneration<br>- keinen Kontakt zum Lumen<br><br><b>Hauptzellen (Kontakt zum Lumen)</b><br>- apikale Sekretgranula (Prostasomen?)<br><br><b>Endokrine Zellen</b><br>- sezernieren Serotonin &amp; Chromogranin A"
+                                                "schwankendes Epithel; manchmal einschichtig aber auch mehrreihig; von iso- bis hochprismatisch<br>ausgefranzter Zellpol (apokrine Sekretion)<br><br><b>Basalzellen (an Basalmembran)</b><br>- stammzellen zur Epithelregeneration<br>- keinen Kontakt zum Lumen<br><br><b>Hauptzellen (Kontakt zum Lumen)</b><br>- apikale Sekretgranula (Prostasomen?)<br><br><b>Endokrine Zellen</b><br>- sezernieren Serotonin &amp; Chromogranin A"
                                             ],
                                             "guid": "mys5z4O7Oq",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3325,11 +3481,16 @@
                             "extendRev": 0,
                             "media_files": [
                                 "Bildschirmfoto 2023-05-02 um 21.52.22.png",
+                                "Bildschirmfoto 2023-05-02 um 22.19.02.png",
+                                "IMG_061FDE225A20-1.jpeg",
                                 "IMG_31FE99B0DC17-1.jpeg",
                                 "IMG_48CDD38F366F-1.jpeg",
                                 "IMG_557D91DB49B4-1.jpeg",
                                 "IMG_A02F98CB9A97-1.jpeg",
+                                "IMG_B6DD8375D207-1.jpeg",
+                                "IMG_D463454C5A8D-1.jpeg",
                                 "IMG_EFB007176E69-1.jpeg",
+                                "IMG_F7E8D58BCE85-1.jpeg",
                                 "_amboss-deck-0.4.2.js",
                                 "_amboss-feat-ankiphil2.png",
                                 "_amboss-hammer.svg",
@@ -3420,6 +3581,16 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
+                                        "<img src=\"IMG_061FDE225A20-1.jpeg\" width=\"1000\">",
+                                        "<i>72 - <b>Niere</b> (H.E.)<br></i><br><img src=\"IMG_B6DD8375D207-1.jpeg\" width=\"1000\"><img src=\"IMG_F7E8D58BCE85-1.jpeg\" width=\"1000\"><img src=\"IMG_D463454C5A8D-1.jpeg\" width=\"1000\"><img src=\"Bildschirmfoto 2023-05-02 um 22.19.02.png\" width=\"1000\">"
+                                    ],
+                                    "guid": "rBzF6:Gb9f",
+                                    "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
                                         "Was ist die Aufgabe der Nierenkanälchen",
                                         "- Umwandlung des Primärharns in den Endharn, also - u.a. Rückresorption von physiologisch filtrierten, „wertvollen“ Stoffen (z. B. Elektrolyte, Glucose, Aminosäuren, Peptide, Proteine) und von 99 % des Wassers&nbsp;<div>- Sekretion einiger Abfallstoffe</div>"
                                     ],
@@ -3471,7 +3642,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Henle-Schleife",
-                                        "<div>- besteht aus den geraden Teilen des Nephrons, die miteinander eine Haarnadeln-Reihe Schleife bilden</div><div>- hier findet Wasserrückresorbtion statt (Harnkonzentration)</div><div><br></div><div>Absteigender Schenkel: Proximaler Tubulus &amp; Anfang Intermediärtubulus<br></div><div><br></div><div>Aufsteigender Schenkel: Intermediär- und Distaler-Tubulus</div><div><br></div><div><br></div><div><br></div><div><img src=\"paste-cef3d49329e40cc5209cc713c7d429cd6bd4f930.png\"><br></div>"
+                                        "<div>- besteht aus den geraden Teilen des Nephrons, die miteinander eine Haarnadeln-Reihe Schleife bilden</div><div>- hier findet Wasserrückresorbtion (99%) statt (Harnkonzentration)</div><div><br></div><div>Absteigender Schenkel: Proximaler Tubulus &amp; Anfang Intermediärtubulus<br></div><div>∟Wasserdurchlässig</div><div><br></div><div>Aufsteigender Schenkel: Intermediär- und Distaler-Tubulus</div><div>∟Wasserundurchlässig</div><div><br></div><div><br></div><div><img src=\"paste-cef3d49329e40cc5209cc713c7d429cd6bd4f930.png\"><br></div>"
                                     ],
                                     "guid": "Mv!Z`$cD}n",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4198,7 +4369,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Oogenese",
-                                                "<div style=\"text-align: justify;\"><b>Vor geburt</b><br></div><div style=\"text-align: justify;\">- Urkeimzellen wandern in Gonadenanlagen ein</div><div style=\"text-align: justify;\">- Differnzierung zur Oogonie</div><div style=\"text-align: justify;\">- Oogonien treten in Mitose ein und vermehren sich</div><div style=\"text-align: justify;\">- Oogonien verdoppeln DNA (als Vorbereitung auf Meiose)</div><div style=\"text-align: justify;\">- werden ab dann Oocyte 1 genannt</div><div style=\"text-align: justify;\">- Eintritt in die Meiose I</div><div style=\"text-align: justify;\">- Unterbrechung in Prophase 1</div><div style=\"text-align: justify;\">- hier hat jede Oocyte eine eigene Hülle (= Primordialfollikel)</div><div style=\"text-align: justify;\">- bis zur Geburt ist die Bildung von Primordialfollikeln abgeschlossen&nbsp;</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Mit Eintritt in Pubertät</b></div></b><div style=\"text-align: justify;\">- Oocyte I vollendet Meiose I</div><div style=\"text-align: justify;\">- es entsteht die Oocyte II</div><div style=\"text-align: justify;\">- Oocyte II beginnt während der Ovulation mit Meiose II</div><div style=\"text-align: justify;\">- Stop in Metaphase (wird nur bei Befruchtung beendet)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_0F88CD21AC1E-1.jpeg\"><br></div>"
+                                                "<div style=\"text-align: justify;\"><b>Vor geburt</b><br></div><div style=\"text-align: justify;\">- Urkeimzellen wandern in Gonadenanlagen ein</div><div style=\"text-align: justify;\">- Differnzierung zur Oogonie</div><div style=\"text-align: justify;\">- Oogonieen treten in Mitose ein und vermehren sich</div><div style=\"text-align: justify;\">- Oogonieen verdoppeln DNA (als Vorbereitung auf Meiose)</div><div style=\"text-align: justify;\">- werden ab dann Oocyte 1 genannt</div><div style=\"text-align: justify;\">- Eintritt in die Meiose I</div><div style=\"text-align: justify;\">- Unterbrechung in Prophase 1</div><div style=\"text-align: justify;\">- hier hat jede Oocyte eine eigene Hülle (= Primordialfollikel)</div><div style=\"text-align: justify;\">- ab hier ist die Bildung von Primordialfollikeln abgeschlossen&nbsp;</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Mit Eintritt in Pubertät</b></div></b><div style=\"text-align: justify;\">- Oocyte I vollendet Meiose I</div><div style=\"text-align: justify;\">- es entsteht die Oocyte II</div><div style=\"text-align: justify;\">- Oocyte II beginnt während der Ovulation mit Meiose II</div><div style=\"text-align: justify;\">- Stop in Metaphase (wird nur bei Befruchtung beendet)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_0F88CD21AC1E-1.jpeg\"><br></div>"
                                             ],
                                             "guid": "/K]CwxrSn",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4247,8 +4418,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<img src=\"IMG_5F43203A4B41-1.jpeg\">",
-                                                "<b>Ovar (80) - H.E.</b><br>! Achtung das ist kein menschliches Ovar da würde es nur ein Corpus luteum geben<br><br><img src=\"IMG_2410E1757A15-1.jpeg\"><br><br><img src=\"IMG_DCAFAB6B96C8-1.jpeg\"><br><img src=\"IMG_3D2419AEB29D-1.jpeg\"><br><br><br><img src=\"IMG_B02EE72039AE-1.jpeg\"><br><br><img src=\"IMG_4094E69805F0-1.jpeg\">"
+                                                "<img src=\"IMG_5F43203A4B41-1.jpeg\" width=\"1000\">",
+                                                "<b>Ovar (80) - H.E.</b><br>! Achtung das ist kein menschliches Ovar da würde es nur ein Corpus luteum geben<br><br><img src=\"IMG_2410E1757A15-1.jpeg\" width=\"1000\"><br><br><img src=\"IMG_DCAFAB6B96C8-1.jpeg\" width=\"1000\"><br><img src=\"IMG_3D2419AEB29D-1.jpeg\" width=\"1000\"><br><br><br><img src=\"IMG_B02EE72039AE-1.jpeg\" width=\"1000\"><br><br><img src=\"IMG_4094E69805F0-1.jpeg\" width=\"1000\">"
                                             ],
                                             "guid": "gIPr32ee]%",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4643,7 +4814,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Histologische Veränderungen des Uterus je nach Zyklus",
-                                                "<div style=\"text-align: justify;\"><b>Desquamatiosphase</b></div><div style=\"text-align: justify;\">- Stratum functionale zerfällt</div><div style=\"text-align: justify;\">- Blutgefäße werden eröffnet</div><div style=\"text-align: justify;\">- Blutgerinnung ist herabgesetzt</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Proliferationsphase</b></div><div style=\"text-align: justify;\">- Stratum basale bringt neues Stratum functionale hervor</div><div style=\"text-align: justify;\">- frühe Proliferationsphase: gestreckte Drüsen später zunehmend geschlängelt</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Sekretionsphase</b></div><u><div style=\"text-align: justify;\"><u>Frühes Stadium</u></div></u><div style=\"text-align: justify;\">&nbsp; - Drüsenzellen haben retronukleäre vakuolen (= cytoplasmatische Ansammlungen von Glykogen)&nbsp;</div><div style=\"text-align: justify;\">&nbsp; - Zellkerne sind nach apikal verschoben</div><div style=\"text-align: justify;\"><br></div><u><div style=\"text-align: justify;\"><u>Spätes Stadium</u></div></u><div style=\"text-align: justify;\">&nbsp; - Functionalis hat optimale Einnistungshöhe erreicht (21. Tag)</div><div style=\"text-align: justify;\">&nbsp; - Drüsenepithel ist in kleine Fältchen verworfen</div><div style=\"text-align: justify;\">&nbsp; - Lumen der Drüsen enthält Sekret (Glykoproteine, Muzin, Lipide) → wird vom Stroma eingelagert &amp; soll später der Ernährung des Keims dienen</div><div style=\"text-align: justify;\">&nbsp; - Einwanderung Immunzellen</div><div style=\"text-align: justify;\">&nbsp; - Stratum functionale in Stratum compactum (kl. Drüsenlumina) &amp; Stratum spongiosum (größere)</div><div style=\"text-align: justify;\">&nbsp; - Stratum functionale wird dann von Blutvesorgung abgeschnitten</div>"
+                                                "<div style=\"text-align: justify;\"><b>Desquamatiosphase</b></div><div style=\"text-align: justify;\">- Stratum functionale zerfällt</div><div style=\"text-align: justify;\">- Blutgefäße werden eröffnet</div><div style=\"text-align: justify;\">- Blutgerinnung ist herabgesetzt</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Proliferationsphase</b></div><div style=\"text-align: justify;\">- Stratum basale bringt neues Stratum functionale hervor</div><div style=\"text-align: justify;\">- frühe Proliferationsphase: gestreckte Drüsen später zunehmend geschlängelt</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Sekretionsphase</b></div><u><div style=\"text-align: justify;\"><u>Frühes Stadium</u></div></u><div style=\"text-align: justify;\">&nbsp; - Drüsenzellen haben retronukleäre Vakuolen (= cytoplasmatische Ansammlungen von Glykogen)&nbsp;</div><div style=\"text-align: justify;\">&nbsp; - Zellkerne sind nach apikal verschoben</div><div style=\"text-align: justify;\"><br></div><u><div style=\"text-align: justify;\"><u>Spätes Stadium</u></div></u><div style=\"text-align: justify;\">&nbsp; - Functionalis hat optimale Einnistungshöhe erreicht (21. Tag)</div><div style=\"text-align: justify;\">&nbsp; - Drüsenepithel ist in kleine Fältchen verworfen</div><div style=\"text-align: justify;\">&nbsp; - Lumen der Drüsen enthält Sekret (Glykoproteine, Muzin, Lipide) → wird vom Stroma eingelagert &amp; soll später der Ernährung des Keims dienen</div><div style=\"text-align: justify;\">&nbsp; - Einwanderung Immunzellen</div><div style=\"text-align: justify;\">&nbsp; - Stratum functionale in Stratum compactum (kl. Drüsenlumina) &amp; Stratum spongiosum (größere)</div><div style=\"text-align: justify;\">&nbsp; - Stratum functionale wird dann von Blutvesorgung abgeschnitten</div>"
                                             ],
                                             "guid": "F]YmpSB.?!",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -7701,16 +7872,16 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "c315fa31dc9a4bc9b9acaca9b60f7860-ao-2",
-                                                "Abschnitte des Magens",
-                                                "<img src=\"Bildschirmfoto 2023-04-24 um 19.48.37.png\">",
-                                                "<img src=\"c315fa31dc9a4bc9b9acaca9b60f7860-ao-2-Q.svg\">",
+                                                "<u><b>Abschnitte des Magens</b></u>",
+                                                "<br><br><br><img src=\"Bildschirmfoto 2023-04-24 um 19.48.37.png\">",
+                                                "<br><br><br><img src=\"c315fa31dc9a4bc9b9acaca9b60f7860-ao-2-Q.svg\">",
                                                 "",
                                                 "",
                                                 "",
                                                 "",
                                                 "",
-                                                "<img src=\"c315fa31dc9a4bc9b9acaca9b60f7860-ao-2-A.svg\" />",
-                                                "<img src=\"c315fa31dc9a4bc9b9acaca9b60f7860-ao-O.svg\" />"
+                                                "Im Bereich der Kardia geht das Ösophagus Epithel in das Magen Epithel über. Zugleich wird die Muskulatur 3 - Schichtig<br>Durch Kontraktion kann ebenfalls ein Reflux verhindert werden.<br><br><img src=\"c315fa31dc9a4bc9b9acaca9b60f7860-ao-2-A.svg\">",
+                                                "<img src=\"c315fa31dc9a4bc9b9acaca9b60f7860-ao-O.svg\">"
                                             ],
                                             "guid": "xiA&F^D/4G",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -8412,6 +8583,7 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
+                                        "1280px-Winslow_EN.svg.png",
                                         "IMG_42EECFF8F207-1.jpeg",
                                         "IMG_7265F6791FA3-1.jpeg",
                                         "_amboss-deck-0.4.2.js",
@@ -8470,7 +8642,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Begrenzug des Foramen omentale",
-                                                "ventral: Lig. hepatoduodenale<br>dorsal: primäres Peritoneum &amp; V. cava inferior<br>kranial: Proc. caudatus hepatis<br>kaudal: Pars superior duodeni"
+                                                "ventral: Lig. hepatoduodenale<br>dorsal: primäres Peritoneum &amp; V. cava inferior<br>kranial: Proc. caudatus hepatis<br>kaudal: Pars superior duodeni<br><br><img alt=\"undefined\" src=\"1280px-Winslow_EN.svg.png\" width=\"550\">"
                                             ],
                                             "guid": "mRrIo33Pwr",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -8771,7 +8943,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Wie funktionert die Miktion?",
-                                                "<div style=\"text-align: justify;\">- Blase wird gefüllt</div><div style=\"text-align: justify;\">- M. detrusor vesicae entspannt</div><div style=\"text-align: justify;\">- Dehnungsrezeptoren melden zunehmenden Füllstand an sakrales Miktionszentrum (S2-S4)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Miktionsreflex</b></div><div style=\"text-align: justify;\">- Vas efferens zur Blase bewirken:</div><div style=\"text-align: justify;\">\n&nbsp; &nbsp; &nbsp;- M. sphincter externus transversostriatus (willkürlicher Teil) ist willkürlich angespannt<br></div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Kontraktion des M. detrusor vesicae → Erhöhung des Blaseninnendrucks</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Kontraktion der Muskulatur des Trigonum vesicae → Verschluss der Harnleiteröffnungen</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Kontraktion M. dilatator urethrae und M. pubovesicalis → Erweiterung der Harnröhrenöffnung</div><div style=\"text-align: justify;\">&nbsp; &nbsp;- Erschlaffung des M. sphincter vesicae internus &amp; externus glaber (glattmuskulärer Teil)</div><div style=\"text-align: justify; \">- M. sphinkter urethrae wird mechanisch geöffnet<br></div><div style=\"text-align: justify; \">- M. sphinkter urethrae externus wird willkürlich geöffnet</div>"
+                                                "<div style=\"text-align: justify;\">- Blase wird gefüllt</div><div style=\"text-align: justify;\">- M. detrusor vesicae entspannt</div><div style=\"text-align: justify;\">- Dehnungsrezeptoren melden zunehmenden Füllstand an sakrales Miktionszentrum (S2-S4)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Miktionsreflex</b></div><div style=\"text-align: justify;\">- <span style=\"color: rgb(255, 99, 102);\">Vas efferens</span> zur Blase bewirken:</div><div style=\"text-align: justify;\">\n&nbsp; &nbsp; &nbsp;- <span style=\"color: rgb(85, 255, 127);\">M. sphincter externus transversostriatus</span> (willkürlicher Teil) ist willkürlich angespannt<br></div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Kontraktion des <span style=\"color: rgb(0, 170, 255);\">M. detrusor vesicae </span>→ Erhöhung des Blaseninnendrucks</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Kontraktion der Muskulatur des Trigonum vesicae → Verschluss der Harnleiteröffnungen</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Kontraktion <span style=\"color: rgb(0, 170, 255);\">M. dilatator urethrae</span> und <span style=\"color: rgb(0, 170, 255);\">M. pubovesicalis</span> → Erweiterung der Harnröhrenöffnung</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Erschlaffung des <span style=\"color: rgb(0, 170, 255);\">M. sphincter vesicae internus et externus glaber</span> (glattmuskulärer Teil)</div><div style=\"text-align: justify; \">&nbsp; &nbsp; &nbsp;- <span style=\"color: rgb(0, 170, 255);\">M. sphinkter urethrae</span> wird mechanisch geweitet<br></div><div style=\"text-align: justify; \">- <span style=\"color: rgb(85, 255, 127);\">M. sphinkter urethrae externus</span> wird willkürlich geöffnet</div>"
                                             ],
                                             "guid": "wEnMfaB?[T",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -9197,7 +9369,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Innervation Harnröhre",
-                                                "<div style=\"text-align: justify;\"><b>Plexus hypogastricus inferior&nbsp;</b></div><div style=\"text-align: justify;\">- bei Frau komplett</div><div style=\"text-align: justify;\">- bim Mann oberer Abschnitt bis Pars prostaticae</div><div style=\"text-align: justify;\">- Sympathisch: Nn. splanchnici sacrales</div><div style=\"text-align: justify;\">- Nn. splanchnici pelvici</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Sensibel:</b>&nbsp;N. pudendus</div>"
+                                                "<div style=\"text-align: justify;\"><b>Plexus hypogastricus inferior&nbsp;</b></div><div style=\"text-align: justify;\">- bei Frau komplett</div><div style=\"text-align: justify;\">- beim Mann oberer Abschnitt bis Pars prostaticae</div><div style=\"text-align: justify;\">- Sympathisch: Nn. splanchnici sacrales</div><div style=\"text-align: justify;\">- Nn. splanchnici pelvici</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Sensibel:</b>&nbsp;N. pudendus</div>"
                                             ],
                                             "guid": "w]</#v6$j1",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -9548,7 +9720,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Projektion der Niere",
-                                                "- oberer Pol: Th12<br>- unterer Pol: L3<br>- Nierenhilum: L2<div>Head-Zone: Th10 - L1</div>"
+                                                "- oberer Pol: Th12<br>- unterer Pol: L3-L4<br>- Nierenhilum: L2<div>Head-Zone: Th10 - L1</div>"
                                             ],
                                             "guid": "QXNR,x@O5c",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -10004,7 +10176,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Entwicklung der Nebenhoden",
-                                                "<div>- Am\nHoden\ngewinnt das rete Testis Anschluss an die Urnierenkanälchen und so an den Wolff-gang</div>\n<div>- Aus\ndem\nWolff-Gang entsteht auch der Nebenhoden</div>"
+                                                "<div>- Am\nHoden\ngewinnt das rete Testis Anschluss an die Urnierenkanälchen und so an den Wolff-gang</div>\n<div>- Aus\ndem\nWolff-Gang entsteht auch der Nebenhoden</div><div><br></div><div>\"Der Nebenhodengang (<span style=\"color: rgb(0, 170, 255);\">Ductus epididymidis</span>) entsteht entwicklungsgeschichtlich zusammen mit dem&nbsp;<span style=\"color: rgb(0, 170, 255);\">Ductus deferens</span>, der&nbsp;<span style=\"color: rgb(0, 170, 255);\">Glandula vesicularis</span>&nbsp;und dem&nbsp;<span style=\"color: rgb(0, 170, 255);\">Ductus ejaculatorius</span>&nbsp;aus dem&nbsp;Wolff-Gang&nbsp;(<span style=\"color: rgb(255, 99, 102);\">Ductus mesonephricus</span>). Als Überbleibsel des embryonalen Wolff-Gangs kann sich am Kopf des Nebenhodens ein kleines, meist gestieltes Anhängsel, die&nbsp;<span style=\"color: rgb(85, 255, 127);\">Appendix epididymidis</span>&nbsp;befinden.\" - Doccheck</div>"
                                             ],
                                             "guid": "s1+eZ)^]*&",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -10234,7 +10406,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Zonen der Prostata",
-                                                "(Peri)urethrale Zone: liegt unmittelbar um\ndie Harnröhre<br>Transitionalzone (Übergangszone):&nbsp;östrogenabhängig, Ort der Bildung der\nbenignen Hyperplasie<div><div><div>\n<div>Periphere Zone (Außenzone): Bereich\nunter der Prostatakapsel,\nandrogenabhängig → Bildung von\nProstata-Karzinom&nbsp;</div><div><br></div><div><img src=\"IMG_225E0156FCAA-1.jpeg\"><br></div>\n</div>\n</div>\n</div>"
+                                                "Periurethrale Mantelzone → ca 5 bis 10 % der Gesamtmasse → Umgibt Harnblase<br>Transitionszone → ca 5 % → zwei paraurethral Lappen → Östrogenabhängig<br>Innenzone (zentrale Zone) → ca 20 bis 25 % der Masse → Trichterförmig von kranial bis Colliculus seminalis; Schliest Ductuus ejaculatorii ein<br><div><div><div>\n<div>Außenzone (periphere Zone) → ca 70 % der Masse → Umschliest den Rest des Organs</div><div>Anteriore Zone → kein Drüsengewebe</div><div><br></div><div><img src=\"IMG_225E0156FCAA-1.jpeg\"><br></div>\n</div>\n</div>\n</div>"
                                             ],
                                             "guid": "h~7J=*v[:h",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -10344,7 +10516,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Hüllschichten des Penis",
-                                                "<div style=\"text-align: justify;\">- Schwellkörper sind von tunica albuginea umgeben</div><div style=\"text-align: justify;\">- darüber: fascia penis (hier verlaufen A. &amp; V. dorsalis penis)</div><div style=\"text-align: justify;\">- Tela subcutanea penis mit Gl. praeputinales</div><div style=\"text-align: justify;\">- Penishaut mit Vorhaut (Präputium)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_5C6FB68FDFAB-1.jpeg\"></div>"
+                                                "<div style=\"text-align: justify;\">- Schwellkörper sind von Tunica albuginea umgeben</div><div style=\"text-align: justify;\">- darüber: Fascia penis (hier verlaufen A. &amp; V. dorsalis penis)</div><div style=\"text-align: justify;\">- Tela subcutanea penis mit Gl. praeputinales</div><div style=\"text-align: justify;\">- Penishaut mit Vorhaut (Präputium)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_5C6FB68FDFAB-1.jpeg\"></div>"
                                             ],
                                             "guid": "KGIuUF!R@g",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -10384,7 +10556,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Innervation Penis",
-                                                "<div style=\"text-align: justify;\"><b>Sensibel</b></div><div style=\"text-align: justify;\">- <u>N. dorsalis penis</u> (Endast des N. pudendus)</div><div style=\"text-align: justify;\">- zieht im Canalis pudendalis (Alcock-Kanal) ins perineale Gewebe</div><div style=\"text-align: justify;\">- läuft auf Penisrücken lateral der A. dorsalis Penis</div><div style=\"text-align: justify;\">- versorgt Haut &amp; Glans penis</div><div style=\"text-align: justify;\">- Radix Penis: <u>N. ilioinguinalis</u>&nbsp;&amp; <u>N. scrotalis posterior</u></div><div><div style=\"text-align: justify;\">- <u>N. Genitofemoralis mit R. Genitalis</u>: durch Leistenkanal Richtung Penis</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Symapthisch</b></div></b><div style=\"text-align: justify;\">- aus Reflexzentrum im lumbalen Rückenmarksegment</div><div style=\"text-align: justify;\">- ziehen zum Plexus hypogastricus inferior</div><div style=\"text-align: justify;\">- verantwortlich für Ejakulation</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>parasympathisch</b></div></b><div style=\"text-align: justify;\">- Sakrale Rückenmarksegmente (S2-S4 = Reflexzentrum für Errektion)</div><div style=\"text-align: justify;\">- ziehen über Nn. Splanchnici pelvici und dann als Nn. erigentes zum Plexus hypogastricus inferior</div><div style=\"text-align: justify;\">- verantwortlich für Errektion</div></div>"
+                                                "<div style=\"text-align: justify;\"><b>Sensibel</b></div><div style=\"text-align: justify;\">- <u>N. dorsalis penis</u> (Endast des N. pudendus)</div><div style=\"text-align: justify;\">- zieht im Canalis pudendalis (Alcock-Kanal) ins perineale Gewebe</div><div style=\"text-align: justify;\">- läuft auf Penisrücken lateral der A. dorsalis Penis</div><div style=\"text-align: justify;\">- versorgt Haut &amp; Glans penis</div><div style=\"text-align: justify;\">- Radix Penis: <u>N. ilioinguinalis</u>&nbsp;&amp; <u>N. scrotalis posterior (</u>auch N. pudendus)</div><div><div style=\"text-align: justify;\">- <u>N. Genitofemoralis mit R. Genitalis</u>: durch Leistenkanal Richtung Penis</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Symapthisch</b></div></b><div style=\"text-align: justify;\">- aus Reflexzentrum im lumbalen Rückenmarksegment</div><div style=\"text-align: justify;\">- ziehen zum Plexus hypogastricus inferior</div><div style=\"text-align: justify;\">- verantwortlich für Ejakulation</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>parasympathisch</b></div></b><div style=\"text-align: justify;\">- Sakrale Rückenmarksegmente (S2-S4 = Reflexzentrum für Errektion)</div><div style=\"text-align: justify;\">- ziehen über Nn. Splanchnici pelvici und dann als Nn. erigentes zum Plexus hypogastricus inferior</div><div style=\"text-align: justify;\">- verantwortlich für Errektion</div></div>"
                                             ],
                                             "guid": "nkR7pEB.|f",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -11614,7 +11786,8 @@
                                         "paste-569ac03d722add44b70cd47a477b3fdb09ff8bf3.png",
                                         "paste-9b7a4e8827b462593117b8d68bff3073b93cfe48.jpg",
                                         "paste-df1b7303ac44a62bd4fdc5792c8f6bf44abfcc19.png",
-                                        "paste-f68cdaead881dddb962a93ca5bbb9de0d9095626.png"
+                                        "paste-f68cdaead881dddb962a93ca5bbb9de0d9095626.png",
+                                        "xUFNZ0yEkVA5Cxo3AvsM2g_sWAJUHy4eD8p4wJrdSmkkw_A._coronaria_sinistra_01.png"
                                     ],
                                     "name": "Herz",
                                     "newLimit": null,
@@ -13953,10 +14126,10 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Wie wird die <i>elektrische Erregung</i> im <b>Herzen</b> von Zelle zu Zelle <i>geleitet</i>?<br><div><br></div><div>{{c1::Gap Junctions (leiten unterschiedlich schnell)}}<br></div>",
+                                                "Wie wird die <i>elektrische Erregung</i> im <b>Herzen</b> von Zelle zu Zelle <i>geleitet</i>?<br><div><br></div><div>{{c1::Gap Junctions/Nexus (leiten unterschiedlich schnell)}}<br></div>",
                                                 "Bilden elektrische Synapsen<div><u>Glanzstreifen</u> (Disci intercalares): <i>Kommunikationskontakte</i> | <i>Adhäsionskontakte</i> → Übertragung mechanischer Zugkräfte (Fascia adherens, Desmosomen)</div><div><i>Diade</i>: Das Duo aus einem sarkoplasmatischen Retikulum (SR) und einem T-Tubulus wird im Herzmuskel als \"Diade\" bezeichnet<br></div>",
                                                 "",
-                                                "<div class='mt-anki-iframe-src' data-src='1574609490799'></div>",
+                                                "<div class=\"mt-anki-iframe-src\" data-src=\"1574609490799\"></div>",
                                                 "https://next.amboss.com/de/article/CL0q-g",
                                                 "",
                                                 "",
@@ -14535,12 +14708,12 @@
                                                 "<img src=\"IMG_07D74C19C540-1.jpeg\" />",
                                                 "<img src=\"a32dc3ab2b81404a829b6bf329884187-ao-2-Q.svg\" />",
                                                 "",
-                                                "- Areal an der Wand des rechten vorhoves<br>- hier liegt AV-Knoten<br>- Begrenzung: Ostinum venae cavae superioris &amp; inferioris &amp; Rand des septalen Trikuspidalsegels",
+                                                "- Areal an der Wand des rechten vorhofes<br>- hier liegt AV-Knoten<br>- Begrenzung: Ostium venae cavae superioris &amp; inferioris &amp; Rand des septalen Trikuspidalsegels",
                                                 "",
                                                 "",
                                                 "",
                                                 "<img src=\"a32dc3ab2b81404a829b6bf329884187-ao-2-A.svg\">",
-                                                "<img src=\"a32dc3ab2b81404a829b6bf329884187-ao-O.svg\" />"
+                                                "<img src=\"a32dc3ab2b81404a829b6bf329884187-ao-O.svg\">"
                                             ],
                                             "guid": "ot>A8u3yT",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -14683,7 +14856,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Welche Strukturen finde ich im rechten Vorhof?",
-                                                "- Eintrittsstellen der Vv. cava inf &amp; sup (Cava sup ohne Klappe / inf mit)<br>- Eintrittsstelle des sinus coronarius (Herzkranzbucht mit variabler klappe)<br>- Foramen/Fossa ovale<br>- Trikuspidalklappe<br>- Koch-Dreieck mit AV-Knoten<br>- Mm. pectinati<br>- Sinusknoten (an Einmündung de V. cava superior)<br><br><img src=\"IMG_A1DFAE4340D0-1.jpeg\">"
+                                                "- Eintrittsstellen der Vv. cava inf &amp; sup (Cava sup ohne Klappe / inf mit)<br>- Eintrittsstelle des Sinus coronarius (Herzkranzbucht mit variabler klappe)<br>- Foramen/Fossa ovale<br>- Trikuspidalklappe<br>- Koch-Dreieck mit AV-Knoten<br>- Mm. pectinati<br>- Sinusknoten (an Einmündung de V. cava superior)<br><br><img src=\"IMG_A1DFAE4340D0-1.jpeg\">"
                                             ],
                                             "guid": "zm+Dv:bAN|",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -14823,7 +14996,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Versorgungsgebiet der A. coronaria sinistra (LCA)",
-                                                "- Linker Vorhof<br>- Linker Ventrikel<br>- Vorderseite des rechten Ventrikels<br>- 2/3 des kammerseptums"
+                                                "- Linker Vorhof<br>- Linker Ventrikel<br>- Vorderseite des rechten Ventrikels<br>- 2/3 des Kammerseptums<br><br><img alt=\"Arteria coronaria sinistra: Anatomie, Verlauf, Funktion | Kenhub\" src=\"xUFNZ0yEkVA5Cxo3AvsM2g_sWAJUHy4eD8p4wJrdSmkkw_A._coronaria_sinistra_01.png\" width=\"555\">"
                                             ],
                                             "guid": "rUpdcdmg.m",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -18947,7 +19120,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Krankheitsbilder ÖSU",
+                                                "Krankheitsbilder UÖS (unterer Ösophagussphinkter)",
                                                 "- Wenn Sphinkter nicht funktioniert: Reflux (Rücklaufen des Magensaft in den Ösophagus<div>- kann zu Ösophagusentzündung (Ösophagitis) kommen (=Refluxösophagitis)</div><div>&nbsp; &nbsp; &nbsp;-&gt; Symptom: Sodbrennen (v.a. Nach dem Essen &amp; Nachts)</div><div><br></div><div>Barett-Ösopagus:</div><div>- nach einiger Zeit kann sich das normale Ösophagusepitehl (mehrschichtig unverhornt) in ein Zylinderepithel umwandeln (Metaplasie) = Barett-Ösopagus</div><div>- guter Boden für Dysplasien, die sich als Vorstufe eines Karzinoms entwickeln können</div>"
                                             ],
                                             "guid": "ACtS}V?y}Q",
@@ -37316,73 +37489,6 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "bb5b3c02-001a-11ef-a02b-60f677a7f746",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": null,
-                    "name": "Vorderseite",
-                    "ord": 0,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": null,
-                    "name": "Rückseite",
-                    "ord": 1,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Einfach+++++",
-            "originalId": 1615834966641,
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "id": null,
-                    "name": "Karte 1",
-                    "ord": 0,
-                    "qfmt": "{{Vorderseite}}"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
             "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
             "flds": [
@@ -37578,6 +37684,73 @@
                     "name": "IO Card",
                     "ord": 0,
                     "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "bb5b3c02-001a-11ef-a02b-60f677a7f746",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach+++++",
+            "originalId": 1615834966641,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
                 }
             ],
             "type": 0
