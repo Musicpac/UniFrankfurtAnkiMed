@@ -146,7 +146,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Gliederung des vegatativen Nervensystems",
+                                        "Gliederung des vegetativen Nervensystems",
                                         "<b>Zentralen &amp; Periphären Anteil<br><br>Afferente &amp; Efferente Fasern</b><br>- Afferent: vermitteln Wahrnehmung (Informationen aus Körper)<br>- Efferent: Steuern Organfunktion<br>&nbsp; &nbsp; &nbsp;- Sympathikus<br>&nbsp; &nbsp; &nbsp;- Parasympthikus"
                                     ],
                                     "guid": "e:I*J#auj~",
@@ -1015,8 +1015,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Bildschirmfoto 2022-11-28 um 22.50.40.png\">",
-                                        "<b>Hühnerembryo</b><br><br><img src=\"Bildschirmfoto 2023-05-13 um 18.14.42.png\"><br><br><br><img src=\"Bildschirmfoto 2023-05-13 um 18.15.12.png\"><img src=\"Bildschirmfoto 2023-05-13 um 18.15.02.png\"><img src=\"Bildschirmfoto 2023-05-13 um 18.14.53.png\">"
+                                        "<img src=\"Bildschirmfoto 2022-11-28 um 22.50.40.png\" width=\"1000\">",
+                                        "<b>Hühnerembryo</b><br><br><img src=\"Bildschirmfoto 2023-05-13 um 18.14.42.png\" width=\"1000\"><br><img src=\"Bildschirmfoto 2023-05-13 um 18.15.12.png\" width=\"1000\"><br><img src=\"Bildschirmfoto 2023-05-13 um 18.15.02.png\" width=\"1000\"><br><img src=\"Bildschirmfoto 2023-05-13 um 18.14.53.png\" width=\"1000\">"
                                     ],
                                     "guid": "jr9]Q;`3V4",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -1271,7 +1271,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Pneumozyten Typ I",
-                                        "<div style=\"text-align: justify;\">- Wandauskleidung der Alveolen</div><div style=\"text-align: justify;\">- ermöglichen den Gasaustausch</div><div style=\"text-align: justify;\">- flache Epithelzellen, die untereinander durch Tight Junctions verbunden sind\n\n</div><div style=\"text-align: justify;\">- bedecken 95% der Oberfläche</div><div style=\"text-align: justify;\">- haben ewig lange Cytoplasmaausläufer</div><div><br></div><div><img src=\"IMG_D0DD26E1025B-1.jpeg\"><br></div>"
+                                        "<div style=\"text-align: justify;\">- Wandauskleidung der Alveolen</div><div style=\"text-align: justify;\">- ermöglichen den Gasaustausch</div><div style=\"text-align: justify;\">- flache Epithelzellen, die untereinander durch Tight Junctions verbunden sind\n\n</div><div style=\"text-align: justify;\">- bedecken 95% der Oberfläche</div><div style=\"text-align: justify;\">- haben ewig lange Cytoplasmaausläufer</div><div><br></div><div><img src=\"IMG_D0DD26E1025B-1.jpeg\" width=\"1000\"><br></div>"
                                     ],
                                     "guid": "r(lRA:y6bn",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -1280,7 +1280,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Histologische Besonderheit der Bifurcationen der Trachea",
+                                        "Histologische Besonderheit der Bifurcatio der Trachea",
                                         "KEIN respiratorisces Epithel<br>stattdessen mehrschichtig unverhorntes Plattenepithel"
                                     ],
                                     "guid": "v|=RBERcV_",
@@ -1290,8 +1290,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"IMG_757DFCCD7479-1.jpeg\">",
-                                        "<b>Trachea - H.E.</b><br><br><img src=\"Bildschirmfoto 2023-05-13 um 14.18.07.png\"><br><img src=\"Bildschirmfoto 2023-05-13 um 14.17.40.png\"><br><br><img src=\"Bildschirmfoto 2023-05-13 um 14.17.07.png\"><br><br><img src=\"Bildschirmfoto 2023-05-13 um 14.16.54.png\"><br><img src=\"Bildschirmfoto 2023-05-13 um 14.16.28.png\">"
+                                        "<img src=\"IMG_757DFCCD7479-1.jpeg\" width=\"1000\">",
+                                        "<b>Trachea - H.E.</b><br><br><img src=\"Bildschirmfoto 2023-05-13 um 14.18.07.png\" width=\"1000\"><br><img src=\"Bildschirmfoto 2023-05-13 um 14.17.40.png\" width=\"1000\"><br><br><img src=\"Bildschirmfoto 2023-05-13 um 14.17.07.png\" width=\"1000\"><br><br><img src=\"Bildschirmfoto 2023-05-13 um 14.16.54.png\" width=\"1000\"><br><img src=\"Bildschirmfoto 2023-05-13 um 14.16.28.png\" width=\"1000\">"
                                     ],
                                     "guid": "h$La)0Z!dh",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -1340,8 +1340,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"paste-bd3830abb4dd6a1fe98f0eff6cc41faaffbe167a.png\">",
-                                        "<b>Lunge, H.E.</b><div><b><br></b></div><div><img src=\"paste-21b40fe7e70ff8a963a14d9a9f37489c3c338b77.png\"><b><br></b></div><div><br></div><div><img src=\"paste-319731370f6dd487969a8ee25d630e5bd1b2a714.png\"><br></div><div><br></div><div><img src=\"paste-c5e5bdbab1279cf6a81978b75d8ae1fce7fd7b06.png\"><br></div><div><br></div><div><img src=\"paste-a1232e63c791ebfc3f66d1b0660794af38e7d588.png\"><br></div><div><br></div><div><img src=\"paste-9845c7966dac1ea58ddaf70836305b569f27ad59.png\"><br></div><div><br></div><div><img src=\"paste-e832b12333a396fa522606dee561a864d1194fcd.png\"><br></div>"
+                                        "<img src=\"paste-bd3830abb4dd6a1fe98f0eff6cc41faaffbe167a.png\" width=\"1000\">",
+                                        "<b>Lunge, H.E.</b><div><b><br></b></div><div><img src=\"paste-21b40fe7e70ff8a963a14d9a9f37489c3c338b77.png\" width=\"1000\"><b><br></b></div><div><br></div><div><img src=\"paste-319731370f6dd487969a8ee25d630e5bd1b2a714.png\" width=\"1000\"><br></div><div><br></div><div><img src=\"paste-c5e5bdbab1279cf6a81978b75d8ae1fce7fd7b06.png\" width=\"1000\"><br></div><div><br></div><div><img src=\"paste-a1232e63c791ebfc3f66d1b0660794af38e7d588.png\" width=\"1000\"><br></div><div><br></div><div><img src=\"paste-9845c7966dac1ea58ddaf70836305b569f27ad59.png\" width=\"1000\"><br></div><div><br></div><div><img src=\"paste-e832b12333a396fa522606dee561a864d1194fcd.png\" width=\"1000\"><br></div>"
                                     ],
                                     "guid": "jHoERw&j@(",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -1848,6 +1848,7 @@
                                         "_meditricks_mtsp_scripts_v1000_ankiphil.min.js",
                                         "_meditricks_mtsp_scripts_v1000_iframe.map",
                                         "_meditricks_mtsp_styles_v1000_ankiphil.min.css",
+                                        "histo_008300_steckbrief.jpg",
                                         "paste-084c89ebc1aa3a4950b46197cc5382685a7f9b76.png",
                                         "paste-1920a3ad892dd7fce90294a466989c4229d75d15.png",
                                         "paste-2c422c8245657e9ba6d6766ba0a1e7f6bdafea8b.jpg",
@@ -1934,7 +1935,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Tela submucosa",
-                                                "<div style=\"text-align: justify;\">- besteht aus lockerem bindegewebe</div><div style=\"text-align: justify;\">- Verschiebeschicht erlaubt Mukosa gewissen Eigenbeweglichkeit</div><div style=\"text-align: justify;\">- enthält größere Blut-, Lymphgefäße &amp; Plexus submucosus (Meissner Plexus)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">- Drüsen in Submucosa kommen nur in Ösophagus &amp; Duodenum vor</div>"
+                                                "<div style=\"text-align: justify;\">- besteht aus lockerem bindegewebe</div><div style=\"text-align: justify;\">- Verschiebeschicht erlaubt Mukosa gewissen Eigenbeweglichkeit</div><div style=\"text-align: justify;\">- enthält größere Blut-, Lymphgefäße&nbsp;&nbsp;</div><div style=\"text-align: justify;\">- Plexuus submucosae (Meissner &amp; Schabadasch Plexus)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">- Drüsen in Submucosa kommen nur in Ösophagus &amp; Duodenum vor</div>"
                                             ],
                                             "guid": "JSDqzemE4q",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -1969,6 +1970,21 @@
                                             "guid": "I[`Pzd&M;:",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Differentialdiagnose: Duodenum vs Jejunum vs Ileum",
+                                                "<b><u>Duodenum:</u></b>&nbsp;&nbsp;<img src=\"histo_008300_steckbrief.jpg\" style=\"float: right;\" width=\"1000\"><br>- Einziger Abschnitt mit Brunner-Drüsen in der Tela submucosa<br>∟Daher sind die Zotten breiter<br><br><b><u>Jejunum:</u></b>&nbsp;<br>- Abwesenheit von Brunner-Drüsen und Peyer Plaques<br>∟Mehr ausschlussverfahren als direkte Differenzierung<br><br><b><u>Ileum:</u></b>&nbsp;<br>- Ansammlung von Lymphfollikel → Peyer-Plaques von Lamina propria mucosae bis Tela submucosa<br>∟ Unterbrechen die Lamina muscularis mucosae"
+                                            ],
+                                            "guid": "G*^9`:tROs",
+                                            "note_model_uuid": "bb5b3c02-001a-11ef-a02b-60f677a7f746",
+                                            "tags": [
+                                                "Differential",
+                                                "Duodenum",
+                                                "Ileum",
+                                                "Jejunum"
+                                            ]
                                         }
                                     ],
                                     "reviewLimit": null,
@@ -2060,7 +2076,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Magen-Hauptzellen (Magendrüsen)",
-                                                "<div style=\"text-align: justify;\"><b>Histologie</b></div><div style=\"text-align: justify;\">- deutliche granulierung im Cytoplasma (PAS Färbung)</div><div style=\"text-align: justify;\">- kleiner als Belegzellen mit rundem Zellkern</div><div style=\"text-align: justify;\">- v.a. Im Hauptteil der Drüse</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Funktion</b></div><div style=\"text-align: justify;\">- Aktivierung durch Acetylcholin (Parasympathikus) &amp; Gastrin</div><div style=\"text-align: justify;\">- Produzieren Pepsinogen (Proteinspaltung) (die können nur im sauren Milieu arbeiten)<br></div><div><br></div><div><br></div><div><img src=\"paste-ce26f333c4fc80918a65e1d991285f721eb1b203.png\"><br></div>"
+                                                "<div style=\"text-align: justify;\"><b>Histologie</b></div><div style=\"text-align: justify;\">- deutliche granulierung im Cytoplasma (PAS Färbung)</div><div style=\"text-align: justify;\">- kleiner als Belegzellen mit rundem Zellkern</div><div style=\"text-align: justify;\">- v.a. Im Hauptteil der Drüse</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Funktion</b></div><div style=\"text-align: justify;\">- Aktivierung durch Acetylcholin (Parasympathikus) &amp; Gastrin</div><div style=\"text-align: justify;\">- Produzieren Pepsinogen (Proteinspaltung) (die können nur im sauren Milieu arbeiten)<br></div><div><br></div><div><br></div><div><img src=\"paste-ce26f333c4fc80918a65e1d991285f721eb1b203.png\" width=\"1000\"><br></div>"
                                             ],
                                             "guid": "vfnQ_4H}=W",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2100,7 +2116,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Regionale Unterschiede der Magendrüsen",
-                                                "<div style=\"text-align: justify;\"><b>In Cardia: Glandulae cardiacae</b></div><div style=\"text-align: justify;\">- Foveolae nimmt ca. 1/2 der Tela mucosa ein</div><div style=\"text-align: justify;\">- Fast nur Nebenzellen</div><div style=\"text-align: justify; \">- stark verzweigt/gewunden</div><div style=\"text-align: justify;\">- NICHT gedrängt</div><div><div style=\"text-align: justify;\">- KEINE Beleg- &amp; Hauptzellen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Im Fundus/Corpus: Glandulae gastricae propriae</b></div><div style=\"text-align: justify;\">-&nbsp;Foveolae nimmt ca. 1/4 der Tela mucosa ein</div>\n<div style=\"text-align: justify;\">- langgestreckt &amp; oft eng-lumig</div><div style=\"text-align: justify;\">- wenige verzweigungen</div><div style=\"text-align: justify;\">- dicht gedrängt gelegen</div>\n<div style=\"text-align: justify;\">- enthalten Beleg-, Haupt- &amp; Nebenzellen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Im Pars pylorica: Glandulae pyloricae</b></div></div><div style=\"text-align: justify;\">- Foveolae nehmen ca. 3/4 der Tela mucosa ein</div><div style=\"text-align: justify;\">- gewunden / verzweigt</div><div style=\"text-align: justify;\">- enthalten Nebenzellen &amp; endokrine Zellen</div><div style=\"text-align: justify;\">- KEINE Beleg- &amp; Hauptzellen</div><div style=\"text-align: justify; \"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify; \"><img src=\"paste-c3cd6e90c4c0e1fea63aa0fabdcc5262f2c252b4.png\"><br></div>"
+                                                "<div style=\"text-align: justify;\"><b>In Cardia: Glandulae cardiacae</b></div><img src=\"paste-c3cd6e90c4c0e1fea63aa0fabdcc5262f2c252b4.png\" style=\"text-align: justify; float: right;\" width=\"1000\"><div style=\"text-align: justify;\">- Foveolae nimmt ca. 1/2 der Tela mucosa ein</div><div style=\"text-align: justify;\">- Fast nur Nebenzellen</div><div style=\"text-align: justify; \">- stark verzweigt/gewunden</div><div style=\"text-align: justify;\">- NICHT gedrängt</div><div><div style=\"text-align: justify;\">- KEINE Beleg- &amp; Hauptzellen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Im Fundus/Corpus: Glandulae gastricae propriae</b></div><div style=\"text-align: justify;\">-&nbsp;Foveolae nimmt ca. 1/4 der Tela mucosa ein</div>\n<div style=\"text-align: justify;\">- langgestreckt &amp; oft eng-lumig</div><div style=\"text-align: justify;\">- wenige verzweigungen</div><div style=\"text-align: justify;\">- dicht gedrängt gelegen</div>\n<div style=\"text-align: justify;\">- enthalten Beleg-, Haupt- &amp; Nebenzellen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Im Pars pylorica: Glandulae pyloricae</b></div></div><div style=\"text-align: justify;\">- Foveolae nehmen ca. 3/4 der Tela mucosa ein</div><div style=\"text-align: justify;\">- gewunden / verzweigt</div><div style=\"text-align: justify;\">- enthalten Nebenzellen &amp; endokrine Zellen</div><div style=\"text-align: justify;\">- KEINE Beleg- &amp; Hauptzellen</div>"
                                             ],
                                             "guid": "mGbUVYW=Vx",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2119,8 +2135,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<img src=\"Bildschirmfoto 2023-05-17 um 23.37.44.png\">",
-                                                "<div><b>Magen (Fundus/Corpus) - PAS/Goldorange</b></div><div>Querschnitt?</div><div><br></div><div>- faltige Tunica mucosa</div><div>- Foveolae manchmal quer / manchmal längs getroffen</div><div>- in die Foveolae gastricae münden Drüsen</div><div>- schwache Muscularis mucosae</div><div>- mächtige Tunica muscularis</div><div><br></div><div><br></div><img src=\"paste-8c6589c19e06b2434dee915de70936f8854c0684.png\"><div><span style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0);\"><br></span><div><img src=\"paste-67332b34371370258f87ed2ab734b6b1fcb6279a.png\"><br></div><div><br></div><div><br></div><div><br></div></div><div><img src=\"IMG_2BE9FED57382-1.jpeg\"><br></div>"
+                                                "<img src=\"Bildschirmfoto 2023-05-17 um 23.37.44.png\" width=\"1000\">",
+                                                "<div><b>Magen (Fundus/Corpus) - PAS/Goldorange</b></div><div>Querschnitt</div><div>- faltige Tunica mucosa<br></div><div>- Foveolae manchmal quer / manchmal längs getroffen</div><div>- in die Foveolae gastricae münden Drüsen</div><div>- schwache Muscularis mucosae</div><div>- mächtige Tunica muscularis</div><img src=\"paste-8c6589c19e06b2434dee915de70936f8854c0684.png\" width=\"1000\"><div><div><img src=\"paste-67332b34371370258f87ed2ab734b6b1fcb6279a.png\" width=\"1000\"><br></div><div><img src=\"IMG_2BE9FED57382-1.jpeg\" width=\"1000\"><br></div></div>"
                                             ],
                                             "guid": "A(nlEP2~0(",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2231,7 +2247,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Warum hat der Ösophagus im Querschnitt ein Sternförmiges Lumen",
-                                                "- in Situ hat er längs verlaufende Falten<br>- dienen als Reservefalten"
+                                                "- in Situ hat er längs verlaufende Falten<br>- dienen als Reservefalten → dehnbar"
                                             ],
                                             "guid": "v/n[C}I[It",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2275,29 +2291,12 @@
                                 "_meditricks_mtsp_nf_v1000_ankiphil.js",
                                 "_meditricks_mtsp_scripts_v1000_ankiphil.min.js",
                                 "_meditricks_mtsp_scripts_v1000_iframe.map",
-                                "_meditricks_mtsp_styles_v1000_ankiphil.min.css",
-                                "histo_008300_steckbrief.jpg"
+                                "_meditricks_mtsp_styles_v1000_ankiphil.min.css"
                             ],
                             "name": "Gastrointestinaltrakt",
                             "newLimit": null,
                             "newLimitToday": null,
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Differentialdiagnose: Duodenum vs Jejunum vs Ileum",
-                                        "<b><u>Duodenum:<br></u></b>- Einziger Abschnitt mit Brunner-Drüsen in der Tela submucosa<br>∟Daher sind die Zotten breiter<br><br><b><u>Jejunum:</u></b>&nbsp;<br>- Abwesenheit von Brunner-Drüsen und Peyer Plaques<br>∟Mehr ausschlussverfahren als direkte Differenzierung<br><br><b><u>Ileum:</u></b>&nbsp;<br>- Ansammlung von Lymphfollikel → Peyer-Plaques von Lamina propria mucosae bis Tela submucosa<br>∟ Unterbrechen die Lamina muscularis mucosae<br><br><img src=\"histo_008300_steckbrief.jpg\">"
-                                    ],
-                                    "guid": "G*^9`:tROs",
-                                    "note_model_uuid": "bb5b3c02-001a-11ef-a02b-60f677a7f746",
-                                    "tags": [
-                                        "Differential",
-                                        "Duodenum",
-                                        "Ileum",
-                                        "Jejunum"
-                                    ]
-                                }
-                            ],
+                            "notes": [],
                             "reviewLimit": null,
                             "reviewLimitToday": null
                         },
@@ -2363,8 +2362,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"IMG_F6E57D046A7E-1.jpeg\">",
-                                        "<b>Ureter / Harnleiter (73) </b><i>- Azanfärbung</i><br><br><img src=\"IMG_5DE92330B4EE-1.jpeg\">"
+                                        "<img src=\"IMG_F6E57D046A7E-1.jpeg\" width=\"1000\">",
+                                        "<b>Ureter / Harnleiter (73) </b><i>- Azanfärbung</i><br><br><img src=\"IMG_5DE92330B4EE-1.jpeg\" width=\"1000\">"
                                     ],
                                     "guid": "L#sMttpSqu",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2478,7 +2477,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Hepatozyten",
-                                        "<div style=\"text-align: justify;\">- sind in der Leber in Bällkchen angeordent</div><div style=\"text-align: justify;\">- Spezialisierte Epithelzellen (mit Mikrovilli)</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Aufbau:</b></div></b><div style=\"text-align: justify;\">- Basophiler, runder Zellkern&nbsp;</div><div style=\"text-align: justify;\">- meistens einkernig (manchmal zwei Kerne)</div><div style=\"text-align: justify;\">- polare Bau- &amp; Funktionsweise</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→&nbsp;apikaler Pol: Gallepol (Galle wird in canaliculi sezerniert)&nbsp;</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→&nbsp;basolateraler Pol: zum Sinusoid hin / Blutpol → Stoffaustuasch</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Hepatozyten als Gesamtheit</b></div></b><div style=\"text-align: justify;\">- stehen untereinander über Nexus, Desmosomen und Zonula occludens in Verbindung</div><div style=\"text-align: justify;\">- funktionell sehr vielseitig (wichtigste produzierte Substanzen: Gallensaft &amp; Plasmaproteine)</div><div style=\"text-align: justify;\">- zwischen zwei Hepatozyten verlaufen Canaliculi biliferi</div><div style=\"text-align: justify;\">- neben Hepatozytenbälkchen ist sinusoid -&gt; Hepatozyten haben gute Gelegenheit für Stoffaustausch mit Blut</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_6820F9B08FFD-1.jpeg\"></div>"
+                                        "<div style=\"text-align: justify;\">- sind in der Leber in Bällkchen angeordent</div><div style=\"text-align: justify;\">- Spezialisierte Epithelzellen (mit Mikrovilli)</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Aufbau:</b></div></b><div style=\"text-align: justify;\">- Basophiler, runder Zellkern&nbsp;</div><div style=\"text-align: justify;\">- meistens einkernig (manchmal zwei Kerne)</div><div style=\"text-align: justify;\">- polare Bau- &amp; Funktionsweise</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→&nbsp;apikaler Pol: Gallepol (Galle wird in canaliculi sezerniert)&nbsp;</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→&nbsp;basolateraler Pol: zum Sinusoid hin / Blutpol → Stoffaustuasch</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Hepatozyten als Gesamtheit</b></div></b><div style=\"text-align: justify;\">- stehen untereinander über Nexus, Desmosomen und Zonula occludens in Verbindung</div><div style=\"text-align: justify;\">- funktionell sehr vielseitig (wichtigste produzierte Substanzen: Gallensaft &amp; Plasmaproteine)</div><div style=\"text-align: justify;\">- zwischen zwei Hepatozyten verlaufen Canaliculi biliferi</div><div style=\"text-align: justify;\">- neben Hepatozytenbälkchen ist sinusoid -&gt; Hepatozyten haben gute Gelegenheit für Stoffaustausch mit Blut</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_6820F9B08FFD-1.jpeg\" width=\"1000\"></div>"
                                     ],
                                     "guid": "E^V3AJ(_wr",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2488,7 +2487,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Canaliculi biliferi (Gallenkanälchen)",
-                                        "- laufen zwischen Hepatozyten<br>- haben KEINE EIGENE WAND &amp; sind eig nur Räume zwishcen den Hepatozyten<br>- Austreten der Gallenflüssigkeit (in Interzellularraum &amp; damit das Blut) wird durch tight junctions verhindert<br>- Gallenkapillaren<br>- münden in Heringkanälchen (kurze Verbindungsstücke zwischen Leberläppchen) und den interlobulären Gallengängen der Glisson trias<br><br><img src=\"IMG_E74AE71AF63D-1.jpeg\">"
+                                        "- laufen zwischen Hepatozyten<br>- haben KEINE EIGENE WAND &amp; sind eig nur Räume zwishcen den Hepatozyten<br>- Austreten der Gallenflüssigkeit (in Interzellularraum &amp; damit das Blut) wird durch tight junctions verhindert<br>- Gallenkapillaren<br>- münden in Heringkanälchen (kurze Verbindungsstücke zwischen Leberläppchen) und den interlobulären Gallengängen der Glisson trias<br><br><img src=\"IMG_E74AE71AF63D-1.jpeg\" width=\"1000\">"
                                     ],
                                     "guid": "rO:1QoB3fI",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2507,8 +2506,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Kupfferzellen",
-                                        "- sitzen im Lumen der Sinusoide &amp; haften am Endothel an<br>- Leberspezifische Makrophagen<br>- Funktion: Entfernen durch Phagoztose Fremdpartikel, Bakterien &amp; beschädigte, alte Blutzellen<br>- können mit Fortsätzen in Dissé Raum ragen<br>- teil des mononukleär-phagozytierenden Systems (MPS)<br>- sind am Endothel lumenwärtig zu Sinusoiden angelagert<br><br>* Man kann sie gut anfärben, da man bei Gabe des Farbstoffes (Tryptanblau) denken es sei ein Fremdkörper und ihn aufnehmen<br><br><img src=\"Bildschirmfoto 2023-05-11 um 13.20.16.png\">"
+                                        "Kupffer-Zellen",
+                                        "- sitzen im Lumen der Sinusoide &amp; haften am Endothel an&nbsp;<img src=\"Bildschirmfoto 2023-05-11 um 13.20.16.png\" style=\"float: right;\" width=\"1000\">&nbsp;<br>- Leberspezifische Makrophagen<br>- Funktion: Entfernen durch Phagoztose Fremdpartikel, Bakterien &amp; beschädigte, alte Blutzellen<br>- können mit Fortsätzen in Dissé Raum ragen<br>- teil des mononukleär-phagozytierenden Systems (MPS)<br>- sind am Endothel lumenwärtig zu Sinusoiden angelagert<br><br>* Man kann sie gut anfärben, da man bei Gabe des Farbstoffes (Tryptanblau) denken es sei ein Fremdkörper und ihn aufnehmen<br><br>"
                                     ],
                                     "guid": "rR=;gi;PRV",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2548,7 +2547,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was sind die histologischen Baueinheiten der Leber?",
-                                        "- zentralvenenläppchen / Leberläppchen<br>- enthalten die Hepatozyten, Lebersinusoide &amp; Zentralvene<br>- an Kanten der Leberläppchen verlaufen in längsrichtung bindegewebige Portkanäle mit darin enthaltenen kanälen der Glisson Trias<br>- ACHTUNG: Beim Menschen ist der BG-Anteil in der Leber seeeehr gering, deswegen ist die Gliederung in Läppchen v.a. beim Menschen sehr schwer zu sehen (beim Schwein einfacher)<br>-Lebersinusoide laufen radiärförmig auf die Zentralvene zu<br><br><img src=\"IMG_BB4C724761CA-1.jpeg\"><br><br><img src=\"IMG_BB673D35A6A2-1.jpeg\">"
+                                        "- zentralvenenläppchen / Leberläppchen<br>- enthalten die Hepatozyten, Lebersinusoide &amp; Zentralvene<br>- an Kanten der Leberläppchen verlaufen in längsrichtung bindegewebige Portkanäle mit darin enthaltenen kanälen der Glisson Trias<br>- ACHTUNG: Beim Menschen ist der BG-Anteil in der Leber seeeehr gering, deswegen ist die Gliederung in Läppchen v.a. beim Menschen sehr schwer zu sehen (beim Schwein einfacher)<br>-Lebersinusoide laufen radiärförmig auf die Zentralvene zu<br><img src=\"IMG_BB4C724761CA-1.jpeg\" width=\"1000\"><br><img src=\"IMG_BB673D35A6A2-1.jpeg\" width=\"1000\"><br>"
                                     ],
                                     "guid": "p/vc![;p+.",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -2597,8 +2596,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"paste-74f780fc8cc64fa86e19d1adaa098edcd8d8b1c7.png\">",
-                                        "<b>Leber (Maus) - Färbung mit tryptanblau &amp; Kernechtrot (zur F-bring der Kupferzellen)</b><div><br></div><div><img src=\"paste-3ead9bcf18f1bc985ccb4f94192bd2b6ae326d1d.png\"><br></div><div><br></div><div><img src=\"paste-4e7ba7c26eb55921a5ca6dea44b461905ff45ec4.png\"><br></div>"
+                                        "<img src=\"paste-74f780fc8cc64fa86e19d1adaa098edcd8d8b1c7.png\" width=\"1000\">",
+                                        "<b>Leber (Maus) - Färbung mit Tryptanblau &amp; Kernechtrot (zur Färbung der Kupferzellen)</b><div><br></div><div><img src=\"paste-3ead9bcf18f1bc985ccb4f94192bd2b6ae326d1d.png\" width=\"1000\"><br></div><div><img src=\"paste-4e7ba7c26eb55921a5ca6dea44b461905ff45ec4.png\" width=\"1000\"><br></div>"
                                     ],
                                     "guid": "f@Qz]xoo;z",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -2607,8 +2606,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"paste-0f25df93ad455ee6e5721126eb7cf89f510b254b.png\">",
-                                        "<b>Leber (Affe) - Tuschefärbung</b><div><b><br></b></div><div><img src=\"paste-115124bf9eec29fcf7ad8eea859e3bfb71a50c24.png\"><br></div><div><br></div><div><img src=\"paste-5794b48c663301a91c15a58b1f096bbd57bc3bf7.png\"><br></div>"
+                                        "<img src=\"paste-0f25df93ad455ee6e5721126eb7cf89f510b254b.png\" width=\"1000\">",
+                                        "<b>Leber (Affe) - Tuschefärbung</b><div><b><br></b></div><div><img src=\"paste-115124bf9eec29fcf7ad8eea859e3bfb71a50c24.png\" width=\"1000\"><br></div><div><br></div><div><img src=\"paste-5794b48c663301a91c15a58b1f096bbd57bc3bf7.png\" width=\"1000\"><br></div>"
                                     ],
                                     "guid": "Lml+iZ7|[v",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -2617,8 +2616,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"paste-8891466f213e4feb564df674edbdeb3319a2e5dd.png\">",
-                                        "<b>Leber - Best Färbung (um Glykogen sichtbar zu machen)</b><div><b><br></b></div><div><img src=\"paste-a9f1e4d46fa7a0e059487c5e3c7d6a92d64864d1.png\"><br></div><div><br></div><div><img src=\"paste-9aa5300c4b4e2e317d53f4cf32bbdef96a554bf6.png\"><br></div>"
+                                        "<img src=\"paste-8891466f213e4feb564df674edbdeb3319a2e5dd.png\" width=\"1000\">",
+                                        "<b>Leber - Best Färbung (um Glykogen sichtbar zu machen)</b><div><b><br></b></div><div><img src=\"paste-a9f1e4d46fa7a0e059487c5e3c7d6a92d64864d1.png\" width=\"1000\"><br></div><div><br></div><div><img src=\"paste-9aa5300c4b4e2e317d53f4cf32bbdef96a554bf6.png\" width=\"1000\"><br></div>"
                                     ],
                                     "guid": "L$S=iBSAWp",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -2796,8 +2795,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<img src=\"paste-d725ef42a2161c91aa92b97ecdd420c6762fb259.png\">",
-                                                "<div><b>Ductus deferens</b></div><div><br></div><div><br></div><img src=\"paste-6171cfc5aaf4936dd94790d573b6bd890ceefc49.png\"><div><img src=\"paste-8f7038f22e2398c0e31d9e7261dd06429931601d.png\"><br></div>"
+                                                "<img src=\"paste-d725ef42a2161c91aa92b97ecdd420c6762fb259.png\" width=\"1000\">",
+                                                "<div><b>Ductus deferens</b></div><div><br></div><div><br></div><img src=\"paste-6171cfc5aaf4936dd94790d573b6bd890ceefc49.png\" width=\"1000\"><div><img src=\"paste-8f7038f22e2398c0e31d9e7261dd06429931601d.png\" width=\"1000\"><br></div>"
                                             ],
                                             "guid": "DD6z~xsC9b",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2856,8 +2855,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<img src=\"paste-85a8beec12f20d876de0e5a2708528f766c2eb28.png\">",
-                                                "<img src=\"paste-0f4279618e11467fd11533c8d1e9e20c03850ef4.png\"><div><br></div><div><br></div><div><img src=\"paste-b41c49f1c56885ea24282277ccfd62c59366e0c7.png\"><br></div><div><br></div><div><br></div><div><br></div><div><img src=\"paste-7ec17ab9b24bb798dd700daa477d2be1cd7a3b08.png\"><br></div>"
+                                                "<img src=\"paste-85a8beec12f20d876de0e5a2708528f766c2eb28.png\" width=\"1000\">",
+                                                "<img src=\"paste-0f4279618e11467fd11533c8d1e9e20c03850ef4.png\" width=\"1000\"><div><img src=\"paste-b41c49f1c56885ea24282277ccfd62c59366e0c7.png\" width=\"1000\"><br></div><div><img src=\"paste-7ec17ab9b24bb798dd700daa477d2be1cd7a3b08.png\" width=\"1000\"><br></div>"
                                             ],
                                             "guid": "n-5CZ(A,}Q",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3340,7 +3339,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Zona glomerulosa",
-                                        "<img src=\"IMG_83D19467E11E-1.jpeg\">"
+                                        "<img src=\"IMG_83D19467E11E-1.jpeg\" width=\"1000\">"
                                     ],
                                     "guid": "hE)V8:p4-+",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3350,7 +3349,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Zona fasciculata",
-                                        "<img src=\"IMG_531C69E3081A-1.jpeg\">"
+                                        "<img src=\"IMG_531C69E3081A-1.jpeg\" width=\"1000\">"
                                     ],
                                     "guid": "FU}9qJ{3-N",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3370,7 +3369,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was finde ich im Mark der Nebenniere (Medulla glandulae suprarenalis)",
-                                        "<img src=\"Bildschirmfoto 2023-05-02 um 20.28.11.png\">"
+                                        "<img src=\"Bildschirmfoto 2023-05-02 um 20.28.11.png\" width=\"1000\">"
                                     ],
                                     "guid": "J#J9nu^K4f",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3390,7 +3389,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Chromaffine Zellen",
-                                        "<div style=\"text-align: justify;\">- entstehen aus Sympathikoblasten</div><div style=\"text-align: justify;\">- sind quasi zweites Neuron des Sympathikus</div><div style=\"text-align: justify;\">- Produzieren (deswegen) Noradrenalin</div><div style=\"text-align: justify;\">- können dies (als Besonderheit) in Adrenalin umwandeln</div><div style=\"text-align: justify;\">- das wird von N-Methyltransferase kathalysiert</div><div style=\"text-align: justify;\">- Expression dieses Enzyms wird durch glucocorticoide gefördert&nbsp;</div><div style=\"text-align: justify;\">- die bekommt das Blut vorher in Rinde</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Aussehen</b></div></b><div style=\"text-align: justify;\">- helles, leicht granularisiertes Cytoplasma</div><div style=\"text-align: justify;\">- produzieren Katecholamine (z.B. Adrenalin)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"Bildschirmfoto 2023-05-02 um 20.31.04.png\"></div>"
+                                        "<div style=\"text-align: justify;\">- entstehen aus Sympathikoblasten</div><div style=\"text-align: justify;\">- sind quasi zweites Neuron des Sympathikus</div><div style=\"text-align: justify;\">- Produzieren (deswegen) Noradrenalin</div><div style=\"text-align: justify;\">- können dies (als Besonderheit) in Adrenalin umwandeln</div><div style=\"text-align: justify;\">- das wird von N-Methyltransferase katalysiert</div><div style=\"text-align: justify;\">- Expression dieses Enzyms wird durch glucocorticoide gefördert&nbsp;</div><div style=\"text-align: justify;\">- die bekommt das Blut vorher in Rinde</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Aussehen</b></div></b><div style=\"text-align: justify;\">- helles, leicht granularisiertes Cytoplasma</div><div style=\"text-align: justify;\">- produzieren Katecholamine (z.B. Adrenalin)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"Bildschirmfoto 2023-05-02 um 20.31.04.png\" width=\"1000\"></div>"
                                     ],
                                     "guid": "nA9])461/)",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3439,7 +3438,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Mineralcorticide",
+                                        "Mineralcorticoide",
                                         "- steigern Na<sup>+</sup> Rückresorbtion (&amp; K<sup>+</sup> Sekretion) in der Niere<br>- Wasser im Körper wird so zurückgehalten&nbsp;<br>- Blutdruck steigt<br>- in Zona glomerulosa produziert"
                                     ],
                                     "guid": "F{:--^Qx^E",
@@ -3522,7 +3521,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Wie kann man Nierenmark &amp; Nierenrinde auseinanderhalten (Histologisch)?",
-                                        "- in Nierenrinde befinden sich die Nierenkörperchen (Glomerulus)<br>- das Mark ist etwas heller<br><br><br><img src=\"IMG_A02F98CB9A97-1.jpeg\">"
+                                        "- in Nierenrinde befinden sich die Nierenkörperchen (Glomerulus)<br>- das Mark ist etwas heller<br><br><br><img src=\"IMG_A02F98CB9A97-1.jpeg\" width=\"1000\">"
                                     ],
                                     "guid": "z3wiz=e~5U",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3532,7 +3531,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Aufbau der Bowmann Kapsel",
-                                        "- umgibt Glomerulus<br>- hat äußeres (parietales) &amp; inneres (viszerales) Blatt<br>- inneres Blatt hat sich zu Podozyten entwickelt<br>- zwischen den beiden Blättern befindet sich der Kapselraum<br>- in den Kapselraum wird primär Urin abegegben<br><br><img src=\"IMG_557D91DB49B4-1.jpeg\">"
+                                        "- umgibt Glomerulus<br>- hat äußeres (parietales) &amp; inneres (viszerales) Blatt<br>- inneres Blatt hat sich zu Podozyten entwickelt<br>- zwischen den beiden Blättern befindet sich der Kapselraum<br>- in den Kapselraum wird primär Urin abegegben<br><img src=\"IMG_557D91DB49B4-1.jpeg\" width=\"1000\">"
                                     ],
                                     "guid": "kL>Q$_wyN^",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3552,7 +3551,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was macht das Macula densa und wo finde ich es?",
-                                        "- Kontaktstelle zwischen Gefäßpol &amp; zugehörigem distalen Tubuli<br>- reihe von schmalen, hohen Epithelzellen<br>- klar erkennbare Zellgrenzen<br><br><b>Aufgabe:<br></b>- Misst NaCl Konzentration im Harn des distalen Tubulus<br>- Chemorezeptoren<br>- je nach Konzentration muss glomeruläre Filtrationrate vermindert oder erhöht werden (tubuloglomeres Feedback)<br><br><img src=\"Bildschirmfoto 2023-05-02 um 21.52.22.png\">"
+                                        "- Kontaktstelle zwischen Gefäßpol &amp; zugehörigem distalen Tubuli<img src=\"Bildschirmfoto 2023-05-02 um 21.52.22.png\" style=\"float: right;\" width=\"500\"><br>- reihe von schmalen, hohen Epithelzellen<br>- klar erkennbare Zellgrenzen<br><br><b>Aufgabe:<br></b>- Misst NaCl Konzentration im Harn des distalen Tubulus<br>- Chemorezeptoren<br>- je nach Konzentration muss glomeruläre Filtrationrate vermindert oder erhöht werden (tubuloglomeres Feedback)<br><br><br>"
                                     ],
                                     "guid": "zC=Yj|ydIf",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3592,7 +3591,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was ist die Aufgabe der Nierenkanälchen",
-                                        "- Umwandlung des Primärharns in den Endharn, also - u.a. Rückresorption von physiologisch filtrierten, „wertvollen“ Stoffen (z. B. Elektrolyte, Glucose, Aminosäuren, Peptide, Proteine) und von 99 % des Wassers&nbsp;<div>- Sekretion einiger Abfallstoffe</div>"
+                                        "- Umwandlung des Primärharns in den Endharn<br>- Rückresorption von physiologisch filtrierten, „wertvollen“ Stoffen (z. B. Elektrolyte, Glucose, Aminosäuren, Peptide, Proteine) und von 99 % des Wassers&nbsp;<div>- Sekretion einiger Abfallstoffe</div>"
                                     ],
                                     "guid": "k5DO=qW3hm",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3736,7 +3735,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Unterteilung des Pankreas",
-                                        "- Kapsel aus kollagenen Fasern<br>- von kapsel aus ziehen BG Septen nach innen, die den Pankreas in Lappen unterteilen<br>- ein Lappen wird dann in Läppchen unterteilt<br><br>exokriner Pankreas:<br>- Läppchen besteht aus mehreren hundert Azini mit zugehörigen Schaltstücken<br>- Azini bestehen aus mehreren Drüsen"
+                                        "- Kapsel aus kollagenen Fasern<br>- von Kapsel aus ziehen BG Septen nach innen, die den Pankreas in Lappen unterteilen<br>- ein Lappen wird dann in Läppchen unterteilt<br><br><b><u>exokriner Pankreas:</u></b><br>- Läppchen besteht aus mehreren hundert Azini mit zugehörigen Schaltstücken<br>- Azini bestehen aus mehreren Drüsen<br><br><u><b>endokriner Pankreas:<br></b></u>- Langerhans Inseln<br>- B-Zellen<br>- A-Zellen<br>- PP-Zellen"
                                     ],
                                     "guid": "t;`zl6!Xo:",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3776,7 +3775,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Schaltstücke",
-                                        "- innerhalb der Läppchen<div>- verbinden Azini mit intralobulären Ausführungsgänge</div><div>- besitzen einschichtiges plattes bis isoprismatisches Epithel</div><div>- Durchmesser nie größer als der des Azinus</div><div>- gibt (wie auch Intralobuläre Gänge) Wasser &amp; Bicarbonate ab</div><div>- sind manchmal längs angeschnitten</div><div>- apikales Cytoplasma: Muzin Granula</div><div><br></div><div><img src=\"paste-7b72d3790a69836996f590abefd42c05c999012b.jpg\"><br></div>"
+                                        "- innerhalb der Läppchen<div>- verbinden Azini mit intralobulären Ausführungsgänge</div><div>- besitzen einschichtiges plattes bis isoprismatisches Epithel</div><div>- Durchmesser nie größer als der des Azinus</div><div>- gibt (wie auch Intralobuläre Gänge) Wasser &amp; Bicarbonate ab</div><div>- sind manchmal längs angeschnitten</div><div>- apikales Cytoplasma: Muzin Granula</div><div><br></div><div><img src=\"paste-7b72d3790a69836996f590abefd42c05c999012b.jpg\" width=\"1000\"><br></div>"
                                     ],
                                     "guid": "fdjJw,KdEj",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3806,7 +3805,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Langerhans‘sche Inselzelle",
-                                        "<img src=\"paste-f28a0c1171d3bcfa6c36b7025ffcbb579d606884.png\">"
+                                        "<img src=\"paste-f28a0c1171d3bcfa6c36b7025ffcbb579d606884.png\" width=\"1000\">"
                                     ],
                                     "guid": "xi>Gr=]xil",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3816,7 +3815,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was machen die A- Zellen der Langerhans‘schen Insel &amp; wo findet man sie überwiegend?",
-                                        "- Ort: Inselperipherie<div>- Hormon: Glucagon&nbsp;</div><div>- Ausschüttung: Absinken des Blutzuckerspiegels</div><div>- Anteil: 20%</div><div>- Wirkung: Steigert Blutzuckerspiegel</div><div><br></div><div>„G-A-B-I auf der Insel“: Inselzellen des Pankreas: Glucagon – A-Zellen, B-Zellen – Insulin. &nbsp;<br></div><div><br></div><div><img src=\"IMG_ACD03AD74EF4-1.jpeg\"><img src=\"IMG_ACD03AD74EF4-1.jpeg\"><br></div>"
+                                        "- Ort: Inselperipherie<div>- Hormon: Glucagon&nbsp;</div><div>- Ausschüttung: Absinken des Blutzuckerspiegels</div><div>- Anteil: 20%</div><div>- Wirkung: Steigert Blutzuckerspiegel</div><div><b>„G-A-B-I auf der Insel“: Inselzellen des Pankreas: Glucagon – A-Zellen, B-Zellen – Insulin.&nbsp;&nbsp;</b><br></div><div><br></div><div><img src=\"IMG_ACD03AD74EF4-1.jpeg\" width=\"1000\"><img src=\"IMG_ACD03AD74EF4-1.jpeg\" width=\"1000\"><br></div>"
                                     ],
                                     "guid": "MS8J}dcf/T",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3826,7 +3825,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "\nWas machen die B - Zellen der Langerhans‘schen Insel &amp; wo findet man sie überwiegend?",
-                                        "<div>- Ort: Recht gleichmäßig innerhalb der Insel verteilt mit Tendenz zur gruppierten Anordnung \n\n</div>- Hormon: Insulin<br>- Ausschüttung:<br><div>- Anteil: 70-80%</div><div>- Wirkung: Senkt Blutzuckerspiegel → Beschleunigt Glucoseaufnahme in Zellen</div><div><br></div><div><img src=\"IMG_ACD03AD74EF4-1.jpeg\"><br></div>"
+                                        "<div>- Ort: Recht gleichmäßig innerhalb der Insel verteilt mit Tendenz zur gruppierten Anordnung \n\n</div>- Hormon: Insulin<br>- Ausschüttung:<br><div>- Anteil: 70-80%</div><div>- Wirkung: Senkt Blutzuckerspiegel → Beschleunigt Glucoseaufnahme in Zellen</div><div><img src=\"IMG_ACD03AD74EF4-1.jpeg\" width=\"1000\"><br></div>"
                                     ],
                                     "guid": "MhHEu.<|%u",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3836,7 +3835,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "\nWas machen die D - Zellen der Langerhans‘schen Insel &amp; wo findet man sie überwiegend?",
-                                        "- Ort: Inselperipherie<div>- Hormon: Somatostatin</div><div>- Ausschüttung:&nbsp;</div><div>- Anteil: 5%</div><div>-Wirkung: Hemmt → Hemmt GHIH und exokrine Drüsen; Hemmt auch Glucagon und damit Blutzuckerspiegel</div><div><br></div><div><img src=\"IMG_ACD03AD74EF4-1.jpeg\"><br></div>"
+                                        "- Ort: Inselperipherie<div>- Hormon: Somatostatin</div><div>- Ausschüttung:&nbsp;</div><div>- Anteil: 5%</div><div>-Wirkung: Hemmt → Hemmt GHIH und exokrine Drüsen; Hemmt auch Glucagon und damit Blutzuckerspiegel</div><div><br></div><div><img src=\"IMG_ACD03AD74EF4-1.jpeg\" width=\"1000\"><br></div>"
                                     ],
                                     "guid": "m[<@!#9{I+",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3846,7 +3845,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "\nWas machen die PP - Zellen der Langerhans‘schen Insel &amp; wo findet man sie überwiegend?",
-                                        "- Ort: gleichmäßig Innerhalb der Insel verteilt<div>- Hormon: Pankreatisches Polypeptid</div><div>- Ausschüttung: bei eiweißreicher Nahrung</div><div>- Anteil: 1-2%</div><div>- Wirkung: Sättigungsgefühl; Hemmt exokrine Pankreas; Bewirkt Relaxtion der Gallenblase; Fördert Salzsäurebildung im Magen</div><div><br></div><div><img src=\"IMG_ACD03AD74EF4-1.jpeg\"><br></div>"
+                                        "- Ort: gleichmäßig Innerhalb der Insel verteilt<div>- Hormon: Pankreatisches Polypeptid</div><div>- Ausschüttung: bei eiweißreicher Nahrung</div><div>- Anteil: 1-2%</div><div>- Wirkung: Sättigungsgefühl; Hemmt exokrine Pankreas; Bewirkt Relaxtion der Gallenblase; Fördert Salzsäurebildung im Magen</div><div><br></div><div><img src=\"IMG_ACD03AD74EF4-1.jpeg\" width=\"1000\"><br></div>"
                                     ],
                                     "guid": "Hw,{!Ehx.C",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3855,7 +3854,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Welche Verdauungsenzyme gibt der Pankreas ab?",
+                                        "Welche Verdauungsenzyme gibt das Pankreas ab?",
                                         "Eiweißspaltend: Trypsin, Chymotrypsin, Carboxypeptidase, Elastase<div><br></div><div>Fettspaltend: Pankreaslipase, Phospholipase, Esterasen</div><div><br></div><div>Kohlenhydratspaltend:&nbsp;α-Amylase</div>"
                                     ],
                                     "guid": "BxTY0%C)xE",
@@ -3905,8 +3904,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"paste-6b5d1b6e074a8a106d943a6462c4595c73ae3718.png\">",
-                                        "<b>Pankreas - Gomori Färbung (für endokrinen Teil insb. B-Zellen)</b><div><b><br></b></div><div><img src=\"paste-3ec145060b0636a75e81e3e032606152cff8ec81.png\"><b><br></b></div><div><br></div><div><br></div><div><img src=\"paste-66282bc385ff198b7798aa199af000fbe0fb7e34.png\"><br></div>"
+                                        "<img src=\"paste-6b5d1b6e074a8a106d943a6462c4595c73ae3718.png\" width=\"1000\">",
+                                        "<b>Pankreas - Gomori Färbung (für endokrinen Teil insb. B-Zellen)</b><div><b><br></b></div><div><img src=\"paste-3ec145060b0636a75e81e3e032606152cff8ec81.png\" width=\"1000\"><b><br></b></div><div><img src=\"paste-66282bc385ff198b7798aa199af000fbe0fb7e34.png\" width=\"1000\"><br></div>"
                                     ],
                                     "guid": "DG?>;t4~n-",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4044,7 +4043,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Milzsinus",
-                                        "- Blutgefäß (Blut das über Kapillaren in offenen Kreislauf eintritt wird durch Pulpastränge zum Sinus geleitet<br>- relativ weitlumig<br>- lang gestreckte Endothelzellen<br>- keine Basalmembran<br>- in den Pulpasträngen (die das Blut) da hin leiten werden durch makrophagen bereits alte Erythrozyten abgebaut<br><br><img src=\"IMG_8698247D9845-1.jpeg\">"
+                                        "- Blutgefäß (Blut das über Kapillaren in offenen Kreislauf eintritt wird durch Pulpastränge zum Sinus geleitet)<br>- relativ weitlumig<br>- lang gestreckte Endothelzellen<br>- keine Basalmembran<br>- in den Pulpasträngen (die das Blut) dahin leiten werden durch Makrophagen bereits alte Erythrozyten abgebaut<br><br><img src=\"IMG_8698247D9845-1.jpeg\" width=\"1000\">"
                                     ],
                                     "guid": "M&y}/?djd[",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4093,8 +4092,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"IMG_0F876E165D8E-1.jpeg\">",
-                                        "<img src=\"IMG_0ADD522E245F-1.jpeg\"><br><br><img src=\"IMG_595479E74CB8-1.jpeg\">"
+                                        "<img src=\"IMG_0F876E165D8E-1.jpeg\" width=\"1000\">",
+                                        "<img src=\"IMG_0ADD522E245F-1.jpeg\" width=\"1000\"><br><img src=\"IMG_595479E74CB8-1.jpeg\" width=\"1000\">"
                                     ],
                                     "guid": "A`ZMdNK]Yv",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4104,7 +4103,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Welche Zellen finde ich im Thymus?",
-                                        "- Hassall-Körperchen<br>- unreife T-Lymphozyten (Tymozyten)<br>- Makrophagen<br>- Epithelzellen <br>- interdigitierende dendritische Retikulumzellen<br><br><img src=\"IMG_DFBAE041E29B-1.jpeg\">"
+                                        "- Hassall-Körperchen<br>- unreife T-Lymphozyten (Thymozyten)<br>- Makrophagen<br>- Epithelzellen <br>- interdigitierende dendritische Retikulumzellen<br><br><img src=\"IMG_DFBAE041E29B-1.jpeg\">"
                                     ],
                                     "guid": "cUq<6%f4O^",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4252,7 +4251,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Entwicklung Mamma",
-                                                "<div style=\"text-align: justify;\">-&nbsp; entsteht aus Milchleiste (Epithelstrang beidseitig von Axilla bis Leistenbeuge)</div><div style=\"text-align: justify;\">- Aus zwei verbleibenden Epithelknospen sprossen bis zur geburt Milchgänge in die Subkutis</div><div style=\"text-align: justify;\">- verzweigen sich während der Kindheit weiter (bis Terminalductus (es bilden sich kaum Lobuli)</div><div style=\"text-align: justify;\">- männliche Brust bleibt so&nbsp;</div><div style=\"text-align: justify;\">- weibliche Brust: Zunahme des Stromas &amp; Proliferation des Gangsystems mit Pubertät</div>"
+                                                "<div style=\"text-align: justify;\">- entsteht aus Milchleiste (Epithelstrang beidseitig von Axilla bis Leistenbeuge)</div><div style=\"text-align: justify;\">- Aus zwei verbleibenden Epithelknospen sprossen bis zur Geburt Milchgänge in die Subkutis</div><div style=\"text-align: justify;\">- verzweigen sich während der Kindheit weiter (bis Terminalductus (es bilden sich kaum Lobuli)</div><div style=\"text-align: justify;\">- männliche Brust bleibt so&nbsp;</div><div style=\"text-align: justify;\">- weibliche Brust: Zunahme des Stromas &amp; Proliferation des Gangsystems mit Pubertät</div>"
                                             ],
                                             "guid": "AF#YYG{1/s",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4272,7 +4271,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Lobulus einer Mamma",
-                                                "- alle Endstücke, die zu einem Terminalductus gehören<br>- Terminalductus + Lobulus = Funktionseinheit der Brustdrüse (TDLE)<br>- TDLE ist besonders für Pathophysiologie wichtig<br><br><img src=\"IMG_8D5541B2E07C-1.jpeg\"><br>"
+                                                "- alle Endstücke, die zu einem Terminalductus gehören<br>- Terminalductus + Lobulus = Funktionseinheit der Brustdrüse (TDLE)<br>- TDLE ist besonders für Pathophysiologie wichtig<br><br><img src=\"IMG_8D5541B2E07C-1.jpeg\" width=\"1000\"><br>"
                                             ],
                                             "guid": "lT}&`qT5~5",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4369,7 +4368,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Oogenese",
-                                                "<div style=\"text-align: justify;\"><b>Vor geburt</b><br></div><div style=\"text-align: justify;\">- Urkeimzellen wandern in Gonadenanlagen ein</div><div style=\"text-align: justify;\">- Differnzierung zur Oogonie</div><div style=\"text-align: justify;\">- Oogonieen treten in Mitose ein und vermehren sich</div><div style=\"text-align: justify;\">- Oogonieen verdoppeln DNA (als Vorbereitung auf Meiose)</div><div style=\"text-align: justify;\">- werden ab dann Oocyte 1 genannt</div><div style=\"text-align: justify;\">- Eintritt in die Meiose I</div><div style=\"text-align: justify;\">- Unterbrechung in Prophase 1</div><div style=\"text-align: justify;\">- hier hat jede Oocyte eine eigene Hülle (= Primordialfollikel)</div><div style=\"text-align: justify;\">- ab hier ist die Bildung von Primordialfollikeln abgeschlossen&nbsp;</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Mit Eintritt in Pubertät</b></div></b><div style=\"text-align: justify;\">- Oocyte I vollendet Meiose I</div><div style=\"text-align: justify;\">- es entsteht die Oocyte II</div><div style=\"text-align: justify;\">- Oocyte II beginnt während der Ovulation mit Meiose II</div><div style=\"text-align: justify;\">- Stop in Metaphase (wird nur bei Befruchtung beendet)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_0F88CD21AC1E-1.jpeg\"><br></div>"
+                                                "<div style=\"text-align: justify;\"><b>Vor Geburt</b><br></div><div style=\"text-align: justify;\">- Urkeimzellen wandern in Gonadenanlagen ein</div><div style=\"text-align: justify;\">- Differnzierung zur Oogonie</div><div style=\"text-align: justify;\">- Oogonieen treten in Mitose ein und vermehren sich</div><div style=\"text-align: justify;\">- Oogonieen verdoppeln DNA (als Vorbereitung auf Meiose)</div><div style=\"text-align: justify;\">- werden ab dann Oocyte 1 genannt</div><div style=\"text-align: justify;\">- Eintritt in die Meiose I</div><div style=\"text-align: justify;\">- Unterbrechung in Prophase 1</div><div style=\"text-align: justify;\">- hier hat jede Oocyte eine eigene Hülle (= Primordialfollikel)</div><div style=\"text-align: justify;\">- ab hier ist die Bildung von Primordialfollikeln abgeschlossen&nbsp;</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Mit Eintritt in Pubertät</b></div></b><div style=\"text-align: justify;\">- Oocyte I vollendet Meiose I</div><div style=\"text-align: justify;\">- es entsteht die Oocyte II</div><div style=\"text-align: justify;\">- Oocyte II beginnt während der Ovulation mit Meiose II</div><div style=\"text-align: justify;\">- Stop in Metaphase (wird nur bei Befruchtung beendet)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_0F88CD21AC1E-1.jpeg\" width=\"1000\"><br></div>"
                                             ],
                                             "guid": "/K]CwxrSn",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4389,7 +4388,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Histologische veränderungen während der Reifung im Ovar",
-                                                "<b>Primordialfollikel:</b><br>- Epithel: flach &amp; einschichtig<br><br><b>Primärfollikel</b><br>- Epithel: einschichtig isoprismatisch<br>- Basalmembran wird erkennbarer<br>- Zona pullucida deutet sich an&nbsp;<br><br><b>Sekundärfollikel</b><br>- Epithel: zweischichtig<br>- Zona pellucida wird deutlicher<br>- umgebende Stromazellen ordnen sich zirkulär um den Follikel = Theca folliculi<br><br><b>Tertiärfollikel</b><br>- 2-5 Schichtiges Epithel<br>- es entsteht ein Spaltraum (Antrum folliculare)<br>&nbsp; &nbsp;→ Eizelle bleibt an einem Pol und wird weiterhin von Granulosazellen umhüllt (Granulosazellen = Corona radiata)<br>- Theca folliculare entwickelt sich zu Theca interna &amp; externa<br><br><br><img src=\"IMG_2D4E4BACF4DA-1.jpeg\">"
+                                                "<b>Primordialfollikel:</b><br>- Epithel: flach &amp; einschichtig<br><br><b>Primärfollikel</b><br>- Epithel: einschichtig isoprismatisch<br>- Basalmembran wird erkennbarer<br>- Zona pullucida deutet sich an&nbsp;<br><br><b>Sekundärfollikel</b><br>- Epithel: zweischichtig<br>- Zona pellucida wird deutlicher<br>- umgebende Stromazellen ordnen sich zirkulär um den Follikel = Theca folliculi<br><br><b>Tertiärfollikel</b><br>- 2-5 Schichtiges Epithel<br>- es entsteht ein Spaltraum (Antrum folliculare)<br>&nbsp; &nbsp;→ Eizelle bleibt an einem Pol und wird weiterhin von Granulosazellen umhüllt (Granulosazellen = Corona radiata)<br>- Theca folliculare entwickelt sich zu Theca interna &amp; externa<br><br><br><img src=\"IMG_2D4E4BACF4DA-1.jpeg\" width=\"1000\">"
                                             ],
                                             "guid": "jopHGIpRt9",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4409,7 +4408,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Corpus luteum",
-                                                "- bleibt nach Eisprung im Ovar zurück<br>- wird aus Follikelepithel &amp; Theca interna gebildet<br>- ist eine endokrine Drüse (synthetisiert Progesteron)<br><br><b>Corpus luteum menstruation</b><br>- Bei ausbleibender Befruchtung geht das Corpus luteum zurück (Corpus albicans)<br>- Progesteron fällt<br>- Stratum functionale wird abgestoßen<br><br><b>Corpus luteum graviditatis</b><br>- bei Befruchtung wird weiter Progesteron produziert<br>- geht im 3. - 4. Schwangerschaftsmonat ins Corpus albicans über<br><br><img src=\"paste-a0488231fc6cc4183b7dc766a258e038f6fb30d1.png\"><br><img src=\"IMG_6C96986910AF-1.jpeg\">"
+                                                "- bleibt nach Eisprung im Ovar zurück<br>- wird aus Follikelepithel &amp; Theca interna gebildet<br>- ist eine endokrine Drüse (synthetisiert Progesteron)<br><br><b>Corpus luteum menstruation</b><br>- Bei ausbleibender Befruchtung geht das Corpus luteum zurück (Corpus albicans)<br>- Progesteron fällt<br>- Stratum functionale wird abgestoßen<br><br><b>Corpus luteum graviditatis</b><br>- bei Befruchtung wird weiter Progesteron produziert<br>- geht im 3. - 4. Schwangerschaftsmonat ins Corpus albicans über<br><br><img src=\"paste-a0488231fc6cc4183b7dc766a258e038f6fb30d1.png\" width=\"1000\"><br><img src=\"IMG_6C96986910AF-1.jpeg\" width=\"1000\">"
                                             ],
                                             "guid": "Co*.RBU]7R",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4492,7 +4491,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Aufbau der Plazenta",
-                                                "<div style=\"text-align: justify;\">- Chorionplatte: Fetalteil</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ von hier aus wachsen Zottenbäume</div><div style=\"text-align: justify;\">- Basalplatte / Dezidua: Mütterlicher Teil</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ von hier aus BG-Septen (Zwischenraum = Kotyledon)</div><div style=\"text-align: justify;\">- Blut wird aus Spiralarterien in Intervillösen Raum gepumpt, trifft an Chorionplatte und fällt zurück &amp; umspült Zottenbäumchen</div><br><br><img src=\"Bildschirmfoto 2023-05-16 um 19.01.22.png\"><br>"
+                                                "<div style=\"text-align: justify;\">- Chorionplatte: Fetalteil</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ von hier aus wachsen Zottenbäume</div><div style=\"text-align: justify;\">- Basalplatte / Dezidua: Mütterlicher Teil</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ von hier aus BG-Septen (Zwischenraum = Kotyledon)</div><div style=\"text-align: justify;\">- Blut wird aus Spiralarterien in Intervillösen Raum gepumpt, trifft an Chorionplatte und fällt zurück &amp; umspült Zottenbäumchen</div><div style=\"text-align: justify;\"><br></div><img src=\"Bildschirmfoto 2023-05-16 um 19.01.22.png\" width=\"1000\"><br>"
                                             ],
                                             "guid": "cM.~c!a1[F",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -4691,8 +4690,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Was sind Stiftchenzellen?",
-                                                "- erschöpfte seröse Zellen<br>- ihre Zellleiber drängen sich gegen das Lumen hervor"
+                                                "Was und wo sind Stiftchenzellen?",
+                                                "- erschöpfte seröse Zellen in der Tuba uterina<br>- ihre Zellleiber drängen sich gegen das Lumen hervor"
                                             ],
                                             "guid": "v>2N*k]&1h",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4731,8 +4730,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<img src=\"IMG_B1B981341616-1.jpeg\">",
-                                                "<b>Tuba uterina (81) - H.E&nbsp;</b><i>(Querschnitt)</i><br><br><img src=\"IMG_E3499E40640B-1.jpeg\"><img src=\"IMG_50D27CB50BD8-1.jpeg\">"
+                                                "<img src=\"IMG_B1B981341616-1.jpeg\" width=\"1000\">",
+                                                "<b>Tuba uterina (81) - H.E&nbsp;</b><i>(Querschnitt)</i><br><br><img src=\"IMG_E3499E40640B-1.jpeg\" width=\"1000\"><img src=\"IMG_50D27CB50BD8-1.jpeg\" width=\"1000\">"
                                             ],
                                             "guid": "uvJlRk+%(t",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -5295,8 +5294,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Cavokavale anastomosen an der ventralen Rumpfwand",
-                                                "<img src=\"IMG_44943823474A-1.jpeg\">"
+                                                "Cavokavale Anastomosen an der ventralen Rumpfwand",
+                                                "<img src=\"IMG_44943823474A-1.jpeg\" width=\"1000\">"
                                             ],
                                             "guid": "t>0H.6PCa=",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -5835,12 +5834,12 @@
                                                 "<img src=\"Bildschirmfoto 2023-04-27 um 12.18.04.png\">",
                                                 "<img src=\"967930b8249d4fffacb27278742f4427-ao-16-Q.svg\">",
                                                 "",
-                                                "- liegt höher als die rechte (wegen der Leber)<br>- ist mittes des lig. phrenicocolicum am Diaphragma befestigt<br>- bildet den Boden der Milznische<br>- Im linken Drittel: Cannon-Böhm Punkt",
+                                                "- liegt höher als die rechte (wegen der Leber)<br>- ist mitte des Lig. phrenicocolicum am Diaphragma befestigt<br>- bildet den Boden der Milznische<br>- Im linken Drittel: Cannon-Böhm Punkt",
                                                 "",
                                                 "",
                                                 "",
                                                 "<img src=\"967930b8249d4fffacb27278742f4427-ao-16-A.svg\">",
-                                                "<img src=\"967930b8249d4fffacb27278742f4427-ao-O.svg\" />"
+                                                "<img src=\"967930b8249d4fffacb27278742f4427-ao-O.svg\">"
                                             ],
                                             "guid": "szCT:d=^lQ",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -6098,12 +6097,12 @@
                                                 "<img src=\"IMG_16A1A2E2BDBE-1.jpeg\" />",
                                                 "<img src=\"ea592c8dcbbd41959a2e50ed4f40b01f-ao-2-Q.svg\" />",
                                                 "",
-                                                "- stärkste Fotsetzung des stratum circulare<br>- glatte Muskulatur<br>- sein unterer rand: Linea anocutanea ist tastbar<br>- steht unter Dauerkontraktion<br>- sympathisch innerviert (Überwiegend)<br>- wenn parasympathische Innervation stärker wird und überwiegt relaxiert der Muskel<br>- garantiert Kontinenz zu größtem Teil",
+                                                "- stärkste Fotsetzung des stratum circulare<br>- glatte Muskulatur<br>- sein unterer Rand: Linea anocutanea ist tastbar<br>- steht unter Dauerkontraktion<br>- sympathisch innerviert (Überwiegend)<br>- wenn parasympathische Innervation stärker wird und überwiegt relaxiert der Muskel<br>- garantiert Kontinenz zu größtem Teil",
                                                 "",
                                                 "",
                                                 "",
                                                 "<img src=\"ea592c8dcbbd41959a2e50ed4f40b01f-ao-2-A.svg\">",
-                                                "<img src=\"ea592c8dcbbd41959a2e50ed4f40b01f-ao-O.svg\" />"
+                                                "<img src=\"ea592c8dcbbd41959a2e50ed4f40b01f-ao-O.svg\">"
                                             ],
                                             "guid": "IyFk=n[?rD",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -6313,7 +6312,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Innervation des Rektum",
-                                                "<u>M. Sphinkter ani internus/M. Coggygeus/Canalis analis:</u> Sympathikus (exzitatorich) &amp; Parasympathikus (inhibitorisch)<div><u>M. Sphincter ani externus und der M. puborectalis (aus levatos ani)</u>: N. pudendus ! also willkürlich !&nbsp;<br></div><div><br></div><div><img src=\"paste-2d5489475aa587a8329ba11e378d2870c8f8dee4.png\"><br><div><br></div></div>"
+                                                "<u>M. Sphinkter ani internus/M. Coggygeus/Canalis analis:</u> Sympathikus (exzitatorich) &amp; Parasympathikus (inhibitorisch)<div><u>M. Sphincter ani externus und der M. puborectalis (aus levatos ani)</u>: N. pudendus ! also willkürlich !&nbsp;<br></div><div><br></div><div><img src=\"paste-2d5489475aa587a8329ba11e378d2870c8f8dee4.png\" width=\"1000\"><br><div><br></div></div>"
                                             ],
                                             "guid": "OY|2dubBj4",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -6722,7 +6721,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Anteile am Dünndarmkonvolut Ileum &amp; jejunum",
+                                                "Anteile am Dünndarmkonvolut Ileum &amp; Jejunum",
                                                 "Jejunum: 2/5<div>Ileum: 3/5</div>"
                                             ],
                                             "guid": "g&Hj4bEQbd",
@@ -6823,7 +6822,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Entwicklung &amp; Entstehung Caecum &amp; Appendix vermiformis",
-                                                "<div>- 6.Woche: im aboralen Teil der Nabelschleife stülpt sich eine Ausbuchtung der prospektiven Darmwand unter starkem Längenwachstum seitlich aus</div><div>- wächst nach lateral/kaudal</div><div>- 7.-8. Woche: Zipfeliger Fortsatz: Appendix vermiformis</div><div>- durch seitliche Ausstülpung entwickelt sich der Abschnitt zum Blind endenden Caecum</div><div>- Entwicklung Caecum findet außerhalb der Abdominalhöhle statt (letzter Teil der Rückverlagert wird)</div><img src=\"paste-4cd433439f7ffa7f33c6deb689265c5a638d469a.png\">"
+                                                "<div>- 6.Woche: im aboralen Teil der Nabelschleife stülpt sich eine Ausbuchtung der prospektiven Darmwand unter starkem Längenwachstum seitlich aus</div><div>- wächst nach lateral/kaudal</div><div>- 7.-8. Woche: Zipfeliger Fortsatz: Appendix vermiformis</div><div>- durch seitliche Ausstülpung entwickelt sich der Abschnitt zum Blind endenden Caecum</div><div>- Entwicklung Caecum findet außerhalb der Abdominalhöhle statt (letzter Teil der Rückverlagert wird)</div><img src=\"paste-4cd433439f7ffa7f33c6deb689265c5a638d469a.png\" width=\"1000\">"
                                             ],
                                             "guid": "L2V=NnpH9c",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -7919,7 +7918,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"c315fa31dc9a4bc9b9acaca9b60f7860-ao-4-A.svg\" />",
-                                                "<img src=\"c315fa31dc9a4bc9b9acaca9b60f7860-ao-O.svg\" />"
+                                                "<img src=\"c315fa31dc9a4bc9b9acaca9b60f7860-ao-O.svg\">"
                                             ],
                                             "guid": "wC4Frhbnp)",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -8073,7 +8072,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Omentum majus",
-                                                "Entwicklung: aus Mesogastrium dorsale (kommt durch Magendrehung nach vorne)<br><br>Verlauf:&nbsp;große Magerkurvertur bis Darmschlinge<br><br>Bänder:<br>- Lig. gastrosplenicum (mit Aa. gastricea breves &amp; A. gastroomentalis sinistra)<br>- Lig. gastrophrenicum<br>- Lig. gastrocolicum (mit A. gastroomentalis dextra &amp; sinistra = Gefäßbogen der großen Kurvatur)<br><br>- enthält außerdem Ansammlung von Lymphatischem Gewebe (Maculae lutea)<br>- frei beweglich<br><br>Arterielle Versorgung: Äste des Truncus coeliacus durch die Aa. gastroomentales&nbsp;<br>Venöser Abfluss: V. portae<br><br><br><img src=\"IMG_F69AF2A37CE3-1.jpeg\">"
+                                                "<b>Entwicklung:</b> <br>-aus Mesogastrium dorsale (kommt durch Magendrehung nach vorne)<br><b>Verlauf:</b>&nbsp;<br>-große Magerkurvertur bis Darmschlinge<br><b>Bänder:</b><br>- Lig. gastrosplenicum (mit Aa. gastricea breves &amp; A. gastroomentalis sinistra)<br>- Lig. gastrophrenicum<br>- Lig. gastrocolicum (mit A. gastroomentalis dextra &amp; sinistra = Gefäßbogen der großen Kurvatur)<br>- enthält außerdem Ansammlung von Lymphatischem Gewebe (Maculae lutea)<br>- frei beweglich<br><b>Arterielle Versorgung:</b> <br>- Äste des Truncus coeliacus durch die Aa. gastroomentales&nbsp;<br><b>Venöser Abfluss:</b> <br>- V. portae<br><img src=\"IMG_F69AF2A37CE3-1.jpeg\" width=\"1000\">"
                                             ],
                                             "guid": "w0XOnxADQL",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -8083,7 +8082,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Omentum minus",
-                                                "<div style=\"text-align: center;\"><b>Entwicklung:</b> Mesogastricum ventrale</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><b>Verlauf: </b>kleine Magenkurvertur zur Leber</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><b>Bänder:</b></div><div style=\"text-align: center;\">- Lig. hepatogastricum (mit A. gastrica dextra &amp; sinistra)</div><div style=\"text-align: center;\">&nbsp; &nbsp; &nbsp;→ Von Fissura Lig. venosi (Leber) zur kl. Kurvatur</div><div style=\"text-align: center;\">&nbsp; &nbsp; &nbsp;→ Kranialer fester Teil: Pars densa</div><div><div style=\"text-align: center;\">&nbsp; &nbsp; &nbsp;→ Caudaler zarter Teil: Pars flaccida&nbsp;</div><div style=\"text-align: center;\">- Lig. hepatoduodenale (mit Strukturen der Leberpforte:)</div><div style=\"text-align: center;\">&nbsp; &nbsp; &nbsp;→ links nach rechts: Ductuc choledochus, V. portae, A. hepatica propria</div><div style=\"text-align: center;\">&nbsp; &nbsp; &nbsp;→ begrenzt eingang zu Bursa omentalis (Foramen omentale)</div><div style=\"text-align: center;\">- Lig. hepatooesophageale</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">- hier läuft Gefäßbogen zur Versorgung der kleinen Magenkurvertur</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><img src=\"IMG_F69AF2A37CE3-1.jpeg\"></div></div>"
+                                                "<div style=\"text-align: center;\"><b>Entwicklung:</b> Mesogastricum ventrale</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><b>Verlauf: </b>kleine Magenkurvertur zur Leber</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><b>Bänder:</b></div><div style=\"text-align: center;\">- Lig. hepatogastricum (mit A. gastrica dextra &amp; sinistra)</div><div style=\"text-align: center;\">&nbsp; &nbsp; &nbsp;→ Von Fissura Lig. venosi (Leber) zur kl. Kurvatur</div><div style=\"text-align: center;\">&nbsp; &nbsp; &nbsp;→ Kranialer fester Teil: Pars densa</div><div><div style=\"text-align: center;\">&nbsp; &nbsp; &nbsp;→ Caudaler zarter Teil: Pars flaccida&nbsp;</div><div style=\"text-align: center;\">- Lig. hepatoduodenale (mit Strukturen der Leberpforte:)</div><div style=\"text-align: center;\">&nbsp; &nbsp; &nbsp;→ links nach rechts: Ductuc choledochus, V. portae, A. hepatica propria</div><div style=\"text-align: center;\">&nbsp; &nbsp; &nbsp;→ begrenzt eingang zu Bursa omentalis (Foramen omentale)</div><div style=\"text-align: center;\">- Lig. hepatooesophageale</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">- hier läuft Gefäßbogen zur Versorgung der kleinen Magenkurvertur</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><img src=\"IMG_F69AF2A37CE3-1.jpeg\" width=\"500\"></div></div>"
                                             ],
                                             "guid": "NJ_PRf?J05",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -8217,7 +8216,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "embryonale Entwicklung der Milz",
-                                                "<div style=\"text-align: justify;\"><b>5. Woche</b></div><div style=\"text-align: justify;\">- Milz entwickelt sich aus Mesenchymproliferation zwischen den beiden Blättern des Mesogastrium dorsale</div><div style=\"text-align: justify;\">- wird mit der Magendrehung nach links verlagert</div><div style=\"text-align: justify;\">- Mesogastrium dorsal der Milz → Lig. splenorenale (Milz mit Bauchwand)</div><div style=\"text-align: justify;\">- Mesogastrium ventral der Milzanlage → Lig. gastrosplenicum (Milzhilus und Magen (große Kurvatur))</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>4. Monat</b></div></b><div style=\"text-align: justify;\">- Lymphozytäre Besiedlung der milz</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>6. Monat</b></div></b><div style=\"text-align: justify;\">- Lymphfolikel sind erkennbar</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_22B55456CA18-1.jpeg\"></div>"
+                                                "<div style=\"text-align: justify;\"><b>5. Woche</b></div><div style=\"text-align: justify;\">- Milz entwickelt sich aus Mesenchymproliferation zwischen den beiden Blättern des Mesogastrium dorsale</div><div style=\"text-align: justify;\">- wird mit der Magendrehung nach links verlagert</div><div style=\"text-align: justify;\">- Mesogastrium dorsal der Milz → Lig. splenorenale (Milz mit Bauchwand)</div><div style=\"text-align: justify;\">- Mesogastrium ventral der Milzanlage → Lig. gastrosplenicum (Milzhilus und Magen (große Kurvatur))</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>4. Monat</b></div></b><div style=\"text-align: justify;\">- Lymphozytäre Besiedlung der milz</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>6. Monat</b></div></b><div style=\"text-align: justify;\">- Lymphfolikel sind erkennbar</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_22B55456CA18-1.jpeg\" width=\"1000\"></div>"
                                             ],
                                             "guid": "u%/TFQ{YtS",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -8307,7 +8306,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Arterielle Versorgung der Milz",
-                                                "- A. splenica (aus Truncus coeliacus)&nbsp;→ Trabekel-/ bzw.&nbsp;Balkenarterien&nbsp;→ Zentralarterie&nbsp;\n\n→&nbsp; Pinselarteriole&nbsp;\n\n→&nbsp; Endkapillaren<br>- läuft kranial des Pankreas im Lig. splenorenale zum Milzhilus<div><br></div><div><img src=\"paste-76d5632ec1b00ec8dd53c9b95dd366136fd7b632.png\"><br></div>"
+                                                "- A. splenica (aus Truncus coeliacus)&nbsp;→ Trabekel-/ bzw.&nbsp;Balkenarterien&nbsp;→ Zentralarterie&nbsp;\n\n→&nbsp; Pinselarteriole&nbsp;\n\n→&nbsp; Endkapillaren<br>- läuft kranial des Pankreas im Lig. splenorenale zum Milzhilus<div><br></div><div><img src=\"paste-76d5632ec1b00ec8dd53c9b95dd366136fd7b632.png\" width=\"1000\"><br></div>"
                                             ],
                                             "guid": "i}W#51=H=4",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -8472,7 +8471,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Wie und wo liegt der pancreas",
+                                                "Wie und wo liegt das Pankreas",
                                                 "- sekundär retroperitoneal<br>- quer auf Höhe von LW 1-2"
                                             ],
                                             "guid": "BOUro3&#Sg",
@@ -8533,7 +8532,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "embryonale Entwicklung des Pankreas",
-                                                "<img src=\"Bildschirmfoto 2023-05-03 um 21.34.27.png\">"
+                                                "<img src=\"Bildschirmfoto 2023-05-03 um 21.34.27.png\" width=\"1000\">"
                                             ],
                                             "guid": "s}1a*8gZ~@",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -8735,7 +8734,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Drei \"Etagen\" des Beckenbodens",
-                                                "<div style=\"text-align: justify;\"><b>1. Diaphragma pelvis</b></div><div style=\"text-align: justify;\">&nbsp; &nbsp;→ M. levator ani</div><div style=\"text-align: justify;\">&nbsp; &nbsp;→ M. coccygeus</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>2. Diaphragma urogenitalie</b></div></b><div style=\"text-align: justify;\">&nbsp; &nbsp;→ M. transversus perinei profundus</div><div style=\"text-align: justify;\">&nbsp; &nbsp;→ M. transversus perinei superficialis</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>3. Schließmuskeln &amp; Schwellkörper des Urogenitaltrakts</b></div></b><div style=\"text-align: justify;\">&nbsp; &nbsp;→ M. bulbospongiosus</div><div style=\"text-align: justify;\">&nbsp; &nbsp;→ M. ischiocavernosus</div><div style=\"text-align: justify;\">&nbsp; &nbsp;→ M. sphinkter ani externus</div><br><br><img src=\"IMG_92E1DF15CA73-1.jpeg\"><br>"
+                                                "<div style=\"text-align: justify;\"><b>1. Diaphragma pelvis</b></div><div style=\"text-align: justify;\">&nbsp; &nbsp;→ M. levator ani</div><div style=\"text-align: justify;\">&nbsp; &nbsp;→ M. coccygeus</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>2. Diaphragma urogenitalie</b></div></b><div style=\"text-align: justify;\">&nbsp; &nbsp;→ M. transversus perinei profundus</div><div style=\"text-align: justify;\">&nbsp; &nbsp;→ M. transversus perinei superficialis</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>3. Schließmuskeln &amp; Schwellkörper des Urogenitaltrakts</b></div></b><div style=\"text-align: justify;\">&nbsp; &nbsp;→ M. bulbospongiosus</div><div style=\"text-align: justify;\">&nbsp; &nbsp;→ M. ischiocavernosus</div><div style=\"text-align: justify;\">&nbsp; &nbsp;→ M. sphinkter ani externus</div><br><br><img src=\"IMG_92E1DF15CA73-1.jpeg\" width=\"1000\"><br>"
                                             ],
                                             "guid": "A5U;?><>&8",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -9190,7 +9189,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Entwicklung des Harnleiters",
-                                                "Entsteht aus Stiel der Ureterknospe am Wolff-Gang"
+                                                "Entsteht aus Stiel der Ureterknospe am Wolff-Gang<br><img alt=\"Embryologie des Urogenitalsystems | SpringerLink\" src=\"https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-642-41168-7_183-2/MediaObjects/313759_0_De_183-2_Fig1_HTML.png\">"
                                             ],
                                             "guid": "htS)8TfguD",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -9250,7 +9249,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Blutversorgung Harnleiter",
-                                                "<b>Pars abdominalis:</b> A. renalis<br><br><b>Pars pelvica:</b><br>- Mann: A. testicularis<br>- Frau: A. ovarica<br><br><b>Pars intramuralis:</b> A. vesicalis superior &amp; …<br>- Mann: Äste der A. vesicalis inf<br>- Frau: A. uterina<br><br><br>Venen laufen und heißen genau so"
+                                                "<b>Pars abdominalis:</b> A. renalis → Aorta abdominalis<br><br><b>Pars pelvica:</b><br>- Mann: A. testicularis → Aorta Abdominalis<br>- Frau: A. ovarica&nbsp;→ Aorta Abdominalis<br><br><b>Pars intramuralis:</b> <br>A. vesicalis superior &amp; …&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;→ A. umbilicalis → A. iliaca interna&nbsp;<br>- Mann: Äste der A. vesicalis inf<br>- Frau: A. uterina<br><br><br>Venen laufen und heißen genau so"
                                             ],
                                             "guid": "syF#,hSY;U",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -9339,7 +9338,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "4 Abschnitte der Harnröhre bei Männern",
-                                                "<b>Pars intramuralis</b><br>- innerhalb der Muskulatur der Blasenwand<br><br><b>Pars prostatica</b><br>- 3-4 cm lang<br>- weitester teil der Harnröhre<br>- hier münden Ausführungsgänge der Prostata<br>- Ductus ejaculatorii (Samenbläschen zsm mit ductus deferens)<br><br><b>Pars membranancea</b><br>- 1-2 cm lang<br>- tritt durch den Beckenboden<br>- vom M. sphinkter urethrale externus<br>- 3 mm durchmesser (engster Teil)<br><br><b>Pars spongiosa</b><br>- zieht durch Bulbus &amp; corpus spongiosum des Penis<br>- endet am Ostium urethrae externus<br>- Lacunae urethrales&nbsp;<br>- mündung Gl. urethrales &amp; Gl. bulbourethrales<br><br><img src=\"IMG_C0D05D5C717E-1 2.jpeg\">"
+                                                "<b>Pars intramuralis</b><img src=\"IMG_C0D05D5C717E-1 2.jpeg\" width=\"500\" style=\"float: right;\"><br>- innerhalb der Muskulatur der Blasenwand<br><br><b>Pars prostatica</b><br>- 3-4 cm lang<br>- weitester teil der Harnröhre<br>- hier münden Ausführungsgänge der Prostata<br>- Ductus ejaculatorii (Samenbläschen zsm mit ductus deferens)<br><br><b>Pars membranancea</b><br>- 1-2 cm lang<br>- tritt durch den Beckenboden<br>- vom M. sphinkter urethrale externus<br>- 3 mm durchmesser (engster Teil)<br><br><b>Pars spongiosa</b><br>- zieht durch Bulbus &amp; corpus spongiosum des Penis<br>- endet am Ostium urethrae externus<br>- Lacunae urethrales&nbsp;<br>- mündung Gl. urethrales &amp; Gl. bulbourethrales<br><br>"
                                             ],
                                             "guid": "nr</67O:Zc",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -9730,7 +9729,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Grober Ablauf der embryonalentwicklung der Niere",
-                                                "<div style=\"text-align: justify;\"><b>1. Vorniere (Pronephros)</b></div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Entsteht 3. Woche &amp; Bildet sich ohne Funktionstätigkeit ab 4. Woche zurück&nbsp;</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- entsteht aus intermediärem Mesoderm im Halsbereich</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>2. Urniere (Mesonephros)</b></div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- nimmt zunächst Harnbildende Funktion auf</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- bildet sich dann aber bis auf Urnierengang zurück</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Entstehung: 4. Woche / Rückbildung: 6. Woche</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- entsteht aus intermediärem Mesoderm im thorakal- / Lumbalbereich</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- bleibender Wolff-Gang bildet Sammelrohre, NBKS &amp; Ureter</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>3. Nachniere (M</b><b>etanephros)</b></div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Bildung der funktionstüchtigen Niere</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Beginn ab 5. Embryonalwoche</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- entsteht aus intermediärem im Sakralbereich (metanephrogenes Blastem)</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Schließt sich mit NBKS &amp; Ureter zusammen (Ureterknospe (an Urharnleiter) wächst da rein und bildet die Sachen dann)</div>"
+                                                "<div style=\"text-align: justify;\"><b>1. Vorniere (Pronephros)</b><img alt=\"Embryologie des Urogenitalsystems | SpringerLink\" src=\"https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-642-41168-7_183-2/MediaObjects/313759_0_De_183-2_Fig1_HTML.png\" style=\"float: right;\" width=\"500\"></div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Entsteht 3. Woche &amp; Bildet sich ohne Funktionstätigkeit ab 4. Woche zurück&nbsp;</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- entsteht aus intermediärem Mesoderm im Halsbereich</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>2. Urniere (Mesonephros)</b></div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- nimmt zunächst Harnbildende Funktion auf</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- bildet sich dann aber bis auf Urnierengang zurück</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Entstehung: 4. Woche / Rückbildung: 6. Woche</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- entsteht aus intermediärem Mesoderm im thorakal- / Lumbalbereich</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- bleibender Wolff-Gang bildet Sammelrohre, NBKS &amp; Ureter</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>3. Nachniere (M</b><b>etanephros)</b></div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Bildung der funktionstüchtigen Niere</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Beginn ab 5. Embryonalwoche</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- entsteht aus intermediärem im Sakralbereich (metanephrogenes Blastem)</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;- Schließt sich mit NBKS &amp; Ureter zusammen (Ureterknospe (an Urharnleiter) wächst da rein und bildet die Sachen dann)</div>"
                                             ],
                                             "guid": "O.XCU=1%G>",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -9820,7 +9819,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Arterielle Versorgung der Nieren",
-                                                "- Aa. renales gehen links &amp; rechts rechtwinklig auf Höhe von L1 &amp; L2 aus Aorta abdominalis ab<br>- Rechts: A. renalis zieht hinter V. cava inferior zum Hilum<br>- Links: A. renalis läuft direkt zum Hilum<br><br><img src=\"IMG_9EEB134E5411-1.jpeg\">a"
+                                                "- Aa. renales gehen links &amp; rechts rechtwinklig auf Höhe von L1 &amp; L2 aus Aorta abdominalis ab<br>- Rechts: A. renalis zieht hinter V. cava inferior zum Hilum<br>- Links: A. renalis läuft direkt zum Hilum<br><br><img src=\"IMG_9EEB134E5411-1.jpeg\" width=\"1000\">"
                                             ],
                                             "guid": "ID;;8ek;x[",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -10096,7 +10095,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Aufbau des Hoden",
-                                                "- durch Septen der Tunica albuginea in ca. 350 Läppchen (pro hoden) geteilt<br>- Läppchen enthalten die Samenkanälchen (Tubuli seminiferi contori) → Spermatogenese<br>- dazwischen: Leydig-zellen für Androgenproduktion<br>- Tubuli seminiferi recti gehen ins rete testis über<br><br>Samen gelangen hier in den Nebenhoden (Speicher- &amp; Reifungsorgan)<br>- Ductuli efferentis testis<br>- Ductus epididymidis<br>- Ductus deferens<br><br><img src=\"IMG_57DB3545D699-1.jpeg\">"
+                                                "- durch Septen der Tunica albuginea in ca. 350 Läppchen (pro hoden) geteilt<br>- Läppchen enthalten die Samenkanälchen (Tubuli seminiferi contori) → Spermatogenese<br>- dazwischen: Leydig-zellen für Androgenproduktion<br>- Tubuli seminiferi recti gehen ins rete testis über<br><br>Samen gelangen hier in den Nebenhoden (Speicher- &amp; Reifungsorgan)<br>- Ductuli efferentis testis<br>- Ductus epididymidis<br>- Ductus deferens<br><br><img src=\"IMG_57DB3545D699-1.jpeg\" width=\"1000\">"
                                             ],
                                             "guid": "CBK&%LB2x@",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -10136,7 +10135,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Innervation des Hoden &amp; Nebenhoden",
-                                                "<b>Sensibel</b><br>- Nn. scrotales posteriores aus N. pudendus<br>- Nn. scrotales anteriores aus N. ilioinguinalis<br><br><b>Plexus testicularis</b><br>- Qualität der Fasern ist nicht ganz geklärt (wahrscheinlich sympathisch aber auch parasympathisch?)<br>- Fasern aus Plexus coeliacus &amp; intermesentericus<br>- und einige wenige Fasern aus Plexus hypogastricus<div><br></div><div><br></div><div><img src=\"paste-0b942dd0bc23fa40fa0f804780e20514f1989a52.png\"><br></div>"
+                                                "<b>Sensibel</b><br>- Nn. scrotales posteriores aus N. pudendus<br>- Nn. scrotales anteriores aus N. ilioinguinalis<br><br><b>Plexus testicularis</b><br>- Qualität der Fasern ist nicht ganz geklärt (wahrscheinlich sympathisch aber auch parasympathisch?)<br>- Fasern aus Plexus coeliacus &amp; intermesentericus<br>- und einige wenige Fasern aus Plexus hypogastricus<div><br></div><div><img src=\"paste-0b942dd0bc23fa40fa0f804780e20514f1989a52.png\"><br></div><div><br></div>"
                                             ],
                                             "guid": "CX%t9>@?{^",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -10186,7 +10185,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Descensus testis",
-                                                "<img src=\"Bildschirmfoto 2023-05-13 um 22.32.22.png\">"
+                                                "<img src=\"Bildschirmfoto 2023-05-13 um 22.32.22.png\" width=\"1000\">"
                                             ],
                                             "guid": "LB#5FK:R^*",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -10326,7 +10325,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Wo liegen die Gll. vesiculosa (und wie)",
-                                                "- sind fest mit der Rückseite der Harnblase verwachsen<br>- befinden sich unterhalb der Einmündungsstelle der Uretren<br>- liegen seitlich der Ampulla ductus deferentis<br><br>- liegt subperitoneal<br>- oberer teil der Bläschendrüsen ist von peritoneum bedeckt (kleidet die Excavatio rectovesicalis aus)<br>- überige Abschnitte besitzen kein Peritonealüberzug<br><br><br><img src=\"IMG_CC724197AE48-1.jpeg\">"
+                                                "- sind fest mit der Rückseite der Harnblase verwachsen<br>- befinden sich unterhalb der Einmündungsstelle der Uretren<br>- liegen seitlich der Ampulla ductus deferentis<br><br>- liegt subperitoneal<br>- oberer teil der Bläschendrüsen ist von peritoneum bedeckt (kleidet die Excavatio rectovesicalis aus)<br>- übrige Abschnitte besitzen kein Peritonealüberzug<br><br><br><img src=\"IMG_CC724197AE48-1.jpeg\">"
                                             ],
                                             "guid": "p|<reoVwGr",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -11215,7 +11214,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Gliederung des Uterus",
-                                                "<div style=\"text-align: justify;\"><b>Corpus uteri:&nbsp;</b></div><div style=\"text-align: justify;\">- obere 2/3 des uterus</div><div style=\"text-align: justify;\">- Vorderfläche an Harnblase (Facies vesicalis / anterior)</div><div style=\"text-align: justify;\">- Hinterfläche an Rektum (Facies intestinalis / posterior)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Fundus uteri</b></div><div style=\"text-align: justify;\">- höchster Punkt</div><div style=\"text-align: justify;\">- an Mündungsstellen der Tuba uterinae: Uterushorn</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Isthmus uteri</b></div><div style=\"text-align: justify;\">- Verengung am Übergang zum unteren Drittel</div><div style=\"text-align: justify;\">- besonders gut bei Frau die noch nie ein Kind geboren hat zu erkennen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Cervix uteri:</b></div><div style=\"text-align: justify;\">- ist nach hinten unten gerichtet</div><div style=\"text-align: justify;\">- innerer Muttermund nach Isthmus uteri (Ostium uteri inernum) mit Portio supravaginalis cervicis</div><div style=\"text-align: justify;\">- Äußerer Muttermund an Übergang zur Vagina (Ostium uteri externum) mit Portio vaginalis cervicis</div><div style=\"text-align: justify;\">- Zervikalkanal ist mit spindelförmigen Falten durchsetzt</div><div style=\"text-align: justify;\">- hier münden Gl cervicales (Schleimproduzierend) → verschließen mit ihrem Sekret den Cervikalkanal und bilden einen Schutz vor aufsteigenden Infektionen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"Bildschirmfoto 2023-05-15 um 22.08.27.png\"></div>"
+                                                "<div style=\"text-align: justify;\"><b>Corpus uteri:&nbsp;</b><img src=\"Bildschirmfoto 2023-05-15 um 22.08.27.png\" width=\"500\" style=\"float: right;\"></div><div style=\"text-align: justify;\">- obere 2/3 des uterus</div><div style=\"text-align: justify;\">- Vorderfläche an Harnblase (Facies vesicalis / anterior)</div><div style=\"text-align: justify;\">- Hinterfläche an Rektum (Facies intestinalis / posterior)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Fundus uteri</b></div><div style=\"text-align: justify;\">- höchster Punkt</div><div style=\"text-align: justify;\">- an Mündungsstellen der Tuba uterinae: Uterushorn</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Isthmus uteri</b></div><div style=\"text-align: justify;\">- Verengung am Übergang zum unteren Drittel</div><div style=\"text-align: justify;\">- besonders gut bei Frau die noch nie ein Kind geboren hat zu erkennen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><b>Cervix uteri:</b></div><div style=\"text-align: justify;\">- ist nach hinten unten gerichtet</div><div style=\"text-align: justify;\">- innerer Muttermund nach Isthmus uteri (Ostium uteri inernum) mit Portio supravaginalis cervicis</div><div style=\"text-align: justify;\">- Äußerer Muttermund an Übergang zur Vagina (Ostium uteri externum) mit Portio vaginalis cervicis</div><div style=\"text-align: justify;\">- Zervikalkanal ist mit spindelförmigen Falten durchsetzt</div><div style=\"text-align: justify;\">- hier münden Gl cervicales (Schleimproduzierend) → verschließen mit ihrem Sekret den Cervikalkanal und bilden einen Schutz vor aufsteigenden Infektionen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div>"
                                             ],
                                             "guid": "kFXc=gD`7]",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -11368,16 +11367,6 @@
                                                 "<b>Kranial:</b> Fornix vaginae (Scheidengewölbe) hier ist Portio vaginalis cervix eingebettet<br><b>Kaudal:</b> Spaltraum zwischen den kleinen Schamplippen Vestibulum vaginae<div><br></div><div><img src=\"paste-7e33da99b4aba44ea3e2980ede574bacabd581ef.png\"><br></div>"
                                             ],
                                             "guid": "b3Yc,be~}L",
-                                            "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "Vagina, Urethra &amp; Rektum treten sowohl durch das … als auch durch das …",
-                                                "Vagina, Urethra &amp; rektum treten sowohl durch das <b>Diaphragma pelvis</b> als auch durch das <b>Spatium perinei profundum </b><i>(Raum zwischen Facies diaphragmatica urogenitalis inferior &amp; Facies&nbsp;</i><i>diaphragmatica urogenitalis superior</i><i>)</i>"
-                                            ],
-                                            "guid": "sO3|ov[FBZ",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
                                             "tags": []
                                         },
@@ -11608,7 +11597,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Gliederung des Mediastinums",
-                                                "<div>1. Mediastinum superius: <i>kranial des Herzens (kleiner)</i></div><div><br></div><div>2. Mediastinum inferius:&nbsp;<i>Unterteilt den Herz beherbergenden Anteil in… (größer)</i></div><div>&nbsp; &nbsp; &nbsp;- Mediastinum anterius: <i>zwischen vorderer Brustwand und Herzbeutel</i></div><div>&nbsp; &nbsp; &nbsp;- Mediastinum medium: <i>der vom Herzbeutel umschlossene Raum</i></div><div>&nbsp; &nbsp; &nbsp;- Mediastinum posterius: <i>zwischen Herzbeutel und Wirbelsäule</i></div><div><br></div><div><img src=\"paste-ba50828465bf093fa9da1ac131f691a3b9d01417.png\"><br></div>"
+                                                "<div>1. Mediastinum superius: <i>kranial des Herzens (kleiner)</i></div><div><br></div><div>2. Mediastinum inferius:&nbsp;<i>Unterteilt den Herz beherbergenden Anteil in… (größer)</i></div><div>&nbsp; &nbsp; &nbsp;- Mediastinum anterius: <i>zwischen vorderer Brustwand und Herzbeutel</i></div><div>&nbsp; &nbsp; &nbsp;- Mediastinum medium: <i>der vom Herzbeutel umschlossene Raum</i></div><div>&nbsp; &nbsp; &nbsp;- Mediastinum posterius: <i>zwischen Herzbeutel und Wirbelsäule</i></div><div><br></div><div><img src=\"paste-ba50828465bf093fa9da1ac131f691a3b9d01417.png\" width=\"1000\"><br></div>"
                                             ],
                                             "guid": "LAp)Arv%8A",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -14395,7 +14384,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Entstehung des Herzschlauches",
-                                                "<img src=\"Bildschirmfoto 2023-05-06 um 18.06.10.png\">"
+                                                "<img src=\"Bildschirmfoto 2023-05-06 um 18.06.10.png\" width=\"1000\">"
                                             ],
                                             "guid": "J@IO&_<?6o",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -14675,7 +14664,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Taschenklappen",
-                                                "<div style=\"text-align: center;\">- keine Sehnenfäden</div><div style=\"text-align: center;\">- bestehen aus drei halbmondförmigen Teilen</div><div style=\"text-align: center;\">- verhindern Rückstrom des ventrikulär ausgeworfenen Blutes</div><div style=\"text-align: center;\">- haben an dem freien Rand jeder valva einen Nodulus valvulae semilunaris &amp; Lunula valvulae semilunaris (damit die ganz dicht abschließen)</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><u>Rechts:</u> Valva trunci pulmonalis</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><u>Links:</u> Valva aortae</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><img src=\"IMG_E672C5390A7D-1.jpeg\"></div>"
+                                                "<div style=\"text-align: center;\">- keine Sehnenfäden</div><div style=\"text-align: center;\">- bestehen aus drei halbmondförmigen Teilen</div><div style=\"text-align: center;\">- verhindern Rückstrom des ventrikulär ausgeworfenen Blutes</div><div style=\"text-align: center;\">- haben an dem freien Rand jeder valva einen Nodulus valvulae semilunaris &amp; Lunula valvulae semilunaris (damit die ganz dicht abschließen)</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><u>Rechts:</u> Valva trunci pulmonalis</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><u>Links:</u> Valva aortae</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><img src=\"IMG_E672C5390A7D-1.jpeg\" width=\"1000\"></div>"
                                             ],
                                             "guid": "fyl2|D]O>P",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -14694,7 +14683,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"a32dc3ab2b81404a829b6bf329884187-ao-1-A.svg\">",
-                                                "<img src=\"a32dc3ab2b81404a829b6bf329884187-ao-O.svg\" />"
+                                                "<img src=\"a32dc3ab2b81404a829b6bf329884187-ao-O.svg\">"
                                             ],
                                             "guid": "kO]1&.;l$R",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -15166,7 +15155,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Sympathische &amp; Parasympathische Versorgung des Herz",
-                                                "<div style=\"text-align: justify;\">- Plexus cardiacus&nbsp;</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ oberflächlicher Anteil (ventral der Aorta)</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ profunden Anteil (im Bereich des Sinus transversus pericardii)</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ aus Zervikalen &amp; Thorakalen Grenzstrangganglien<br></div><div style=\"text-align: justify;\">- Sympathisch: Ganglion cervicale Superior, Medium, inferior</div><div style=\"text-align: justify;\">- parasympathisch: N. vagus &amp; laryngeus recurrens</div><div style=\"text-align: justify;\">- Plexus zieht zu Sinus &amp; Av-Knoten</div><div style=\"text-align: justify;\">- leitet auch Schmerzen weiter</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_A7E7BA750353-1.jpeg\"><br></div>"
+                                                "<div style=\"text-align: justify;\">- Plexus cardiacus&nbsp;</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ oberflächlicher Anteil (ventral der Aorta)</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ profunden Anteil (im Bereich des Sinus transversus pericardii)</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ aus Zervikalen &amp; Thorakalen Grenzstrangganglien<br></div><div style=\"text-align: justify;\">- Sympathisch: Ganglion cervicale Superior, Medium, inferior</div><div style=\"text-align: justify;\">- parasympathisch: N. vagus &amp; laryngeus recurrens</div><div style=\"text-align: justify;\">- Plexus zieht zu Sinus &amp; Av-Knoten</div><div style=\"text-align: justify;\">- leitet auch Schmerzen weiter</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_A7E7BA750353-1.jpeg\" width=\"1000\"><br></div>"
                                             ],
                                             "guid": "rK0A0*Eh7J",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -18242,7 +18231,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Embryologie - Entstehung des respiratorischen Systems",
-                                                "<img src=\"paste-350a8be842476f7851b09864a5f255cf0f70568a.png\"><div><span style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0);\"><br></span><div><br></div><div><img src=\"paste-42cfda6ca93248234cbda0c1471e3bea17bec5c6.png\"><br></div></div>"
+                                                "<img src=\"paste-350a8be842476f7851b09864a5f255cf0f70568a.png\" width=\"1000\"><div><span style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0);\"><br></span><div><br></div><div><img src=\"paste-42cfda6ca93248234cbda0c1471e3bea17bec5c6.png\" width=\"1000\"><br></div></div>"
                                             ],
                                             "guid": "d$V_PSHDR9",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -18302,7 +18291,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Wie lässt sich die Pleura parietalis unterteilen?",
-                                                "<img src=\"paste-4109fd6191984eb0d86acd3cc7642a69569b8bd6.png\">"
+                                                "<img src=\"paste-4109fd6191984eb0d86acd3cc7642a69569b8bd6.png\" width=\"1000\">"
                                             ],
                                             "guid": "H7#<rzr{TV",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -18412,7 +18401,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Wann teilt sich die Trachea &amp; wie heißt diese Stelle?",
-                                                "- Auf Höhe des 4./5. Brustwirbels<div>- auf Höhe des Brustbeinwinkels (3. Rippe) (Angulus sterni)<br><div>- teilt sich an <b>Bifurcation tracheae </b>in die beiden Hauptbronchien (Bronchius principales)</div></div><div>- Teilungswinkel: 55°-70°</div>"
+                                                "- Auf Höhe des 4./5. Brustwirbels<div>- auf Höhe des Brustbeinwinkels (3. Rippe) (Angulus sterni)<br><div>- teilt sich an <b>Bifurcatio tracheae </b>in die beiden Hauptbronchien (Bronchius principales)</div></div><div>- Teilungswinkel: 55°-70°</div>"
                                             ],
                                             "guid": "e&OVW0Mjq{",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -18442,7 +18431,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Topografie Trachea",
-                                                "<div style=\"text-align: left;\">- wird an Ursprung von isthmus der Schilddrüse bedeckt</div><div style=\"text-align: left;\">- ventral der Trachea:&nbsp;</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;- Anfang: Thymus Fettkörper</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;- im Halsbereich: Truncus Brachiocephalica&nbsp;</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;- bei Bifurcation: Aortenbogen kreuzt (von vorne nach hinten)</div><div style=\"text-align: left;\">- Dorsal von Ösophagus begleitet</div><div style=\"text-align: left;\">- in Rinne zwischen Oesophagus und Trachea: rechts und links N. Laryngeus recurrens</div><div style=\"text-align: left;\"><br></div>"
+                                                "<div style=\"text-align: left;\">- wird an Ursprung von Isthmus der Schilddrüse bedeckt</div><div style=\"text-align: left;\">- ventral der Trachea:&nbsp;</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;- Anfang: Thymus Fettkörper</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;- im Halsbereich: Truncus Brachiocephalica&nbsp;</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;- bei Bifurcatio: Aortenbogen kreuzt (von vorne nach hinten)</div><div style=\"text-align: left;\">- Dorsal von Ösophagus begleitet</div><div style=\"text-align: left;\">- in Rinne zwischen Ösophagus und Trachea: rechts und links N. Laryngeus recurrens</div><div style=\"text-align: left;\"><br></div>"
                                             ],
                                             "guid": "iB)5LPR}~c",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -18472,7 +18461,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Wie ist die Trachea (Luftröhre) gegliedert?",
-                                                "<div style=\"text-align: left;\">1. Halsteil (pars cervicalis)</div><div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;- Trachealspange bis Apertura thoracis sup.</div><div style=\"text-align: left;\">2. Brustteil (Pars thoracica im Mediastinum superior)</div></div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;- von Apertura thoracis bis Bifurcatio</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">1. konduktiver Anteil: Bronchi principales bis Bronchioli terminales</div><div style=\"text-align: left;\">2. respiratorischer Anteil: Bronchioli respiratorii bis Alveoli pulmonis</div>"
+                                                "<div style=\"text-align: left;\">1. Halsteil (pars cervicalis)</div><div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;- Trachealspange bis Apertura thoracis sup.</div><div style=\"text-align: left;\">2. Brustteil (Pars thoracica im Mediastinum superior)</div></div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;- von Apertura thoracis bis Bifurcatio</div><div style=\"text-align: left;\">3. Extrapleural vs intrapleural</div><div style=\"text-align: left;\">1. konduktiver Anteil: Bronchi principales bis Bronchioli terminales</div><div style=\"text-align: left;\">2. respiratorischer Anteil: Bronchioli respiratorii bis Alveoli pulmonis</div>"
                                             ],
                                             "guid": "Mkx[OuRTJ,",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -18522,7 +18511,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Wie erkennt man im OP die Grenzen eines Lungensegments?",
-                                                "Um Lungenteile operativ zu entfernen, klemmt man daher die Segmentarterie ab, so dass sich das von ihr nicht mehr durchblutete Lungensegment verfärbt und optisch gegen das noch durchblutete Gewebe der Umgebung abzugrenzen ist. Auch eine sono­ grafische Darstellung des intrasegmentalen Blutstroms ist möglich"
+                                                "- Blutversorgung abklemmen (Vasa privata)<br>- auf Verfärbung warten"
                                             ],
                                             "guid": "lswFB%8C%D",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -18612,7 +18601,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Lymphabfluss der Lunge",
-                                                "<b>Innerhalb der Lunge:</b><br>Nll. intrapulmonales (in Lungengewebe)<br>Nll. bronchopulmonales (an Aufteilung der Lappenbronchien)<br><br><b>Außerhalb der Lunge:</b><br>Nll. tracheobronchiales inferiores &amp; superiores (Bifurcatio)<br>Nll. paratracheales<br><br><br><b>Peribronchiales netzwerk (größer)</b><br>- orientiert sich an Aufzweigung der Bronchien<br>- nimmt größten teil der Lunge auf<br><br><b>Subpleurale netzwerk (kleiner)</b><br>- nimmt Lymphe peripherer Lungenbezirke der Pleura visceralis auf<br><br><br><img src=\"IMG_A65F0685A29D-1.jpeg\">"
+                                                "<b>Innerhalb der Lunge:</b><br>Nll. intrapulmonales (in Lungengewebe)<br>Nll. bronchopulmonales (an Aufteilung der Lappenbronchien)<br><br><b>Außerhalb der Lunge:</b><br>Nll. tracheobronchiales inferiores &amp; superiores (Bifurcatio)<br>Nll. paratracheales<br><br><b>Peribronchiales netzwerk (größer)</b><br>- orientiert sich an Aufzweigung der Bronchien<br>- nimmt größten teil der Lunge auf<br><br><b>Subpleurale netzwerk (kleiner)</b><br>- nimmt Lymphe peripherer Lungenbezirke der Pleura visceralis auf<br><img src=\"IMG_A65F0685A29D-1.jpeg\">"
                                             ],
                                             "guid": "JFeT@<`x0k",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -18632,7 +18621,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Was ist der Musculus trachealis",
-                                                "<div style=\"text-align: left;\">- Bündel glatter muskulatur an Rückseite der Trachea</div><div style=\"text-align: left;\">- setzen im Bereich des Paries membranaceus am Perichondrium&nbsp;der Knorpelspangen (Cartilagines tracheales)&nbsp;der Trachea an</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\"><b>Aufbau</b></div><div style=\"text-align: left;\">- besteht aus zwei Schichten</div><div style=\"text-align: left;\">- eine klar ausgeprägten inneren Ringmuskelschicht</div><div style=\"text-align: left;\">- eine nur teilweise vorhandenen, schwach ausgeprägte äußere Längsmuskelschicht</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\"><b>Innervation</b> durch N. laryngeus recurrens</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\"><b>Funktion:</b> Kann durch Kontraktion das Lumen der Trachea verkleiner (v.a. beim abhusten von Fremdkörpern wichtig (weil kleineres Lumen = höhere Stromgeschwindigkeit)</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\"><img src=\"IMG_9564F1ADB4F8-1.jpeg\"><br></div>"
+                                                "<div style=\"text-align: left;\">- Bündel glatter Muskulatur an Rückseite der Trachea</div><div style=\"text-align: left;\">- setzen im Bereich des Paries membranaceus am Perichondrium&nbsp;der Knorpelspangen (Cartilagines tracheales)&nbsp;der Trachea an</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\"><b>Aufbau</b></div><div style=\"text-align: left;\">- besteht aus zwei Schichten</div><div style=\"text-align: left;\">- eine klar ausgeprägten inneren Ringmuskelschicht</div><div style=\"text-align: left;\">- eine nur teilweise vorhandenen, schwach ausgeprägte äußere Längsmuskelschicht</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\"><b>Innervation</b> durch N. laryngeus recurrens</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\"><b>Funktion:</b> Kann durch Kontraktion das Lumen der Trachea verkleiner (v.a. beim abhusten von Fremdkörpern wichtig (weil kleineres Lumen = höhere Stromgeschwindigkeit)</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\"><img src=\"IMG_9564F1ADB4F8-1.jpeg\"><br></div>"
                                             ],
                                             "guid": "A{3!tmbHw<",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -18980,7 +18969,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Aus welchen zusammenflüssen entsteht die V. cava superior",
-                                                "<img src=\"IMG_05AF4238692B-1.jpeg\">V. brachiocephalica dextra &amp; sinistra"
+                                                "V. brachiocephalica dextra &amp; sinistra<br><img src=\"IMG_05AF4238692B-1.jpeg\" width=\"1000\"><br><br>"
                                             ],
                                             "guid": "e8V%{*4RY2",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -19061,7 +19050,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Ösophagusengen",
-                                                "<b>Ösophagusmund (Constrictio pharyngooesophagealis)</b><br>- C6/7<br>- Durchmesser ca. 1,5 cm (engste der drei)<br>- echter Sphinkter (M constrictor pharyngis inferior &amp; zirkuläre Ösophagusmuskeln)<br><br><b>Aortenenge (Constrictio bronchoaortica)</b><br>- Th3-4<br>- Aortenbogen &amp; Bronchius principalis sinister drücken auf Ösophagus und schieben ihn etwas nach rechts<br><br><b>Zwerchfellenge (Constrictio diaphragmatica)<br></b>- Th10-11<br>- KEIN Sphinkter<br>- Ösophagus hat hier leichten Spielraum wird aber vom Diaphragma, dass sich zusammenzeihen kann durchaus eingeengt<br><br><img src=\"IMG_B5185D51C8AF-1.jpeg\">"
+                                                "<b>Ösophagusmund (Constrictio pharyngooesophagealis)</b><br>- C6/7<br>- Durchmesser ca. 1,5 cm (engste der drei)<br>- echter Sphinkter (M constrictor pharyngis inferior &amp; zirkuläre Ösophagusmuskeln)<br><br><b>Aortenenge (Constrictio bronchoaortica)</b><br>- Th3-4<br>- Aortenbogen &amp; Bronchius principalis sinister drücken auf Ösophagus und schieben ihn etwas nach rechts<br><br><b>Zwerchfellenge (Constrictio diaphragmatica)<br></b>- Th10-11<br>- KEIN Sphinkter<br>- Ösophagus hat hier leichten Spielraum wird aber vom Diaphragma, dass sich zusammenzeihen kann durchaus eingeengt<br><br><img src=\"IMG_B5185D51C8AF-1.jpeg\" width=\"1000\">"
                                             ],
                                             "guid": "ygUMF-E7Q#",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -19071,7 +19060,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Was ist der His Winkel?",
-                                                "Winkel, mit dem der ösophagus in den Magen einmündet (50° - 65°)"
+                                                "Winkel, mit dem der Ösophagus in den Magen einmündet (50° - 65°)"
                                             ],
                                             "guid": "m6}B$0D+z1",
                                             "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -19563,7 +19552,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Angeborene Zwerchfellhernien",
-                                                "<b>Bochdalek- Hernie</b><br>- hernia diaphragmatica lumbocostalis<br>- Bruchinhalt: Bauchorgane<br><br><b>Morgagni-Hernie</b><br>- Hernia diaphragmatica sternocostalis/parasternalis<br>- Bruchpforte: trigonum sternocostalis (rechts - Morgagni-Spalte)<br>- Bruchinhalt: Darmschlingen, ggf. zusätzlich Leber &amp; Omentum<br><br><b>Larrey-Hernie<br></b>- Hernia diaphragmatica sternocostalis/parasternalis<br>- Bruchpforte: trigonum sternocostalis (links - Larrey-Spalt)<br>- Bruchinhalt: Darmschlingen, ggf. zusätzlich Leber &amp; Omentum<br><br><img src=\"Bildschirmfoto 2023-05-02 um 15.31.14.png\">"
+                                                "<b>Bochdalek- Hernie</b><br>- hernia diaphragmatica lumbocostalis<br>- Bruchinhalt: Bauchorgane<br><br><b>Morgagni-Hernie</b><br>- Hernia diaphragmatica sternocostalis/parasternalis<br>- Bruchpforte: trigonum sternocostalis (rechts - Morgagni-Spalte)<br>- Bruchinhalt: Darmschlingen, ggf. zusätzlich Leber &amp; Omentum<br><br><b>Larrey-Hernie<br></b>- Hernia diaphragmatica sternocostalis/parasternalis<br>- Bruchpforte: trigonum sternocostalis (links - Larrey-Spalt)<br>- Bruchinhalt: Darmschlingen, ggf. zusätzlich Leber &amp; Omentum<br><br><img src=\"Bildschirmfoto 2023-05-02 um 15.31.14.png\" width=\"1000\">"
                                             ],
                                             "guid": "mA_lRWN`Zr",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -19698,7 +19687,18 @@
             "name": "Anatomie II",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vagina, Urethra &amp; rektum treten sowohl durch das {{c1::Diaphragma pelvis}}&nbsp;als auch durch das&nbsp;{{c2::Spatium perinei profundum}}<b>&nbsp;</b><i>(Raum zwischen Facies diaphragmatica urogenitalis inferior &amp; Facies&nbsp;</i><i>diaphragmatica urogenitalis superior</i><i>)</i>",
+                        ""
+                    ],
+                    "guid": "dcL1ud7D@#",
+                    "note_model_uuid": "6cae7008-11d4-11ef-94c8-60f677a7f746",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
@@ -30532,7 +30532,43 @@
             "children": [
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "3ce6d80a-185b-11ef-a7c0-60f677a7f746",
+                            "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "_amboss-deck-0.4.2.js",
+                                "_amboss-feat-ankiphil2.png",
+                                "_amboss-hammer.svg",
+                                "_amboss-image.svg",
+                                "_amboss-link.svg",
+                                "_amboss-logo.svg",
+                                "_amboss-meditricks.svg",
+                                "_amboss-microscope.svg",
+                                "_amboss-stethoscope.svg",
+                                "_amboss-zusatz.svg",
+                                "_meditricks_mtsp_mt-loading.png",
+                                "_meditricks_mtsp_mt-loading_night.png",
+                                "_meditricks_mtsp_mtlogo.webp",
+                                "_meditricks_mtsp_nf_v1000_ankiphil.js",
+                                "_meditricks_mtsp_scripts_v1000_ankiphil.min.js",
+                                "_meditricks_mtsp_scripts_v1000_iframe.map",
+                                "_meditricks_mtsp_styles_v1000_ankiphil.min.css"
+                            ],
+                            "name": "Auswendig Lernen",
+                            "newLimit": null,
+                            "newLimitToday": null,
+                            "notes": [],
+                            "reviewLimit": null,
+                            "reviewLimitToday": null
+                        }
+                    ],
                     "crowdanki_uuid": "bb5aee16-001a-11ef-a504-60f677a7f746",
                     "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
                     "desc": "",
@@ -31160,7 +31196,43 @@
                 },
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "3ce836a3-185b-11ef-87cb-60f677a7f746",
+                            "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "_amboss-deck-0.4.2.js",
+                                "_amboss-feat-ankiphil2.png",
+                                "_amboss-hammer.svg",
+                                "_amboss-image.svg",
+                                "_amboss-link.svg",
+                                "_amboss-logo.svg",
+                                "_amboss-meditricks.svg",
+                                "_amboss-microscope.svg",
+                                "_amboss-stethoscope.svg",
+                                "_amboss-zusatz.svg",
+                                "_meditricks_mtsp_mt-loading.png",
+                                "_meditricks_mtsp_mt-loading_night.png",
+                                "_meditricks_mtsp_mtlogo.webp",
+                                "_meditricks_mtsp_nf_v1000_ankiphil.js",
+                                "_meditricks_mtsp_scripts_v1000_ankiphil.min.js",
+                                "_meditricks_mtsp_scripts_v1000_iframe.map",
+                                "_meditricks_mtsp_styles_v1000_ankiphil.min.css"
+                            ],
+                            "name": "Auswendig Lernen",
+                            "newLimit": null,
+                            "newLimitToday": null,
+                            "notes": [],
+                            "reviewLimit": null,
+                            "reviewLimitToday": null
+                        }
+                    ],
                     "crowdanki_uuid": "bb5bd8f3-001a-11ef-aa7b-60f677a7f746",
                     "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
                     "desc": "",
@@ -31949,7 +32021,43 @@
                 },
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "3ce99532-185b-11ef-a245-60f677a7f746",
+                            "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "_amboss-deck-0.4.2.js",
+                                "_amboss-feat-ankiphil2.png",
+                                "_amboss-hammer.svg",
+                                "_amboss-image.svg",
+                                "_amboss-link.svg",
+                                "_amboss-logo.svg",
+                                "_amboss-meditricks.svg",
+                                "_amboss-microscope.svg",
+                                "_amboss-stethoscope.svg",
+                                "_amboss-zusatz.svg",
+                                "_meditricks_mtsp_mt-loading.png",
+                                "_meditricks_mtsp_mt-loading_night.png",
+                                "_meditricks_mtsp_mtlogo.webp",
+                                "_meditricks_mtsp_nf_v1000_ankiphil.js",
+                                "_meditricks_mtsp_scripts_v1000_ankiphil.min.js",
+                                "_meditricks_mtsp_scripts_v1000_iframe.map",
+                                "_meditricks_mtsp_styles_v1000_ankiphil.min.css"
+                            ],
+                            "name": "Auswendig Lernen",
+                            "newLimit": null,
+                            "newLimitToday": null,
+                            "notes": [],
+                            "reviewLimit": null,
+                            "reviewLimitToday": null
+                        }
+                    ],
                     "crowdanki_uuid": "bb5cc1ca-001a-11ef-bf5b-60f677a7f746",
                     "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
                     "desc": "",
@@ -34713,6 +34821,41 @@
                             ],
                             "reviewLimit": null,
                             "reviewLimitToday": null
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "3ceeae9d-185b-11ef-9dc1-60f677a7f746",
+                            "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "_amboss-deck-0.4.2.js",
+                                "_amboss-feat-ankiphil2.png",
+                                "_amboss-hammer.svg",
+                                "_amboss-image.svg",
+                                "_amboss-link.svg",
+                                "_amboss-logo.svg",
+                                "_amboss-meditricks.svg",
+                                "_amboss-microscope.svg",
+                                "_amboss-stethoscope.svg",
+                                "_amboss-zusatz.svg",
+                                "_meditricks_mtsp_mt-loading.png",
+                                "_meditricks_mtsp_mt-loading_night.png",
+                                "_meditricks_mtsp_mtlogo.webp",
+                                "_meditricks_mtsp_nf_v1000_ankiphil.js",
+                                "_meditricks_mtsp_scripts_v1000_ankiphil.min.js",
+                                "_meditricks_mtsp_scripts_v1000_iframe.map",
+                                "_meditricks_mtsp_styles_v1000_ankiphil.min.css"
+                            ],
+                            "name": "Auswendig Lernen",
+                            "newLimit": null,
+                            "newLimitToday": null,
+                            "notes": [],
+                            "reviewLimit": null,
+                            "reviewLimitToday": null
                         }
                     ],
                     "crowdanki_uuid": "bb5dc05a-001a-11ef-93e0-60f677a7f746",
@@ -35511,6 +35654,41 @@
                                     "tags": []
                                 }
                             ],
+                            "reviewLimit": null,
+                            "reviewLimitToday": null
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "3cf2de3e-185b-11ef-b642-60f677a7f746",
+                            "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "_amboss-deck-0.4.2.js",
+                                "_amboss-feat-ankiphil2.png",
+                                "_amboss-hammer.svg",
+                                "_amboss-image.svg",
+                                "_amboss-link.svg",
+                                "_amboss-logo.svg",
+                                "_amboss-meditricks.svg",
+                                "_amboss-microscope.svg",
+                                "_amboss-stethoscope.svg",
+                                "_amboss-zusatz.svg",
+                                "_meditricks_mtsp_mt-loading.png",
+                                "_meditricks_mtsp_mt-loading_night.png",
+                                "_meditricks_mtsp_mtlogo.webp",
+                                "_meditricks_mtsp_nf_v1000_ankiphil.js",
+                                "_meditricks_mtsp_scripts_v1000_ankiphil.min.js",
+                                "_meditricks_mtsp_scripts_v1000_iframe.map",
+                                "_meditricks_mtsp_styles_v1000_ankiphil.min.css"
+                            ],
+                            "name": "Auswendig Lernen",
+                            "newLimit": null,
+                            "newLimitToday": null,
+                            "notes": [],
                             "reviewLimit": null,
                             "reviewLimitToday": null
                         }
@@ -37195,6 +37373,41 @@
                             ],
                             "reviewLimit": null,
                             "reviewLimitToday": null
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "3cf6ac49-185b-11ef-a1c5-60f677a7f746",
+                            "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "_amboss-deck-0.4.2.js",
+                                "_amboss-feat-ankiphil2.png",
+                                "_amboss-hammer.svg",
+                                "_amboss-image.svg",
+                                "_amboss-link.svg",
+                                "_amboss-logo.svg",
+                                "_amboss-meditricks.svg",
+                                "_amboss-microscope.svg",
+                                "_amboss-stethoscope.svg",
+                                "_amboss-zusatz.svg",
+                                "_meditricks_mtsp_mt-loading.png",
+                                "_meditricks_mtsp_mt-loading_night.png",
+                                "_meditricks_mtsp_mtlogo.webp",
+                                "_meditricks_mtsp_nf_v1000_ankiphil.js",
+                                "_meditricks_mtsp_scripts_v1000_ankiphil.min.js",
+                                "_meditricks_mtsp_scripts_v1000_iframe.map",
+                                "_meditricks_mtsp_styles_v1000_ankiphil.min.css"
+                            ],
+                            "name": "Auswendig Lernen",
+                            "newLimit": null,
+                            "newLimitToday": null,
+                            "notes": [],
+                            "reviewLimit": null,
+                            "reviewLimitToday": null
                         }
                     ],
                     "crowdanki_uuid": "bb62f62c-001a-11ef-8b03-60f677a7f746",
@@ -37353,6 +37566,73 @@
     "newLimit": null,
     "newLimitToday": null,
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "6cae7008-11d4-11ef-94c8-60f677a7f746",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Text",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Rückseite Extra",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Lückentext",
+            "originalStockKind": 5,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Lückentext",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -38180,73 +38460,6 @@
             "latexsvg": false,
             "name": "Lückentext+",
             "originalId": 1645611666008,
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "id": null,
-                    "name": "Lückentext",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ],
-            "type": 1
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "6cae7008-11d4-11ef-94c8-60f677a7f746",
-            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": null,
-                    "name": "Text",
-                    "ord": 0,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": null,
-                    "name": "Rückseite Extra",
-                    "ord": 1,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Lückentext",
-            "originalStockKind": 5,
             "req": [
                 [
                     0,
