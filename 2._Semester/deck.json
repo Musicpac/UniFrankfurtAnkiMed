@@ -1664,7 +1664,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Warum hat die Gallenblase Mikrovilli?",
-                                        "- resorbierendes Epithel<br>- Funktion: Eindickung der galle (Wasserentzug)<br>- sezerniert Schleim (Muzine), der Mucosa vor Galle schützt<br>- Mikrovilli bieten für beides größere Oberfläche"
+                                        "- <span style=\"color: rgb(85, 255, 127);\">resorbierendes </span>Epithel<br>- Funktion: Eindickung der Galle (<span style=\"color: rgb(85, 255, 127);\">Wasserentzug</span>)<br>- sezerniert Schleim (Muzine), welcher die Mucosa vor Galle schützt<br>- Mikrovilli → <span style=\"color: rgb(85, 255, 127);\">größere Oberfläche</span>"
                                     ],
                                     "guid": "K-gZN(GFgV",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -2504,7 +2504,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Harnblase was kann man sagen",
-                                        "<b>Tunica mucosa (Urothel)</b><div>&nbsp; - relativ dick</div><div>&nbsp; - gut gegen Muscularis verschiebbar</div><div>&nbsp; - weißt deutliche Falten auf</div><div>&nbsp; - unter Urothel Kapillaren</div><div>&nbsp; - Crusta</div><div><br><div><b>Tunica muscularis</b></div><div><b>&nbsp;&nbsp;</b>- M. detrusor vesicae</div><div>&nbsp; - 3 schichtig</div><div><br></div><div><b>Tunica serosa</b></div></div><div><b>&nbsp;&nbsp;</b>- Teil des Bauchfells</div>"
+                                        "<b>Tunica mucosa (Urothel)</b><div>&nbsp; - relativ <span style=\"color: rgb(85, 255, 127);\">dick</span></div><div>&nbsp; - gut <span style=\"color: rgb(85, 255, 127);\">gegen Muscularis verschiebbar</span></div><div>&nbsp; - weißt deutliche <span style=\"color: rgb(85, 255, 127);\">Falten</span> auf</div><div>&nbsp; - unter Urothel Kapillaren</div><div>&nbsp; - <span style=\"color: rgb(85, 255, 127);\">Crusta</span></div><div><br><div><b>Tunica muscularis</b></div><div><b>&nbsp;&nbsp;</b>- <span style=\"color: rgb(85, 255, 127);\">M. detrusor vesicae</span></div><div>&nbsp; - <span style=\"color: rgb(85, 255, 127);\">3 schichtig</span></div><div><br></div><div><b>Tunica serosa</b></div></div><div><b>&nbsp;&nbsp;</b>- Teil des <span style=\"color: rgb(85, 255, 127);\">Bauchfells</span></div>"
                                     ],
                                     "guid": "p%oqHx}K_S",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -3792,7 +3792,6 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "Bildschirmfoto 2023-05-11 um 16.39.12.png",
                                 "IMG_6379.jpg",
                                 "IMG_ACD03AD74EF4-1.jpeg",
                                 "IMG_ED34D2628D5E-1.jpeg",
@@ -3876,7 +3875,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Azini",
-                                        "<div style=\"text-align: justify;\">= Drüsenendstück</div><div style=\"text-align: justify;\">- kreisförmige anordnung mehrerer Drüsenzellen (Acinuszellen) um ein enges Lumen</div><div style=\"text-align: justify;\">- Drüsenzellen sind am basalen Zellpol eher dunkel / apikal eher hell</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ wegen rER am basalen Zellpol (viel raues ER weil viel Proteinsynthese)</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ apikal: hohe Dichte an Sekretgranula (enthalten proenzyme)&nbsp;</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">Zentroazinäre zellen:</div><div style=\"text-align: justify;\">- das Schaltstück verbindet die Azini mit den intralobulären Ausführungsgängen und ragt manchmal weiter in Azini ein</div><div style=\"text-align: justify;\">- das erkennt man dann als helle, relativ falche Zellen (Schaltstpckepitehel)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_ED34D2628D5E-1.jpeg\"></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_6379.jpg\"><img src=\"Bildschirmfoto 2023-05-11 um 16.39.12.png\"></div>"
+                                        "<div style=\"text-align: justify;\">= Drüsenendstück</div><div style=\"text-align: justify;\">- kreisförmige anordnung mehrerer Drüsenzellen (Acinuszellen) um ein enges Lumen</div><div style=\"text-align: justify;\">- Drüsenzellen sind am basalen Zellpol eher dunkel / apikal eher hell</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ wegen rER am basalen Zellpol (viel raues ER weil viel Proteinsynthese)</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ apikal: hohe Dichte an Sekretgranula (enthalten proenzyme)&nbsp;</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">Zentroazinäre Zellen:</div><div style=\"text-align: justify;\">- das Schaltstück verbindet die Azini mit den intralobulären Ausführungsgängen und ragt manchmal weiter in Azini ein</div><div style=\"text-align: justify;\">- das erkennt man dann als helle, relativ flache Zellen (Schaltstückepitehl)</div><div style=\"text-align: justify;\"><img src=\"IMG_ED34D2628D5E-1.jpeg\" width=\"500\"><img src=\"IMG_6379.jpg\" width=\"500\"></div>"
                                     ],
                                     "guid": "CE2QmM]d7%",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -4134,11 +4133,13 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Weiße Pulpa der Milz",
-                                        "<div><b>Generelles</b><br></div><div>- macht ca 25% des Parenchyms aus</div><div>- Lymphatisces Gewebe, das Zentralarterien umgibt</div><div>- repräsentiert Immunfunktion der Milz</div><div>- kann verdickungen haben (Milzknötchen)</div><div><br></div><div><b>Periarterielle Lymphozytenscheide (PALS)</b></div><div>- umgibt die zentralarterie (die oft nicht zentral ist)</div><div>- T-Zellen Region</div><div>- interdigitierende dendritische Zellen</div><div><br></div><div><b>Marginalzone</b></div><div>- Lagert sich der PALS und v.a. dem Malpighi-Körperchen außen an<br></div><div>- überwiegend B-Lymphozyten</div><div><br></div><div><br></div><div><b>Perifollikuläre Zone</b></div><div>- Übergang von weißer zu roter Pulpa</div><div>- Rezirkulation der Lymphozyten&nbsp;<br></div><div><b><br></b></div><div><img src=\"IMG_4BF0A50B2B93-1.jpeg\" width=1000px ><br></div>"
+                                        "<div><b>Generelles</b><br></div><div>- macht ca 25% des Parenchyms aus</div><div>- Lymphatisches Gewebe, das Zentralarterien umgibt</div><div>- repräsentiert Immunfunktion der Milz</div><div>- kann verdickungen haben (Milzknötchen)</div><div><br></div><div><b>Periarterielle Lymphozytenscheide (PALS)</b></div><div>- umgibt die Zentralarterie (die oft nicht zentral ist)</div><div>- T-Zellen Region</div><div>- interdigitierende dendritische Zellen</div><div><br></div><div><b>Marginalzone</b></div><div>- Lagert sich der PALS und v.a. dem Malpighi-Körperchen außen an<br></div><div>- überwiegend B-Lymphozyten</div><div><br></div><div><br></div><div><b>Perifollikuläre Zone</b></div><div>- Übergang von weißer zu roter Pulpa</div><div>- Rezirkulation der Lymphozyten&nbsp;<br></div><div><b><br></b></div><div><img src=\"IMG_4BF0A50B2B93-1.jpeg\" width=\"1000px\"><br></div>"
                                     ],
                                     "guid": "os5>,p!Y1A",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
-                                    "tags": []
+                                    "tags": [
+                                        "Milz"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4253,12 +4254,14 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"IMG_EE6E7AA9032F-1.jpeg\">",
-                                        "<i>H.E.<br></i><br><img src=\"IMG_B34716705323-1.jpeg\"><br><br><br><br><br><img src=\"IMG_61BA2B88B7A7-1.jpeg\">"
+                                        "<img src=\"IMG_EE6E7AA9032F-1.jpeg\" width=\"1500\">",
+                                        "<i>H.E.<br></i><br><img src=\"IMG_B34716705323-1.jpeg\" width=\"1500\"><br><img src=\"IMG_61BA2B88B7A7-1.jpeg\" width=\"1500\">"
                                     ],
                                     "guid": "rxq9}HZ2;F",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
-                                    "tags": []
+                                    "tags": [
+                                        "Thymus"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4773,11 +4776,13 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Schichten der Vagina",
-                                                "<div style=\"text-align: left;\"><b>Tunica mucosa</b></div><div style=\"text-align: left;\">- mehrschichtig unverhorntes Plattenepithel</div><div style=\"text-align: left;\">∟Basalschicht</div><div style=\"text-align: left;\">∟Parabasalschicht</div><div style=\"text-align: left;\">∟Intermediärschicht</div><div style=\"text-align: left;\">∟Superfizialschicht</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">- Lamina propria</div><div style=\"text-align: left;\">- Drüsenfrei</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left; font-weight: bold;\"><b>Tunica muscularis</b></div><div style=\"text-align: left;\"><b>∟</b>größtenteils glatte Muskulatur und Bindegewebe</div><div style=\"text-align: left;\">∟Bindegewebe ist scherengitterartig angeordnet und elastisch</div><div style=\"text-align: left;\">&nbsp; &nbsp; ∟ ermöglicht Dehnung der Vagina</div><div style=\"text-align: left;\"><b>Tunica adventitia</b></div><div style=\"text-align: left;\"><b>∟</b>Parakolpium bindet Vagina in Umgebung ein</div><div style=\"text-align: left;\">∟ geht kranial in parametrium über</div>"
+                                                "<div style=\"text-align: left;\"><span style=\"color: rgb(255, 99, 102);\"><u><b>Tunica mucosa</b></u></span></div><div style=\"text-align: left;\">- <span style=\"color: rgb(85, 255, 127);\">mehrschichtig unverhorntes Plattenepithel</span></div><div style=\"text-align: left;\">∟Basalschicht</div><div style=\"text-align: left;\">∟Parabasalschicht</div><div style=\"text-align: left;\">∟Intermediärschicht</div><div style=\"text-align: left;\">∟Superfizialschicht</div><div style=\"text-align: left;\">- Lamina propria</div><div style=\"text-align: left;\">- Drüsenfrei</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left; font-weight: bold;\"><span style=\"color: rgb(255, 99, 102);\"><u><b>Tunica muscularis</b></u></span></div><div style=\"text-align: left;\"><b>∟</b>größtenteils <span style=\"color: rgb(85, 255, 127);\">glatte Muskulatur und Bindegewebe</span></div><div style=\"text-align: left;\">∟Bindegewebe ist scherengitterartig angeordnet und elastisch</div><div style=\"text-align: left;\">&nbsp; &nbsp; ∟ ermöglicht Dehnung der Vagina</div><div style=\"text-align: left;\"><span style=\"color: rgb(255, 99, 102);\"><u><b>Tunica adventitia</b></u></span></div><div style=\"text-align: left;\"><b>∟&nbsp;</b>Parakolpium <span style=\"color: rgb(85, 255, 127);\">bindet Vagina in Umgebung</span> ein</div><div style=\"text-align: left;\">∟ geht kranial in parametrium über</div>"
                                             ],
                                             "guid": "IDbUqQQ]Zm",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
-                                            "tags": []
+                                            "tags": [
+                                                "Vagina"
+                                            ]
                                         }
                                     ],
                                     "reviewLimit": null,
@@ -9272,11 +9277,13 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Wie wirken Sympathikus &amp; Parasympathikus an der Harnblase",
-                                                "Sympathikus:&nbsp;bewirkt, dass die Blase schlaff ist und sich füllen kann<br><br>wenn Innendruck bestimmten Schwellwert überschreitet: Parasympathikus<br><br>Parasympathikus:&nbsp;<br>- Muskulatur der Blasenwand zusammenzieht<br>- steigt der Druck im Inneren der Blase noch weiter an<br>- Im Bereich des Blasendreiecks bildet sich jetzt eine kleine Rinne, die zwischen der Einmündung der Harnleiter und der Harnröhre verläuft<br>- Dadurch wird die Aufnahme einer ersten kleinen Portion von Urin in die Harnröhre erleichtert. Dann dehnt sich auch die Harnröhre. Diese Dehnung führt dazu, dass der innere Schließmuskel erschlafft und der Urin kann abfließen"
+                                                "Sympathikus:&nbsp;bewirkt, dass die Blase schlaff ist und sich füllen kann<br><br>wenn Innendruck bestimmten Schwellwert überschreitet: Parasympathikus<br><br>Parasympathikus:&nbsp;<br>- <span style=\"color: rgb(85, 255, 127);\">Muskulatur </span>der Blasenwand <span style=\"color: rgb(85, 255, 127);\">zusammenzieht</span><br>- steigt der Druck im Inneren der Blase noch weiter an<br>- Im Bereich des <span style=\"color: rgb(85, 255, 127);\">Blasendreiecks </span>bildet sich jetzt eine <span style=\"color: rgb(85, 255, 127);\">kleine Rinne</span>, die zwischen der Einmündung der Harnleiter und der Harnröhre verläuft<br>- Dadurch wird die Aufnahme einer ersten kleinen Portion von Urin in die Harnröhre erleichtert. Dann dehnt sich auch die Harnröhre. Diese Dehnung führt dazu, dass der <span style=\"color: rgb(85, 255, 127);\">innere Schließmuskel erschlafft</span> und der Urin kann abfließen"
                                             ],
                                             "guid": "B?O6y1o,L2",
                                             "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
-                                            "tags": []
+                                            "tags": [
+                                                "Miktion"
+                                            ]
                                         },
                                         {
                                             "__type__": "Note",
@@ -19896,6 +19903,7 @@
                         "paste-6f7e4622f101d705793210df02687eee672a46b2.jpg",
                         "paste-915f2345e4b1739db4ba14331a7ad7a096b7f415.png",
                         "paste-9848c925ecf846920b28f7297087297b1bf03bc0.jpg",
+                        "paste-b083d50d7efd1dd5c6ab549697a9d8e8189427f9.jpg",
                         "paste-f0bd4e274cd2c985411c81b0a7566030c703ec50.png"
                     ],
                     "name": "(chemische) Grundlagen",
@@ -20001,6 +20009,16 @@
                                 "Disulfid",
                                 "Proteinfaltung"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Acetylierung",
+                                "<div style=\"text-align: justify;\">- ein Wasserstoffatom eines Proteins wird durch eine Acetylgruppe (COCH<sub>3</sub>)ersetzt</div><div style=\"text-align: justify;\">&nbsp; &nbsp;&nbsp;<img src=\"paste-b083d50d7efd1dd5c6ab549697a9d8e8189427f9.jpg\"><br></div><div style=\"text-align: justify;\">- das beeinfluss Aktivität und/oder Eigenschaften der Proteine</div><div style=\"text-align: justify;\"><br></div><u><div style=\"text-align: justify;\"><u>Beispiel: Histone</u></div></u><div style=\"text-align: justify;\">- sind normalerweise relativ stark positiv geladen &amp; ziehen DNA deswegen bei Packung stark an</div><div style=\"text-align: justify;\">- manchmal muss die DNA lockerer vorliegen (z.B. für Transkription)</div><div style=\"text-align: justify;\">- Histone werden Acetyliert (durch Histon-Acetyl-Transferase)</div><div style=\"text-align: justify;\">- Positive Ladung lässt dadurch nach</div><div style=\"text-align: justify;\">- DNA wird weniger stark angezogen</div>"
+                            ],
+                            "guid": "n!g/%k3JVO",
+                            "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -21079,7 +21097,6 @@
                                 "IMG_197DCB23ADC5-1.jpeg",
                                 "IMG_293EF93AA9D5-1.jpeg",
                                 "IMG_31BC97612B82-1.jpeg",
-                                "IMG_33EAE6CC1AB0-1.jpeg",
                                 "IMG_37672FC7C72D-1.jpeg",
                                 "IMG_40B6DA0D5838-1.jpeg",
                                 "IMG_563F7065CFCF-1.jpeg",
@@ -21110,7 +21127,6 @@
                                 "_meditricks_mtsp_scripts_v1000_ankiphil.min.js",
                                 "_meditricks_mtsp_scripts_v1000_iframe.map",
                                 "_meditricks_mtsp_styles_v1000_ankiphil.min.css",
-                                "paste-b083d50d7efd1dd5c6ab549697a9d8e8189427f9.jpg",
                                 "paste-b36b5224330666273a2a830b2931040248083290.png"
                             ],
                             "name": "generelles",
@@ -21130,8 +21146,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Was bedeutet esentielle und nicht-essentielle Aminosäure",
-                                        "<u>essentiell:</u> muss mit der nahrung aufgenommen werden<br>&nbsp; → Histidin / (Iso)leucin / Lysin / Methionin / Phenylalanin / Threonin / Tryptophan / Valin<br><i>(Heidi liebt lebensmitte mit PTTV)</i><br><br><u>nicht-essentiell:</u> kann im Körper hergestellt werden (teilweise aber nur aus esentiellen!)<br>&nbsp; &nbsp;→ Alanin / Arginin / Asparagin(säure) / Glutamin(säure) / Gylcin / Prolin / Serin / Tyrosin<br><br>* Arginin kann produziert werden aber nicht in ausreichender menge"
+                                        "Was bedeutet essentielle und nicht-essentielle Aminosäure",
+                                        "<u>essentiell:</u> muss mit der Nahrung aufgenommen werden<br>&nbsp; → Histidin / (Iso)leucin / Lysin / Methionin / Phenylalanin / Threonin / Tryptophan / Valin<br><i>(Heidi liebt Lebensmittel mit PTTV)</i><br><br><u>nicht-essentiell:</u> kann im Körper hergestellt werden (teilweise aber nur aus essentiellen!)<br>&nbsp; &nbsp;→ Alanin / Arginin / Asparagin(säure) / Glutamin(säure) / Gylcin / Prolin / Serin / Tyrosin<br><br>* Arginin kann produziert werden aber nicht in ausreichender Menge → Semi-essentiell"
                                     ],
                                     "guid": "GZ8Uvt/9+3",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -21141,7 +21157,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was sind proteinogene Aminosäuren",
-                                        "- Aminosäuren die so von der t-RNA geliefert werden<br>- wir haben 20 Stück (&amp; 100 nicht-proteinogene Aminosäuren)<br>- haben alle ein zentrales alpha C-Atom mit einer Amino &amp; einer carboxylgruppe<br>- alle proteinogenen AS sind Ciral (außnahme Glycin!!)"
+                                        "- Aminosäuren die so von der t-RNA geliefert werden<br>- wir haben 20+1 Stück (&amp; 100 nicht-proteinogene Aminosäuren)<br>- haben alle ein zentrales α-C-Atom mit einer Amino &amp; einer Carboxylgruppe<br>- alle proteinogenen AS sind Chiral (außnahme Glycin!!)"
                                     ],
                                     "guid": "yL_~ua8dq,",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -21160,8 +21176,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Genereller Aufbau Aminosäure",
-                                        "<img src=\"IMG_EDA3649CA7A6-1.jpeg\">"
+                                        "Genereller Aufbau α-Aminosäure",
+                                        "<img src=\"IMG_EDA3649CA7A6-1.jpeg\" width=\"1000\">"
                                     ],
                                     "guid": "F(T$bB%h!K",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21191,7 +21207,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Aminosäuren mit polaren, geladenen Seitenketten",
-                                        "<u>Saure bzw. Negativ geladene Seitenketten</u><br>Asparaginsäure / Glutaminsäure<br>- liegen bei pH 7 deprotoniert vor = negativ<br><br><u>Basische bzw. Positiv geladene Seitenketten</u><br>Lysin / Arginin / Histidin<br>- liegen bei pH 7 protoniert vor = positiv<br>- histidin liegt 50% protoniert &amp; 50% deprotoniert vor<br><br>* Histidin nimmt Sonderstellung ein, da der Isoelektrische Punkt bei ca. 6 liegt (50% positiv &amp; 50% negativ) und es kann deswegen sehr leicht Protonen aufnehmen und abgeben<br><br><img src=\"IMG_293EF93AA9D5-1.jpeg\">"
+                                        "<u>Saure bzw. Negativ geladene Seitenketten</u><br>Asparaginsäure / Glutaminsäure<br>- liegen bei pH 7 deprotoniert vor = negativ<br><br><u>Basische bzw. Positiv geladene Seitenketten</u><br>Lysin / Arginin / Histidin<br>- liegen bei pH 7 protoniert vor = positiv<br>- Histidin liegt 50% protoniert &amp; 50% deprotoniert vor<br><br>* Histidin nimmt Sonderstellung ein, da der Isoelektrische Punkt bei ca. 6 liegt (50% positiv &amp; 50% negativ) und es kann deswegen sehr leicht Protonen aufnehmen und abgeben<br><br><img src=\"IMG_293EF93AA9D5-1.jpeg\">"
                                     ],
                                     "guid": "o8SIPS7tC^",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21210,7 +21226,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Was ist die Standard Molekularmasse der Aminosären",
+                                        "Was ist die Standard Molekularmasse der Aminosäuren",
                                         "110 Da"
                                     ],
                                     "guid": "p|E2=,tQuy",
@@ -21220,8 +21236,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Welche Art von Aminosären kommt beim Menscen fast ausschließlich vor?",
-                                        "alpha-L-Aminsäuren"
+                                        "Welche Art von Aminosäuren kommt beim Menschen fast ausschließlich vor?",
+                                        "L-Aminosäuren"
                                     ],
                                     "guid": "o_%m5g!9A]",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21231,7 +21247,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Primärstruktur von Proteinen",
-                                        "<div style=\"text-align: justify;\">- Aminosäuresequenz = Reihenfolge der AMinosäuren</div><div style=\"text-align: justify;\">- kovalente Bindungen zwischen den AS</div><div style=\"text-align: justify;\">- beschreibt keine räumliche Anordnung</div><div style=\"text-align: justify;\">- gibt meistens hydrophobe &amp; hydrophile Domänen&nbsp;</div><div style=\"text-align: justify;\">&nbsp; &nbsp;→&nbsp;Hydropathie-Index gibt hydrophoben Effekt bei Molekülen an</div><div style=\"text-align: justify;\">&nbsp; &nbsp;→ ab ca. 20 hydrophoben AS in der Mitte eines Proteins → meist um transmembrane Domäne</div>"
+                                        "<div style=\"text-align: justify;\">- Aminosäuresequenz = Reihenfolge der Aminosäuren</div><div style=\"text-align: justify;\">- kovalente Bindungen zwischen den AS</div><div style=\"text-align: justify;\">- beschreibt keine räumliche Anordnung</div><div style=\"text-align: justify;\">- gibt meistens hydrophobe &amp; hydrophile Domänen&nbsp;</div><div style=\"text-align: justify;\">&nbsp; &nbsp;→&nbsp;Hydropathie-Index gibt hydrophoben Effekt bei Molekülen an</div><div style=\"text-align: justify;\">&nbsp; &nbsp;→ ab ca. 20 hydrophoben AS in der Mitte eines Proteins → meist transmembrane Domäne</div>"
                                     ],
                                     "guid": "v%o@^/2#ri",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21240,8 +21256,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<span style=\"color: rgb(32, 33, 36); background-color: rgb(255, 255, 255);\">Sekundärstruktur</span>",
-                                        "<span style=\"color: rgb(32, 33, 36);\">- α-Helix &amp;&nbsp;</span><span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">β-Faltblatt<br></span>- beschreibt die lokale Anordnung der haupötkette an einer bestimmten Stelle<br>- stabilisiert durch H-Brücken zwischen den Bestandteilen der Peptidbindungen (Carbonylkohlenstoff &amp; Amidwasserstoff)"
+                                        "Sekundärstruktur",
+                                        "- α-Helix &amp;&nbsp;β-Faltblatt<br>- beschreibt die lokale Anordnung der Hauptkette an einer bestimmten Stelle<br>- stabilisiert durch H-Brücken zwischen den Bestandteilen der Peptidbindungen (Carbonylkohlenstoff &amp; Amidwasserstoff)"
                                     ],
                                     "guid": "tCVL%RNTbx",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21250,8 +21266,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<span style=\"color: rgb(32, 33, 36);\">α-Helix&nbsp;</span>",
-                                        "<div style=\"text-align: justify;\">- rechtsgängig (wenn man von unten reinschaut: Uhrzeigersinn</div><div style=\"text-align: justify;\">- besonders stabil (wegen H-Brücken zwischen O &amp; H)</div><div style=\"text-align: justify;\">- Atome die H-brücken ausbilden, sind durch genau 3 Reste voneinander getrennt</div><div style=\"text-align: justify;\">- H- brücken liegen normal parallel zur Helixachse</div><div style=\"text-align: justify;\">- hier kommt niemals Prolin vor (ist ein helixbrecher)</div><div style=\"text-align: justify;\">- Seitenketten stehen hier nach außen weg</div><div style=\"text-align: justify;\">- unterschiedliche anordnung von hydrophilen &amp; hydrophoben AS können zu Polarität führen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_31BC97612B82-1.jpeg\"></div>"
+                                        "α-Helix&nbsp;",
+                                        "<div style=\"text-align: justify;\">- rechtsgängig (wenn man von unten reinschaut: Uhrzeigersinn)<img src=\"IMG_31BC97612B82-1.jpeg\" width=\"500\" style=\"float: right;\"></div><div style=\"text-align: justify;\">- besonders stabil (wegen H-Brücken zwischen O &amp; H)</div><div style=\"text-align: justify;\">- Atome die H-brücken ausbilden, sind durch genau 3 Reste von einander getrennt</div><div style=\"text-align: justify;\">- H-Brücken liegen normal parallel zur Helixachse</div><div style=\"text-align: justify;\">- hier kommt niemals Prolin vor (ist ein helixbrecher)</div><div style=\"text-align: justify;\">- Seitenketten stehen hier nach außen weg</div><div style=\"text-align: justify;\">- unterschiedliche anordnung von hydrophilen &amp; hydrophoben AS können zu Polarität führen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div>"
                                     ],
                                     "guid": "Dq=Da}L0<7",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21260,8 +21276,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div style=\"text-align: center;\">Polarität von&nbsp;<span style=\"color: rgb(32, 33, 36);\">α-Helices</span></div>",
-                                        "- hydrophobe Helix: oft membranständiges Segmente von Proteinen<br>- hydrophile Helices: oft auf Proteinoberfläche<br>- polare / amphiphile Helices: haben hydophoben &amp; hydrophilen Teil -&gt; dienen oft als Verbindungsstück<br><br><img src=\"IMG_8DC89B402B5A-1.jpeg\">"
+                                        "<div style=\"text-align: center;\">Polarität von&nbsp;α-Helices</div>",
+                                        "- hydrophobe Helix: oft membranständiges Segmente von Proteinen<br>- hydrophile Helices: oft auf Proteinoberfläche<br>- polare / amphiphile Helices: haben hydophoben &amp; hydrophilen Teil -&gt; dienen oft als Verbindungsstück<br><br><img src=\"IMG_8DC89B402B5A-1.jpeg\" width=\"1000\">"
                                     ],
                                     "guid": "Nv[q@Qp(,(",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21270,8 +21286,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<span style=\"color: rgb(32, 33, 34);\">β-Faltblatt</span>",
-                                        "<div style=\"text-align: justify;\">- besteht aus mindestens 2 (meist mehr)&nbsp;<span style=\"color: rgb(32, 33, 34);\">β-Strängen</span></div><span style=\"color: rgb(32, 33, 34);\"><div style=\"text-align: justify;\">- Seitenketten ragen nach oben bzw unten</div><div style=\"text-align: justify;\">- es gibt parallele bzw. antiparallele anordnung</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;<span style=\"color: black;\">→ Parallel (AS sind leicht versetzt) energetisch bisschen ungünstiger</span></div></span><span style=\"color: rgb(32, 33, 34);\"><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;<span style=\"color: black;\">→ Antiparallel ist energetisch günstiger, weil H-Brücken kürzer sind (AS sind genau überienander)</span></div></span><span style=\"color: rgb(32, 33, 34);\"><div style=\"text-align: justify;\">-&nbsp;β-Faltblätter sind oft in sich verdreht</div></span><span style=\"color: rgb(32, 33, 34);\"><div style=\"text-align: justify;\">- Begünstigt durch Valin, Isoleucin, Tyrosin, Phenylalanin &amp; Threonin</div><div style=\"text-align: justify;\">- oft im Kern globulärer Proteine</div><div style=\"text-align: justify;\">- Faltblattbrecher sind Glycin (schwach) und Prolin (stark)</div></span><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_7455.jpg\">&nbsp; &nbsp;<img src=\"IMG_C662884E310F-1.jpeg\"></div>"
+                                        "β-Faltblatt",
+                                        "<div style=\"text-align: justify;\">- besteht aus mindestens 2 (meist mehr)&nbsp;β-Strängen</div><div style=\"text-align: justify;\">- Seitenketten ragen nach oben bzw unten</div><div style=\"text-align: justify;\">- es gibt parallele bzw. antiparallele anordnung</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ Parallel (AS sind leicht versetzt) energetisch bisschen ungünstiger</div><div style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp;→ Antiparallel ist energetisch günstiger, weil H-Brücken kürzer sind (AS sind genau übereinander)</div><div style=\"text-align: justify;\">-&nbsp;β-Faltblätter sind oft in sich verdreht</div><div style=\"text-align: justify;\">- Begünstigt durch Valin, Isoleucin, Tyrosin, Phenylalanin &amp; Threonin</div><div style=\"text-align: justify;\">- oft im Kern globulärer Proteine</div><div style=\"text-align: justify;\">- Faltblattbrecher sind Glycin (schwach) und Prolin (stark)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_7455.jpg\">&nbsp; &nbsp;<img src=\"IMG_C662884E310F-1.jpeg\"></div>"
                                     ],
                                     "guid": "lzK#o~P%Ny",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21280,8 +21296,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<span style=\"color: rgb(32, 33, 34);\">β-Schleife / Kehre</span>",
-                                        "<div style=\"text-align: justify;\">- ermöglicht eine 180° Wendung</div><div style=\"text-align: justify;\">- Verbindung zwischen zwei Faltblattstrukturen</div><div style=\"text-align: justify;\">- CO-Gruppe des Restes n bildet H-Brücke mit NH Gruppe des Rest n+3</div><div style=\"text-align: justify;\">- immer 4 Aminosäuren &amp; 1 H-Brücke</div><div style=\"text-align: justify;\">- v.a. Glycin &amp; Prolin enthalten</div><div style=\"text-align: justify;\">- es gibt 2 Typen</div><div style=\"text-align: justify;\">- sind oft an reveseribeln Bindungen beteiligt (z.B. Oberflächenrezeptoren)</div>"
+                                        "β-Schleife / Kehre",
+                                        "<div style=\"text-align: justify;\">- ermöglicht eine 180° Wendung</div><div style=\"text-align: justify;\">- Verbindung zwischen zwei Faltblattstrukturen</div><div style=\"text-align: justify;\">- CO-Gruppe des Restes n bildet H-Brücke mit NH Gruppe des Rest n+3</div><div style=\"text-align: justify;\">- immer 4 Aminosäuren &amp; 1 H-Brücke</div><div style=\"text-align: justify;\">- v.a. Glycin &amp; Prolin enthalten</div><div style=\"text-align: justify;\">- es gibt 2 Typen</div><div style=\"text-align: justify;\">- sind oft an reversiblen Bindungen beteiligt (z.B. Oberflächenrezeptoren)</div>"
                                     ],
                                     "guid": "sG_~,~@bHt",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21290,8 +21306,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Was ist der Unterscheid zwischen einer D &amp; einer L Aminosäure",
-                                        "- D- &amp; L-Konfiguratiuon verhalten sich wie Bild &amp; Spiegelbild<br>- bei L: NH<sub>3</sub> Gruppe ist bei Fisher links<br>- bei D: NH<sub>3</sub>&nbsp;Gruppe ist bei Fisher rechts<br>&nbsp; &nbsp; &nbsp;→ COOH Gruppe muss nach oben/hinten<br><br><img src=\"IMG_B85B2BEC4728-1.jpeg\">"
+                                        "Was ist der Unterscheid zwischen einer D &amp; einer L - Aminosäure",
+                                        "- D- &amp; L-Konfiguration verhalten sich wie Bild &amp; Spiegelbild<br>- bei L: NH<sub>3</sub> Gruppe ist bei Fisher links<br>- bei D: NH<sub>3</sub>&nbsp;Gruppe ist bei Fisher rechts<br>&nbsp; &nbsp; &nbsp;→ COOH Gruppe muss nach oben/hinten<br><br><img src=\"IMG_B85B2BEC4728-1.jpeg\">"
                                     ],
                                     "guid": "Ae>H($-otA",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21321,7 +21337,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Supersekundärstrukturen",
-                                        "- Helix-Loop-helix ist Struktur, die 2 Helices miteinander verbindet<br><span style=\"color: rgb(32, 33, 36);\">-&nbsp;</span><span style=\"color: rgb(32, 33, 34);\">β-Faltblätter sind über&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">α-Helix verbunden (</span><span style=\"color: rgb(32, 33, 34);\">β&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">α&nbsp;</span><span style=\"color: rgb(32, 33, 34);\">β)<br></span>- Coiled-Coil Strukturen (wie z.B. Myosin II)<br>- findet man oft bei Ca<sup>+</sup> oder DNA-bindenden Molekülen<br><br><img src=\"IMG_17F5A4EC7FA5-1.jpeg\">"
+                                        "- Helix-Loop-helix ist Struktur, die 2 Helices miteinander verbindet<img src=\"IMG_17F5A4EC7FA5-1.jpeg\" width=\"500\" style=\"float: right;\"><br>-&nbsp;β-Faltblätter sind über&nbsp;α-Helix verbunden (β&nbsp;α&nbsp;β)<br>- Coiled-Coil Strukturen (wie z.B. Myosin II)<br>- findet man oft bei Ca<sup>+</sup> oder DNA-bindenden Molekülen<br><br>"
                                     ],
                                     "guid": "w_wN.bBBIC",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21351,19 +21367,9 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was ist eine Domäne",
-                                        "- ein bestimmter kompakter berecih, der eine Funktion erüllt<br>- Proteine können mehrere Domäne haben (z.B.Fibronektin)<br>- Domänen können in verschiedenen Proteinen vorkommen<br><br><img src=\"IMG_A7EA8BCDFCC3-1.jpeg\">"
+                                        "- ein bestimmter kompakter bereich, der eine Funktion erüllt<br>- Proteine können mehrere Domäne haben (z.B.Fibronektin)<br>- Domänen können in verschiedenen Proteinen vorkommen<br><br><img src=\"IMG_A7EA8BCDFCC3-1.jpeg\" width=\"1000\">"
                                     ],
                                     "guid": "c:t@qL]pc|",
-                                    "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Was sind Co-Faktoren / Co-Enzyme",
-                                        "- binden an Protein oder Enzym so, dass dieses seine Funktion erfüllen kann<br>- permanent gebundene Co-Faktoren: prosthetische Gruppe"
-                                    ],
-                                    "guid": "b;:kUQ-6Xp",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
                                     "tags": []
                                 },
@@ -21391,7 +21397,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Quartärstruktur",
-                                        "- beschreibt die Anordnung eines Proteinaggregates (mehrere Proteine als untereinheit)<br>- mehrer identische oder nicht identische Untereinheiten (Protomere) sind verbunden<div>- Bindungen sind nicht kovalent<br>- beispiel: Hämoglobin (2 Alpha &amp; 2 Beta UE + Häm als prodthetische Gruppe)<br><br>1. Identische UE: Homodimer / Homomerer Komplex<br>2. Nicht Identische UE: Heterodimer / Heteromerer Komplex<br><br><i>Warum braucht man das?<br>- Proteinkomplexe sind schnell auf nd abbaubar, ohne dass das ganze Protein neu synthetisiert werden muss<br>- sind größer als normale Proteine (diese Größe wird z.B. im Cyoskelett gebraucht)</i></div>"
+                                        "- beschreibt die Anordnung eines Proteinaggregates (mehrere Proteine als Untereinheiten)<br>- mehrere identische oder nicht identische Untereinheiten (Protomere) sind verbunden<div>- Bindungen sind nicht kovalent<br>- beispiel: Hämoglobin (2 Alpha &amp; 2 Beta UE + Häm als prosthetische Gruppe)<br><br>1. Identische UE: Homodimer / Homomerer Komplex<br>2. Nicht Identische UE: Heterodimer / Heteromerer Komplex<br><br><i>Warum braucht man das?<br>- Proteinkomplexe sind schnell auf und abbaubar, ohne dass das ganze Protein neu Synthetisiert werden muss<br>- sind größer als normale Proteine (diese Größe wird z.B. im Cyoskelett gebraucht)</i></div>"
                                     ],
                                     "guid": "dBX/-erxC%",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21401,7 +21407,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Theorie zur Faltung der Proteine (Wie und warum passiert das)",
-                                        "<div style=\"text-align: justify;\">- Faltungstrichter (treibende Kraft = abnehmende Energie)</div><div style=\"text-align: justify;\">- Proteine haben anfangs noch viel freie Energie und viele Faltungsmöglichkeiten (sie fangen dann an)</div><div style=\"text-align: justify;\">- durch energetisch günstige Faltungen nimmt freie Energie ab (das soll so bleiben) und deswegen nimmt zahl der möglichen Faltungen ab</div><div style=\"text-align: justify;\">- Protein findet dann nach und nach in seine Struktur</div><div style=\"text-align: justify;\">- dauert wenige Sekunden</div><div style=\"text-align: justify;\"><br></div><u><div style=\"text-align: justify;\"><u>Zwei verschiedene Modelle:</u></div></u><div style=\"text-align: justify;\">1. Hierarchische Faltung (erst werden Sekundäre, dann supersekundäre... ausgebuldet)</div><div style=\"text-align: justify;\">2. hydrophober Kollaps</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_F5E3FA1A7A39-1.jpeg\"></div>"
+                                        "<div style=\"text-align: justify;\">- Faltungstrichter (treibende Kraft = abnehmende Energie)</div><div style=\"text-align: justify;\">- Proteine haben Anfangs noch viel freie Energie und viele Faltungsmöglichkeiten (sie fangen dann an)</div><div style=\"text-align: justify;\">- durch energetisch günstige Faltungen nimmt freie Energie ab (das soll so bleiben) und deswegen nimmt Zahl der möglichen Faltungen ab</div><div style=\"text-align: justify;\">- Protein findet dann nach und nach in seine Struktur</div><div style=\"text-align: justify;\">- dauert wenige Sekunden</div><div style=\"text-align: justify;\"><br></div><u><div style=\"text-align: justify;\"><u>Zwei verschiedene Modelle:</u></div></u><div style=\"text-align: justify;\">1. Hierarchische Faltung (erst werden Sekundäre, dann supersekundäre... ausgebildet)</div><div style=\"text-align: justify;\">2. hydrophober Kollaps</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_F5E3FA1A7A39-1.jpeg\"></div>"
                                     ],
                                     "guid": "Q6Qrxx=0N}",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21411,7 +21417,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was bewirken Mercaptoethanol &amp; Harnstoff bei Proteinen",
-                                        "<div style=\"text-align: justify;\">- reversible Denaturierung</div><div style=\"text-align: justify;\">- nach Entfernung der bedien finden die meisten Proteine ihre ursprüngliche Form wieder</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><u><b>Harnstoff:</b></u></div><div style=\"text-align: justify;\">&nbsp; - chaotrophe Verbindung</div><div style=\"text-align: justify;\">&nbsp; - erhöht die Löslichkeit hydrophober Gruppen in Wasser und begünstigt so Auffaltung</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><u><b>Mercaptooethanol:</b></u></div><div style=\"text-align: justify;\">&nbsp; - ist ein Reduktionsmittel</div><div style=\"text-align: justify;\">&nbsp; - löst Disulfidbrücken auf</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div>"
+                                        "<div style=\"text-align: justify;\">- reversible Denaturierung</div><div style=\"text-align: justify;\">- nach Entfernung der Beiden finden die meisten Proteine ihre ursprüngliche Form wieder</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><u><b>Harnstoff:</b></u></div><div style=\"text-align: justify;\">&nbsp; - chaotrophe Verbindung</div><div style=\"text-align: justify;\">&nbsp; - erhöht die Löslichkeit hydrophober Gruppen in Wasser und begünstigt so Auffaltung</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><u><b>Mercaptooethanol:</b></u></div><div style=\"text-align: justify;\">&nbsp; - ist ein Reduktionsmittel</div><div style=\"text-align: justify;\">&nbsp; - löst Disulfidbrücken auf</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div>"
                                     ],
                                     "guid": "i782tNGk@m",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21421,7 +21427,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was sind Chaperone",
-                                        "<div style=\"text-align: justify;\">- Unterstützen proteine beim Falten</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><u>Beispiele</u></div><div style=\"text-align: justify;\">- HSP 70 &amp; BIP: lagert sich an neu synthetisierte hydrophobe Bereiche um Aggregation mit anderen Proteinen zu verhindern</div><div style=\"text-align: justify;\">- HSP 60: Fass aus 14 Proteinunterinheiten, das mechsnisch hilft und das sich faltende Protein räumlich abgrenzt</div><div style=\"text-align: justify;\">- PPI: stellt cis/trans Gleichgewicht von Peptidbindunge mit Prolin her</div><div style=\"text-align: justify;\">- PDI: Unterstützt Bildung von Disulfidbrücken im ER</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">* HSP verhindern auch denaturierung bei zB. Fieber</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_6DE05C9868CB-1.jpeg\"><br></div>"
+                                        "<div style=\"text-align: justify;\">- Unterstützen Proteine beim Falten</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><u>Beispiele</u></div><div style=\"text-align: justify;\">- HSP 70 &amp; BIP: lagert sich an neu synthetisierte hydrophobe Bereiche um Aggregation mit anderen Proteinen zu verhindern</div><div style=\"text-align: justify;\">- HSP 60: Fass aus 14 Proteinunterinheiten, das mechanisch hilft und das sich faltende Protein räumlich abgrenzt</div><div style=\"text-align: justify;\">- PPI: stellt cis/trans Gleichgewicht von Peptidbindunge mit Prolin her</div><div style=\"text-align: justify;\">- PDI: Unterstützt Bildung von Disulfidbrücken im ER</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">* HSP verhindern auch denaturierung bei zB. Fieber</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_6DE05C9868CB-1.jpeg\" width=\"900\"><br></div>"
                                     ],
                                     "guid": "NfoO!n.uA.",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21430,7 +21436,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Im Er &amp; dem Extrazellularraum herrscht ein {{c1::oxidatives}} Milieu - im Cytoplasma ein {{c1::reduzierendes}} Milieu",
+                                        "Im ER &amp; dem Extrazellularraum herrscht ein {{c1::oxidatives}} Milieu - im Cytoplasma ein {{c1::reduzierendes}} Milieu",
                                         ""
                                     ],
                                     "guid": "KM_[J%g-&Q",
@@ -21441,7 +21447,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Abbau von Proteinen",
-                                        "<div style=\"text-align: justify;\">- wegen Fehlfaltung / werden nicht mehr gebraucht / zu alt etc.&nbsp;</div><div style=\"text-align: justify;\">- solche Proteine werden mit Ubiquitin markiert&nbsp;</div><div style=\"text-align: justify;\">- werden dann von Proteasom (Multienzymkomplex) abgebaut:</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">1. Polyubiquitinyliertes Protein bindet zufällig an Haupenstruktur des Proteasoms</div><div style=\"text-align: justify;\">2. Ubiquitin wird abgeschnitten &amp; recycelt&nbsp;</div><div style=\"text-align: justify;\">3. Protrin wird unter ATP verbrauch aufgefaltet</div><div style=\"text-align: justify;\">4. Protein wird in kleine Peptidteile (7-9 AS) zerlegt</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">*Ubiquitin wird selbst nicht abgebaut</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_37672FC7C72D-1.jpeg\"><br></div>"
+                                        "<div style=\"text-align: justify;\">- wegen Fehlfaltung / werden nicht mehr gebraucht / zu alt etc.&nbsp;</div><div style=\"text-align: justify;\">- solche Proteine werden mit Ubiquitin markiert&nbsp;</div><div style=\"text-align: justify;\">- werden dann von Proteasom (Multi-enzymkomplex) abgebaut:</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">1. Polyubiquitinyliertes Protein bindet zufällig an Haubenpartikel des Proteasoms</div><div style=\"text-align: justify;\">2. Ubiquitin wird abgeschnitten &amp; recycelt&nbsp;</div><div style=\"text-align: justify;\">3. Protein wird unter ATP verbrauch aufgefaltet</div><div style=\"text-align: justify;\">4. Protein wird in kleine Peptidteile (7-9 AS) zerlegt</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">*Ubiquitin wird selbst nicht abgebaut</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_37672FC7C72D-1.jpeg\"><br></div>"
                                     ],
                                     "guid": "Dss<[;*EMM",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21450,8 +21456,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Kopplung von Upiquitin an ein zielprotein (Ubiquitinylierung)",
-                                        "<div style=\"text-align: justify;\">- verschiedene Bedeutungen (u.a. markiert es Proteine für den Abbau)</div><div style=\"text-align: justify;\">- Upiquitin wird über Carboxyterminus an Seitenkette eines Lysins gebunden</div><div style=\"text-align: justify;\"><br></div><u><div style=\"text-align: justify;\"><u>Mehrstufiger Prozess:</u></div></u><div style=\"text-align: justify;\">- Upiquitin wird auf SH Gruppe des E1 übertragen</div><div style=\"text-align: justify;\">- Upiquitin wird von E1 auf E2 übertragen</div><div style=\"text-align: justify;\">- E3: Upiquitin Ligase (erkennt das Zielprotein und baut Upiquitin da dran)</div><div style=\"text-align: justify;\">- für Abbau: Polyubiquitinylierung (viele Ubiquitins an viele Lysin Bindungsstellen)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><img src=\"IMG_563F7065CFCF-1.jpeg\"></div>"
+                                        "Kopplung von Ubiquitin an ein Zielprotein (Ubiquitinylierung)",
+                                        "<div style=\"text-align: justify;\">- verschiedene Bedeutungen (u.a. markiert es Proteine für den Abbau)<img src=\"IMG_563F7065CFCF-1.jpeg\" width=\"500\" style=\"float: right;\"></div><div style=\"text-align: justify;\">- Ubiquitin wird über Carboxyterminus an Seitenkette eines Lysins gebunden</div><div style=\"text-align: justify;\"><br></div><u><div style=\"text-align: justify;\"><u>Mehrstufiger Prozess:</u></div></u><div style=\"text-align: justify;\">- Ubiquitin wird auf SH Gruppe des E1 übertragen</div><div style=\"text-align: justify;\">- Ubiquitin wird von E1 auf E2 übertragen</div><div style=\"text-align: justify;\">- E3: Ubiquitin Ligase (erkennt das Zielprotein und baut Ubiquitin da dran)</div><div style=\"text-align: justify;\">- für Abbau: Polyubiquitinylierung (viele Ubiquitins an viele Lysin Bindungsstellen)</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\"><br></div>"
                                     ],
                                     "guid": "gI/uE^|b&B",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21460,8 +21466,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Was hat einen besonders großen Einfluss auf die Lebensdauer von proteinen?",
-                                        "- N-terminaler Aminosäurerest<br>- Ala/Cys/Gly/… stabilisieren<br>- Arg/His/Leu… destabilisierne"
+                                        "Was hat einen besonders großen Einfluss auf die Lebensdauer von Proteinen?",
+                                        "- N-terminaler Aminosäurerest<br>- Ala/Cys/Gly/… stabilisieren<br>- Arg/His/Leu… destabilisieren"
                                     ],
                                     "guid": "ODd&OQQ6,D",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21470,7 +21476,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Welche Krankhiten stehen in Vebindung mit einem nicht mehr funktionierenden Proteinabbau",
+                                        "Welche Krankheiten stehen in Vebindung mit einem nicht mehr funktionierenden Proteinabbau",
                                         "<div style=\"text-align: justify;\"><u>1. Alzheimer</u></div><div style=\"text-align: justify;\">&nbsp; - App Reste (das wird in neurodegenerativen Zellen) geschnitten sind teilweise schädlich, weil sie schnell verklumpen</div><div style=\"text-align: justify;\">&nbsp; - werden bei gesunden Menschen abgebaut</div><div style=\"text-align: justify;\">&nbsp; - wenn das nicht schnell genug passiert: Verklumpung und dort Enzündung bei der Neuronen oft zu Grunde gehen</div><div style=\"text-align: justify;\"><br></div><u><div style=\"text-align: justify;\"><u>2. BSE / Spongiforme Encephalitis</u></div></u><div style=\"text-align: justify;\">&nbsp; - PRP<sup>C</sup> ist ein Helix Protein im Cytoplasma</div><div style=\"text-align: justify;\">&nbsp; - kann durch Vererbung oder spontane Mutation in PRP<sup>SC</sup> umgewandelt wreden (das verklumpt schnell)</div><div style=\"text-align: justify;\">&nbsp; - wenn das nicht abgebaut wird, wandelt es auch gesundes PRP<sup>C</sup> in PRP<sup>SC</sup> um und im Hirn entstehen Proteinaggregationen</div><div style=\"text-align: justify;\">&nbsp; - Hirn ist bei Obduktion Schwammartig</div>"
                                     ],
                                     "guid": "Py~xUloQp%",
@@ -21480,8 +21486,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Sind die Konformationen von proteinen fest?",
-                                        "- nein, sie kann sich verändern (wenn z.B. Liganden gebunden werden)<br><br>Enzyme / Rezeptoren / Transportproteine"
+                                        "Sind die Konformationen von Proteinen fest?",
+                                        "- Nein, sie kann sich verändern (wenn z.B. Liganden gebunden werden)<br><br>Enzyme / Rezeptoren / Transportproteine"
                                     ],
                                     "guid": "*KtiC_rK5",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21490,18 +21496,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Wie fuktioniert die Bindung eines Substates an ein Enzym?",
-                                        "<b>Induced-Fit Modell<br></b><br>- Enzym hat am anfang eine ähnliche Struktur, wie das Substrat (aber nicht gleich)<br>- Wenn Substrat kommt passt sich das Enzym an und kann das Substrat sogar vollständig umschließen<br>- Substratbindung erfolgt über Kombination verschiedener Wechselwirkungen (H-Brücken, van der Waals Kräfte, hydrophobe Wechselwirkungen...)<br><br><img src=\"IMG_33EAE6CC1AB0-1.jpeg\">"
-                                    ],
-                                    "guid": "Dk--gI};^X",
-                                    "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Konformationsänderung von rezeptoren",
-                                        "Beispiel: G-protein Rezeptor<br><br>- bindet an extrazellularseite ein SUbstrat<br>- 7 transmembrane alpha helix Domänen verändern dadurch ihre Konformation und aktivieren eine Untereinheit auf intrazellularseite"
+                                        "Konformationsänderung von Rezeptoren",
+                                        "Beispiel: G-protein Rezeptor<br><br>- bindet an extrazellularseite ein Substrat<br>- 7 transmembrane alpha helix Domänen verändern dadurch ihre Konformation und aktivieren eine Untereinheit auf intrazellularseite"
                                     ],
                                     "guid": "rLq090:a;n",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21511,7 +21507,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Konformationsänderung von Transportproteinen",
-                                        "- Binden ihr Substrat<br>- schließen sich erstmal komplett&nbsp;<br>- gehen dann auf Innenseite auf<br><br>- die sind in der Regel nie ganz offen&nbsp;<br>- beispiel: Glucose ransport in Darmepithelzellen"
+                                        "- Binden ihr Substrat<br>- schließen sich erstmal komplett&nbsp;<br>- gehen dann auf Innenseite auf<br><br>- die sind in der Regel nie ganz offen&nbsp;<br>- beispiel: Glucose Transport in Darmepithelzellen"
                                     ],
                                     "guid": "NUL{~$3G-B",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21531,19 +21527,9 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Phosphorylierung",
-                                        "- phosphorylierung durch kinasen<br>- Proteinphosphatasen nehmen das Phosphor wieder weg vom protein (nehmen das hydrolytisch auf)<br>- aktiviert &amp; reguliert meistens Enzyme<br>- har großen Einfluss auf Konformation der proteine<br><br>- Seitenketten von Tyrosin, Serin &amp; Threonin können Phosphoryliert wreden"
+                                        "- phosphorylierung durch Kinasen<br>- Proteinphosphatasen nehmen das Phosphor wieder weg vom Protein (nehmen das hydrolytisch auf)<br>- aktiviert &amp; reguliert meistens Enzyme<br>- hat großen Einfluss auf Konformation der Proteine<br><br>- Seitenketten von Tyrosin, Serin &amp; Threonin können Phosphoryliert werden"
                                     ],
                                     "guid": "cd(uWQJ6#P",
-                                    "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Acetylierung",
-                                        "<div style=\"text-align: justify;\">- ein Wasserstoffatom eines Proteins wird durch eine Acetylgruppe (COCH<sub>3</sub>)ersetzt</div><div style=\"text-align: justify;\">&nbsp; &nbsp;&nbsp;<img src=\"paste-b083d50d7efd1dd5c6ab549697a9d8e8189427f9.jpg\"><br></div><div style=\"text-align: justify;\">- das beeinfluss Aktivität und/oder Eigenschaften der Proteine</div><div style=\"text-align: justify;\"><br></div><u><div style=\"text-align: justify;\"><u>Beispiel: Histone</u></div></u><div style=\"text-align: justify;\">- sind normalerweise relativ stark positiv geladen &amp; zeihen DNA deswegen bei Packung stark an</div><div style=\"text-align: justify;\">- manchmal muss die DNA lockerer vorliegen (z.B. für Transkription)</div><div style=\"text-align: justify;\">- Histone werden ACetyliert (durch Histon-Acetyl-Transferase)</div><div style=\"text-align: justify;\">- Psoitive ladung ässt dadurch nach</div><div style=\"text-align: justify;\">- DNA wird weniger strak angezogen</div>"
-                                    ],
-                                    "guid": "n!g/%k3JVO",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
                                     "tags": []
                                 },
@@ -21561,7 +21547,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Was ist eine prosthetische Gruppe",
-                                        "<span style=\"color: rgb(32, 33, 36); background-color: rgb(255, 255, 255);\">-&nbsp;</span>an ein Protein fest (meist kovalent) gebundene Nicht-Eiweiß-Komponente mit katalytischer Wirkung<br>- dauerhaft gebundener Co-Faktor&nbsp;"
+                                        "-&nbsp;an ein Protein fest (meist kovalent) gebundene Nicht-Eiweiß-Komponente mit katalytischer Wirkung<br>- dauerhaft gebundener Co-Faktor&nbsp;"
                                     ],
                                     "guid": "q?(r$m#P(C",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21571,7 +21557,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "biogene Amine",
-                                        "<div style=\"text-align: left;\">- modifizierte Aminosäuren mit Signalfunktion</div><span style=\"text-align: justify;\"><div style=\"text-align: left;\">- ettehen oft durch Decarboxylierung der Aminosäure</div></span><u style=\"text-align: justify;\"><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\"><u>Beispiele</u></div></u><span style=\"text-align: justify;\"><div style=\"text-align: left;\">- Histamin aus Histidin</div></span><span style=\"text-align: justify;\"><div style=\"text-align: left;\">- Serotonin aus Tryptophan</div></span><span style=\"text-align: justify;\"><div style=\"text-align: left;\">- Dopamin,&nbsp;Adrenalin &amp; Noradrenalin&nbsp;aus Tyrosin</div></span><div style=\"text-align: left;\">- GABA aus Glutaminsäure</div>"
+                                        "<div style=\"text-align: left;\">- modifizierte Aminosäuren mit Signalfunktion</div><span style=\"text-align: justify;\"><div style=\"text-align: left;\">- entstehen oft durch Decarboxylierung der Aminosäure</div></span><u style=\"text-align: justify;\"><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\"><u>Beispiele</u></div></u><span style=\"text-align: justify;\"><div style=\"text-align: left;\">- Histamin aus Histidin</div></span><span style=\"text-align: justify;\"><div style=\"text-align: left;\">- Serotonin aus Tryptophan</div></span><span style=\"text-align: justify;\"><div style=\"text-align: left;\">- Dopamin,&nbsp;Adrenalin &amp; Noradrenalin&nbsp;aus Tyrosin</div></span><div style=\"text-align: left;\">- GABA aus Glutaminsäure</div>"
                                     ],
                                     "guid": "QCeW?*$WKX",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21581,7 +21567,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "paar facts zur Proteinbiosynthese",
-                                        "- Peptidknüpfung ist Kondensationsreaktion (Wasserabspaltung)<br>&nbsp; → Peptidbindung entsteht durch Angriff der freien NH<sub>2</sub> Gruppe (AS2) auf veresterte Carboxylgruppe (AS1)<br>- diue entstehende Peptidbidung ist eine Säure-Amid-Bindung<br>- die Proteinbiosynthese ist immer mit Energiezufuhr verbunden"
+                                        "- Peptidknüpfung ist Kondensationsreaktion (Wasserabspaltung)<br>&nbsp; → Peptidbindung entsteht durch Angriff der freien NH<sub>2</sub> Gruppe (AS2) auf veresterte Carboxylgruppe (AS1)<br>- die entstehende Peptidbidung ist eine Säure-Amid-Bindung<br>- die Proteinbiosynthese ist immer mit Energiezufuhr verbunden"
                                     ],
                                     "guid": "h5(@L-sYS(",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21601,7 +21587,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "CAMs",
-                                        "<div style=\"text-align: justify;\"><i>cellular adhesion molecules</i></div><div style=\"text-align: justify;\">- Klasse von proteinen, die Kontakt zwischen Zellen vermitteln</div><div style=\"text-align: justify;\">- gehören zur Superfamilie der Immunglobuline</div><div style=\"text-align: justify;\">- Funktion: Wechselwirkung mit Lymphozyten und anderen Zellen des Immunsystems &amp; haftung zwischen Zellen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">ICAMs:&nbsp;<span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">intercellular cell adhesion molecule</span></div><div style=\"text-align: justify;\">NCAMs:&nbsp;<span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">neuronal cell adhesion molecule</span></div><div style=\"text-align: justify;\">VCAMs:&nbsp;<span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">vascular cell adhesion molecule</span></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">* Integrine binden auch an VCAM und ICAM</div>"
+                                        "<div style=\"text-align: justify;\"><i>cellular adhesion molecules</i></div><div style=\"text-align: justify;\">- Klasse von proteinen, die Kontakt zwischen Zellen vermitteln</div><div style=\"text-align: justify;\">- gehören zur Superfamilie der Immunglobuline</div><div style=\"text-align: justify;\">- Funktion: Wechselwirkung mit Lymphozyten und anderen Zellen des Immunsystems &amp; Haftung zwischen Zellen</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">ICAMs:&nbsp;<span style=\"color: rgb(85, 255, 127);\">intercellular cell adhesion molecule</span></div><div style=\"text-align: justify;\">NCAMs:&nbsp;<span style=\"color: rgb(85, 255, 127);\">neuronal cell adhesion molecule</span></div><div style=\"text-align: justify;\">VCAMs:&nbsp;<span style=\"color: rgb(85, 255, 127);\">vascular cell adhesion molecule</span></div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">* Integrine binden auch an VCAM und ICAM</div>"
                                     ],
                                     "guid": "PZpEw]Z.;g",
                                     "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
@@ -21610,7 +21596,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Bei Glykopreoteinen sind die oligosachharide meist an die Aminosäure {{c1::Asparagin}} geknüpft",
+                                        "Bei Glykoproteinen sind die oligosaccharide meist an die Aminosäure {{c1::Asparagin}} geknüpft",
                                         ""
                                     ],
                                     "guid": "v|D8v8VeXO",
@@ -22001,6 +21987,7 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
+                                "IMG_33EAE6CC1AB0-1.jpeg",
                                 "IMG_48B2C59B7FCC-1.jpeg",
                                 "IMG_857EEB8AEA83-1.jpeg",
                                 "IMG_E0876BAA23BE-1.jpeg",
@@ -22026,6 +22013,26 @@
                             "newLimit": null,
                             "newLimitToday": null,
                             "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was sind Co-Faktoren / Co-Enzyme",
+                                        "- binden an Protein oder Enzym so, dass dieses seine Funktion erfüllen kann<br>- permanent gebundene Co-Faktoren: prosthetische Gruppe"
+                                    ],
+                                    "guid": "b;:kUQ-6Xp",
+                                    "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie fuktioniert die Bindung eines Substrates an ein Enzym?",
+                                        "<b>Induced-Fit Modell<br></b><br>- Enzym hat am anfang eine ähnliche Struktur, wie das Substrat (aber nicht gleich)<br>- Wenn Substrat kommt passt sich das Enzym an und kann das Substrat sogar vollständig umschließen<br>- Substratbindung erfolgt über Kombination verschiedener Wechselwirkungen (H-Brücken, van der Waals Kräfte, hydrophobe Wechselwirkungen...)<br><br><img src=\"IMG_33EAE6CC1AB0-1.jpeg\">"
+                                    ],
+                                    "guid": "Dk--gI};^X",
+                                    "note_model_uuid": "bb3ca41e-001a-11ef-9aec-60f677a7f746",
+                                    "tags": []
+                                },
                                 {
                                     "__type__": "Note",
                                     "fields": [
@@ -26996,7 +27003,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "pH-Wert",
-                                "potentia Hydrogenii (Menge an Protonen in Lösung —&gt; Säuren haben hohen pH-Wert"
+                                "potentia Hydrogenii (Menge an Protonen in Lösung —&gt; Säuren haben niedrigen pH-Wert &lt;7"
                             ],
                             "guid": "vzMBX4P#cA",
                             "note_model_uuid": "b398da76-c040-11ee-af73-60f677a7f746",
@@ -27056,7 +27063,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Val",
-                                ""
+                                "Valin"
                             ],
                             "guid": "dawkzXrs66",
                             "note_model_uuid": "b398da76-c040-11ee-af73-60f677a7f746",
@@ -27427,7 +27434,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Aminosäuren mit polaren Seitenketten",
-                                "<ol><li style=\"text-align: left;\"><span style=\"color: rgb(85, 255, 127);\">Tyrosin</span></li><li style=\"text-align: left;\"><span style=\"color: rgb(85, 255, 127);\">Serin</span></li><li style=\"text-align: left;\"><span style=\"color: rgb(85, 255, 127);\">Threonin</span></li><li style=\"text-align: left;\"><span style=\"color: rgb(255, 85, 0);\">Cystein</span></li><li style=\"text-align: left;\"><span style=\"color: rgb(255, 85, 0);\">Selenocystein</span></li><li style=\"text-align: left;\"><span style=\"color: rgb(0, 170, 255);\">Aparagin</span></li><li style=\"text-align: left;\"><span style=\"color: rgb(0, 170, 255);\">Glutamin</span></li></ol><div style=\"text-align: left;\"><span style=\"color: rgb(255, 255, 255);\">- </span><span style=\"color: rgb(85, 255, 127);\">OH-Tragend</span></div><div style=\"text-align: left;\">- <span style=\"color: rgb(255, 85, 0);\">SH/SeH-Tragend</span></div><div style=\"text-align: left;\">- <span style=\"color: rgb(0, 170, 255);\">Aminogruppe</span></div><div style=\"text-align: left;\">- Hydrophob (Fettlöslich</div>"
+                                "<ol><li style=\"text-align: left;\"><span style=\"color: rgb(85, 255, 127);\">Tyrosin</span></li><li style=\"text-align: left;\"><span style=\"color: rgb(85, 255, 127);\">Serin</span></li><li style=\"text-align: left;\"><span style=\"color: rgb(85, 255, 127);\">Threonin</span></li><li style=\"text-align: left;\"><span style=\"color: rgb(255, 85, 0);\">Cystein</span></li><li style=\"text-align: left;\"><span style=\"color: rgb(255, 85, 0);\">Selenocystein</span></li><li style=\"text-align: left;\"><span style=\"color: rgb(0, 170, 255);\">Aparagin</span></li><li style=\"text-align: left;\"><span style=\"color: rgb(0, 170, 255);\">Glutamin</span></li></ol><div style=\"text-align: left;\"><span style=\"color: rgb(255, 255, 255);\">- </span><span style=\"color: rgb(85, 255, 127);\">OH-Tragend</span></div><div style=\"text-align: left;\">- <span style=\"color: rgb(255, 85, 0);\">SH/SeH-Tragend</span></div><div style=\"text-align: left;\">- <span style=\"color: rgb(0, 170, 255);\">Aminogruppe</span></div><div style=\"text-align: left;\">- Hydrophob (Fettlöslich)</div>"
                             ],
                             "guid": "lEtzG?6>##",
                             "note_model_uuid": "b398da76-c040-11ee-af73-60f677a7f746",
@@ -28682,7 +28689,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_170.png\">",
-                                        "Dimethylacrylamid<div>Auch wieder die Bestandteile auseinandernehmen&nbsp;</div><div>Zwei CH3: zwei (Di) Methyl&nbsp;</div><div><i>Acrylgruppe</i> (CH<sub>2</sub>=CH–COR)</div><div>Amid wegen des STickstoffs &nbsp; &nbsp;<br></div>"
+                                        "N,N-Dimethylacrylamid<div>Auch wieder die Bestandteile auseinandernehmen&nbsp;</div><div>Zwei CH3: zwei (Di) Methyl&nbsp;</div><div><i>Acrylgruppe</i> (CH<sub>2</sub>=CH–COR)</div><div>Amid wegen des Stickstoffs &nbsp; &nbsp;<br></div>"
                                     ],
                                     "guid": "DEU3r&2;_N",
                                     "note_model_uuid": "b3bf3680-c040-11ee-99da-60f677a7f746",
@@ -30291,7 +30298,7 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "Bildschirmfoto 2023-02-10 um 16.25.39.png",
+                                "4987-SF-1000Wx1000H.jpg",
                                 "Bildschirmfoto 2023-02-10 um 16.26.20.png",
                                 "Seminar Glucose &amp; Glykogenstoffwechsel.jpeg",
                                 "_amboss-deck-0.4.2.js",
@@ -30329,7 +30336,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Glucose",
-                                        "<img src=\"paste-068a7036ea656dad7e2fb251cd27ec6af14c34ee.png\"><div><br></div><div><img src=\"paste-f90e6f580e6ba85bb188c61749d427e96fe80bd1.png\"><br></div>"
+                                        "<div style=\"background-color: white;\"><img src=\"paste-068a7036ea656dad7e2fb251cd27ec6af14c34ee.png\" width=\"500\"><img src=\"paste-f90e6f580e6ba85bb188c61749d427e96fe80bd1.png\" width=\"500\"></div>"
                                     ],
                                     "guid": "Iq(WY|G:bx",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -30339,7 +30346,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Ribose",
-                                        "<img src=\"paste-807c44fd8d7d47b64e73c341da491fd61a5aa4f0.png\">"
+                                        "<img src=\"paste-807c44fd8d7d47b64e73c341da491fd61a5aa4f0.png\" width=\"1000\">"
                                     ],
                                     "guid": "m(es{j.]F!",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -30349,7 +30356,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Desoxyribose",
-                                        "<img src=\"paste-91969f61556c360f4f218cbbd8caea77c813920a.png\">"
+                                        "<img src=\"paste-91969f61556c360f4f218cbbd8caea77c813920a.png\" width=\"500\">"
                                     ],
                                     "guid": "Q>epQZp(3K",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -30359,7 +30366,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Glycerin",
-                                        "<img src=\"paste-a6fde18e98a3f191edc0dff781d7e6bdaa68a634.png\"><div><br></div><div>Einfachster dreiwertiger Alkohol</div>"
+                                        "<img style=\"background-color: white;\" src=\"paste-a6fde18e98a3f191edc0dff781d7e6bdaa68a634.png\" width=\"700\"><div><br></div><div>Einfachster dreiwertiger Alkohol</div>"
                                     ],
                                     "guid": "i/_9Af<{It",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -30368,8 +30375,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Bildschirmfoto 2023-02-10 um 16.25.39.png\">",
-                                        "<div>Galactose<br></div><div><br></div><img src=\"paste-a552550c73e563025bcfedc64f0872f5aa445718.png\">"
+                                        "<img alt=\"D(+)-Galactose, 500 g, CAS No. 59-23-4 | Monosaccharide | Kohlenhydrate |  Naturstoffe &amp; Referenzmaterialien | Chemikalien | Carl Roth - Deutschland\" src=\"4987-SF-1000Wx1000H.jpg\" width=\"500\">",
+                                        "<div>Galactose<br></div><div><br></div><img style=\"background-color: white;\" src=\"paste-a552550c73e563025bcfedc64f0872f5aa445718.png\" width=\"700\">"
                                     ],
                                     "guid": "l-Vgk-h{q~",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -30379,7 +30386,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<img src=\"Bildschirmfoto 2023-02-10 um 16.26.20.png\">",
-                                        "Mannose"
+                                        "D-Mannose"
                                     ],
                                     "guid": "HJ7r,X=5o[",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
@@ -30388,7 +30395,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"paste-18cf61cc22d0144a6222c5357e44ad953c26a8ab.jpg\">",
+                                        "<img src=\"paste-18cf61cc22d0144a6222c5357e44ad953c26a8ab.jpg\" width=\"500\">",
                                         "<b>Saccharose</b><br><i>- Glucose + Fructose<br></i>- kein reduzierendes Ende<br>- industrieller Rohrzucker"
                                     ],
                                     "guid": "EOb@jYmlA*",
@@ -30408,7 +30415,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"paste-23d01f011775f24f968f6d8a4079546ecc2a8297.jpg\">",
+                                        "<img src=\"paste-23d01f011775f24f968f6d8a4079546ecc2a8297.jpg\" width=\"500\">",
                                         "<div style=\"text-align: justify;\"><b>Maltose</b></div><i><div style=\"text-align: justify;\"><i>- Glucose + Glucose</i></div></i><div style=\"text-align: justify;\">- reduzierendes Ende</div><div style=\"text-align: justify;\">- Malzzucker (zur Herstellung von Bier)</div>"
                                     ],
                                     "guid": "Ab&q|ZqcXI",
@@ -30621,7 +30628,7 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "Unknown-1.png",
+                                "Nucleotide_nucleoside_general.svg",
                                 "_amboss-deck-0.4.2.js",
                                 "_amboss-feat-ankiphil2.png",
                                 "_amboss-hammer.svg",
@@ -30704,7 +30711,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Nukleoside / Nukleotide der RNA &amp; DNA",
-                                        "<img src=\"Unknown-1.png\">"
+                                        "<img alt=\"Nukleotide sind Nukleoside mit Phosphatgruppen.\nEin Nukleosid ist die Verbindung einer Nukleinbase (Base) mit einem Einfachzucker, einer Pentose. Deren 2'-Rest (R) ist im Falle der Ribose eine Hydroxygruppe (OH-), im Falle der Desoxyribose hingegen Wasserstoff (H-).\nBei einem Nukleotid ist die 5'-OH-Gruppe der Pentose eines Nukleosids mit einem Phosphatrest verestert. Ein Nukleosidtriphosphat (NTP) weist drei Phosphatgruppen auf, die untereinander Säureanhydridbindungen ausbilden. Mit Adenin als Base und Ribose als Saccharid liegt das Adenosintriphosphat (ATP) vor.\nBei artifiziellen Didesoxynukleotiden ist auch die 3'-OH-Gruppe durch ein H-Atom ersetzt.\" style=\"background-color: white;\" src=\"Nucleotide_nucleoside_general.svg\">"
                                     ],
                                     "guid": "E2/w|rP$ds",
                                     "note_model_uuid": "b3994f75-c040-11ee-9791-60f677a7f746",
