@@ -21858,7 +21858,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Ellenbogengelenk",
-                                                "<div style=\"text-align: justify; \"><img src=\"Bildschirmfoto 2022-12-04 um 16.10.58.png\"><br></div><div style=\"text-align: justify; \"><br></div><div style=\"text-align: justify; \"><br></div><div style=\"text-align: justify; \"><img src=\"Bildschirmfoto 2022-11-22 um 21.14.24.png\"><br></div>",
+                                                "<div style=\"text-align: justify; \"><img src=\"Bildschirmfoto 2022-12-04 um 16.10.58.png\" width=\"1500\"><br></div><div style=\"text-align: justify; \"><img src=\"Bildschirmfoto 2022-11-22 um 21.14.24.png\" width=\"1500\"><br></div>",
                                                 ""
                                             ],
                                             "guid": "dnut.[_e2P",
@@ -32947,8 +32947,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Sprunggelenk",
-                                                "<img src=\"Bildschirmfoto 2022-11-26 um 20.31.45.png\" width=\"1500\"><br><img src=\"Bildschirmfoto 2022-11-27 um 17.30.05.png\" width=\"1500\"><br><img src=\"Bildschirmfoto 2022-11-27 um 17.33.08.png\" width=\"1500\"><br><img src=\"Bildschirmfoto 2022-11-26 um 20.32.59.png\" width=\"1500\">",
+                                                "Sprunggelenk - alles",
+                                                "<img src=\"Bildschirmfoto 2022-11-26 um 20.31.45.png\" width=\"1300\"><br><img src=\"Bildschirmfoto 2022-11-27 um 17.30.05.png\" width=\"1300\"><br><img src=\"Bildschirmfoto 2022-11-27 um 17.33.08.png\" width=\"1300\"><br><img src=\"Bildschirmfoto 2022-11-26 um 20.32.59.png\" width=\"1300\">",
                                                 ""
                                             ],
                                             "guid": "whR;T4TD4E",
@@ -32976,6 +32976,58 @@
                                             "guid": "Av8:5-8LhQ",
                                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Art. Talotalaris &amp; Art. Subtalaris",
+                                                "<img src=\"Bildschirmfoto 2022-11-27 um 17.33.08.png\" width=\"1300\">",
+                                                ""
+                                            ],
+                                            "guid": "gX#lz@PHVD",
+                                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                                            "tags": [
+                                                "Fußgelenke"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Art. Talocalcaneonaviculare",
+                                                "<img src=\"Bildschirmfoto 2022-11-26 um 20.32.59.png\" width=\"1300\">",
+                                                ""
+                                            ],
+                                            "guid": "o<I4$Aj`|F",
+                                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                                            "tags": [
+                                                "Fußgelenke"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wichtige Fußbänder",
+                                                "<img src=\"Bildschirmfoto 2022-11-27 um 17.30.05.png\" width=\"1300\">",
+                                                ""
+                                            ],
+                                            "guid": "n,LH{g7X(F",
+                                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                                            "tags": [
+                                                "Fußgelenke"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Sprunggelenk - Überblick und Art. Talocruralis",
+                                                "<img src=\"Bildschirmfoto 2022-11-26 um 20.31.45.png\" width=\"1300\">",
+                                                ""
+                                            ],
+                                            "guid": "r=NMPP{*h|",
+                                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                                            "tags": [
+                                                "Fußgelenke"
+                                            ]
                                         }
                                     ],
                                     "reviewLimit": null,
@@ -33467,17 +33519,17 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "2cd5778e683f4825b69a6033a73ba76f-ao-10",
+                                        "2cd5778e683f4825b69a6033a73ba76f-ao-10e",
                                         "Untere Extremitäten",
-                                        "<img src=\"IMG_1D688300F5D2-1.jpeg\" />",
-                                        "<img src=\"2cd5778e683f4825b69a6033a73ba76f-ao-10-Q.svg\" />",
+                                        "<img src=\"IMG_1D688300F5D2-1.jpeg\">",
+                                        "<img src=\"2cd5778e683f4825b69a6033a73ba76f-ao-10-Q.svg\">",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "<img src=\"2cd5778e683f4825b69a6033a73ba76f-ao-10-A.svg\">",
-                                        "<img src=\"2cd5778e683f4825b69a6033a73ba76f-ao-O.svg\" />"
+                                        "<img src=\"2cd5778e683f4825b69a6033a73ba76f-ao-O.svg\">"
                                     ],
                                     "guid": "k2@`(AMMb:",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -37404,7 +37456,7 @@
                                                 "0644024ba4ba4ae5814d2df7a930216d-ao-1",
                                                 "Flexorengruppe (Hintere Oberschenkelmuskulatur)",
                                                 "<img src=\"IMG_2E3F11BF4DCF-1.jpeg\">",
-                                                "<img src=\"0644024ba4ba4ae5814d2df7a930216d-ao-1-Q.svg\" />",
+                                                "<img src=\"0644024ba4ba4ae5814d2df7a930216d-ao-1-Q.svg\">",
                                                 "",
                                                 "<b><u>M. biceps femoris (1)<br></u></b>→ gehört zu ischiokrurale Muskulatur<br><br><b>Ursprung:</b><br>- Caput longum: Tuber ischiadicum &amp; Lig. sacrotuberale (Caput commune mit M. semitendinosus)<br>- Caput breve: Labium laterale der Linea aspera im mittleren Drittel des Femurs<br><br><b>Ansatz:&nbsp;</b><div>- Caput fibulae<br><br><b>Funktion:</b><br>- Hüftgelenk: (Caput longum) Adduktion, Extension, Stabilisierung Becken in Saggitalebene<br>- Kniegelenk: (ganzer Muskel) Flexion und Außenrotation (Außenrotation Knie eig nur durch&nbsp; biceps!)<br><br><b>Innervation:<br></b>- N. tibialis (L5-S2)<br>- N. fibularis communis (L5-S2) (Caput breve)<br><br><img src=\"IMG_DBA37FE8C5CE-1.jpeg\"></div>",
                                                 "",
@@ -38194,9 +38246,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Was ist das für eine Hernie?<br><img src=\"IMG_4D498AACF98D-1.jpeg\">",
-                                                "<b>Spiegel-Hernie<br></b>- im Bereich der vorderen Bauchwand<br>- zwischen linea semilunaris (Linie die den Übergang des M. rectus abdominis in benachbarte Sehnenplatten markiert) und lateraler Rektusscheide",
-                                                ""
+                                                "Was ist das für eine Hernie?<br><img src=\"IMG_4D498AACF98D-1.jpeg\" width=\"900\">",
+                                                "<div style=\"text-align: left;\"><b>Spiegel-Hernie</b></div><div style=\"text-align: left;\">- im Bereich der vorderen Bauchwand</div><div style=\"text-align: left;\">- zwischen Linea semilunaris (Linie die den Übergang des M. rectus abdominis in benachbarte Sehnenplatten markiert) und lateraler Rektusscheide</div>",
+                                                "<img src=\"IMG_4D498AACF98D-1.jpeg\" width=\"900\">"
                                             ],
                                             "guid": "fVD*PY3h!T",
                                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -38371,7 +38423,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Fascia endothoracica",
-                                                "- bedeckt Innenraum des Thorax<br><img src=\"IMG_425D9886971E-1.jpeg\">",
+                                                "- bedeckt Innenraum des Thorax<br><img src=\"IMG_425D9886971E-1.jpeg\" width=\"1000\">",
                                                 ""
                                             ],
                                             "guid": "A$^W5[5LBr",
@@ -42532,8 +42584,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"9722e69f-71a1-458e-b637-0acf1d3c82e1\" class=\"toggle\"><li><details><summary>Chromosom</summary><div><p class=\"\" id=\"07f8b7a5-f127-453d-8ce2-f88043df0790\">Chromatiden allein oder mit Schwesterchromatid in stark kondensierter Form </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"07f8b7a5-f127-453d-8ce2-f88043df0790\">Chromatiden allein oder mit Schwesterchromatid in stark kondensierter Form </p>",
+                        "Chromosom",
+                        "Chromatiden allein oder mit Schwesterchromatid in stark kondensierter Form",
                         ""
                     ],
                     "guid": "u@M~5Vko$>",
@@ -42609,8 +42661,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"7d419c46-5fed-40bc-bd43-4cb52838ed61\" class=\"toggle\"><li><details><summary>Regulatorische Elemente </summary><div><p class=\"\" id=\"939db32c-0fc4-4776-b88a-8e2b495b4125\">Promotor, Enhancer etc. </p><p class=\"\" id=\"b53c98e3-137a-4e7a-8c6a-9da81d963580\">regulieren die Transkription </p><p class=\"\" id=\"1b552c5e-a602-4017-951f-b79fe3fec1c1\">Ausschlaggebend, wann und in welchen Geweben das jeweilige Gen exprimiert wird </p><p class=\"\" id=\"9b859e11-c678-4fd6-9bcf-991b138e6a37\"></p></div></details></li></ul>",
-                        "<p class=\"\" id=\"939db32c-0fc4-4776-b88a-8e2b495b4125\">Promotor, Enhancer etc. </p><p class=\"\" id=\"b53c98e3-137a-4e7a-8c6a-9da81d963580\">regulieren die Transkription </p><p class=\"\" id=\"1b552c5e-a602-4017-951f-b79fe3fec1c1\">Ausschlaggebend, wann und in welchen Geweben das jeweilige Gen exprimiert wird </p><p class=\"\" id=\"9b859e11-c678-4fd6-9bcf-991b138e6a37\"></p>",
+                        "Regulatorische Elemente",
+                        "<div style=\"text-align: left;\">Promotor, Enhancer etc.</div><div style=\"text-align: left;\">→ regulieren die Transkription</div><div style=\"text-align: left;\">→ Ausschlaggebend, wann und in welchen Geweben das jeweilige Gen exprimiert wird</div>",
                         ""
                     ],
                     "guid": "K-Eo(-Sq~I",
@@ -42631,8 +42683,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"1fac4564-451a-4fbf-bc50-a769dc47ce94\" class=\"toggle\"><li><details><summary>RNA Gene </summary><div><p class=\"\" id=\"275b5d6f-86e1-4c20-b6b2-b6347ec09c74\">Nicht proteincodierende RNA: ribosomale RNA (rRNA) und Transfer RNA (tRNA) </p><p class=\"\" id=\"24d606ad-aa40-4cd4-9254-020242d2767c\">Wichtig für TRanslation der mRNA</p><p class=\"\" id=\"f795795d-adb6-434f-b08b-7da0bc41608b\">Gene, der Expression auf RNA-Ebene endet und nicht Proteinogen: RNA-Gene</p></div></details></li></ul>",
-                        "<p class=\"\" id=\"275b5d6f-86e1-4c20-b6b2-b6347ec09c74\">Nicht proteincodierende RNA: ribosomale RNA (rRNA) und Transfer RNA (tRNA) </p><p class=\"\" id=\"24d606ad-aa40-4cd4-9254-020242d2767c\">Wichtig für Translation der mRNA</p><p class=\"\" id=\"f795795d-adb6-434f-b08b-7da0bc41608b\">Gene, der Expression auf RNA-Ebene endet und nicht Proteinogen: RNA-Gene</p>",
+                        "RNA Gene",
+                        "<div style=\"text-align: left;\">- Nicht proteincodierende RNA: ribosomale RNA (rRNA) und Transfer RNA (tRNA)</div><div style=\"text-align: left;\">- Wichtig für Translation der mRNA</div><div style=\"text-align: left;\">- Gene, der Expression auf RNA-Ebene endet und nicht Proteinogen: RNA-Gene</div>",
                         ""
                     ],
                     "guid": "sTwww6iIOG",
@@ -42666,8 +42718,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"a7ced6e1-7b73-4f25-8edc-65ec3de04fe0\" class=\"toggle\"><li><details><summary>Transposons und Retroposons </summary><div><p class=\"\" id=\"281d5a05-e6f0-4fd5-bcfe-807bbfb18286\">-c.a 45% des Genoms sind deren Kopien</p><p class=\"\" id=\"03400ec1-8e87-48f2-9b8c-af7c04f2d908\">-springende Gene: verändern Position im Genom </p><p class=\"\" id=\"d39961e9-7e28-4de9-bb6f-0460095a2016\">-Vervielfältigung durch Einfügen von Kopien </p><p class=\"\" id=\"11d3f07d-bc21-4bcf-9eba-1a507e68c312\">-viraler Ursprung: Ansammlung im menschlichen Genom im Laufe der Evolution </p><p class=\"\" id=\"745a27cc-9687-4b2d-981c-b09bfaac37e0\">Eigennützige DNA: haben keinen Nutzen für den Wirt</p></div></details></li></ul>",
-                        "<p class=\"\" id=\"281d5a05-e6f0-4fd5-bcfe-807bbfb18286\">-c.a 45% des Genoms sind deren Kopien</p><p class=\"\" id=\"03400ec1-8e87-48f2-9b8c-af7c04f2d908\">-springende Gene: verändern Position im Genom </p><p class=\"\" id=\"d39961e9-7e28-4de9-bb6f-0460095a2016\">-Vervielfältigung durch Einfügen von Kopien </p><p class=\"\" id=\"11d3f07d-bc21-4bcf-9eba-1a507e68c312\">-viraler Ursprung: Ansammlung im menschlichen Genom im Laufe der Evolution </p><p class=\"\" id=\"745a27cc-9687-4b2d-981c-b09bfaac37e0\">Eigennützige DNA: haben keinen Nutzen für den Wirt</p>",
+                        "Transposons und Retroposons",
+                        "<div style=\"text-align: left;\">- ca. 45% des Genoms sind deren Kopien</div><div style=\"text-align: left;\">- springende Gene: verändern Position im Genom</div><div style=\"text-align: left;\">- Vervielfältigung durch Einfügen von Kopien</div><div style=\"text-align: left;\">- viraler Ursprung: Ansammlung im menschlichen Genom im Laufe der Evolution&nbsp;</div><div style=\"text-align: left;\">∟ Eigennützige DNA: haben keinen Nutzen für den Wirt</div>",
                         ""
                     ],
                     "guid": "j^.>$q[mdh",
@@ -42897,8 +42949,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"624ac7c1-aa3e-40d9-a2a4-57e167d3958f\" class=\"toggle\"><li><details><summary>Größenänderung der Mikrotubuli </summary><div><p class=\"\" id=\"8ac981c7-520b-4d40-be17-41a40dde6969\">Wachsen (polymerisieren) und zerfallen (depolymerisieren) ständig </p><p class=\"\" id=\"9e032ce0-33cd-46ec-9eeb-88db4e69e059\">Depolymerisierung: meist explosionsartig und führt zu vollständigen Zerfall des Mikrotubulus </p><p class=\"\" id=\"fa61c6d4-6532-48cd-af5f-efc00a18d1d1\">Hydrolyse des Guanosintriphosphats → dynamische Instabilität </p><p class=\"\" id=\"07792a67-169e-465e-83d5-d18abd324f92\">Meisten Dimere haben GTP gebunden → Protofilamente gerade und stabil </p><p class=\"\" id=\"46d5328a-9472-4f80-bbea-16d08c58e799\">Nach Einbau des Protofilaments: Hydrolysierung von GTP unter Abspaltung eines Phosphatrests </p><p class=\"\" id=\"36763d8a-8cf1-4409-b957-96af5a31be09\">Zuletzt angebaute Einheiten am Plus Ende: GTP-Kappe zur Stabiliseirung des Mikrotubulus und Verhinderung des Auseinanderweichen der Protofilamente </p><p class=\"\" id=\"a391d2ce-de32-4f2b-a4c7-61df5342caa8\">Verlust der GTP-Kappe: explosionsartiger Zerfall des Mikrotubulus </p><p class=\"\" id=\"60ef0e6b-e5b0-42ba-a22d-22718f1bf93a\"></p></div></details></li></ul>",
-                        "<p class=\"\" id=\"8ac981c7-520b-4d40-be17-41a40dde6969\">Wachsen (polymerisieren) und zerfallen (depolymerisieren) ständig </p><p class=\"\" id=\"9e032ce0-33cd-46ec-9eeb-88db4e69e059\">Depolymerisierung: meist explosionsartig und führt zu vollständigen Zerfall des Mikrotubulus </p><p class=\"\" id=\"fa61c6d4-6532-48cd-af5f-efc00a18d1d1\">Hydrolyse des Guanosintriphosphats → dynamische Instabilität </p><p class=\"\" id=\"07792a67-169e-465e-83d5-d18abd324f92\">Meisten Dimere haben GTP gebunden → Protofilamente gerade und stabil </p><p class=\"\" id=\"46d5328a-9472-4f80-bbea-16d08c58e799\">Nach Einbau des Protofilaments: Hydrolysierung von GTP unter Abspaltung eines Phosphatrests </p><p class=\"\" id=\"36763d8a-8cf1-4409-b957-96af5a31be09\">Zuletzt angebaute Einheiten am Plus Ende: GTP-Kappe zur Stabiliseirung des Mikrotubulus und Verhinderung des Auseinanderweichen der Protofilamente </p><p class=\"\" id=\"a391d2ce-de32-4f2b-a4c7-61df5342caa8\">Verlust der GTP-Kappe: explosionsartiger Zerfall des Mikrotubulus </p><p class=\"\" id=\"60ef0e6b-e5b0-42ba-a22d-22718f1bf93a\"></p>",
+                        "Größenänderung der Mikrotubuli",
+                        "<ul><li>Wachsen (polymerisieren) und zerfallen (depolymerisieren) ständig</li><li>Depolymerisierung: meist explosionsartig und führt zu vollständigen Zerfall des Mikrotubulus\n</li><li>Hydrolyse des Guanosintriphosphats → dynamische Instabilität\n</li><li>Meisten Dimere haben GTP gebunden → Protofilamente gerade und stabil\n</li><li>Nach Einbau des Protofilaments: Hydrolysierung von GTP unter Abspaltung eines Phosphatrests\n</li><li>Zuletzt angebaute Einheiten am Plus Ende: GTP-Kappe zur Stabiliseirung des Mikrotubulus und Verhinderung des Auseinanderweichen der Protofilamente\n</li><li>Verlust der GTP-Kappe: explosionsartiger Zerfall des Mikrotubulus\n\n</li></ul>",
                         ""
                     ],
                     "guid": "oqw%1@Ib*7",
@@ -43697,8 +43749,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Zuordnung zwischen Strukturformel und Name stimmt?<div><img src=\"image-c80c153188fe5209c6f4fb87921ad74b44b41b78.jpg\"><br></div><div>Molekül A = Isopren&nbsp;</div><div>Molekül L = Maleinsäure&nbsp;</div><div>Molekül C = Thymin&nbsp;</div><div>Molekül J = Weinsäure&nbsp;</div><div>Molekül H = Asparagin&nbsp;</div>",
-                                "Molekül H ist Asparagin.&nbsp;<div>Molekül L ist mit seiner langgestreckten Kette aus H-Atomen und OH-Atomen eine Zuckersäure.&nbsp;</div><div>Molekül C enthält nur C und H-Atome also ein unpolarer, normaler Kohenwasserstoff. Thymin kennen wir aus der Biologie als Nucleinbase der DNA. Dementsprechend muss Thymin auch Gruppen enthalten, die als Protonenakzeptoren (NHs) fungieren können, enthalten&nbsp;</div><div>Molekül J ist mit seinen zwei NH- Gruppen eine Base. Dementsprechend ist dieses Molekül NICHT die Weinsäure.&nbsp;</div>",
+                                "Welche Zuordnung zwischen Strukturformel und Name stimmt?<div><img src=\"image-c80c153188fe5209c6f4fb87921ad74b44b41b78.jpg\"><br></div><div style=\"text-align: left;\">Molekül A = Isopren&nbsp;</div><div style=\"text-align: left;\">Molekül L = Maleinsäure&nbsp;</div><div style=\"text-align: left;\">Molekül C = Thymin&nbsp;</div><div style=\"text-align: left;\">Molekül J = Weinsäure&nbsp;</div><div style=\"text-align: left;\">Molekül H = Asparagin&nbsp;</div>",
+                                "<div style=\"text-align: left;\">Molekül H ist Asparagin.&nbsp;</div><div style=\"text-align: left;\">Molekül L ist mit seiner langgestreckten Kette aus H-Atomen und OH-Atomen eine Zuckersäure.&nbsp;</div><div style=\"text-align: left;\">Molekül C enthält nur C und H-Atome also ein unpolarer, normaler Kohenwasserstoff. Thymin → Nucleinbase der DNA → Stickstoff.&nbsp;</div><div style=\"text-align: left;\">Molekül J ist mit seinen zwei NH- Gruppen eine Base. Dementsprechend ist dieses Molekül NICHT die Weinsäure.&nbsp;</div>",
                                 ""
                             ],
                             "guid": "r?(5B1?9oq",
@@ -44124,7 +44176,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Welches Molekül entspricht dem energieärmsten Produkt der elektrophilen Addition von Brom an (R)-3-Methyl-cyclohex-2-en (1) ?&nbsp;<div><img src=\"image-6a9065eaa197fbfc8a3d2721d8abcb1f99f2d6a4.png\"><br></div>",
-                                "<div>Molekül E ist am energieärmsten. Hier haben die Substituenten den größtmöglichen Abstand zueinander.&nbsp;</div>Molekül C hat eine C-C-Doppeldingung. Die sind immer energiereicher als Einfachbindungen.&nbsp;<div>Molekül A und B haben als cis-Isomere alle drei Substituenten und vor allem beide Br auf einer Seite. Das ist aufgrund der Abstoßung der freien Elektronenpaare energiereicher, weil die Elektronen den größtmöglichen Abstand zueinander einnehmen wollen.&nbsp;</div><div>In Molekül D stehen Methylkette und ein Brom nebeneinander und zeigen nach vorn.&nbsp;</div>",
+                                "<div style=\"text-align: left;\">Molekül E (ganz rechts) ist am energieärmsten. Hier haben die Substituenten den größtmöglichen Abstand zueinander.&nbsp;</div><div style=\"text-align: left;\">Molekül C hat eine C-C-Doppeldingung. Die sind immer energiereicher als Einfachbindungen.&nbsp;</div><div style=\"text-align: left;\">Molekül A und B haben als cis-Isomere alle drei Substituenten und vor allem beide Br auf einer Seite.</div><div style=\"text-align: left;\">∟ Das ist aufgrund der Abstoßung der freien Elektronenpaare energiereicher, weil die Elektronen den größtmöglichen Abstand zueinander einnehmen wollen.&nbsp;</div><div style=\"text-align: left;\">In Molekül D stehen Methylkette und ein Brom nebeneinander und zeigen nach vorn.&nbsp;</div>",
                                 ""
                             ],
                             "guid": "Pz*(:!p|y?",
@@ -44134,8 +44186,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<br><div><img src=\"image-4fcebea53f693949f70cd8c809cf2a1c31cd4e46.png\"></div><div>Welche Aussage zu den abgebildeten Molekülen ist falsch?<br></div><div><br></div><div>1. Molekül a ist Epimer zu Molekül b</div>\n<div>\n<div>2. Molekül b ist Epimer zu Molekül c</div></div>\n<div>\n<div>3. Molekül c ist Epimer zu Molekül a</div>4. Es handelt sich bei allen Molekülen um Aldopentosen&nbsp;</div><div>5. Bei Molekül B handelt es sich um D-Ribose&nbsp;</div>",
-                                "Aussage 3 ist falsch: Molekül c ist KEIN Epimer zu Molekül a.&nbsp;<div>Epimere sind Moleküle, die man zwar aneinander spiegeln könnte, dann würde aber an EINEM C OH- und H- falsch herum &nbsp;stehen.&nbsp;</div><div>Dreht man bei a am mittigen C-Atom, kommt dabei b raus.&nbsp;</div><div>Dreht man bei c am oberen C-Atom kommt b raus.&nbsp;</div><div>Nur bei a und c müsste man jeweils an zwei C-Atomen drehen. Dementsprechend sind sie keine Epimere zueinander.&nbsp;</div>",
+                                "<br><div><img src=\"image-4fcebea53f693949f70cd8c809cf2a1c31cd4e46.png\" width=\"800\"></div><div>Welche Aussage zu den abgebildeten Molekülen ist falsch?<br></div><div><br></div><div style=\"text-align: left;\"><ol><li>&nbsp;Molekül a ist Epimer zu Molekül b</li><li>&nbsp;Molekül b ist Epimer zu Molekül c</li><li>&nbsp;Molekül c ist Epimer zu Molekül a</li><li>&nbsp;Es handelt sich bei allen Molekülen um Aldopentosen&nbsp;</li><li>&nbsp;Bei Molekül B handelt es sich um D-Ribose&nbsp;</li></ol></div>\n\n",
+                                "<div style=\"text-align: left;\">Aussage 3 ist falsch: Molekül c ist KEIN Epimer zu Molekül a.&nbsp;</div><div style=\"text-align: left;\">Epimere sind Moleküle, die man zwar aneinander spiegeln könnte, dann würde aber an EINEM C OH- und H- falsch herum &nbsp;stehen.&nbsp;</div><div style=\"text-align: left;\">Dreht man bei a am mittigen C-Atom, kommt dabei b raus.&nbsp;</div><div style=\"text-align: left;\">Dreht man bei c am oberen C-Atom kommt b raus.&nbsp;</div><div style=\"text-align: left;\">Nur bei a und c müsste man jeweils an zwei C-Atomen drehen. Dementsprechend sind sie keine Epimere zueinander.&nbsp;</div>",
                                 ""
                             ],
                             "guid": "AV+M0W$xFA",
@@ -44860,8 +44912,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"440bd482-fad3-4a15-9ab3-1d55ce5d7bb9\" class=\"toggle\"><li><details><summary>Reine Atombindungen</summary><div><p class=\"\" id=\"66e93b21-6278-436d-b7b5-a28bad5e51a6\">Kovalente Bindung, Elektronenpaarbindung </p><p class=\"\" id=\"888d5b52-032d-4c83-80e1-1d334d95315a\">Zwischen gleichen Atomen oder mit nahezu gleichen EN </p><p class=\"\" id=\"e7a6cd7f-c138-41b5-bbb5-ce3664ae1e2d\">(C-S, Br-Cl, B-H) </p><p class=\"\" id=\"d7711275-46c0-4928-8924-d2e28b8b95e6\">Moleküle wie Sauerstoff weisen eine Mehrfachbindung auf: eine Pi- und Sigmabindung </p><p class=\"\" id=\"181e0686-be05-4e76-96e4-36ef20c36f13\">Moleküle wie Stickstoff weisen eine Dreifachbindung auf: eine Sigma- und zwei Pi- Bindungen </p><p class=\"\" id=\"ab47bb65-4f57-4f28-9563-e207cb64acb3\"></p></div></details></li></ul>",
-                        "<p class=\"\" id=\"66e93b21-6278-436d-b7b5-a28bad5e51a6\">Kovalente Bindung, Elektronenpaarbindung </p><p class=\"\" id=\"888d5b52-032d-4c83-80e1-1d334d95315a\">Zwischen gleichen Atomen oder mit nahezu gleichen EN </p><p class=\"\" id=\"e7a6cd7f-c138-41b5-bbb5-ce3664ae1e2d\">(C-S, Br-Cl, B-H) </p><p class=\"\" id=\"d7711275-46c0-4928-8924-d2e28b8b95e6\">Moleküle wie Sauerstoff weisen eine Mehrfachbindung auf: eine Pi- und Sigmabindung </p><p class=\"\" id=\"181e0686-be05-4e76-96e4-36ef20c36f13\">Moleküle wie Stickstoff weisen eine Dreifachbindung auf: eine Sigma- und zwei Pi- Bindungen </p><p class=\"\" id=\"ab47bb65-4f57-4f28-9563-e207cb64acb3\"></p>",
+                        "Reine Atombindungen",
+                        "<div style=\"text-align: left;\">Kovalente Bindung, Elektronenpaarbindung</div><div style=\"text-align: left;\">→ Zwischen gleichen Atomen oder mit nahezu gleichen EN</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">∟ (C-S, Br-Cl, B-H)<br></div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Moleküle wie Sauerstoff weisen eine Mehrfachbindung auf: eine Pi- und Sigmabindung</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Moleküle wie Stickstoff weisen eine Dreifachbindung auf: eine Sigma- und zwei Pi- Bindungen</div>",
                         ""
                     ],
                     "guid": "i>cfRy%/-M",
@@ -44970,8 +45022,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"4b066f7e-074a-4dfd-85f1-2f4b4a9f3561\" class=\"toggle\"><li><details><summary>Gesetz der konstanten und <strong>multiplen</strong> Proportionen</summary><div><p class=\"\" id=\"49250de7-71e9-4639-b05b-9c6d452aa005\">• Wasserstoff und Sauerstoff reagieren im Verhältnis 1:1 </p><p class=\"\" id=\"bd42910b-9177-4188-883c-4286012703d5\">• Beide Elemente liegen nicht als einzelne Atome, sondern als Moleküle vor </p><p class=\"\" id=\"9774a823-0108-4a65-9394-bb78dc7d4a75\">• Daher reagiert ein Wasserstoffmolekül mit einem Sauerstoffmolekül zu einem Wasserstoffperoxid- Molekül </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"49250de7-71e9-4639-b05b-9c6d452aa005\">• Wasserstoff und Sauerstoff reagieren im Verhältnis 1:1 </p><p class=\"\" id=\"bd42910b-9177-4188-883c-4286012703d5\">• Beide Elemente liegen nicht als einzelne Atome, sondern als Moleküle vor </p><p class=\"\" id=\"9774a823-0108-4a65-9394-bb78dc7d4a75\">• Daher reagiert ein Wasserstoffmolekül mit einem Sauerstoffmolekül zu einem Wasserstoffperoxid- Molekül </p>",
+                        "Gesetz der konstanten und multiplen Proportionen",
+                        "<div style=\"text-align: left;\"><ul><li>Wasserstoff und Sauerstoff reagieren im Verhältnis 1:1</li><li>Beide Elemente liegen nicht als einzelne Atome, sondern als Moleküle vor</li><li>Daher reagiert ein Wasserstoffmolekül mit einem Sauerstoffmolekül zu einem Wasserstoffperoxid- Molekül</li></ul></div>",
                         ""
                     ],
                     "guid": "c0*5/MD`oW",
@@ -45642,7 +45694,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Starke Säure bei pKs kleiner/ gleich zwei&nbsp;",
-                        "Log(Konzentration der Säure) = lg(H3O+) = pH Wert&nbsp;<div>Der pKs- Wert gibt die Stärke der Säure an. Der pKb Werte als Maß für die Stärke einer Base berechnet sich:&nbsp;</div><div>PKb = 14 - pH&nbsp;</div>",
+                        "<div style=\"text-align: left;\">log(Konzentration der Säure) = lg(H<sub>3</sub>O<sup>+</sup>) = pH Wert&nbsp;</div><div style=\"text-align: left;\">Der pK<sub>s</sub>- Wert gibt die Stärke der Säure an. Der pK<sub>b</sub> Werte als Maß für die Stärke einer Base berechnet sich:&nbsp;</div><div style=\"text-align: left;\">pK<sub>b</sub> = 14 - pH&nbsp;</div>",
                         ""
                     ],
                     "guid": "pwjd&*AA|%",
@@ -46120,7 +46172,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n\n",
             "flds": [
                 {
                     "collapsed": false,
