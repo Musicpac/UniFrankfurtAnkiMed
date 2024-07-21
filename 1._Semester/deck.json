@@ -37846,8 +37846,8 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Welche Muskelsehnen findet man am Malleolus medialis und in welcher Reihenfolge liegen sie hier?",
-                                                "<i>-</i> Sehnen der tiefen Fkexoren<br>- VOR dem Knöchen Sehne des M. tibialis anterior (Extensor)<br><br><i>(Medialer Knöchel)</i> M. tibialis anterior / M. flexor digitorum longus / Gefä-Nerven-Straße / M. flexor hallucis longus&nbsp;<br><b>T</b>om&nbsp;<b>D</b>ick&nbsp;<b>an</b>d&nbsp;<b>h</b>arry<br><br><img src=\"IMG_4320D510F677-1.jpeg\">",
-                                                ""
+                                                "<div style=\"text-align: left;\"><i>-</i> Sehnen der tiefen Fkexoren</div><div style=\"text-align: left;\">- VOR dem Knöchen Sehne des M. tibialis anterior (Extensor)</div><div style=\"text-align: left;\"><br></div><i><div style=\"text-align: left;\"><i>(Medialer Knöchel)</i> M. tibialis anterior / M. flexor digitorum longus / Gefä-Nerven-Straße / M. flexor hallucis longus&nbsp;</div></i><b><div style=\"text-align: left;\"><b>T</b>om&nbsp;<b>D</b>ick&nbsp;<b>an</b>d&nbsp;<b>h</b>arry</div></b>",
+                                                "<img src=\"IMG_4320D510F677-1.jpeg\" width=\"800\">"
                                             ],
                                             "guid": "Ii]jWjkR2h",
                                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -42562,8 +42562,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"fefa233b-93ff-4025-8cf8-a2fc90ddb3ad\" class=\"toggle\"><li><details><summary>Chromatin </summary><div><p class=\"\" id=\"0c59cdeb-2779-4140-af89-57dacdeb3a44\">Komplex aus DNA und spezifischen Proteinen, überwiegend Histonen </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"0c59cdeb-2779-4140-af89-57dacdeb3a44\">Komplex aus DNA und spezifischen Proteinen, überwiegend Histonen </p>",
+                        "Chromatin",
+                        "Komplex aus DNA und spezifischen Proteinen, überwiegend Histonen",
                         ""
                     ],
                     "guid": "f;rg1fA1tL",
@@ -42740,8 +42740,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"a929a259-f7ee-4aa1-9bd0-c759645d9102\" class=\"toggle\"><li><details><summary>Phosphorlipide </summary><div><p class=\"\" id=\"3529ddcc-70f6-4964-955e-8512ec5fb181\">Bestehen aus Glycerin, zwei kovalent verbundenen Fettsäureresten (jeweils aus 14-24, Phosphatrest (mit Glycerin verbunden), hydophiler Rest </p><p class=\"\" id=\"ef361f83-870c-4767-a323-1cf012114e57\">Lipophiler Schwanz: Fettsäurerest </p><p class=\"\" id=\"99517a1a-0f43-4592-b7ee-2fe19181c915\">Hydrophiler Kopf: Phosphat, Rest   </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"3529ddcc-70f6-4964-955e-8512ec5fb181\">Bestehen aus Glycerin, zwei kovalent verbundenen Fettsäureresten (jeweils aus 14-24, Phosphatrest (mit Glycerin verbunden), hydophiler Rest </p><p class=\"\" id=\"ef361f83-870c-4767-a323-1cf012114e57\">Lipophiler Schwanz: Fettsäurerest </p><p class=\"\" id=\"99517a1a-0f43-4592-b7ee-2fe19181c915\">Hydrophiler Kopf: Phosphat, Rest   </p>",
+                        "Phospholipide",
+                        "<div style=\"text-align: left;\">Bestehen aus Glycerin, zwei kovalent verbundenen Fettsäureresten (jeweils aus C14-24, Phosphatrest (mit Glycerin verbunden), hydophiler Rest</div><div style=\"text-align: left;\">Lipophiler Schwanz: Fettsäurerest</div><div style=\"text-align: left;\">Hydrophiler Kopf: Phosphat, Rest</div>",
                         ""
                     ],
                     "guid": "g~H.nP9!-:",
@@ -42950,7 +42950,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Größenänderung der Mikrotubuli",
-                        "<ul><li>Wachsen (polymerisieren) und zerfallen (depolymerisieren) ständig</li><li>Depolymerisierung: meist explosionsartig und führt zu vollständigen Zerfall des Mikrotubulus\n</li><li>Hydrolyse des Guanosintriphosphats → dynamische Instabilität\n</li><li>Meisten Dimere haben GTP gebunden → Protofilamente gerade und stabil\n</li><li>Nach Einbau des Protofilaments: Hydrolysierung von GTP unter Abspaltung eines Phosphatrests\n</li><li>Zuletzt angebaute Einheiten am Plus Ende: GTP-Kappe zur Stabiliseirung des Mikrotubulus und Verhinderung des Auseinanderweichen der Protofilamente\n</li><li>Verlust der GTP-Kappe: explosionsartiger Zerfall des Mikrotubulus\n\n</li></ul>",
+                        "<ul><li>Wachsen (polymerisieren) und zerfallen (depolymerisieren) ständig</li><li>Depolymerisierung: meist explosionsartig und führt zu vollständigen Zerfall des Mikrotubulus\n</li><li>Hydrolyse des Guanosintriphosphats → dynamische Instabilität\n</li><li>Meisten Dimere haben GTP gebunden → Protofilamente gerade und stabil\n</li><li>Nach Einbau des Protofilaments: Hydrolysierung von GTP unter Abspaltung eines Phosphatrests\n</li><li>Zuletzt angebaute Einheiten am Plus Ende: GTP-Kappe zur Stabilisierung des Mikrotubulus und Verhinderung des Auseinanderweichen der Protofilamente\n</li><li>Verlust der GTP-Kappe: explosionsartiger Zerfall des Mikrotubulus\n\n</li></ul>",
                         ""
                     ],
                     "guid": "oqw%1@Ib*7",
@@ -43103,8 +43103,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"1a7817da-2478-49de-a5b2-878d70f990ba\" class=\"toggle\"><li><details><summary>Entstehung des Zellkerns </summary><div><p class=\"\" id=\"573e7060-0609-4b1e-9496-3a438221ebf4\">Aus einem früher Prokaryoten vor circa 1,5 Milliarden Jahren </p><p class=\"\" id=\"398543a9-8f68-4014-b034-d31abfc043cc\">Einstülpung der Plasmamembran mit membrangebundenen Ribosomen </p><p class=\"\" id=\"bdf41376-1e1b-4f58-94e6-7ad60449746d\">→ Invigation der Zelloberfläche </p><p class=\"\" id=\"08198cdb-4755-4723-a80f-a58487041360\">→ Umschließen der DNA durch eingestülpte Zellmembran und Abtrennung aus em Cytosol </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"573e7060-0609-4b1e-9496-3a438221ebf4\">Aus einem früher Prokaryoten vor circa 1,5 Milliarden Jahren </p><p class=\"\" id=\"398543a9-8f68-4014-b034-d31abfc043cc\">Einstülpung der Plasmamembran mit membrangebundenen Ribosomen </p><p class=\"\" id=\"bdf41376-1e1b-4f58-94e6-7ad60449746d\">→ Invigation der Zelloberfläche </p><p class=\"\" id=\"08198cdb-4755-4723-a80f-a58487041360\">→ Umschließen der DNA durch eingestülpte Zellmembran und Abtrennung aus em Cytosol </p>",
+                        "Entstehung des Zellkerns",
+                        "<div style=\"text-align: left;\">Aus einem früher Prokaryoten vor circa 1,5 Milliarden Jahren</div><div style=\"text-align: left;\">Einstülpung der Plasmamembran mit membrangebundenen Ribosomen</div><div style=\"text-align: left;\">→ Invagination der Zelloberfläche</div><div style=\"text-align: left;\">→ Umschließen der DNA durch eingestülpte Zellmembran und Abtrennung aus dem Cytosol</div>",
                         ""
                     ],
                     "guid": "1/cK/3Zkd",
@@ -43626,8 +43626,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Aussage über dieses Molekül ist falsch?&nbsp;<div><img src=\"image-1e5b49effdb53b63de0d2ba0bb26b46a4fa74538.png\"><br></div><div>1. Das Molekül hat amphiphile Eigenschaften&nbsp;</div><div>2. Es handelt sich um ein Triacylglycerid&nbsp;</div><div>3. Das Molekül liegt als Zwitterion vor</div><div>4. Es enthält vier Esterbindungen&nbsp;</div><div>5. Das Molekül ist Bestandteil der Zellmembran&nbsp;</div>",
-                                "Aussage 2. ist falsch&nbsp;<div>1. Das Molekül hat eine lange Kohlenwasserstoffkette, ist also ungeladen und hydrophob. Der Kopf ist hydrophil, weil er polar ist (man sieht ja die Ladungen)&nbsp;</div><div>Woher kennt man die Anordnung?&nbsp;</div><div>Aus der Doppellipidschicht der Zellmembran (also ist 5. Auch richtig) -&gt; Phosphorlipide (dieses hier ist Lecithin)&nbsp;</div><div>3. ist auch richtig. Ein Zwitterion trägt sowohl eine positive als auch eine negative Ladung in sich (negative Ladung beim O und positive beim N)&nbsp;</div><div>4. ist auch richtig. Dafür muss man Estherbindungen kennen. Die ist&nbsp;</div><div>O=C-O und dann einfach abzählen.&nbsp;</div>",
+                                "Welche Aussage über dieses Molekül ist falsch?&nbsp;<div><img src=\"image-1e5b49effdb53b63de0d2ba0bb26b46a4fa74538.png\" width=\"800\"><br></div><div style=\"text-align: left;\">1. Das Molekül hat amphiphile Eigenschaften&nbsp;</div><div style=\"text-align: left;\">2. Es handelt sich um ein Triacylglycerid&nbsp;</div><div style=\"text-align: left;\">3. Das Molekül liegt als Zwitterion vor</div><div style=\"text-align: left;\">4. Es enthält vier Esterbindungen&nbsp;</div><div style=\"text-align: left;\">5. Das Molekül ist Bestandteil der Zellmembran&nbsp;</div>",
+                                "<div style=\"text-align: center;\">Aussage 2. ist falsch&nbsp;</div><div style=\"text-align: left;\">1. Das Molekül hat eine lange Kohlenwasserstoffkette, ist also ungeladen und hydrophob. Der Kopf ist hydrophil, weil er polar ist (man sieht ja die Ladungen)&nbsp;</div><div style=\"text-align: left;\">Woher kennt man die Anordnung?&nbsp;</div><div style=\"text-align: left;\">Aus der Doppellipidschicht der Zellmembran (also ist 5. Auch richtig) -&gt; Phosphorlipide (dieses hier ist Lecithin)&nbsp;</div><div style=\"text-align: left;\">3. ist auch richtig. Ein Zwitterion trägt sowohl eine positive als auch eine negative Ladung in sich (negative Ladung beim O und positive beim N)&nbsp;</div><div style=\"text-align: left;\">4. ist auch richtig. Dafür muss man Estherbindungen kennen. Die ist&nbsp;</div><div style=\"text-align: left;\">O=C-O und dann einfach abzählen.&nbsp;</div>",
                                 ""
                             ],
                             "guid": "IK8F86`6,m",
@@ -43683,8 +43683,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<div>Die Dissoziationskonstanten der Schwefligen Säure lauten Ks₁ = 1,0 x 10⁻², Ks₂ = 6,3 x 10⁻⁸. Bei pH = 7,4 beträgt das Stoffmengenverhältnis Sulfit zu Hydrogensulfit<br></div><div>1) 5,2 : 1&nbsp;</div><div>2) 1,6 : 1</div><div>3) 1,1 : 1&nbsp;</div><div>4) 0,63 : 1&nbsp;</div><div>5) 0,2 : 1&nbsp;</div>",
-                                "Aussage 2 ist richtig. Bei 6,3 ist das Verhältnis aus Sulfit und Hydrogensulfit 1:1, weil dort der pKs dem pH entspricht, also dort der Halbäquivalenzpunkt liegt. Demenentsprechend muss es bei steigendem pH mehr Sulfit geben. Bei einer Titrationskurve kommt es nach dem Halbäquivalenzpunkt erstmal länger nicht zu einem steilen Anstieg der Basen (hier Sulfit)konzentration. Also muss die Basenkonzentration dezent größer sein, als die der Säure.&nbsp;",
+                                "<div>Die Dissoziationskonstanten der Schwefligen Säure lauten Ks₁ = 1,0 x 10⁻², Ks₂ = 6,3 x 10⁻⁸. Bei pH = 7,4 beträgt das Stoffmengenverhältnis Sulfit zu Hydrogensulfit<br></div><div><ol><li style=\"text-align: left;\">5,2 : 1&nbsp;</li><li style=\"text-align: left;\">1,6 : 1</li><li style=\"text-align: left;\">1,1 : 1&nbsp;</li><li style=\"text-align: left;\">0,63 : 1&nbsp;</li><li style=\"text-align: left;\">0,2 : 1&nbsp;</li></ol></div>",
+                                "Aussage 2 ist richtig. <br><div style=\"text-align: left;\">Bei 6,3 ist das Verhältnis aus Sulfit und Hydrogensulfit 1:1, weil dort der pKs dem pH entspricht, also dort der Halbäquivalenzpunkt liegt. Demenentsprechend muss es bei steigendem pH mehr Sulfit geben. Bei einer Titrationskurve kommt es nach dem Halbäquivalenzpunkt erstmal länger nicht zu einem steilen Anstieg der Basen (hier Sulfit)konzentration. Also muss die Basenkonzentration dezent größer sein, als die der Säure.&nbsp;</div>",
                                 ""
                             ],
                             "guid": "j7`kf<|D8x",
@@ -43850,8 +43850,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Prüfen Sie folgende Aussagen zu den abgebildeten Molekülen. Welche ist richtig?&nbsp;<div><img src=\"image-6c272af8db06de31fc502014b869b8e11a3c2498.jpg\"><br></div><div>1. 1 und 2 bilden ein korrespondierendes Säure-Base-Paare</div><div>2. Beide Verbindungen sind mit 6 konjugierten pi-Elektronen Aromatisch&nbsp;</div><div>3. Bei Verbindung 1 handelt es sich um eine -enol Form von 2.&nbsp;</div><div>4. Bei Verbindung 1 handelt es sich um das Hydrat des Diketons&nbsp;</div><div>5. Beide Verbindungen bilden ein pH-abhängiges Redoxpaar&nbsp;</div>",
-                                "Aussage 5 ist richtig. Je nach Konzentration der H+-Ionen liegt die linke Form häufiger/ seltener vor. Gibt es viele H+ Ionen und der pH-Wert ist niedrig, kann das Diketon viel hydratisiert werden und das linke Molekül liegt häufiger vor.&nbsp;<div>Aussage 1 ist falsch, weil bei einer Deprotonierten Form von 1. eine negative Ladung an den beiden Sauerstoffatomen entstehen müsste. Bei einer Säure-Base-Reaktion entsteht also immer ein Anion und ein Kation.&nbsp;</div><div>Aussage 2 ist auch falsch. Hierfür einfach die Anzahl an Doppelbindungen im Ring zählen und mit 2 multiplizieren, weil eine Bindung zwei Elektronen enthält.&nbsp;</div><div>Aussage 3 ist falsch.&nbsp;</div><div>Aussage 4 ist auch falsch. Bei der linken Form handelt es sich um das Dihydrat, weil es zweimal hydriert also zwei Wasserstoffatome mehr hat als das rechte.&nbsp;<br><div><br></div></div>",
+                                "Prüfen Sie folgende Aussagen zu den abgebildeten Molekülen. Welche ist richtig?&nbsp;<div><img src=\"image-6c272af8db06de31fc502014b869b8e11a3c2498.jpg\"><br></div><div style=\"text-align: left;\"><ol><li>1 und 2 bilden ein korrespondierendes Säure-Base-Paare</li><li>Beide Verbindungen sind mit 6 konjugierten pi-Elektronen Aromatisch&nbsp;</li><li>Bei Verbindung 1 handelt es sich um eine -enol Form von 2.&nbsp;</li><li>Bei Verbindung 1 handelt es sich um das Hydrat des Diketons&nbsp;</li><li>Beide Verbindungen bilden ein pH-abhängiges Redoxpaar&nbsp;</li></ol></div>",
+                                "<div style=\"text-align: left;\">Aussage 5 ist richtig. Je nach Konzentration der H+-Ionen liegt die linke Form häufiger/ seltener vor. Gibt es viele H+ Ionen und der pH-Wert ist niedrig, kann das Diketon viel hydratisiert werden und das linke Molekül liegt häufiger vor.&nbsp;</div><div style=\"text-align: left;\">Aussage 1 ist falsch, weil bei einer Deprotonierten Form von 1. eine negative Ladung an den beiden Sauerstoffatomen entstehen müsste. Bei einer Säure-Base-Reaktion entsteht also immer ein Anion und ein Kation.&nbsp;</div><div style=\"text-align: left;\">Aussage 2 ist auch falsch. Hierfür einfach die Anzahl an Doppelbindungen im Ring zählen und mit 2 multiplizieren, weil eine Bindung zwei Elektronen enthält.&nbsp;</div><div style=\"text-align: left;\">Aussage 3 ist falsch.&nbsp;</div><div><div style=\"text-align: left;\">Aussage 4 ist auch falsch. Bei der linken Form handelt es sich um das Dihydrat, weil es zweimal hydriert also zwei Wasserstoffatome mehr hat als das rechte.&nbsp;</div><div style=\"text-align: left;\"><br></div></div>",
                                 ""
                             ],
                             "guid": "EfdALp`_t9",
@@ -43964,8 +43964,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Symbolschreibweise charakterisiert ein Teilchen mit 30 Neutronen und einer Elektronenkonfiguration (Ar) 3d5?<div><sup>57</sup>Co<sup>3+</sup><br></div><div><sup>54</sup>Cr<sup>3+</sup><sup><br></sup></div><div><sup>56</sup>Fe<sup>3+</sup><sup><br></sup></div><div><sup>53</sup>Mn<sup>2+</sup><sup><br></sup></div><div><sup>51</sup>V&nbsp;<sup><br></sup></div>",
-                                "<div>Aussage 3 ist richtig&nbsp;</div>V ist Vanadium. Das hat eine Ordnungszahl von 23 und kann mit 30 Neutronen somit keine Massenzahl von 51 annehmen. (OZ+Neutronen=MZ)<div>Auch bei Mangan haut die Rechnung nicht hin, da Mg eine OZ von 25 hat. In der Summe mit 30 Neutronen hat es somit eine MZ von 55.&nbsp;</div><div>Die Elektronenkonfiguration von Argon 3d5 beschriebt, dass sich auf der Valenzschale, also dem 3d Orbital 5 Elektronen sein müssen. Die muss man dann zu der Ladung addieren. Die Summe aus Ladung und Valenzelektronenanzahl ergibt dann die Anzahl der Protonen im Kern, also der Gruppe. Hier in dem Fall muss das Element in der achten Gruppe stehen, da alle drei Elemente 1, 2, und 3 die Ladung +3 aufweisen. Dementsprechend muss das Elemnt in der 8. (Neben)Gruppe stehen. Dort steht in der 4. Periode, der Periode unter Argon, dem Edelgas um dessen Elektronenkonfiguration es geht, Eisen also Fe.&nbsp;</div>",
+                                "Welche Symbolschreibweise charakterisiert ein Teilchen mit 30 Neutronen und einer Elektronenkonfiguration (Ar) 3d5?<div><ol><li><sup>57</sup>Co<sup>3+</sup></li><li><sup>54</sup>Cr<sup>3+</sup></li><li><sup>56</sup>Fe<sup>3+</sup></li><li><sup>53</sup>Mn<sup>2+</sup></li><li><sup>51</sup>V&nbsp;</li></ol></div>",
+                                "<div>Aussage 3 ist richtig&nbsp;</div><div style=\"text-align: left;\">V ist Vanadium. Das hat eine Ordnungszahl von 23 und kann mit 30 Neutronen somit keine Massenzahl von 51 annehmen. (OZ+Neutronen=MZ)</div><div style=\"text-align: left;\">Auch bei Mangan haut die Rechnung nicht hin, da Mg eine OZ von 25 hat. In der Summe mit 30 Neutronen hat es somit eine MZ von 55.&nbsp;</div><div style=\"text-align: left;\">Die Elektronenkonfiguration von Argon 3d5 beschriebt, dass sich auf der Valenzschale, also dem 3d Orbital 5 Elektronen sein müssen. Die muss man dann zu der Ladung addieren. Die Summe aus Ladung und Valenzelektronenanzahl ergibt dann die Anzahl der Protonen im Kern, also der Gruppe. Hier in dem Fall muss das Element in der achten Gruppe stehen, da alle drei Elemente 1, 2, und 3 die Ladung +3 aufweisen. Dementsprechend muss das Elemnt in der 8. (Neben)Gruppe stehen. Dort steht in der 4. Periode, der Periode unter Argon, dem Edelgas um dessen Elektronenkonfiguration es geht, Eisen also Fe.&nbsp;</div>",
                                 ""
                             ],
                             "guid": "Np)8pVrXgk",
@@ -44019,8 +44019,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<div style=\"text-align: left;\">Folgende Salze werden jeweils in Wasser (0,1 mol/L) gelöst:</div><div style=\"text-align: left;\"><ul><li>Natriumacetat</li><li>Ammoniumchlorid</li><li>Ammoniumacetat</li></ul></div>\n<div style=\"text-align: left;\">Sortieren Sie die drei Salzlösungen entsprechend steigenden pH-Werten. Welches ist die richtige Reihenfolge?</div><div style=\"text-align: left;\"><ol><li>&nbsp;3&gt;2&gt;1</li><li>&nbsp;2&gt;3&gt;1</li><li>&nbsp;3&gt;1&gt;2</li><li>&nbsp;1&gt;3&gt;2</li><li>&nbsp;1&gt;2&gt;3</li></ol></div>",
-                                "Aussage 4 ist korrekt.&nbsp;<div>Ammoniumchlorid ist die stärkste Säure, da das Chlorid-Ion sehr stabil ist. Ammonuimacetat besteht aus einer schwachen Base und einer schwachen Säure und ist dementsprechend saurer als das Natriumacetat, weil dieses aus einer starken Base und einer schwachen Säure besteht und dementsprechend eher basisch also mit höherem pH Wert vorliegt.&nbsp;</div>",
+                                "<div style=\"text-align: left;\">Folgende Salze werden jeweils in Wasser (0,1 mol/L) gelöst:</div><div style=\"text-align: left;\"><ol><li>Natriumacetat</li><li>Ammoniumchlorid</li><li>Ammoniumacetat</li></ol></div>\n<div style=\"text-align: left;\">Sortieren Sie die drei Salzlösungen entsprechend steigenden pH-Werten. Welches ist die richtige Reihenfolge?</div><div style=\"text-align: left;\"><ol><li>&nbsp;3&gt;2&gt;1</li><li>&nbsp;2&gt;3&gt;1</li><li>&nbsp;3&gt;1&gt;2</li><li>&nbsp;1&gt;3&gt;2</li><li>&nbsp;1&gt;2&gt;3</li></ol></div>",
+                                "Aussage 4 ist korrekt.&nbsp;<div style=\"text-align: left;\">Ammoniumchlorid ist die stärkste Säure, da das Chlorid-Ion sehr stabil ist. Ammonuimacetat besteht aus einer schwachen Base und einer schwachen Säure und ist dementsprechend saurer als das Natriumacetat, weil dieses aus einer starken Base und einer schwachen Säure besteht und dementsprechend eher basisch also mit höherem pH Wert vorliegt.&nbsp;</div>",
                                 ""
                             ],
                             "guid": "N8Cs61+?Vh",
@@ -44107,15 +44107,13 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Bei der vollständigen Verbrennung eines gasförmigen Kohlenwasserstoffs wurden 4 mol O2 verbraucht und es entstanden 2 mol Co2 und 4 mol Wasser. Bei dem Gas handelt es sich um:&nbsp;<div>1.) Butan&nbsp;</div><div>2.)Propan&nbsp;</div><div>3.) Ethen&nbsp;</div><div>4.) Ethan&nbsp;</div><div>5.) Methan&nbsp;</div>",
-                                "Es handelt sich um Methan&nbsp;<div><img src=\"image-508c9f2fd5c491597a2a5ac67db68cec2712673e.png\"><br></div>",
-                                ""
+                                "Bei der vollständigen Verbrennung eines gasförmigen Kohlenwasserstoffs wurden 4 mol O2 verbraucht und es entstanden 2 mol Co2 und 4 mol Wasser. <br>Bei dem Gas handelt es sich um:&nbsp;<div style=\"text-align: left;\"><ol><li>Butan&nbsp;</li><li>Propan&nbsp;</li><li>Ethen&nbsp;</li><li>Ethan&nbsp;</li><li>Methan&nbsp;</li></ol></div>",
+                                "Es handelt sich um Methan&nbsp;",
+                                "<img src=\"image-508c9f2fd5c491597a2a5ac67db68cec2712673e.png\" width=\"1000\">"
                             ],
                             "guid": "i^C.)$`EOy",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": [
-                                "marked"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -44414,8 +44412,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_31.png\">",
-                                        "Methionin<div>Ist sowas wie die Erweiterung des Cytsteins. Bei Cystein hängt am Schwefelatom ein H. Bei Methionin hängen wir ein <b>Meth</b>yl<b> </b>an das Schwefelatom.</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_31.png\" width=\"1000\">",
+                                        "Methionin<div style=\"text-align: left;\">Ist sowas wie die Erweiterung des Cytsteins. Bei Cystein hängt am Schwefelatom ein H. Bei Methionin hängen wir ein <b>Meth</b>yl<b> </b>an das Schwefelatom.</div>",
                                         ""
                                     ],
                                     "guid": "CJzxF6vSLU",
@@ -44958,7 +44956,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_107.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_107.png\" width=\"1000\">",
                                         "Pyrrol",
                                         ""
                                     ],
@@ -45317,7 +45315,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_154.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_154.png\" width=\"1000\">",
                                         "Acetessigester<br><div>Ein Ester enthält ein C-Atom, das ein O-Atom einfach und eins doppelt gebunden hat, also das C an dem rechten O&nbsp;</div><div>Den Oxalatanteil findet man somit am ganz linken O.&nbsp;</div><div>Der Mechanismus Veresterung, also wie diese Molekül (in der Regel aus einem Alkohol und einer Carbonsäure) entsteht, ist immer mal in Altklausuren relevant gewesen.&nbsp;</div>",
                                         ""
                                     ],
@@ -45370,7 +45368,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_162.png\">",
-                                        "Acrylsäureethylester (Ethylacrylat)<div><i>Acrylgruppe</i> (CH<sub>2</sub>=CH–COR)</div><div>Rest: eine Esterbindung (an einem C ist ein O doppelt und ein O einfachgebunden) und eine Ethylkette (aus zwei C-Atomen bestehender organischer Rest)&nbsp;<br></div>",
+                                        "Acrylsäureethylester (Ethylacrylat)<div style=\"text-align: left;\"><i>Acrylgruppe</i> (CH<sub>2</sub>=CH–COR)</div><div style=\"text-align: left;\">Rest: eine Esterbindung (an einem C ist ein O doppelt und ein O einfachgebunden) und eine Ethylkette (aus zwei C-Atomen bestehender organischer Rest)&nbsp;<br></div>",
                                         ""
                                     ],
                                     "guid": "DOG[]xhgs:",
@@ -45473,8 +45471,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_178.png\">",
-                                        "Ethylmethylacrylat /\nMethacrylsäureethylester<div>Auch wieder Zusammensetzung aller funktioneller Elemente im Molekül</div><div>An der Acrylsäure&nbsp;&nbsp;(CH<sub style=\"font-family: -apple-system;\">2</sub>=CH–COR) findet sich eine Methyl(CH3)Seitenkette&nbsp;</div><div>Es gibt eine Esterbindung (ein C bindet ein O doppelt und eins einfach)&nbsp;</div><div>Und einen Ethylrest (CH2-CH3-&gt; rechter Teil nach dem O)&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_178.png\" width=\"1000\">",
+                                        "Ethylmethylacrylat /\nMethacrylsäureethylester<div style=\"text-align: left;\">Auch wieder Zusammensetzung aller funktioneller Elemente im Molekül</div><div style=\"text-align: left;\">An der Acrylsäure&nbsp;&nbsp;(CH<sub style=\"font-family: -apple-system;\">2</sub>=CH–COR) findet sich eine Methyl(CH3)Seitenkette&nbsp;</div><div style=\"text-align: left;\">Es gibt eine Esterbindung (ein C bindet ein O doppelt und eins einfach)&nbsp;</div><div style=\"text-align: left;\">Und einen Ethylrest (CH2-CH3-&gt; rechter Teil nach dem O)&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "yp>/[bs|8S",
@@ -45603,7 +45601,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_199.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_199.png\" width=\"1000\">",
                                         "Ölsäure<div>Auch hier wieder eine einfach ungesättigte (eine Doppelbindung) Fettsäure durch ihren langen unpolaren Rest aus Kohlenwasserstoffen&nbsp;</div>",
                                         ""
                                     ],
@@ -46562,7 +46560,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_340.png\">",
-                                        "Ascorbinsäure (Vitamin C)<div>Lernen!</div><div>Reaktives Molekül und stark hydrophil durch die vielen OH-Gruppen&nbsp;</div><div>Lacton durch Esterbindung im Ring&nbsp;</div>",
+                                        "Ascorbinsäure (Vitamin C)<div style=\"text-align: left;\">Lernen!</div><div style=\"text-align: left;\">Reaktives Molekül und stark hydrophil durch die vielen OH-Gruppen&nbsp;</div><div style=\"text-align: left;\">Lacton durch Esterbindung im Ring&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "u.$3HV{_:@",
@@ -47014,6 +47012,7 @@
                 "79b81ddc50f9882391515d3e94847b1099538e1c4821aa4a001b20bed0091448575315dfa70c5726efe1331c9c09027052ac.jpeg",
                 "90e192361d05fe1f05aa14f9c32a9d6c6ca74819b634b4f97e232bb1818236d6a299f78b0daca2248cb5f1fb107e64e35a91.jpeg",
                 "9b0f328f6df143cc1fb02651745309ad707fa63054a0e40ebb9617ffe01400cb2fbee789c4b1fb01a1c01de58a3b47a4c6bb.jpeg",
+                "Vant-hoffsche-Regel-1024x576.png",
                 "c915f9758b4670a731e132155f6b76adc2a19c01c34839fcbdd420a524058630ca8f7545f4eb9bfe9f403537d774fdf3906e.jpeg",
                 "d3734890a9df6d7d007b40a1cd196888e529f67fa7af07edfc0d9f555de9b1d99f68e41f4254b3653215bd828144a9ba97a7.jpeg",
                 "image-134fa183851b5f60527a01034eabfe9f13ba604f.png",
@@ -47089,8 +47088,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"230550d2-f85b-479c-9622-7c5a65aa462f\" class=\"toggle\"><li><details><summary>Isotope </summary><div><p class=\"\" id=\"9bda8e0c-fc46-48bf-b0ab-1187df354f21\">Atome mit gleicher OZ (ist bei Atomen immer gleich, sonst wäre es ein anderes), aber unterschiedlicher Massenzahl → gleiche Anzahl an Protonen, aber unterschiedliche Anzahl an Neutronen </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"9bda8e0c-fc46-48bf-b0ab-1187df354f21\">Atome mit gleicher OZ (ist bei Atomen immer gleich, sonst wäre es ein anderes), aber unterschiedlicher Massenzahl → gleiche Anzahl an Protonen, aber unterschiedliche Anzahl an Neutronen </p>",
+                        "Isotope",
+                        "<div style=\"text-align: left;\">Atome mit gleicher OZ (ist bei Atomen immer gleich, sonst wäre es ein anderes), aber unterschiedlicher Massenzahl</div><div style=\"text-align: left;\">→ gleiche Anzahl an Protonen, aber unterschiedliche Anzahl an Neutronen</div>",
                         ""
                     ],
                     "guid": "m~}<kn^#|F",
@@ -47232,8 +47231,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"eb056792-b947-4c9d-bd25-6336b601df51\" class=\"toggle\"><li><details><summary>Relative Atommasse </summary><div><p class=\"\" id=\"d6f6b925-f9fc-4230-a78a-e12ac6fc20bc\">Atomare Masseneinheit (u) </p><p class=\"\" id=\"2ec8d238-fcc8-4bd8-9350-3523bc39b54d\">Definiert als Masse eines 1/12 C-Atoms </p><p class=\"\" id=\"44f012ce-4497-41d4-9f0e-1878ea0b8071\">1u: 1,66057 x 10^-27 </p><p class=\"\" id=\"5adc410c-5ff9-41b8-b2c6-2455f64b2f34\">Bezieht sich auf relative Größe des Kohlenstoffatoms </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"d6f6b925-f9fc-4230-a78a-e12ac6fc20bc\">Atomare Masseneinheit (u) </p><p class=\"\" id=\"2ec8d238-fcc8-4bd8-9350-3523bc39b54d\">Definiert als Masse eines 1/12 C-Atoms </p><p class=\"\" id=\"44f012ce-4497-41d4-9f0e-1878ea0b8071\">1u: 1,66057 x 10^-27 kg</p><p class=\"\" id=\"5adc410c-5ff9-41b8-b2c6-2455f64b2f34\">Bezieht sich auf relative Größe des Kohlenstoffatoms </p>",
+                        "Relative Atommasse",
+                        "<div style=\"text-align: left;\">Atomare Masseneinheit (u)</div><div style=\"text-align: left;\">Definiert als Masse eines 1/12 C-Atoms</div><div style=\"text-align: left;\">1u: 1,66057 x 10^-27 kg</div><div style=\"text-align: left;\">Bezieht sich auf relative Größe des Kohlenstoffatoms</div>",
                         ""
                     ],
                     "guid": "Nk@HT0QEl4",
@@ -48464,9 +48463,9 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"482f5d66-6431-46ca-838e-ad9691913b17\" class=\"toggle\"><li><details><summary>RGT Regel </summary><div><p class=\"\" id=\"2e7e41fe-d4a3-4bcf-a566-c26a81431355\">Reaktionsgeschwindigkeit steigt auf das doppelte bis Vierfache wenn die Reaktionstemperatur um 10 Grad erhöht wird </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"2e7e41fe-d4a3-4bcf-a566-c26a81431355\">Reaktionsgeschwindigkeit steigt auf das doppelte bis Vierfache wenn die Reaktionstemperatur um 10 Grad erhöht wird </p>",
-                        ""
+                        "RGT Regel",
+                        "Reaktionsgeschwindigkeit steigt auf das doppelte bis Vierfache wenn die Reaktionstemperatur um 10 Grad erhöht wird",
+                        "<img alt=\"RGT Regel • Biologie, Chemie, Ökologie · [mit Video]\" src=\"Vant-hoffsche-Regel-1024x576.png\" width=\"600\">"
                     ],
                     "guid": "xHY7P[7mYN",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
