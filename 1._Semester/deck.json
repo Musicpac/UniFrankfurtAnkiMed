@@ -48892,7 +48892,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-            "css": ".card {\nfont-family: arial;\nfont-size: 20px;\ntext-align:center;\ncolor: black;\nbackground-color: white;\n}\nul {\ndisplay: inline-block;\ntext-align: left;\n}\nol {\ndisplay: inline-block;\ntext-align: left;\n}\nimg { \nmax-width: none; \nmax-height: none;\n}",
+            "css": ".card {\nfont-family: arial;\nfont-size: 20px;\ntext-align:center;\ncolor: black;\nbackground-color: white;\n}\nul {\ndisplay: inline-block;\ntext-align: left;\n}\nol {\ndisplay: inline-block;\ntext-align: left;\n}\nimg { \nmax-width: none; \nmax-height: none;\n}\n.mobile .card img{ \nmax-width: 100%; \nmax-height: none; }",
             "flds": [
                 {
                     "collapsed": false,
