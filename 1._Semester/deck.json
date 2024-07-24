@@ -12913,7 +12913,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "pyelon",
+                                        "pyelon / pelvis renalis",
                                         "Nierenbecken",
                                         ""
                                     ],
@@ -15920,7 +15920,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "A. iliaca externa",
-                                        "<img src=\"Bildschirmfoto 2022-11-28 um 23.47.38.png\">",
+                                        "<img src=\"Bildschirmfoto 2022-11-28 um 23.47.38.png\" width=\"1500\">",
                                         ""
                                     ],
                                     "guid": "u-I0u-QR*v",
@@ -17224,12 +17224,12 @@
                                                 "<img src=\"IMG_BCA0D21D463F-1.jpeg\" />",
                                                 "<img src=\"d1e7a780778940d99d9325e5a59e22b7-ao-4-Q.svg\" />",
                                                 "",
-                                                "- Flügelnänder<br>- entspriungen beidseitig am dens axis und ztiehen zu den lateralen Kondylen des Hinterhauptbeins schräg nach kranial<br><div>- Brems- &amp; Haltefunktion (begrenzen Flexion, axiale Rotation des Schädels ggüb. der HWS)</div>",
+                                                "- Flügelbänder<br>- entspringen beidseitig am Dens axis und ziehen zu den lateralen Kondylen des Hinterhauptbeins schräg nach kranial<br><div>- Brems- &amp; Haltefunktion (begrenzen Flexion, axiale Rotation des Schädels ggüb. der HWS)</div>",
                                                 "",
                                                 "",
                                                 "",
                                                 "<img src=\"d1e7a780778940d99d9325e5a59e22b7-ao-4-A.svg\">",
-                                                "<img src=\"d1e7a780778940d99d9325e5a59e22b7-ao-O.svg\" />"
+                                                "<img src=\"d1e7a780778940d99d9325e5a59e22b7-ao-O.svg\">"
                                             ],
                                             "guid": "w,rC5$Y~Ft",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -20399,7 +20399,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Definition Oberflächenepithelien + generelles",
-                                        "Grwenzgewebe, das äußere und innere Körperoberflächen(Haut, Hohlorgane von Verdauungs-, Respirations- &amp; Urogenitaltrakt) auskleidet<br><br>-&nbsp;bedeckt alle äußeren (Haut) und inneren ( Schleimhäute/Gefäße) Oberflächen des Körpers<br>- Zellen dicht aneinander und bilden geschlossenen Verband (wenig Interzellularsubstanz)<br>- gefäßlos<br>- per Diffusion ernährt<br>- polare Bau- &amp; Funktionsweise<br>- sitzen auf Basallamina<br>- viele Zell-Zell Kontakte<br>",
+                                        "<div style=\"text-align: left;\">Grenzgewebe, das äußere und innere Körperoberflächen(Haut, Hohlorgane von Verdauungs-, Respirations- &amp; Urogenitaltrakt) auskleidet</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">-&nbsp;bedeckt alle äußeren (Haut) und inneren (Schleimhäute/Gefäße) Oberflächen des Körpers</div><div style=\"text-align: left;\">- Zellen dicht aneinander und bilden geschlossenen Verband (wenig Interzellularsubstanz)</div><div style=\"text-align: left;\">- gefäßlos</div><div style=\"text-align: left;\">- per Diffusion ernährt</div><div style=\"text-align: left;\">- polare Bau- &amp; Funktionsweise</div><div style=\"text-align: left;\">- sitzen auf Basallamina</div><div style=\"text-align: left;\">- viele Zell-Zell Kontakte</div><div style=\"text-align: left;\"><br></div>",
                                         ""
                                     ],
                                     "guid": "cIeXA(5]V5",
@@ -20625,6 +20625,71 @@
                                     "guid": "nO~>lZwp]&",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                                     "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Merkmale von lockerem Bindegewebe im Mikroskop",
+                                        "<div style=\"text-align: left;\"><b><font color=\"#ff6366\">Lockeres Bindegewebe</font></b></div><div style=\"text-align: left;\">- weniger Kollagenfasern als Grundsubstanz (v.a. weniger Kollagenfasern als straffes)</div><div style=\"text-align: left;\">- Kollagenfaserbündel gewellt und in verschiedene Richtungen angeordenet</div><div style=\"text-align: left;\">- dazwischen elastische und retikuläre Fasern</div><div style=\"text-align: left;\">-&nbsp;<u>Funktion</u>: Füllgewebe, Organhüllen, Grundgewebe von Organen</div>",
+                                        "<img alt=\"Mit zahlreichen Fibroblaten (->) und gewellt verlaufenden lockeren Kollagenfaserbündeln (*) \n\n1. Arteriole\n2. Kleines Ganglion des meissner-Plexus\n\nSubmukosa des jejunums, Mensch\" src=\"https://o.quizlet.com/Bs1TM3Uc8pv4TyaSFXHO9w.jpg\">"
+                                    ],
+                                    "guid": "rglOQ?6Pc@",
+                                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                                    "tags": [
+                                        "Bindegewebe"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Merkmale von straffem Bindegewebe",
+                                        "<b><div style=\"text-align: left;\"><b><font color=\"#ff6366\">Straffes Bindegewebe</font></b></div></b><div style=\"text-align: left;\">- wenige freie BG-Zellen</div><div style=\"text-align: left;\">- Viele Fasern und weniger amorphe Grundsubstanz</div><div style=\"text-align: left;\">- Zugfestigkeit für mechanisch besonders beanspruchte Gewebe</div><div style=\"text-align: left;\">- Unterscheidung:</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;→ straff geflechtartig (in viele Richtungen sich kreuzende Kollagenfasern)</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;→&nbsp;straff parallelfaserig (parallele Kollagenfasern z.B. in Sehnen und bändern)</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;→&nbsp;elastische Bänder (dicht gelagerte Elastische Fasern, die sich spitzwinklig verzweigen)</div>",
+                                        ""
+                                    ],
+                                    "guid": "g[#OE-t06v",
+                                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                                    "tags": [
+                                        "Bindegewebe"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Merkmal von retikulären Bindegewebe",
+                                        "<b><div style=\"text-align: left;\"><b><font color=\"#ff6366\">Retikuläres Bindegewebe</font></b></div></b><div style=\"text-align: left;\">- fibroblastische Retikulumzellen (sternförmig)</div><div style=\"text-align: left;\">- retikuläre Fasern (auch Gitterfasern)</div><div style=\"text-align: left;\">- Grundgewebe in Lymphatischen Organen</div>",
+                                        ""
+                                    ],
+                                    "guid": "H&&P4aX9pM",
+                                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                                    "tags": [
+                                        "Bindegewebe"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Merkmale von spinozellulärem Bindegewebe",
+                                        "<b><div style=\"text-align: left;\"><b><font color=\"#ff6366\">Spinozelluläres Bindegewebe</font></b></div></b><div style=\"text-align: left;\">- viele spindelförmige Zellen liegen dicht gepackt</div><div style=\"text-align: left;\">- wenige retikuläre Fasern</div><div style=\"text-align: left;\">- kommt nur in Rinde des Ovars vor</div>",
+                                        ""
+                                    ],
+                                    "guid": "zDIR5<RV+u",
+                                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                                    "tags": [
+                                        "Bindegewebe"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Merkmale von embryonalen Bindegewebe",
+                                        "<b><div style=\"text-align: left;\"><b><font color=\"#ff6366\">Embryonales Bindegewebe</font></b></div></b><u><div style=\"text-align: left;\"><u><font color=\"#55ff7f\">Gallertiges&nbsp; Bindegewebe</font></u></div></u><div style=\"text-align: left;\">- besondere Form des embryonalen Bindegewebes</div><div style=\"text-align: left;\">- zellarmes Bindegewebe aus feinen Kollagenfasern</div><div style=\"text-align: left;\">- kommt v.a. in Nabelschnur vor</div><div style=\"text-align: left;\"><br></div><u><div style=\"text-align: left;\"><u><font color=\"#55ff7f\">Mesenchymales Bindegewebe</font></u></div></u><div style=\"text-align: left;\">- euchromatsche Zellkerne mit gut sichtbarem Nucleolus</div><div style=\"text-align: left;\">- Zellen stehen über Zellfortsätze in verbindung</div><div style=\"text-align: left;\">- Interzellularraum: visköse Grundsubsatanz (KEINE Fasern)</div><div style=\"text-align: left;\">- mitoseaktiv und amöboide Fortbewegung</div><div style=\"text-align: left;\">- Vorläufer für alle Formen des BG und glatte Muskelzellen, herzmuskulatur und Nierengewebe</div>",
+                                        ""
+                                    ],
+                                    "guid": "qEzSG)nR>S",
+                                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                                    "tags": [
+                                        "Bindegewebe"
+                                    ]
                                 }
                             ],
                             "reviewLimit": null,
@@ -25207,12 +25272,12 @@
                                         "<img src=\"IMG_E72076F18CDB-1.jpeg\" />",
                                         "<img src=\"4d0c28cbda044a9eb82d0fc6afe7af94-ao-15-Q.svg\" />",
                                         "",
-                                        "- 3-4 mm breite Gelenklippe, die die Cavitas glendoialis umrandet<div>- reißt bei Schultergelenksluxstion oft ab<br><div><br></div><div><b>Funktion: </b>sorgt für bessere Positionierung des Humeruskopf (Cavitas glendoiale ist nur ca. 1/4 so groß wie Kopf)</div></div>",
+                                        "- 3-4 mm breite Gelenklippe, die die Cavitas glendoialis umrandet<div>- reißt bei Schultergelenksluxation oft ab<br><div><br></div><div><b>Funktion: </b>sorgt für bessere Positionierung des Humeruskopf (Cavitas glendoiale ist nur ca. 1/4 so groß wie Kopf)</div></div>",
                                         "",
                                         "",
                                         "",
                                         "<img src=\"4d0c28cbda044a9eb82d0fc6afe7af94-ao-15-A.svg\" />",
-                                        "<img src=\"4d0c28cbda044a9eb82d0fc6afe7af94-ao-O.svg\" />"
+                                        "<img src=\"4d0c28cbda044a9eb82d0fc6afe7af94-ao-O.svg\">"
                                     ],
                                     "guid": "PbGVegltMh",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -27141,7 +27206,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Rippen-Wirbel-Gelenke",
-                                                "<b>Rippenkopfgelenk</b><br>- Art. capitiscostae <br>- zwischen Facies articularis capitis costae und Fovea costalis am Wirbelkörper<br>- Gelenkkapsel durch Lig. capitis costae radiatum verstärkt<br><br><b>Rippenhöckergelenke<br></b>- Art. costotransversaria (nur 1.-10. Rippe)<br>- zwischen facoes articularis des Tuberculum costae und der Fovea costalis des Proc. transversus<br>- durch Lig. costotransversarium lat/sup gesichert",
+                                                "<div style=\"text-align: left;\"><b>Rippenkopfgelenk</b></div><div style=\"text-align: left;\">- Art. capitiscostae</div><div style=\"text-align: left;\">- zwischen Facies articularis capitis costae und Fovea costalis am Wirbelkörper</div><div style=\"text-align: left;\">- Gelenkkapsel durch Lig. capitis costae radiatum verstärkt</div><div style=\"text-align: left;\"><br></div><b><div style=\"text-align: left;\"><b>Rippenhöckergelenke</b></div></b><div style=\"text-align: left;\">- Art. costotransversaria (nur 1.-10. Rippe)</div><div style=\"text-align: left;\">- zwischen facoes articularis des Tuberculum costae und der Fovea costalis des Proc. transversus</div><div style=\"text-align: left;\">- durch Lig. costotransversarium lat/sup gesichert</div>",
                                                 ""
                                             ],
                                             "guid": "AySZ0*EJh[",
@@ -31897,12 +31962,12 @@
                                         "<img src=\"IMG_241D4A908ABD-1.jpeg\">",
                                         "<img src=\"184007d5381b4da2956eb975d4f084a9-ao-3-Q.svg\" />",
                                         "",
-                                        "- von Spina iliaca anterior superir zu SPina iliaca posterior superior<br>- Zwei Knochenlippen (Labium internum und externum) und eine intermediär verlaufende Linie (Linea intermedia)<br><br>- Labium externum: Ansatz für M. obliquus externus abdominis<br>- Linea intermedia: Ansatz für M. obliquus internus abdominis<br>- Labium internum: Ursprung des M. transversus abdominis<br><br>- ist von außen gut tastbar und dient deshalb oft als Entnahmestelle für Knochenmark<br><br>horizontale verbindung der beiden höchsten Punkte der crista iliaca: Jacoby-Linie",
+                                        "- von Spina iliaca anterior superior zu Spina iliaca posterior superior<br>- Zwei Knochenlippen (Labium internum und externum) und eine intermediär verlaufende Linie (Linea intermedia)<br><br>- Labium externum: Ansatz für M. obliquus externus abdominis<br>- Linea intermedia: Ansatz für M. obliquus internus abdominis<br>- Labium internum: Ursprung des M. transversus abdominis<br><br>- ist von außen gut tastbar und dient deshalb oft als Entnahmestelle für Knochenmark<br><br>horizontale Verbindung der beiden höchsten Punkte der crista iliaca: Jacoby-Linie",
                                         "",
                                         "",
                                         "",
                                         "<img src=\"184007d5381b4da2956eb975d4f084a9-ao-3-A.svg\">",
-                                        "<img src=\"184007d5381b4da2956eb975d4f084a9-ao-O.svg\" />"
+                                        "<img src=\"184007d5381b4da2956eb975d4f084a9-ao-O.svg\">"
                                     ],
                                     "guid": "r)_hc?$si5",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -36419,9 +36484,9 @@
                                                 "bc4a56537977485db906ef4343c33d2c-ao-1",
                                                 "Dorsal: Oberflächlichen Extensoren",
                                                 "<img src=\"IMG_0C6A23CF63BC-1.jpeg\">",
-                                                "<img src=\"bc4a56537977485db906ef4343c33d2c-ao-1-Q.svg\" />",
+                                                "<img src=\"bc4a56537977485db906ef4343c33d2c-ao-1-Q.svg\">",
                                                 "",
-                                                "<b><u>M. extensor digiti minimi (2)</u><br><br>Ursprung:&nbsp;</b>Caput commune (Epicondylus lateralis)<br><br><b>Ansatz:&nbsp;</b>Dorsalapneurose des 5. Fingers<br><br><b>Funktion:&nbsp;<br></b>- Handgelenk: Dorsalextension, Ulnarabduktion<br>- Grund- / Mittel- &amp; Endgelenk des 5. Fingers: Extension, Abspreizen des 5. Fingers<br><br><b>Innervation:&nbsp;</b>N. radialis (C6-8) - ALLE EXTENSOREN<br><br><img src=\"IMG_1DA88F3ED62E-1.jpeg\">",
+                                                "<b><u>M. extensor digiti minimi (2)</u><br><br>Ursprung:&nbsp;</b>Caput commune (Epicondylus lateralis)<br><br><b>Ansatz:&nbsp;</b>Dorsalapneurose des 5. Fingers<br><br><b>Funktion:&nbsp;<br></b>- Handgelenk: Dorsalextension, Ulnarabduktion<br>- Grund- / Mittel- &amp; Endgelenk des 5. Fingers: Extension, Abspreizen des 5. Fingers<br><br><b>Innervation:&nbsp;</b>N. radialis (C6-8) - ALLE EXTENSOREN<br><br><img src=\"IMG_1DA88F3ED62E-1.jpeg\" width=\"668\">",
                                                 "",
                                                 "",
                                                 "",
@@ -36725,12 +36790,12 @@
                                                 "<img src=\"IMG_32F60F4012F1-1.jpeg\" />",
                                                 "<img src=\"ec12802352d9418b91414038901357c2-ao-1-Q.svg\" />",
                                                 "",
-                                                "<b>Ursprung:&nbsp;</b>Ulna (Olecranon - Crista M. supinatoris) &amp; Epicondylus lateralis<br><b>Ansatz:</b>&nbsp;Radius (zwischen Tuberositas radii &amp; Ansatz M. pronator teres)<br><br><b>Funktion:&nbsp;</b>Supination des Unterarms<br><br><b>Innervation:&nbsp;</b>N. radialis (C6-8) - ALLE EXTENSOREN<br><br><img src=\"IMG_CC5AB6B0D601-1.jpeg\">",
+                                                "<b>Ursprung:&nbsp;</b>Ulna (Olecranon - Crista M. supinatoris) &amp; Epicondylus lateralis<br><b>Ansatz:</b>&nbsp;Radius (zwischen Tuberositas radii &amp; Ansatz M. pronator teres)<br><br><b>Funktion:&nbsp;</b>Supination des Unterarms<br><br><b>Innervation:&nbsp;</b>N. radialis (C6-8) - ALLE EXTENSOREN<br><br><img src=\"IMG_CC5AB6B0D601-1.jpeg\" width=\"600\">",
                                                 "",
                                                 "",
                                                 "",
                                                 "<img src=\"ec12802352d9418b91414038901357c2-ao-1-A.svg\">",
-                                                "<img src=\"ec12802352d9418b91414038901357c2-ao-O.svg\" />"
+                                                "<img src=\"ec12802352d9418b91414038901357c2-ao-O.svg\">"
                                             ],
                                             "guid": "jp*ffGYXUf",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -38777,8 +38842,8 @@
                                                     "__type__": "Note",
                                                     "fields": [
                                                         "Sakrospinales System - Lateraler Trakt der Autochtonen Rückenmuskulatur&nbsp;",
-                                                        "<div style=\"text-align: left;\"><b>Sakrospinales System</b></div><div style=\"text-align: left;\"><b>&nbsp; &nbsp; &nbsp;</b>-&nbsp;<u>Verlauf:</u><b>&nbsp;</b>von Becken zu Proc. transversi &amp; Rippen</div><div style=\"text-align: left;\"><b>&nbsp; &nbsp; &nbsp;</b>-&nbsp;<u>Innervation:</u><b>&nbsp;</b>lateralen Ast des R. dorsalis spinalis<br></div><div style=\"text-align: left;\"><b>&nbsp; &nbsp; &nbsp;</b>-&nbsp;<u>Funktion</u></div><div style=\"text-align: left;\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b>→ Einseitig: Ipsilaterale Lateralflexion</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;→&nbsp;Beidseitig: Dorsalextension</div><div style=\"text-align: left;\"><b>&nbsp; &nbsp; &nbsp;</b>-&nbsp;<u>Muskeln&nbsp;</u></div><div style=\"text-align: left;\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b>→ M. iliocostalis</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;→ Mm. longissimus</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: center;\"><img src=\"IMG_AE27ED8F933E-1.jpeg\" width=\"800\"></div><div style=\"text-align: left;\">&nbsp;</div>",
-                                                        ""
+                                                        "<div style=\"text-align: left;\"><b>Sakrospinales System</b></div><div style=\"text-align: left;\"><b>&nbsp; &nbsp; &nbsp;</b>-&nbsp;<u>Verlauf:</u><b>&nbsp;</b>von Becken zu Proc. transversi &amp; Rippen</div><div style=\"text-align: left;\"><b>&nbsp; &nbsp; &nbsp;</b>-&nbsp;<u>Innervation:</u><b>&nbsp;</b>lateralen Ast des R. dorsalis spinalis<br></div><div style=\"text-align: left;\"><b>&nbsp; &nbsp; &nbsp;</b>-&nbsp;<u>Funktion</u></div><div style=\"text-align: left;\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b>→ Einseitig: Ipsilaterale Lateralflexion</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;→&nbsp;Beidseitig: Dorsalextension</div><div style=\"text-align: left;\"><b>&nbsp; &nbsp; &nbsp;</b>-&nbsp;<u>Muskeln&nbsp;</u></div><div style=\"text-align: left;\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b>→ M. iliocostalis</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;→ Mm. longissimus</div><div style=\"text-align: left;\">&nbsp;</div>",
+                                                        "<img src=\"IMG_AE27ED8F933E-1.jpeg\" style=\"text-align: center;\" width=\"800\">"
                                                     ],
                                                     "guid": "G@ETVOx_2L",
                                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -40836,8 +40901,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "Bakterien-Geißel",
-                                "<div style=\"text-align: left;\">- Besteht aus einem Protein (Flagellin) zwischen 20 und 55 kDa</div><div style=\"text-align: left;\">- 20 nm dick</div><img src=\"cs_6744242.jpg\" style=\"float: left;\" width=\"600\"><br>",
-                                ""
+                                "<div style=\"text-align: left;\">- Besteht aus einem Protein (Flagellin) zwischen 20 und 55 kDa</div><div style=\"text-align: left;\">- 20 nm dick</div>",
+                                "<img src=\"cs_6744242.jpg\" width=\"600\"><br>"
                             ],
                             "guid": "QZ`X>2%yk^",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -42496,8 +42561,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"695a9b38-170f-43bb-a0eb-7b38e70c6d5c\" class=\"toggle\"><li><details><summary>Signalübertragung </summary><div><p class=\"\" id=\"7d964553-9467-4b3c-a68d-442cff0d36a4\">Endokrine: Hormone über den Blutweg, Weitläufige Verteilung von Hormonen über den Blutweg </p><p class=\"\" id=\"743e4abc-d5ae-4311-9a4a-790bd449f6e0\">Synaptische: zwischen Neuronen des Nervensystems; überwiegend elektrisch durch die Änderung des Membranpotentials, chemische Weiterleitung über Gap junctions im synaptischen Spalt </p><p class=\"\" id=\"ce9a9c3b-e529-42fb-a3e5-1d560117fb4e\">Parakrine: Diffusion von Hormonen oder ähnlichen Stoffen in den Interzellularraum </p><p class=\"\" id=\"6708625b-b0a3-4f7b-b2d7-a67cc025fa7b\">Autokrine: Zelle bildet ein Signal, das nach Freisetzung an den Rezeptor der gleichen signalbildenden Zelle selber sowie Rezeptoren unmittelbar benachbarter Zellen des gleichen Zelltyps (feedback) </p><p class=\"\" id=\"474a353a-fb92-4774-9edd-0e73824301b8\">Kontaktabhängig(juxtakrine): nur über Zellen, die in unmittelbarem Kontakt miteinander stehen; über gap junctions, Passage und Diffusion von kleinen Molekülen; Exprimierung komplementärer membrangebundener Proteine (Zelle 1 mit Ligand, Zelle 2 mit Rezeptor) auf Oberfläche </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"7d964553-9467-4b3c-a68d-442cff0d36a4\">Endokrine: Hormone über den Blutweg, Weitläufige Verteilung von Hormonen über den Blutweg </p><p class=\"\" id=\"743e4abc-d5ae-4311-9a4a-790bd449f6e0\">Synaptische: zwischen Neuronen des Nervensystems; elektrische Reize lösen Stoffausschüttung aus → Diffusion</p><p class=\"\" id=\"ce9a9c3b-e529-42fb-a3e5-1d560117fb4e\">Parakrine: Diffusion von Hormonen oder ähnlichen Stoffen in den Interzellularraum </p><p class=\"\" id=\"6708625b-b0a3-4f7b-b2d7-a67cc025fa7b\">Autokrine: Zelle bildet ein Signal, das nach Freisetzung an den Rezeptor der gleichen signalbildenden Zelle selber sowie Rezeptoren unmittelbar benachbarter Zellen des gleichen Zelltyps (feedback) </p><p class=\"\" id=\"474a353a-fb92-4774-9edd-0e73824301b8\">Kontaktabhängig(juxtakrine): nur über Zellen, die in unmittelbarem Kontakt miteinander stehen; über gap junctions, Passage und Diffusion von kleinen Molekülen; Exprimierung komplementärer membrangebundener Proteine (Zelle 1 mit Ligand, Zelle 2 mit Rezeptor) auf Oberfläche </p>",
+                        "Signalübertragung",
+                        "<div style=\"text-align: left;\">Endokrine: Hormone über den Blutweg, Weitläufige Verteilung von Hormonen über den Blutweg</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Synaptische: zwischen Neuronen des Nervensystems; elektrische Reize lösen Stoffausschüttung aus → Diffusion</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Parakrine: Diffusion von Hormonen oder ähnlichen Stoffen in den Interzellularraum</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Autokrine:&nbsp;</div><div style=\"text-align: left;\">→ Zelle bildet ein Signal</div><div style=\"text-align: left;\">→ nach Freisetzung bindet an Rezeptor der gleichen signalbildenden Zelle&nbsp;</div><div style=\"text-align: left;\">→ und Rezeptoren unmittelbar benachbarter Zellen des gleichen Zelltyps (feedback)</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Kontaktabhängig(juxtakrine): nur über Zellen, die in unmittelbarem Kontakt miteinander stehen;&nbsp;</div><div style=\"text-align: left;\">→ über gap junctions, Passage und Diffusion von kleinen Molekülen;&nbsp;</div><div style=\"text-align: left;\">→Exprimierung komplementärer membrangebundener Proteine (Zelle 1 mit Ligand, Zelle 2 mit Rezeptor) auf Oberfläche</div>",
                         ""
                     ],
                     "guid": "c!Bp%,NQ/U",
@@ -42628,8 +42693,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"e92eac9d-b5a8-413d-9a17-7e4688317980\" class=\"toggle\"><li><details><summary>Bildung der DNA Struktur </summary><div><p class=\"\" id=\"77800a21-24c1-4ff7-8df7-8519c5fa3160\">Dreidimensionale Doppelhelix </p><p class=\"\" id=\"ef7db992-8de2-430c-bc94-b2c9ccf96ce9\">Anlagerung von Basenpaare aneinander </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"77800a21-24c1-4ff7-8df7-8519c5fa3160\">Dreidimensionale Doppelhelix </p><p class=\"\" id=\"ef7db992-8de2-430c-bc94-b2c9ccf96ce9\">Anlagerung von Basenpaare aneinander </p>",
+                        "Bildung der DNA Struktur",
+                        "<div style=\"text-align: left;\">- Dreidimensionale Doppelhelix</div><div style=\"text-align: left;\">- Anlagerung von Basenpaare aneinander</div>",
                         ""
                     ],
                     "guid": "tJ^$2mS&,/",
@@ -42705,8 +42770,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"224437ef-aecb-40c1-9dbb-526b859af36b\" class=\"toggle\"><li><details><summary>Satelliten DNA</summary><div><p class=\"\" id=\"caecb5c4-2c84-4ed2-bba6-b93b51ec56be\">Repetitive Sequenz </p><p class=\"\" id=\"f7fed2b9-0d90-4b30-b4d8-282ced1a6bcf\">Vorkommen: Zentromerregion und Telomere der Chromosome </p><p class=\"\" id=\"46348380-eae6-4114-be85-aaf2f268a3c1\">Unterteilung in: </p><ol id=\"6cae5a1c-512e-4cf8-a81d-3df50788ce4c\" class=\"numbered-list\"><li id=\"6cae5a1c-512e-4cf8-a81d-3df50788ce4c\" class=\"\"><div>Makrosatelliten: hundert bis tausend Basenpaare, die sich tandemartig wiederholen) </div></li><li id=\"e38d451c-621c-4f2b-aab3-feb652d93c55\" class=\"\"><div>Minisatelliten: 5-100 Basenpaare, die sich tandemartig wiederholen </div></li><li id=\"8505c720-132e-44ab-9d03-427c4fdd7bcd\" class=\"\"><div>Mikrosatelliten: wiederholen sich bis zu 5 mal </div></li></ol></div></details></li></ul>",
-                        "<p class=\"\" id=\"caecb5c4-2c84-4ed2-bba6-b93b51ec56be\">Repetitive Sequenz </p><p class=\"\" id=\"f7fed2b9-0d90-4b30-b4d8-282ced1a6bcf\">Vorkommen: Zentromerregion und Telomere der Chromosome </p><p class=\"\" id=\"46348380-eae6-4114-be85-aaf2f268a3c1\">Unterteilung in: </p>",
+                        "Satelliten DNA",
+                        "<div style=\"text-align: left;\">Repetitive Sequenz</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Vorkommen: Zentromerregion und Telomere der Chromosome</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Unterteilung in:</div><ol><li style=\"text-align: left;\">Makrosatelliten: hundert bis tausend Basenpaare, die sich tandemartig wiederholen\n</li><li style=\"text-align: left;\">Minisatelliten: 5-100 Basenpaare, die sich tandemartig wiederholen\n</li><li style=\"text-align: left;\">Mikrosatelliten: wiederholen sich bis zu 5 mal</li></ol>",
                         ""
                     ],
                     "guid": "G5i>?jK9oS",
@@ -42762,8 +42827,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"0467d58e-e092-44ba-8394-02f9dc8102b2\" class=\"toggle\"><li><details><summary>Cholesterin </summary><div><p class=\"\" id=\"7dad348d-2ffa-4455-93ea-0a7cf3d1f6a1\">Hydrophober Anteil: Sterangerüst und kurze CH- Kette </p><p class=\"\" id=\"d8428b33-9ac9-47b4-8876-0b07aaf62bf8\">Hydrophiler Anteil: OH-Gruppe </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"7dad348d-2ffa-4455-93ea-0a7cf3d1f6a1\">Hydrophober Anteil: Sterangerüst und kurze CH- Kette </p><p class=\"\" id=\"d8428b33-9ac9-47b4-8876-0b07aaf62bf8\">Hydrophiler Anteil: OH-Gruppe </p>",
+                        "Cholesterin",
+                        "<ul><li>Hydrophober Anteil: Sterangerüst und kurze CH- Kette\n</li><li>Hydrophiler Anteil: OH-Gruppe</li></ul>",
                         ""
                     ],
                     "guid": "p:z<cdR>4D",
@@ -42872,8 +42937,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"9b5e2434-4f4c-4c34-a0cd-5a4f3d98889f\" class=\"toggle\"><li><details><summary>Grundelemente des Cytoskeletts </summary><div><p class=\"\" id=\"dcc7d869-681d-4f40-b6e9-3e36280486a8\">Intermediärfilamente </p><p class=\"\" id=\"713bbe94-cdca-4eac-a2ba-d62ee91c883f\">Mikrotuboli </p><p class=\"\" id=\"d0c01921-6808-492f-baa1-8d8a86c52ccb\">Aktinfilamente </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"dcc7d869-681d-4f40-b6e9-3e36280486a8\">Intermediärfilamente </p><p class=\"\" id=\"713bbe94-cdca-4eac-a2ba-d62ee91c883f\">Mikrotuboli </p><p class=\"\" id=\"d0c01921-6808-492f-baa1-8d8a86c52ccb\">Aktinfilamente </p>",
+                        "Grundelemente des Cytoskeletts",
+                        "<ul><li>Intermediärfilamente\n</li><li>Mikrotuboli</li><li>Aktinfilamente</li></ul>",
                         ""
                     ],
                     "guid": ")}[!9[@(7",
@@ -43521,8 +43586,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"18897239-a8c1-4c2c-b9ae-b5a942a36141\" class=\"toggle\"><li><details><summary>Ablauf der Transzytose </summary><div><p class=\"\" id=\"260d52e8-afa7-4bbb-a824-72b644add930\">Transcytose: auf einer Seite der Zelle endocytotisch aufgenommen, über verschiedene Endosomen durch die Zelle hindurchgeleitet, und auf der anderen Seite per Exocytose wieder in den Extrazellularraum abgegeben</p><p class=\"\" id=\"d347fcdd-46ab-4874-8134-01898768137e\">manchmal auch als Cytopempsis bezeichnet</p><p class=\"\" id=\"ebf1c449-3f8c-4362-abea-477dde4a670f\">nur bei polaren Epithel- und Endothelzellen</p><p class=\"\" id=\"0f8d54fd-c360-4a5d-84d3-f08ea35b482d\">→Stoff an der apikalen Oberfläche einer Zelle mittels Clathrin-vermittelter Endocytose aufgenommen und gelangt  ins frühe Endosom </p><p class=\"\" id=\"5a00181a-c84e-4174-8cf6-7480439f0186\">→ Rezeptor und Ligand  nicht voneinander getrennt</p><p class=\"\" id=\"bdbbf972-7271-4e5b-bddd-2f64e8a850da\">→ gemeinsame Weg per Transportvesikel über ein sog. Recycling-Endosom zur gegenüberliegenden basolateralen Plasmamembran </p><p class=\"\" id=\"f10e6327-bd29-4fb5-adc2-c04039524bdf\">→per Exocytose ausgeschüttet.</p></div></details></li></ul>",
-                        "<p class=\"\" id=\"260d52e8-afa7-4bbb-a824-72b644add930\">Transcytose: auf einer Seite der Zelle endocytotisch aufgenommen, über verschiedene Endosomen durch die Zelle hindurchgeleitet, und auf der anderen Seite per Exocytose wieder in den Extrazellularraum abgegeben</p><p class=\"\" id=\"d347fcdd-46ab-4874-8134-01898768137e\">manchmal auch als Cytopempsis bezeichnet</p><p class=\"\" id=\"ebf1c449-3f8c-4362-abea-477dde4a670f\">nur bei polaren Epithel- und Endothelzellen</p><p class=\"\" id=\"0f8d54fd-c360-4a5d-84d3-f08ea35b482d\">→Stoff an der apikalen Oberfläche einer Zelle mittels Clathrin-vermittelter Endocytose aufgenommen und gelangt  ins frühe Endosom </p><p class=\"\" id=\"5a00181a-c84e-4174-8cf6-7480439f0186\">→ Rezeptor und Ligand  nicht voneinander getrennt</p><p class=\"\" id=\"bdbbf972-7271-4e5b-bddd-2f64e8a850da\">→ gemeinsame Weg per Transportvesikel über ein sog. Recycling-Endosom zur gegenüberliegenden basolateralen Plasmamembran </p><p class=\"\" id=\"f10e6327-bd29-4fb5-adc2-c04039524bdf\">→per Exocytose ausgeschüttet.</p>",
+                        "Ablauf der Transzytose",
+                        "<div style=\"text-align: left;\">Transcytose:&nbsp;</div><div style=\"text-align: left;\">→ auf einer Seite der Zelle endocytotisch aufgenommen</div><div style=\"text-align: left;\">→ über verschiedene Endosomen durch die Zelle hindurchgeleitet,</div><div style=\"text-align: left;\">→ auf der anderen Seite per Exocytose wieder in den Extrazellularraum abgegeben</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">manchmal auch als Cytopempsis bezeichnet</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">nur bei polaren Epithel- und Endothelzellen</div><div style=\"text-align: left;\">→ Stoff an der apikalen Oberfläche einer Zelle mittels Clathrin-vermittelter Endocytose aufgenommen und gelangt ins frühe Endosom</div><div style=\"text-align: left;\">→ Rezeptor und Ligand nicht voneinander getrennt</div><div style=\"text-align: left;\">→ gemeinsame Weg per Transportvesikel über ein sog. Recycling-Endosom zur gegenüberliegenden basolateralen Plasmamembran</div><div style=\"text-align: left;\">→ per Exocytose ausgeschüttet.</div>",
                         ""
                     ],
                     "guid": "g.HzVOz^sQ",
@@ -43579,7 +43644,7 @@
                         "image-6a9065eaa197fbfc8a3d2721d8abcb1f99f2d6a4.png",
                         "image-6c272af8db06de31fc502014b869b8e11a3c2498.jpg",
                         "image-6eb9c00114c8a10cb06a17437c6371a998ecd9fa.png",
-                        "image-798482bf942f92d7c1d79944c3e34514ccf94611.png",
+                        "image-798482bf9.svg",
                         "image-816405b692c583f88776a81ea614171472a4b955.png",
                         "image-8fb205aae1c36cf1f4a557ff5a9e73e5787dda5c.png",
                         "image-9112c43087b199720a1bb437bca36f752ea56f9b.png",
@@ -43590,7 +43655,7 @@
                         "image-b0ee76d1a38e2ccaf954a74bf57065de30a8b189.png",
                         "image-bb75f5442c29e09c169d3846a2ed481d6303506b.jpg",
                         "image-c80c153188fe5209c6f4fb87921ad74b44b41b78.jpg",
-                        "image-cca3f9fd33753561989480d3231c591da9a1ddc8.png",
+                        "image-cca3f9fd3.svg",
                         "image-d1b256c89036f67db98587a75d5ba8c5b09380aa.png",
                         "image-ea807e6ae9ca428eb6afcaed807da0ff1d707d7c.png",
                         "image-f2a0585bdbf2367e82da0d285501179be73fe148.png",
@@ -43637,8 +43702,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Zuordnung stimmt?&nbsp;<div><img src=\"image-c80c153188fe5209c6f4fb87921ad74b44b41b78.jpg\"><br></div><div>Molekül A= Adenin&nbsp;</div><div>Molekül B= Asparagin&nbsp;</div><div>Molekül C = Decalin&nbsp;</div><div>Molekül E= Weinsäure&nbsp;</div><div>Molekül G= Milchsäure&nbsp;</div>",
-                                "Molekül E ist Weinsäure.&nbsp;<div>Molekül A hat eine Säuregruppe. Adenin ist eine Base.&nbsp;</div><div>Molekül B hat KEINE Aminogruppe und Asparagin ist eine Aminosäure.&nbsp;</div><div>Molekül C hat zwei Doppelbindungen. Also ist das ein Alken mit einer Verzweigung&nbsp;</div><div>Zur Unterscheidung von G und E hilft leider nur Lernen :( (tragen beide eine Säuregruppe, dementsprechend hilft einem das hier nicht weiter)&nbsp;</div>",
+                                "Welche Zuordnung stimmt?&nbsp;<div><img src=\"image-c80c153188fe5209c6f4fb87921ad74b44b41b78.jpg\"><br></div><div style=\"text-align: left;\">Molekül A= Adenin&nbsp;</div><div style=\"text-align: left;\">Molekül B= Asparagin&nbsp;</div><div style=\"text-align: left;\">Molekül C = Decalin&nbsp;</div><div style=\"text-align: left;\">Molekül E= Weinsäure&nbsp;</div><div style=\"text-align: left;\">Molekül G= Milchsäure&nbsp;</div>",
+                                "<div style=\"text-align: left;\">Molekül E ist Weinsäure.&nbsp;</div><div style=\"text-align: left;\">Molekül A hat eine Säuregruppe. Adenin ist eine Base.&nbsp;</div><div style=\"text-align: left;\">Molekül B hat KEINE Aminogruppe und Asparagin ist eine Aminosäure.&nbsp;</div><div style=\"text-align: left;\">Molekül C hat zwei Doppelbindungen. Also ist das ein Alken mit einer Verzweigung&nbsp;</div><div style=\"text-align: left;\">Zur Unterscheidung von G und E hilft leider nur Lernen :( (tragen beide eine Säuregruppe, dementsprechend hilft einem das hier nicht weiter)&nbsp;</div>",
                                 ""
                             ],
                             "guid": "OF~zew?Sep",
@@ -43672,8 +43737,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Zuordnung zwischen Strukturformel und Name stimmt?<div><img src=\"image-c80c153188fe5209c6f4fb87921ad74b44b41b78.jpg\"><br></div><div><div>Molekül G = Isopren</div></div><div>Molekül E = Maleinsäure&nbsp;</div><div>Molekül F = Gluconsäure&nbsp;</div><div>Molekül B = Isopren&nbsp;</div><div>Molekül A = Milchsäure&nbsp;</div>",
-                                "Molekül A ist richtig.&nbsp;<div>G ist wegen seiner zwei Carboxygruppen eine Säure.&nbsp;</div><div>F hat keine Säuregruppe, also ist es auch keine Säure&nbsp;</div><div>B hat eine Säuregruppe und muss also eine Säure sein.&nbsp;</div><div>A und E muss man leider lernen&nbsp;</div>",
+                                "Welche Zuordnung zwischen Strukturformel und Name stimmt?<div><img src=\"image-c80c153188fe5209c6f4fb87921ad74b44b41b78.jpg\"><br></div><div><div style=\"text-align: left;\">Molekül G = Isopren</div></div><div style=\"text-align: left;\">Molekül E = Maleinsäure&nbsp;</div><div style=\"text-align: left;\">Molekül F = Gluconsäure&nbsp;</div><div style=\"text-align: left;\">Molekül B = Isopren&nbsp;</div><div style=\"text-align: left;\">Molekül A = Milchsäure&nbsp;</div>",
+                                "<div style=\"text-align: left;\">Molekül A ist richtig.&nbsp;</div><div style=\"text-align: left;\">G ist wegen seiner zwei Carboxygruppen eine Säure.&nbsp;</div><div style=\"text-align: left;\">F hat keine Säuregruppe, also ist es auch keine Säure&nbsp;</div><div style=\"text-align: left;\">B hat eine Säuregruppe und muss also eine Säure sein.&nbsp;</div><div style=\"text-align: left;\">A und E muss man leider lernen&nbsp;</div>",
                                 ""
                             ],
                             "guid": "m]uK5$2^L$",
@@ -43705,8 +43770,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche der folgenden Aussagen ist richtig?<div>Bei der Umsetzung von 54 g Aluminium und 160 g Brom...<br></div><div><div>1. entstehen bei vollständiger Umsetzung 214 g Aluminiumbromid.</div>\n<div>2. entsteht in einer Neutralisationsreaktion ein Salz.</div>\n<div>3. wird Brom als Nichtmetall mit höherer Elektronegativität oxidiert.</div>\n<div>4. reagieren 2 mol Aluminium zu Aluminiumbromid.</div>\n<div>5. entsteht eine Verbindung mit 10 % (Massenprozent) Aluminium.</div></div>",
-                                "5. ist richtig —&gt; AlBr<sub>3</sub>&nbsp;Aluminium hat die Ordnungszahl 13 und Brom 35 —&gt; Brom wiegt ca 3 mal soviel wie Alu —&gt; AlBr3 bedeutet 1 zu 9 —&gt; 10 %<div>Aussage 1. ist falsch, weil fast alle chemischen Reaktionen in einem Gleichgewicht aus Hin- und Rückreaktion reagieren. Es wird fast nie etwas&nbsp;</div><div>Aussage 2. ist falsch. Hier entsteht ein Salz, aber durch eine Redoxreaktion. Neutralisiert wird bei Säure Base&nbsp;</div><div>Aussage 3. ist falsch. Brom hat zwar die höhere En, aber deshalb wird es reduziert und nimmt Elektronen auf&nbsp;</div><div>Aussage 4. Darüber können wir keine Aussage treffen, weil wir die Stoffmenge oder Masse nicht gegeben haben.&nbsp;</div>",
+                                "Welche der folgenden Aussagen ist richtig?<div>Bei der Umsetzung von 54 g Aluminium und 160 g Brom...<br></div><div><div><ol><li>&nbsp;entstehen bei vollständiger Umsetzung 214 g Aluminiumbromid.</li><li>&nbsp;entsteht in einer Neutralisationsreaktion ein Salz.</li><li>&nbsp;wird Brom als Nichtmetall mit höherer Elektronegativität oxidiert.</li><li>&nbsp;reagieren 2 mol Aluminium zu Aluminiumbromid.</li><li>&nbsp;entsteht eine Verbindung mit 10 % (Massenprozent) Aluminium.</li></ol></div>\n\n\n\n</div>",
+                                "<div style=\"text-align: left;\">5. ist richtig —&gt; AlBr<sub>3</sub>&nbsp;Aluminium hat die Ordnungszahl 13 und Brom 35 —&gt; Brom wiegt ca 3 mal soviel wie Alu —&gt; AlBr3 bedeutet 1 zu 9 —&gt; 10 %</div><div style=\"text-align: left;\">Aussage 1. ist falsch, weil fast alle chemischen Reaktionen in einem Gleichgewicht aus Hin- und Rückreaktion reagieren. Es wird fast nie etwas&nbsp;</div><div style=\"text-align: left;\">Aussage 2. ist falsch. Hier entsteht ein Salz, aber durch eine Redoxreaktion. Neutralisiert wird bei Säure Base&nbsp;</div><div style=\"text-align: left;\">Aussage 3. ist falsch. Brom hat zwar die höhere En, aber deshalb wird es reduziert und nimmt Elektronen auf&nbsp;</div><div style=\"text-align: left;\">Aussage 4. Darüber können wir keine Aussage treffen, weil wir die Stoffmenge oder Masse nicht gegeben haben.&nbsp;</div>",
                                 ""
                             ],
                             "guid": "G]S%-!>uTS",
@@ -43716,8 +43781,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Die Elektrophorese eines Gemischs aus 3 Aminosäuren bei pH = 6.1 ± 0.1 ergab folgendes Bild (s. Dateianhang). Welche der folgenden Aussagen ist richtig?<br><br>Glycin: pKs 1 = 2.35, pKs 2 = 9.78<br>Cystein: pKs 1 = 1.86, pKs 2 = 8.33, pKs 3 = 10.78<br>Histidin: pKs 1 = 1.81, pKs 2 = 6.05, pks 3 = 9.15<br><div><img src=\"image-1a08c7652640ab1eadf619a5f9259a2e40a28427.jpg\">&nbsp;</div><div>Bei A handelt es sich um Cystein&nbsp;</div><div>Bei B handelt es sich um Histidin&nbsp;</div><div>Bei C handelt es sich um Glycin&nbsp;</div><div>Bei A handelt es sich um Histidin&nbsp;</div><div>Bei B handelt es sich um Cystein &nbsp;</div>",
-                                "Aussage 1 ist richtig. A ist Cystein&nbsp;<div>Wenn der pH-Wert kleiner als der isoelektrische Punkt ist wandern die AS zur Kathode (Minuspol)</div><div>Bei pH-Wert &gt; als IEP wandern sie zur Anode (Pluspol)</div><div>IEP=(pks1+pks2)/2 bei Molekülen mit &gt;2 Pks-Werten werden die zwei Zugehörigen genommen (Saures Molekül —&gt; pks1+pks2 und basisch pks2+pks3)</div><div>&nbsp;<br><div>Glycin ist die einfachste Aminosäure, die es gibt. Sie hat die gleich Anzahl an NH2 und COOH und besitzt sonst keine polaren Atome oder Atomgruppen im Molekül. Daher wird es weder vom Plus- noch vom Minuspol angezogen und muss somit in der Mitte liegen.&nbsp;</div><div>Cystein besitzt eine SH- Gruppe zu der Amino- und der Carboxygruppe. Dementsprechend ist Cystein negativ polarisiert und wird vom Pluspol angezogen.&nbsp;</div><div>Histidin besitzt als Base eine zusätzliche NH- Gruppe im Ring, welche als Base ein Proton aufnimmt. Durch den Überschuss an positiver Ladung wird es vom Minuspol angezogen.&nbsp;</div></div>",
+                                "Die Elektrophorese eines Gemischs aus 3 Aminosäuren bei pH = 6.1 ± 0.1 ergab folgendes Bild (s. Dateianhang). Welche der folgenden Aussagen ist richtig?<br><br>Glycin: pKs 1 = 2.35, pKs 2 = 9.78<br>Cystein: pKs 1 = 1.86, pKs 2 = 8.33, pKs 3 = 10.78<br>Histidin: pKs 1 = 1.81, pKs 2 = 6.05, pks 3 = 9.15<br><div><img src=\"image-1a08c7652640ab1eadf619a5f9259a2e40a28427.jpg\">&nbsp;</div><div><ol><li style=\"text-align: left;\">Bei A handelt es sich um Cystein&nbsp;</li><li style=\"text-align: left;\">Bei B handelt es sich um Histidin&nbsp;</li><li style=\"text-align: left;\">Bei C handelt es sich um Glycin&nbsp;</li><li style=\"text-align: left;\">Bei A handelt es sich um Histidin&nbsp;</li><li style=\"text-align: left;\">Bei B handelt es sich um Cystein &nbsp;</li></ol></div>",
+                                "<div style=\"text-align: left;\">Aussage 1 ist richtig. A ist Cystein&nbsp;</div><div style=\"text-align: left;\">Wenn der pH-Wert kleiner als der isoelektrische Punkt ist wandern die AS zur Kathode (Minuspol)</div><div style=\"text-align: left;\">Bei pH-Wert &gt; als IEP wandern sie zur Anode (Pluspol)</div><div style=\"text-align: left;\">IEP=(pks1+pks2)/2 bei Molekülen mit &gt;2 Pks-Werten werden die zwei Zugehörigen genommen (Saures Molekül —&gt; pks1+pks2 und basisch pks2+pks3)</div><div><div style=\"text-align: left;\">&nbsp;</div><div style=\"text-align: left;\">Glycin ist die einfachste Aminosäure, die es gibt. Sie hat die gleich Anzahl an NH2 und COOH und besitzt sonst keine polaren Atome oder Atomgruppen im Molekül. Daher wird es weder vom Plus- noch vom Minuspol angezogen und muss somit in der Mitte liegen.&nbsp;</div><div style=\"text-align: left;\">Cystein besitzt eine SH- Gruppe zu der Amino- und der Carboxygruppe. Dementsprechend ist Cystein negativ polarisiert und wird vom Pluspol angezogen.&nbsp;</div><div style=\"text-align: left;\">Histidin besitzt als Base eine zusätzliche NH- Gruppe im Ring, welche als Base ein Proton aufnimmt. Durch den Überschuss an positiver Ladung wird es vom Minuspol angezogen.&nbsp;</div></div>",
                                 ""
                             ],
                             "guid": "LZA^h;6lTk",
@@ -43738,8 +43803,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Zuordnung zwischen Strukturformel und Name stimmt?<div><img src=\"image-c80c153188fe5209c6f4fb87921ad74b44b41b78.jpg\"><br></div><div>Molekül F= Tyrosin&nbsp;</div><div>Molekül K= Asparagin&nbsp;</div><div>Molekül J =Thymin&nbsp;</div><div>Molekül H = Adenin&nbsp;</div><div>Molekül M = Milchsäure&nbsp;</div>",
-                                "Molekül J ist Thymin.&nbsp;<div>Hier kann man nach dem Ausschlussprinzip vorgehen.&nbsp;</div><div>Tyrosin ist eine Aminosäure. Molekül F besteht einfach aus zwei Kohlenstoffringen ohne eine funktionelle Gruppe.&nbsp;</div><div>Asparagin ist auch eine Aminosäure. Molekül K enthält zwar super viele Stickstoffatome und zwei Aminogruppen, aber keine Säuregruppe (-COOH).&nbsp;</div><div>Adenin ist eine Base. Dementsprechend enthält die keine Säuregruppe. Die COOH-Gruppe sieht man aber im Molekül H.&nbsp;</div><div>Milchsäure ist eine organische Säure und KEINE Aminosäure. Molekül M enthält ein asymmetrisches C-Atom mit einer Aminogruppe(NH2) und einer Säuregruppe (COOH). &nbsp;</div>",
+                                "Welche Zuordnung zwischen Strukturformel und Name stimmt?<div><img src=\"image-c80c153188fe5209c6f4fb87921ad74b44b41b78.jpg\"><br></div><div style=\"text-align: left;\">Molekül F= Tyrosin&nbsp;</div><div style=\"text-align: left;\">Molekül K= Asparagin&nbsp;</div><div style=\"text-align: left;\">Molekül J =Thymin&nbsp;</div><div style=\"text-align: left;\">Molekül H = Adenin&nbsp;</div><div style=\"text-align: left;\">Molekül M = Milchsäure&nbsp;</div>",
+                                "<div style=\"text-align: left;\">Molekül J ist Thymin.&nbsp;</div><div style=\"text-align: left;\">Hier kann man nach dem Ausschlussprinzip vorgehen.&nbsp;</div><div style=\"text-align: left;\">Tyrosin ist eine Aminosäure. Molekül F besteht einfach aus zwei Kohlenstoffringen ohne eine funktionelle Gruppe.&nbsp;</div><div style=\"text-align: left;\">Asparagin ist auch eine Aminosäure. Molekül K enthält zwar super viele Stickstoffatome und zwei Aminogruppen, aber keine Säuregruppe (-COOH).&nbsp;</div><div style=\"text-align: left;\">Adenin ist eine Base. Dementsprechend enthält die keine Säuregruppe. Die COOH-Gruppe sieht man aber im Molekül H.&nbsp;</div><div style=\"text-align: left;\">Milchsäure ist eine organische Säure und KEINE Aminosäure. Molekül M enthält ein asymmetrisches C-Atom mit einer Aminogruppe(NH2) und einer Säuregruppe (COOH). &nbsp;</div>",
                                 ""
                             ],
                             "guid": "z(]1<jXKCs",
@@ -43760,7 +43825,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "&nbsp;Im Praktikum haben Sie das Daniell-Element aufgebaut. Berechnen Sie, welches elektrochemische Potential Sie messen, wenn die Konzentration der Cu²⁺-Ionen c = 0,1 mol/L und die Konzentration der Zn²⁺-Ionen c = 0,001mol/L betragen. Zn²⁺/Zn⁰ (E° = –0,76 V); Cu²⁺/Cu⁰ (E° = +0,34 V).&nbsp;<div>1.) 1160mV&nbsp;</div><div>2.) 1100mV</div><div>3.)1040mV</div><div>4.) 120mV&nbsp;</div><div>5.) 60mV &nbsp;</div>",
+                                "&nbsp;Im Praktikum haben Sie das Daniell-Element aufgebaut. Berechnen Sie, welches elektrochemische Potential Sie messen, wenn die Konzentration der Cu²⁺-Ionen c = 0,1 mol/L und die Konzentration der Zn²⁺-Ionen c = 0,001mol/L betragen. Zn²⁺/Zn⁰ (E° = –0,76 V); Cu²⁺/Cu⁰ (E° = +0,34 V).&nbsp;<div><ol><li style=\"text-align: left;\">) 1160mV&nbsp;</li><li style=\"text-align: left;\">) 1100mV</li><li style=\"text-align: left;\">) 1040mV</li><li style=\"text-align: left;\">) 120mV&nbsp;</li><li style=\"text-align: left;\">) 60mV &nbsp;</li></ol></div>",
                                 "Aussage 1 ist richtig&nbsp;<div>Als Ansatz verwendet man hier die Nernst-Gleichung&nbsp;</div><div><img src=\"image-23afa950c645eb1b56f2d77366766d4ab6d6b635.png\"><br></div>",
                                 ""
                             ],
@@ -43782,8 +43847,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "&nbsp;Bei pH = 1 beträgt der Verteilungskoeffizient K einer organischen Säure (pKS = 5,4) zwischen Diethylether (Oberphase) und Wasser (Unterphase) K = 103.<br>Welche Aussage trifft zu ?<br><div>1.) Die undissoziierte Säure ist ausgeprägt polar</div><div>2.) der K=Wert der organischen Säure ist bei pH=10 größer als bei pH=1&nbsp;</div><div>3.) K-Werte bei pH=1 und pH=10 sind gleich&nbsp;</div><div>4.) Die Löslichkeit der Säure beruht auf hydrophober Wechselwirkungen&nbsp;</div><div>5.) Bei pH=1 kann man die organische Säure aus der wässrigen Phase mit Ether ausschütteln&nbsp;</div>",
-                                "Aussage 4 ist falsch. Wären die Wechselwirkungen hydrophob, dann würde sich die organische Säure NICHT in Wasser lösen. Wenn Stoffe miteinander Wechselwirken, dann lösen sie sich ineinander. Wasser kann nur mit wasserliebenden, polaren also Hydrophiler Stoffen wechselwirken.&nbsp;<div>Aussage 1 ist auch falsch. Undissoziiert heißt, dass die Säure noch kein H-Atom abgegeben hat. Dementsprechend ist noch protoniert und nicht ausgeprägt polar.&nbsp;</div><div>Aussage 2 ist auch falsch. Der K-Wert einer Säure gibt an, wie gut sich diese in einem Stoffgemisch aus zwei nicht ineinanderlöslichen Stoffen verteilt. Bei pH=1 verteilt sich also deutlich mehr Säure in der Oberphase als in der Unterphase. Mit steigendem pH muss sich die Säure also vermehrt im WAsserkonzentiert sein, da dort dann die Anzahl an Protonenakzeptoren als OH- Ionen steigt, die gerne ein H-Proton der Säure aufnehmen.&nbsp;</div><div>Dementsprechend macht auch Aussage 3 keinen Sinn. Der Verteilungskoeffizient in einer Säure oder Base &nbsp;ist immer abhängig vom pH der Umgebung, da die Säure immer da vermehrt auftreten wird, wo sie ihre Protonen abgeben kann.&nbsp;</div>",
+                                "&nbsp;Bei pH = 1 beträgt der Verteilungskoeffizient K einer organischen Säure (pKS = 5,4) zwischen Diethylether (Oberphase) und Wasser (Unterphase) K = 103.<br>Welche Aussage trifft zu ?<br><div><ol><li style=\"text-align: left;\">) Die undissoziierte Säure ist ausgeprägt polar</li><li style=\"text-align: left;\">) der K=Wert der organischen Säure ist bei pH=10 größer als bei pH=1&nbsp;</li><li style=\"text-align: left;\">) K-Werte bei pH=1 und pH=10 sind gleich&nbsp;</li><li style=\"text-align: left;\">) Die Löslichkeit der Säure beruht auf hydrophober Wechselwirkungen&nbsp;</li><li style=\"text-align: left;\">) Bei pH=1 kann man die organische Säure aus der wässrigen Phase mit Ether ausschütteln&nbsp;</li></ol></div>",
+                                "<div style=\"text-align: left;\">Aussage 4 ist falsch. Wären die Wechselwirkungen hydrophob, dann würde sich die organische Säure NICHT in Wasser lösen. Wenn Stoffe miteinander Wechselwirken, dann lösen sie sich ineinander. Wasser kann nur mit wasserliebenden, polaren also Hydrophiler Stoffen wechselwirken.&nbsp;</div><div style=\"text-align: left;\">Aussage 1 ist auch falsch. Undissoziiert heißt, dass die Säure noch kein H-Atom abgegeben hat. Dementsprechend ist noch protoniert und nicht ausgeprägt polar.&nbsp;</div><div style=\"text-align: left;\">Aussage 2 ist auch falsch. Der K-Wert einer Säure gibt an, wie gut sich diese in einem Stoffgemisch aus zwei nicht ineinanderlöslichen Stoffen verteilt. Bei pH=1 verteilt sich also deutlich mehr Säure in der Oberphase als in der Unterphase. Mit steigendem pH muss sich die Säure also vermehrt im WAsserkonzentiert sein, da dort dann die Anzahl an Protonenakzeptoren als OH- Ionen steigt, die gerne ein H-Proton der Säure aufnehmen.&nbsp;</div><div style=\"text-align: left;\">Dementsprechend macht auch Aussage 3 keinen Sinn. Der Verteilungskoeffizient in einer Säure oder Base &nbsp;ist immer abhängig vom pH der Umgebung, da die Säure immer da vermehrt auftreten wird, wo sie ihre Protonen abgeben kann.&nbsp;</div>",
                                 ""
                             ],
                             "guid": "Ii,S)S(4A`",
@@ -43817,8 +43882,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Zuordnung stimmt?&nbsp;<div><img src=\"image-c80c153188fe5209c6f4fb87921ad74b44b41b78.jpg\"><br></div><div>Molekül A = Isopren&nbsp;</div><div>Molekül G = Maleinsäure&nbsp;</div><div>Molekül B = Thymin</div><div>Molekül C = Milchsäure&nbsp;</div><div>Molekül H = Adenin&nbsp;</div>",
-                                "Molekül G ist Maleinsäure.&nbsp;<div>Molekül A besitzt eine COOH Gruppe und ist dementsprechend eine Säure. Isopren ist ein normaler Kohlenwasserstoff, also enthält nur C- und H-Atome&nbsp;</div><div>Molekül B ist eine Säure durch seine COOH-Gruppe. Thymin ist eine NucleinBASE. Das widerspricht sich.&nbsp;</div><div>Molekül C ist ein Kohlenwasserstoff ohne funktionelle Gruppe. Dafür, dass es sich hier um eine organische Säure handelt, bräuchten wir eine COOH-Gruppe&nbsp;</div><div>Molekül H ist mit der NH2- Gruppe und der COOH-Gruppe an einem C-Atom eine Aminosäure. Adenin ist eine Nucleinbase aus der DNA.&nbsp;</div>",
+                                "Welche Zuordnung stimmt?&nbsp;<div><img src=\"image-c80c153188fe5209c6f4fb87921ad74b44b41b78.jpg\"><br></div><div style=\"text-align: left;\">Molekül A = Isopren&nbsp;</div><div style=\"text-align: left;\">Molekül G = Maleinsäure&nbsp;</div><div style=\"text-align: left;\">Molekül B = Thymin</div><div style=\"text-align: left;\">Molekül C = Milchsäure&nbsp;</div><div style=\"text-align: left;\">Molekül H = Adenin&nbsp;</div>",
+                                "<div style=\"text-align: left;\">Molekül G ist Maleinsäure.&nbsp;</div><div style=\"text-align: left;\">Molekül A besitzt eine COOH Gruppe und ist dementsprechend eine Säure. Isopren ist ein normaler Kohlenwasserstoff, also enthält nur C- und H-Atome&nbsp;</div><div style=\"text-align: left;\">Molekül B ist eine Säure durch seine COOH-Gruppe. Thymin ist eine NucleinBASE. Das widerspricht sich.&nbsp;</div><div style=\"text-align: left;\">Molekül C ist ein Kohlenwasserstoff ohne funktionelle Gruppe. Dafür, dass es sich hier um eine organische Säure handelt, bräuchten wir eine COOH-Gruppe&nbsp;</div><div style=\"text-align: left;\">Molekül H ist mit der NH2- Gruppe und der COOH-Gruppe an einem C-Atom eine Aminosäure. Adenin ist eine Nucleinbase aus der DNA.&nbsp;</div>",
                                 ""
                             ],
                             "guid": "jE99mU^M*I",
@@ -43828,8 +43893,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<p>Eine Reaktion besteht aus folgenden zwei Teilreaktionen:<br>(1) AB ↔ A + B<br>(2) A + C ↔ AC<br>Dazu gehört das abgebildete Energiediagramm (s. Dateianhang).<br>Welche Aussage trifft nicht zu?<br></p>\n<img src=\"image-bb75f5442c29e09c169d3846a2ed481d6303506b.jpg\"><br><div>1. Die Gesamtreaktion ist exergon.&nbsp;</div><div>2. Teilreaktion führt zu einer Zwischenstufe&nbsp;</div><div>3. Die Aktivierungsenergien aus Teilreaktion 1 und 2 sind gleich groß.&nbsp;</div><div>4.Teilschritt 1 ist der Geschwindigkeitenbestimmende Reaktionsschritt.&nbsp;</div><div>5. Das Gleichgewicht liegt auf der Seite der Produkte</div>",
-                                "Aussage 3 ist falsch. Das kann man ganz gut aus dem Diagramm ablesen. Wir gehen zur Bestimmung der Größe der Aktivierungsenergie vom Ausgangenergieniveau der Edukte (horizontaler Strich vor einem Anstieg oder Abfall) aus und schauen dann wie strak das ganze ansteigt. Wir sehen bei Teilschritt 1 einen deutlich stärkeren Anstieg als bei Teilschritt 2, weil die freie Standartenthalpie vor Teilschritt zwei großer ist.&nbsp;<div>Aussage 1 und 5 gehen Hand in Hand. Ist eine Reaktion exergon, dann liegt das Gleichgewicht auch auf der Seite der Produkte.&nbsp;</div><div>Aussage 2 ist auch richtig, weil Teilrektion 1 energetisch ungünstiger ist, da G größer ist. Wir wollen G in der Chemie immer möglichst klein haben, sonst ist das Produkt sehr reaktiv.&nbsp;</div>",
+                                "<p>Eine Reaktion besteht aus folgenden zwei Teilreaktionen:<br>(1) AB ↔ A + B<br>(2) A + C ↔ AC<br>Dazu gehört das abgebildete Energiediagramm (s. Dateianhang).<br>Welche Aussage trifft nicht zu?<br></p>\n<img src=\"image-bb75f5442c29e09c169d3846a2ed481d6303506b.jpg\"><br><div style=\"text-align: left;\"><ol><li>&nbsp;Die Gesamtreaktion ist exergon.&nbsp;</li><li>&nbsp;Teilreaktion führt zu einer Zwischenstufe&nbsp;</li><li>&nbsp;Die Aktivierungsenergien aus Teilreaktion 1 und 2 sind gleich groß.&nbsp;</li><li>&nbsp;Teilschritt 1 ist der Geschwindigkeitenbestimmende Reaktionsschritt.&nbsp;</li><li>&nbsp;Das Gleichgewicht liegt auf der Seite der Produkte</li></ol></div>",
+                                "<div style=\"text-align: left;\">Aussage 3 ist falsch. Das kann man ganz gut aus dem Diagramm ablesen. Wir gehen zur Bestimmung der Größe der Aktivierungsenergie vom Ausgangenergieniveau der Edukte (horizontaler Strich vor einem Anstieg oder Abfall) aus und schauen dann wie strak das ganze ansteigt. Wir sehen bei Teilschritt 1 einen deutlich stärkeren Anstieg als bei Teilschritt 2, weil die freie Standartenthalpie vor Teilschritt zwei großer ist.&nbsp;</div><div style=\"text-align: left;\">Aussage 1 und 5 gehen Hand in Hand. Ist eine Reaktion exergon, dann liegt das Gleichgewicht auch auf der Seite der Produkte.&nbsp;</div><div style=\"text-align: left;\">Aussage 2 ist auch richtig, weil Teilrektion 1 energetisch ungünstiger ist, da G größer ist. Wir wollen G in der Chemie immer möglichst klein haben, sonst ist das Produkt sehr reaktiv.&nbsp;</div>",
                                 ""
                             ],
                             "guid": "AcHBSv;?Br",
@@ -43839,7 +43904,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "&nbsp;Die Elementaranalyse einer organischen Substanz ergab folgende Zusammensetzung:<br>C: 40,00%, H: 6,67% (Massen-%)<br>Um welche der folgenden Verbindungen kann es sich handeln?<br><div>1.&nbsp;\n\nCH₃OH (Methanol)\n</div><div>2.&nbsp;\n\nC₅H₁₂ (Cyclohexan)\n</div><div>3.&nbsp;\n\nC₂H₅OH (Ethanol)\n</div><div>4.&nbsp;\n\nCH₃COOH (Essigsäure)\n</div><div>5.&nbsp;\n\nC₂H₅ (Ethan)\n</div>",
+                                "&nbsp;Die Elementaranalyse einer organischen Substanz ergab folgende Zusammensetzung:<br>C: 40,00%, H: 6,67% (Massen-%)<br>Um welche der folgenden Verbindungen kann es sich handeln?<br><div style=\"text-align: left;\"><ol><li>&nbsp;CH₃OH (Methanol)\n</li><li>&nbsp;C₅H₁₂ (Cyclohexan)\n</li><li>&nbsp;C₂H₅OH (Ethanol)\n</li><li>&nbsp;CH₃COOH (Essigsäure)\n</li><li>&nbsp;C₂H₅ (Ethan)\n</li></ol></div>",
                                 "<img src=\"image-6eb9c00114c8a10cb06a17437c6371a998ecd9fa.png\">",
                                 ""
                             ],
@@ -43872,9 +43937,9 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche der folgenden Aussagen ist richtig?&nbsp;<div><img src=\"image-676ae9abccd262f43524070dfa276195bee2b16e.jpg\"><br></div><div>1) Katalytische Dehydrierung von Propanol führt zu Propen&nbsp;</div><div>2.) Verbindung 2 entsteht durch elektrophile Addition an 3&nbsp;</div><div>3.) Propanol kann durch nucleophile Substitution zu 2 reagieren&nbsp;</div><div>4.) 2-Chlorpropan (2) kann durch Hydrolyse mit NaOH zu 1 reagieren&nbsp;</div><div>5.) Propanol (1) kann mit (2) und (3) zum gleichen Produkt reagieren&nbsp;</div>",
-                                "Aussage 5 ist richtig. Die Reaktion lautet:&nbsp;<div><img src=\"image-798482bf942f92d7c1d79944c3e34514ccf94611.png\"><img src=\"image-cca3f9fd33753561989480d3231c591da9a1ddc8.png\"><br><div>1.) Eine Hydrolyse(Abspaltung von Wasser) von Propanol führt zu Propen.&nbsp;</div><div>2.) Verbindung 2. entsteht durch nucleophile Addition&nbsp;</div><div>3.) Propanol wie 1 reagiert durch nucleophile Substitution zu einem 1-Chlorpropan. Man muss hier einfach OH und Cl austauschen. Das Cl muss dann allerdings am ganz rechten und nicht am mittigen C-Atom stehen.&nbsp;</div><div>4.) ist die Umkehr zu 3. 2-Chlor-propan müsste dann auch zu Propan-2-ol mit OH-Gruppe in der Mitte reagieren.&nbsp;</div><div><br></div></div>",
-                                ""
+                                "Welche der folgenden Aussagen ist richtig?&nbsp;<div><img src=\"image-676ae9abccd262f43524070dfa276195bee2b16e.jpg\"><br></div><div><ol><li>) Katalytische Dehydrierung von Propanol führt zu Propen&nbsp;</li><li>) Verbindung 2 entsteht durch elektrophile Addition an 3&nbsp;</li><li>) Propanol kann durch nucleophile Substitution zu 2 reagieren&nbsp;</li><li>) 2-Chlorpropan (2) kann durch Hydrolyse mit NaOH zu 1 reagieren&nbsp;</li><li>) Propanol (1) kann mit (2) und (3) zum gleichen Produkt reagieren&nbsp;</li></ol></div>",
+                                "<div style=\"text-align: left;\">Aussage 5 ist richtig. Die Reaktion lautet:&nbsp;</div><div><div style=\"text-align: left;\">1.) Eine Hydrolyse(Abspaltung von Wasser) von Propanol führt zu Propen.&nbsp;</div><div style=\"text-align: left;\">2.) Verbindung 2. entsteht durch nucleophile Addition&nbsp;</div><div style=\"text-align: left;\">3.) Propanol wie 1 reagiert durch nucleophile Substitution zu einem 1-Chlorpropan. Man muss hier einfach OH und Cl austauschen. Das Cl muss dann allerdings am ganz rechten und nicht am mittigen C-Atom stehen.&nbsp;</div><div style=\"text-align: left;\">4.) ist die Umkehr zu 3. 2-Chlor-propan müsste dann auch zu Propan-2-ol mit OH-Gruppe in der Mitte reagieren.&nbsp;</div><div style=\"text-align: left;\"><br></div></div>",
+                                "<img src=\"image-798482bf9.svg\" width=\"800\"><img src=\"image-cca3f9fd3.svg\" width=\"800\">"
                             ],
                             "guid": "x(e:,UcGBh",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -43921,7 +43986,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "<div style=\"text-align: left;\"><div style=\"text-align: center;\">Welche Aussage zu den folgenden Verbindungen ist falsch?&nbsp;</div><div style=\"text-align: center;\"><img src=\"image-b0d965edfa89010acafc12bea47fc9eaa9772e76.jpg\"></div></div><div style=\"text-align: left;\"><ol><li>) 1. und 3. sind als echte Elektrolyte vollständig dissoziiert.&nbsp;</li><li>) Verbindung 1 reagiert stärker sauer als 2 und 3&nbsp;</li><li>) Verbindung 3 reagiert in Wasser schwach sauer&nbsp;</li><li>) Verbindung 2 reagiert in Wasser schwach basisch&nbsp;</li><li>) Ein 1:1 Gemisch aus 2 und 3 zeigt Pufferwirkung&nbsp;</li></ol></div>",
-                                "Aussage 2 ist falsch. Eine Verbindung reagiert dann sauer, wenn sie ein Proton abgibt (nach Brönsted). Chlor bricht hierbei in einem nucleophilen Angriff an das positiv geladene Stickstoff und klaut ihm die Methylseitenkette. Dadurch wird es zu Chlormethan und Verbindung 1 zu Verbindung 2.&nbsp;<div>Aussage 1 ist richtig. Ein Elektrolyt ist eine Lösung, in der Ionen vorliegen und sie somit elektrisch leitfähig ist.&nbsp;</div><div>Verbindung 3 regiert in Wasser schwach sauer, weil das Stickstoffatom das gebundene H abgeben kann und damit als Protonendonator argieren kann. Deshalb stimmt auch Aussage 4. Verbindung 2 ist Verbingung 3 nur ohne H-Proton. Wenn 3 also ein Proton abgeben kann, kann 2 eins annehmen. Deshalb können sich auch als Puffer fungieren, da sich für eine Pufferwirkung ein korrespondierendes Säure-Base-Paar gut ineinander umwandeln lassen sollte.</div>",
+                                "<div style=\"text-align: left;\">Aussage 2 ist falsch. Eine Verbindung reagiert dann sauer, wenn sie ein Proton abgibt (nach Brönsted). Chlor bricht hierbei in einem nucleophilen Angriff an das positiv geladene Stickstoff und klaut ihm die Methylseitenkette. Dadurch wird es zu Chlormethan und Verbindung 1 zu Verbindung 2.&nbsp;</div><div style=\"text-align: left;\">Aussage 1 ist richtig. Ein Elektrolyt ist eine Lösung, in der Ionen vorliegen und sie somit elektrisch leitfähig ist.&nbsp;</div><div style=\"text-align: left;\">Verbindung 3 regiert in Wasser schwach sauer, weil das Stickstoffatom das gebundene H abgeben kann und damit als Protonendonator argieren kann. Deshalb stimmt auch Aussage 4. Verbindung 2 ist Verbingung 3 nur ohne H-Proton. Wenn 3 also ein Proton abgeben kann, kann 2 eins annehmen. Deshalb können sich auch als Puffer fungieren, da sich für eine Pufferwirkung ein korrespondierendes Säure-Base-Paar gut ineinander umwandeln lassen sollte.</div>",
                                 ""
                             ],
                             "guid": "ncZ@QvK!F1",
@@ -43998,7 +44063,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "40 ml einer 0,1 molaren Alanin-Lösung soll mit Natronlauge versetzt werden. <br>Wie viel Milliliter Natronlauge der Konzentration 0,1 mol/L müssen Sie dazugeben, damit Sie eine Pufferlösung mit pH = 9,9 erhalten?&nbsp;",
-                                "Alanis hat einen pks Wert von 9,87 was recht nah an 9,9 rankommt —&gt; Am halbäquivalenzpunkt ist der pks=ph und die Menge an Zwitterionen = den Anionen —&gt; Daher kann man mit der Henderson-Hasselbach-Gleichung ausrechnen:<div>pH = pks + lg(Anion/Zwitterion) —&gt; bei HÄP muss lg(Anion/Zwitterion) = 0 sein —&gt; 40 ml war unser c<sub>0</sub>&nbsp;und da NaOH und Alanin gleichkonzentriert sind müssen wir das nicht umrechnen —&gt; lg(V<sub>NaOH</sub>/40ml-V<sub>NaOH</sub>) = 0 —&gt; entweder umstellen oder nachdenken führt zu 20 ml —&gt; 20 ml 0,1 Mol/l NaOH und 40 ml 0,1 Mol/l Alanin<br><div><br></div></div>",
+                                "<div style=\"text-align: left;\">Alanis hat einen pks Wert von 9,87 was recht nah an 9,9 rankommt&nbsp;</div><div style=\"text-align: left;\">→ Am halbäquivalenzpunkt ist der pks=ph und die Menge an Zwitterionen = den Anionen</div><div style=\"text-align: left;\">→ Daher kann man mit der Henderson-Hasselbach-Gleichung ausrechnen:</div><div><div style=\"text-align: left;\">pH = pks + lg(Anion/Zwitterion)&nbsp;</div><div style=\"text-align: left;\">→ bei HÄP muss lg(Anion/Zwitterion) = 0 sein&nbsp;</div><div style=\"text-align: left;\">→ 40 ml war unser c<sub>0</sub>&nbsp;und da NaOH und Alanin gleichkonzentriert sind müssen wir das nicht umrechnen&nbsp;</div><div style=\"text-align: left;\">→ lg(V<sub>NaOH</sub>/40ml-V<sub>NaOH</sub>) = 0&nbsp;</div><div style=\"text-align: left;\">→ entweder umstellen oder nachdenken führt zu 20 ml&nbsp;&nbsp;</div><div style=\"text-align: left;\">→ 20 ml 0,1 Mol/l NaOH und 40 ml 0,1 Mol/l Alanin</div><div style=\"text-align: left;\"><br></div></div>",
                                 ""
                             ],
                             "guid": "m$3^O6QT&1",
@@ -44008,8 +44073,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "&nbsp; Welche Aussage zu schwachen Säuren ist FALSCH?&nbsp;<div><br><div>\n\n<div>\n<div>1. Je größer der pKs-Wert ist, desto schwächer ist die Säure.</div></div><div><div>2. Ihre Titrationskurve liefert am Äquivalenzpunkt den entsprechenden pKs-Wert.</div></div><div><div>3. Je schwächer die Säure ist, desto stärker ist die korrespondierende Base.</div></div><div><div>4. Bei gleichen Konzentrationen haben schwache Säuren einen höheren pH-Wert als starke Säuren.</div></div><div><div>5. Im Gegensatz zu starken Säuren ist ihr Dissoziationsgrad kleiner als 1</div></div></div></div>",
-                                "<div>\n<div>Aussage 2 ist falsch. An den HALBäquivalenzpunkten entspricht der pH dem pKs.&nbsp;</div></div><div>Aussage 4 stimmt. Je kleiner die Konzentrationslager an H+ Ionen, desto negativer ist der Exponent der negativen 10er. Damit wird der negative dekadische Logarithmus größer.&nbsp;</div><div>Aussage 3 stimmt ebenfalls. Wenn eine Säure gerne ihr Proton loswird, will sie es eher ungern wiederhaben, also eher ungern als Base fungieren. Damit ist sie eine eher schwache Base.&nbsp;</div><div>Aussage 1 stimmt. Je kleiner der Ks Wert, desto kleiner ist die Konzentration an Säure, die ihr Proton abgegeben hat. Der pKs verhält sich genau umgekehrt zum Ks Wert, da er der negative dekadische Logarithmus des Ks Werts ist. Dementsprechend bedeutet ein großer KS Wert, dass wenige Säuremoleküle ihr Proton abgeben.&nbsp;</div><div>Aussage 5 ist richtig. Der Dissoziationsgrad ist das Verhältnis aus der Konzentration der Säure vor der Dissoziation und den Säureanionen nach der Dissoziation. Zerfallen alle Säuremoleküle zu Anionen einem H+ dann ist der Dissoziationsgrad 1. Wenn nicht alle Säuremoleküle zerfallen, ist die Konzentration der Säureanionen kleiner als die Ausgangskonzentration der undissoziierten Säure. Dementsprechend ist der Quotient aus Säurekonzentration und Anionenkonzentration kleiner als 1.&nbsp;</div>",
+                                "&nbsp; Welche Aussage zu schwachen Säuren ist FALSCH?&nbsp;<div><br><div>\n\n<div>\n<div><ol><li>&nbsp;Je größer der pKs-Wert ist, desto schwächer ist die Säure.</li><li>&nbsp;Ihre Titrationskurve liefert am Äquivalenzpunkt den entsprechenden pKs-Wert.</li><li>&nbsp;Je schwächer die Säure ist, desto stärker ist die korrespondierende Base.</li><li>&nbsp;Bei gleichen Konzentrationen haben schwache Säuren einen höheren pH-Wert als starke Säuren.</li><li>&nbsp;Im Gegensatz zu starken Säuren ist ihr Dissoziationsgrad kleiner als 1</li></ol></div></div></div></div>",
+                                "<div>\n<div style=\"text-align: left;\">Aussage 2 ist falsch. An den HALBäquivalenzpunkten entspricht der pH dem pKs.&nbsp;</div></div><div style=\"text-align: left;\">Aussage 4 stimmt. Je kleiner die Konzentrationslager an H+ Ionen, desto negativer ist der Exponent der negativen 10er. Damit wird der negative dekadische Logarithmus größer.&nbsp;</div><div style=\"text-align: left;\">Aussage 3 stimmt ebenfalls. Wenn eine Säure gerne ihr Proton loswird, will sie es eher ungern wiederhaben, also eher ungern als Base fungieren. Damit ist sie eine eher schwache Base.&nbsp;</div><div style=\"text-align: left;\">Aussage 1 stimmt. Je kleiner der Ks Wert, desto kleiner ist die Konzentration an Säure, die ihr Proton abgegeben hat. Der pKs verhält sich genau umgekehrt zum Ks Wert, da er der negative dekadische Logarithmus des Ks Werts ist. Dementsprechend bedeutet ein großer KS Wert, dass wenige Säuremoleküle ihr Proton abgeben.&nbsp;</div><div style=\"text-align: left;\">Aussage 5 ist richtig. Der Dissoziationsgrad ist das Verhältnis aus der Konzentration der Säure vor der Dissoziation und den Säureanionen nach der Dissoziation. Zerfallen alle Säuremoleküle zu Anionen einem H+ dann ist der Dissoziationsgrad 1. Wenn nicht alle Säuremoleküle zerfallen, ist die Konzentration der Säureanionen kleiner als die Ausgangskonzentration der undissoziierten Säure. Dementsprechend ist der Quotient aus Säurekonzentration und Anionenkonzentration kleiner als 1.&nbsp;</div>",
                                 ""
                             ],
                             "guid": "Ra7J9_gqM(",
@@ -44030,8 +44095,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche der folgenden Aussagen trifft NICHT zu? Die Gibbs-Energie einer Reaktion...<div><div>\n<div>1.) ist umso größer, je schneller die Reaktion abläuft.</div></div>\n<div>\n<div>2.) kann aus den Konzentrationen der Reaktionspartner im Gleichgewicht berechnet werden.</div></div>\n<div>\n<div>3.) ist bei exergonen Reaktionen negativ.</div></div>\n<div>\n<div>4.) steht in Beziehung zur entsprechenden Gleichgewichtskonstanten K.</div></div>\n<div><div>5.) hat im Gleichgewicht den Wert G=0 erreicht.</div></div></div>",
-                                "Aussage 1 trifft nicht zu. Die Gibbs-Energie ist bei freiwilligen Reaktionen negativ. Wird sie also größer, die Reaktion also weniger freiwillig ablaufen.&nbsp;<div><br></div>",
+                                "Welche der folgenden Aussagen trifft NICHT zu? Die Gibbs-Energie einer Reaktion...<div><div>\n<div style=\"text-align: left;\">1.) ist umso größer, je schneller die Reaktion abläuft.</div></div>\n<div>\n<div style=\"text-align: left;\">2.) kann aus den Konzentrationen der Reaktionspartner im Gleichgewicht berechnet werden.</div></div>\n<div>\n<div style=\"text-align: left;\">3.) ist bei exergonen Reaktionen negativ.</div></div>\n<div>\n<div style=\"text-align: left;\">4.) steht in Beziehung zur entsprechenden Gleichgewichtskonstanten K.</div></div>\n<div><div style=\"text-align: left;\">5.) hat im Gleichgewicht den Wert G=0 erreicht.</div></div></div>",
+                                "<div style=\"text-align: left;\">Aussage 1 trifft nicht zu. Die Gibbs-Energie ist bei freiwilligen Reaktionen negativ. Wird sie also größer, die Reaktion also weniger freiwillig ablaufen.&nbsp;</div><div style=\"text-align: left;\"><br></div>",
                                 ""
                             ],
                             "guid": "d|aeZX:vIl",
@@ -44053,7 +44118,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "<div style=\"text-align: left;\">&nbsp; Welche Aussage über Redoxreaktionen ist FALSCH?</div><div style=\"text-align: left;\"><ol><li>) Je positiver das Standardpotential, umso stärker die reduzierende Wirkung.</li><li>) Die Standardpotentiale der edlen Metalle haben ein positives Vorzeichen. \n</li><li>) Das Vorzeichen für das Standardpotential bezieht sich immer auf den Reduktionsprozess.</li><li>) Redoxamphotere Verbindungen können sowohl reduzierend als auch oxidierend wirken.</li><li>) Die Elektrolyse ist eine erzwungene Redoxreaktion.</li></ol></div>\n\n",
-                                "Aussage 1 stimmt nicht. Je positiver das Standartpotential, desto höher ist die oxidierende Wirkung.&nbsp;<div>Aussage 2 ist richtig, weil edle Metalle nicht gerne reagieren, also nicht gerne reduziert oder oxidiert werden.&nbsp;</div><div>Aussage 3. ist ebenfalls korrekt. Stoffe mit positivem Vorzeichen werden reduziert, während Stoffe mit negativem Vorzeichen nicht gut reduzierbar sind.&nbsp;</div><div>Aussage 4 ist auch richtig. „Ampho“ bedeutet eigentlich immer, dass Stoffe beide Vorgänge können z.B. Ampholyte, die als Säure oder Base reagieren oder amphiphile Stoffe, die sich in Wasser und Fetten lösen lassen.&nbsp;</div><div>Aussage 5 ist auch richtig. Durch das Anlegen einer Spannung stört man das Standartpotential des galvanischen Elements. Also ist die Elektrolyse dessen Umkehrreaktion.&nbsp;</div>",
+                                "<div style=\"text-align: left;\">Aussage 1 stimmt nicht. Je positiver das Standartpotential, desto höher ist die oxidierende Wirkung.&nbsp;</div><div style=\"text-align: left;\">Aussage 2 ist richtig, weil edle Metalle nicht gerne reagieren, also nicht gerne reduziert oder oxidiert werden.&nbsp;</div><div style=\"text-align: left;\">Aussage 3. ist ebenfalls korrekt. Stoffe mit positivem Vorzeichen werden reduziert, während Stoffe mit negativem Vorzeichen nicht gut reduzierbar sind.&nbsp;</div><div style=\"text-align: left;\">Aussage 4 ist auch richtig. „Ampho“ bedeutet eigentlich immer,&nbsp;</div><div style=\"text-align: left;\">dass Stoffe beide Vorgänge können z.B. Ampholyte, die als Säure oder Base reagieren oder amphiphile Stoffe, die sich in Wasser und Fetten lösen lassen.&nbsp;</div><div style=\"text-align: left;\">Aussage 5 ist auch richtig. Durch das Anlegen einer Spannung stört man das Standartpotential des galvanischen Elements. Also ist die Elektrolyse dessen Umkehrreaktion.&nbsp;</div>",
                                 ""
                             ],
                             "guid": "t/mu(qWCE.",
@@ -44063,9 +44128,9 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche der folgenden Reaktionen sind Redoxreaktionen?<div><img src=\"image-9112c43087b199720a1bb437bca36f752ea56f9b.png\"><br></div><div>1.) Keine der 3 Reaktionen&nbsp;</div><div>2.) Nur 1&nbsp;</div><div>3.) Nur 1. und 2.&nbsp;</div><div>4.) Nur 2. und 3.&nbsp;</div><div>5.) Alle drei Reaktionen&nbsp;</div>",
-                                "Alle drei Reaktionen&nbsp;<div><img src=\"image-ac9c04b085725fb54abd803dbde463e663929870.png\"><br></div>",
-                                ""
+                                "Welche der folgenden Reaktionen sind Redoxreaktionen?<div><img src=\"image-9112c43087b199720a1bb437bca36f752ea56f9b.png\"><br></div><div><ol><li style=\"text-align: left;\">) Keine der 3 Reaktionen&nbsp;</li><li style=\"text-align: left;\">) Nur 1&nbsp;</li><li style=\"text-align: left;\">) Nur 1. und 2.&nbsp;</li><li style=\"text-align: left;\">) Nur 2. und 3.&nbsp;</li><li style=\"text-align: left;\">) Alle drei Reaktionen&nbsp;</li></ol></div>",
+                                "Alle drei Reaktionen&nbsp;",
+                                "<img src=\"image-ac9c04b085725fb54abd803dbde463e663929870.png\" width=\"800\">"
                             ],
                             "guid": "Po%abTq?-1",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -44096,8 +44161,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<div style=\"text-align: center;\">&nbsp;Welche Wertigkeit besitzt das folgende Zentralmetall:</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><b>K<sub>4</sub>(Ni(CN)<sub>4</sub>)&nbsp;</b>&nbsp;&nbsp;</div><div style=\"text-align: left;\"><ol><li>) +4</li><li>) +2</li><li>) 0</li><li>) -2</li><li>) -4&nbsp;</li></ol></div>",
-                                "<div>Aussage 3 ist richtig.&nbsp;</div>Nickel muss eine Wertigkeit von Null besitzen. Die CN-Ionen sind jeweils negativ geladen. Dementsprechend müssen diese vier den Komplex vierfach negativ geladen machen, wenn Kalium daran binden kann. Kalium liegt mit einem stark unedlem metallischen Charakter in der Regel immer einwertige positiv geladene vor (also plus 1 )&nbsp;",
+                                "<div style=\"text-align: center;\">&nbsp;Welche Wertigkeit besitzt das folgende Zentralmetall:</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><font color=\"#55ff7f\"><b>K<sub>4</sub>(Ni(CN)<sub>4</sub>)&nbsp;</b>&nbsp;</font>&nbsp;</div><div style=\"text-align: left;\"><ol><li>) +4</li><li>) +2</li><li>) 0</li><li>) -2</li><li>) -4&nbsp;</li></ol></div>",
+                                "<div>Aussage 3 ist richtig.&nbsp;</div><div style=\"text-align: left;\">Nickel muss eine Wertigkeit von Null besitzen. Die CN-Ionen sind jeweils negativ geladen. Dementsprechend müssen diese vier den Komplex vierfach negativ geladen machen, wenn Kalium daran binden kann. Kalium liegt mit einem stark unedlem metallischen Charakter in der Regel immer einwertige positiv geladene vor (also plus 1 )&nbsp;</div>",
                                 ""
                             ],
                             "guid": "Eq<rhj,W=t",
@@ -44151,9 +44216,9 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Art funktioneller Gruppe ist in der folgenden Verbindung NICHT enthalten?<div><img src=\"image-ae9885f14f63879555f742e43aabed23238b7191.png\"><br></div><div>1.) Keton&nbsp;</div><div>2.) Carbonsäure&nbsp;</div><div>3.) Halogen&nbsp;</div><div>4.) Aldehyd&nbsp;</div><div>5.) Amin&nbsp;</div>",
-                                "<img src=\"image-816405b692c583f88776a81ea614171472a4b955.png\"><div>Es gibt kein Aldhyd. Das wäre -COH&nbsp;</div>",
-                                ""
+                                "Welche Art funktioneller Gruppe ist in der folgenden Verbindung NICHT enthalten?<div><img src=\"image-ae9885f14f63879555f742e43aabed23238b7191.png\" width=\"700\"><br></div><div><ol><li style=\"text-align: left;\">) Keton&nbsp;</li><li style=\"text-align: left;\">) Carbonsäure&nbsp;</li><li style=\"text-align: left;\">) Halogen&nbsp;</li><li style=\"text-align: left;\">) Aldehyd&nbsp;</li><li style=\"text-align: left;\">) Amin&nbsp;</li></ol></div>",
+                                "<div>Es gibt kein Aldhyd. Das wäre -COH&nbsp;</div>",
+                                "<img src=\"image-816405b692c583f88776a81ea614171472a4b955.png\" width=\"700\">"
                             ],
                             "guid": "lNc[{He!?t",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -44334,8 +44399,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_19.png\">",
-                                        "Glutaminsäure<div>Das NH2 des Glutamins wurde durch ein OH ersetzt und dementsprechend haben wir eine zweite OH-Gruppe&nbsp;</div><div>Dadurch kann das Molekül zweimal die H-Atome abgeben, die an der OH Gruppe hängen. Deshalb ist es eine Säure, denn Säuren sind Protonendonatoren.&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_19.png\" width=\"1000\">",
+                                        "Glutaminsäure → Glutamat<div style=\"text-align: left;\">Das NH2 des Glutamins wurde durch ein OH ersetzt und dementsprechend haben wir eine zweite OH-Gruppe&nbsp;</div><div style=\"text-align: left;\">Dadurch kann das Molekül zweimal die H-Atome abgeben, die an der OH Gruppe hängen. Deshalb ist es eine Säure, denn Säuren sind Protonendonatoren.&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "N(}uJuEVk#",
@@ -44360,8 +44425,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_23.png\">",
-                                        "Histidin<div>Ist eine basische AS; man kann an die N-Atome Protonen addieren -&gt; Protonenakzeptor&nbsp;</div><div>Wichtig: Berechnung des pHi mit dem pKS 2 und pKS3&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_23.png\" width=\"1000\">",
+                                        "Histidin<div style=\"text-align: left;\">Ist eine basische AS; man kann an die N-Atome Protonen addieren -&gt; Protonenakzeptor&nbsp;</div><div style=\"text-align: left;\">Wichtig: Berechnung des pHi mit dem pKS 2 und pKS3&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "NxhyIc(i7H",
@@ -44399,7 +44464,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_29.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_29.png\" width=\"1000\">",
                                         "Lysin",
                                         ""
                                     ],
@@ -44516,8 +44581,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_48.png\">",
-                                        "ß-Alanin<div>Die NH2 Gruppe steht entständig und nicht wie bei allen anderen AS am zweiten C-Atom.&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_48.png\" width=\"1000\">",
+                                        "ß-Alanin<div style=\"text-align: left;\">Die NH2 Gruppe steht entständig und nicht wie bei allen anderen AS am zweiten C-Atom.&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "uQdSNpt]_g",
@@ -44640,8 +44705,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_63.png\">",
-                                        "Maltose<div>Disaccharid aus Glukose und Glukose; die Bausteine sind identisch, O der Bindung zeigt nach unten -&gt; alpha-glykosidisch verbunden&nbsp;</div><div>1,4 glykosidisch verbunden -&gt; das 1. C Atom des einen Rings bindet an das 4 C-Atom des anderen Rings&nbsp;</div><div><br></div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_63.png\" width=\"1000\">",
+                                        "<div style=\"text-align: center;\">Maltose</div><div style=\"text-align: left;\">Disaccharid aus Glukose und Glukose; die Bausteine sind identisch, O der Bindung zeigt nach unten -&gt; alpha-glykosidisch verbunden&nbsp;</div><div style=\"text-align: left;\">1,4 glykosidisch verbunden -&gt; das 1. C Atom des einen Rings bindet an das 4 C-Atom des anderen Rings&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "fC:,|<M|}k",
@@ -44771,7 +44836,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_84.png\" width=\"1000\">",
-                                        "D-Sorbitol<div>Der Zucker unterscheidet sich nur durch seine Gruppe am C1 von Glukose. Bei Sorbitol hängt dort anstatt einer Aldehydgruppe eine OH-Gruppe. Dementsprechend ist Sorbitol ein ZuckerALKOHOL. Die benutzt man meistens als Süßstoffe.&nbsp;</div>",
+                                        "D-Sorbitol<div style=\"text-align: left;\">Der Zucker unterscheidet sich nur durch seine Gruppe am C1 von Glukose.&nbsp;</div><div style=\"text-align: left;\">Bei Sorbitol hängt dort anstatt einer Aldehydgruppe eine OH-Gruppe.&nbsp;</div><div style=\"text-align: left;\">Dementsprechend ist Sorbitol ein ZuckerALKOHOL. Die benutzt man meistens als Süßstoffe.&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "kDcAtQzJsk",
@@ -44837,8 +44902,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_89.png\">",
-                                        "Brenzcatechin (1,2-Dihydroxybenzol)<div>Am IUPAC Namen (der in der Klammer) erkennt man gut um welches Molekül es sich handelt. Auch hier findet sich wieder ein aromatischer Ring (ungerade Anzahl an Doppelbindungen und Zyklus). Außerdem gibts hier zwei Hydroxygruppen, deshalb <b>Di</b>hydroxy.&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_89.png\" width=\"1000\">",
+                                        "<div style=\"text-align: center;\">Brenzcatechin (1,2-Dihydroxybenzol)</div><div style=\"text-align: left;\">Am IUPAC Namen (der in der Klammer) erkennt man gut um welches Molekül es sich handelt. Auch hier findet sich wieder ein aromatischer Ring (ungerade Anzahl an Doppelbindungen und Zyklus). Außerdem gibts hier zwei Hydroxygruppen, deshalb <b>Di</b>hydroxy.&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "z}*6)dwvYA",
@@ -44850,8 +44915,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_91.png\">",
-                                        "Chinolin<div>Gehört mit seinen zwei Zyklen zu den Naphtelinen. Das erklärt die Endsilbe -lin.&nbsp;</div><div>Das Molekül ist ein Cross-Over aus Naphtolen und Chinonen&nbsp;</div><div>Chinone sind Diketone (Moleküle mit zwei C-O Doppelbindungen)&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_91.png\" width=\"1000\">",
+                                        "<div style=\"text-align: center;\">Chinolin</div><div style=\"text-align: left;\">Gehört mit seinen zwei Zyklen zu den Naphtelinen. Das erklärt die Endsilbe -lin.&nbsp;</div><div style=\"text-align: left;\">Das Molekül ist ein Cross-Over aus Naphtolen und Chinonen&nbsp;</div><div style=\"text-align: left;\">Chinone sind Diketone (Moleküle mit zwei C-O Doppelbindungen)&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "bE-x+pOhoI",
@@ -44930,8 +44995,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_103.png\">",
-                                        "Pyridin<div>Aromatischer heterozyklus mit einem N im Ring&nbsp;</div><div>Dementsprechend kann es basisch reagieren.&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_103.png\" width=\"1000\">",
+                                        "Pyridin<div style=\"text-align: left;\">Aromatischer heterozyklus mit einem N im Ring&nbsp;</div><div style=\"text-align: left;\">Dementsprechend kann es basisch reagieren.&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "hjZm+piLS=",
@@ -44982,8 +45047,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_111.png\">",
-                                        "Styrol&nbsp;<div>Wir haben wieder einen aromatischen Ring, also einen Benzolring (-ol) mit einem organischen Rest. Dementsprechend handelt es sich um einen homozyklus&nbsp;</div><div>Hat leider nicht direkt was mit Styropor zutun, sondern mit Bauschaum; aber über Styropor kann man es sich vielleicht besser merken&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_111.png\" width=\"1000\">",
+                                        "Styrol&nbsp;<div style=\"text-align: left;\">Wir haben wieder einen aromatischen Ring, also einen Benzolring (-ol) mit einem organischen Rest. Dementsprechend handelt es sich um einen homozyklus&nbsp;</div><div style=\"text-align: left;\">Hat leider nicht direkt was mit Styropor zutun, sondern mit Bauschaum; aber über Styropor kann man es sich vielleicht besser merken&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "K$ZsDp}`c+",
@@ -45047,7 +45112,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_121.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_121.png\" width=\"1000\">",
                                         "Xylol<div>Verschiedene Konstitutionsisomer&nbsp;</div><div>IUPAC Name: Dimethylbenzol</div><div>Homozyklischer Aromat mit drei Doppelbindungen (-ol)&nbsp;</div>",
                                         ""
                                     ],
@@ -45316,7 +45381,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_154.png\" width=\"1000\">",
-                                        "Acetessigester<br><div>Ein Ester enthält ein C-Atom, das ein O-Atom einfach und eins doppelt gebunden hat, also das C an dem rechten O&nbsp;</div><div>Den Oxalatanteil findet man somit am ganz linken O.&nbsp;</div><div>Der Mechanismus Veresterung, also wie diese Molekül (in der Regel aus einem Alkohol und einer Carbonsäure) entsteht, ist immer mal in Altklausuren relevant gewesen.&nbsp;</div>",
+                                        "Acetessigester<br><div style=\"text-align: left;\">Ein Ester enthält ein C-Atom, das ein O-Atom einfach und eins doppelt gebunden hat, also das C an dem rechten O&nbsp;</div><div style=\"text-align: left;\">Den Oxalatanteil findet man somit am ganz linken O.&nbsp;</div><div style=\"text-align: left;\">Der Mechanismus Veresterung, also wie diese Molekül (in der Regel aus einem Alkohol und einer Carbonsäure) entsteht, ist immer mal in Altklausuren relevant gewesen.&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "Gy[mS}ApKs",
@@ -45602,7 +45667,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_199.png\" width=\"1000\">",
-                                        "Ölsäure<div>Auch hier wieder eine einfach ungesättigte (eine Doppelbindung) Fettsäure durch ihren langen unpolaren Rest aus Kohlenwasserstoffen&nbsp;</div>",
+                                        "<div style=\"text-align: center;\">Ölsäure</div><div style=\"text-align: left;\">Auch hier wieder eine einfach ungesättigte (eine Doppelbindung) Fettsäure durch ihren langen unpolaren Rest aus Kohlenwasserstoffen&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "HG?v11RO+w",
@@ -45686,8 +45751,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_208.png\">",
-                                        "Bernsteinsäure<div>Muss man lernen; die zwei Säuregruppen machen sie zu einer <b>Di</b>säure. Im Prinzip ist das hier die Buttersäure mit einer zusätzlichen Säuregruppe.&nbsp;</div><div><br></div><div>Vielleicht kann man sich das damit merken, dass beide mit B anfangen&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_208.png\" width=\"1000\">",
+                                        "<div style=\"text-align: center;\">Bernsteinsäure</div><div style=\"text-align: left;\">Muss man lernen; die zwei Säuregruppen machen sie zu einer <b>Di</b>säure. Im Prinzip ist das hier die Buttersäure mit einer zusätzlichen Säuregruppe.&nbsp;</div><div style=\"text-align: left;\">Vielleicht kann man sich das damit merken, dass beide mit B anfangen&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "g1)YmQAk5M",
@@ -45738,8 +45803,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_216.png\">",
-                                        "Dimethylphthalat /\nPhthalsäuredimethylester<div>Die Phthalsäure ist ein Eigenname für Benzoedisäure.&nbsp;</div><div>Sie ist an beiden Säuregruppen mit einem Methyl verestert&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_216.png\" width=\"1000\">",
+                                        "Dimethylphthalat /\nPhthalsäuredimethylester<div style=\"text-align: left;\">Die Phthalsäure ist ein Eigenname für Benzoedisäure.&nbsp;</div><div style=\"text-align: left;\">Sie ist an beiden Säuregruppen mit einem Methyl verestert&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "f9!V]1%PN,",
@@ -45973,8 +46038,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_247.png\">",
-                                        "γ-Butyrolacton<div>Als <b>Lactone</b> bezeichnet man in der <a href=\"https://de.wikipedia.org/wiki/Organische_Chemie\">organischen Chemie</a> <a href=\"https://de.wikipedia.org/wiki/Heterocyclen\">heterocyclische</a> Verbindungen, die innerhalb des Moleküls eine <a href=\"https://de.wikipedia.org/wiki/Esterbindung\">Esterbindung</a>, d. h. eine <a href=\"https://de.wikipedia.org/wiki/Sauerstoffbr%C3%BCcke\">Sauerstoffbrücke</a>, enthalten und direkt am selben Kohlenstoffatom eine <a href=\"https://de.wikipedia.org/wiki/Carbonylgruppe\">Carbonylgruppe</a> aufweisen. Es handelt sich um <a href=\"https://de.wikipedia.org/wiki/Intramolekular\">intramolekulare</a>, cyclische <a href=\"https://de.wikipedia.org/wiki/Ester\">Ester</a> von <a href=\"https://de.wikipedia.org/wiki/Hydroxycarbons%C3%A4uren\">Hydroxycarbonsäuren</a>. &nbsp;<br></div><div>Vorsilbe: But- wegen vier C-Atomen im Ring&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_247.png\" width=\"1000\">",
+                                        "γ-Butyrolacton<div style=\"text-align: left;\">Als <b>Lactone</b> bezeichnet man in der <a href=\"https://de.wikipedia.org/wiki/Organische_Chemie\">organischen Chemie</a> <a href=\"https://de.wikipedia.org/wiki/Heterocyclen\">heterocyclische</a> Verbindungen,&nbsp;</div><div style=\"text-align: left;\">die innerhalb des Moleküls eine <a href=\"https://de.wikipedia.org/wiki/Esterbindung\">Esterbindung</a>, d. h. eine <a href=\"https://de.wikipedia.org/wiki/Sauerstoffbr%C3%BCcke\">Sauerstoffbrücke</a>, enthalten und&nbsp;</div><div style=\"text-align: left;\">direkt am selben Kohlenstoffatom eine <a href=\"https://de.wikipedia.org/wiki/Carbonylgruppe\">Carbonylgruppe</a> aufweisen.&nbsp;</div><div style=\"text-align: left;\">Es handelt sich um <a href=\"https://de.wikipedia.org/wiki/Intramolekular\">intramolekulare</a>, cyclische <a href=\"https://de.wikipedia.org/wiki/Ester\">Ester</a> von <a href=\"https://de.wikipedia.org/wiki/Hydroxycarbons%C3%A4uren\">Hydroxycarbonsäuren</a>. &nbsp;<br></div><div style=\"text-align: left;\">Vorsilbe: But- wegen vier C-Atomen im Ring&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "B$I(*Z7#?o",
@@ -46051,7 +46116,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_259.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_259.png\" width=\"1000\">",
                                         "γ-Lactam<div>Lact- wegen des doppelt gebundenen O- im Ring&nbsp;</div><div>-am: wegen der Amidgruppe (NH)&nbsp;</div>",
                                         ""
                                     ],
@@ -46064,8 +46129,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_261.png\">",
-                                        "γ-Lactim<div>Eigenname: Säurederivat als Ring mit gebundenem O-&gt; &nbsp;Vorsilbe Lact-</div><div>Bei komplexeren Ringderivaten von Carbonsäuren:&nbsp;γ in der Vorsilbe&nbsp;</div>\n",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_261.png\" width=\"1000\">",
+                                        "γ-Lactim<div style=\"text-align: left;\">Eigenname: Säurederivat als Ring mit gebundenem O-&gt; &nbsp;Vorsilbe Lact-</div><div style=\"text-align: left;\">Bei komplexeren Ringderivaten von Carbonsäuren:&nbsp;γ in der Vorsilbe&nbsp;</div>\n",
                                         ""
                                     ],
                                     "guid": "IWpvP0Eui6",
@@ -46078,7 +46143,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_263.png\">",
-                                        "Methyllactat / Milchsäuremethylester<div>Linke Säure ist Milchsäure (lernen!)&nbsp;</div><div>Esterbindung (ein O einfach eins doppelt an das gleiche C gebunden)&nbsp;</div><div>Rest: Methyl- (CH3)&nbsp;</div>",
+                                        "Methyllactat / Milchsäuremethylester<div style=\"text-align: left;\">Linke Säure ist Milchsäure (lernen!)&nbsp;</div><div style=\"text-align: left;\">Esterbindung (ein O einfach eins doppelt an das gleiche C gebunden)&nbsp;</div><div style=\"text-align: left;\">Rest: Methyl- (CH3)&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "wUAsI1PTVH",
@@ -46090,8 +46155,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_265.png\">",
-                                        "Methylsalicylat /\nSalicylsäuremethylester<div>Säure ist Salicylsäure (lernen!)&nbsp;</div><div>Esterbindung (ein O einfach eins doppelt an das gleich C gebunden)&nbsp;</div><div>Seitenkette: Methyl- CH3&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_265.png\" width=\"1000\">",
+                                        "Methylsalicylat /\nSalicylsäuremethylester<div style=\"text-align: left;\">Säure ist Salicylsäure (lernen!)&nbsp;</div><div style=\"text-align: left;\">Esterbindung (ein O einfach eins doppelt an das gleich C gebunden)&nbsp;</div><div style=\"text-align: left;\">Seitenkette: Methyl- CH3&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "A+^-h9?!B5",
@@ -46357,8 +46422,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_313.png\">",
-                                        "Methanal / Formaldehyd (siehe dort)<div>Ein C-Atom: Methan&nbsp;</div><div>COH: Aldehydgruppe -&gt;Endung -al&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_313.png\" width=\"1000\">",
+                                        "Methanal / Formaldehyd (siehe dort)<div style=\"text-align: left;\">Ein C-Atom: Methan&nbsp;</div><div style=\"text-align: left;\">COH: Aldehydgruppe -&gt;Endung -al&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "J8w69Px>hL",
@@ -46650,7 +46715,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_354.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_354.png\" width=\"1000\">",
                                         "Glycerin<div>Propan-1,2,3-ol&nbsp;</div><div>Wichtig für sämtliche Fette und teilweise Zucker&nbsp;</div>",
                                         ""
                                     ],
@@ -46663,7 +46728,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_356.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_356.png\" width=\"1000\">",
                                         "Harnsäure<div>Lernen!</div>",
                                         ""
                                     ],
@@ -46776,7 +46841,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_369.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_369.png\" width=\"1000\">",
                                         "Acrylnitril<div>Nitril: C-N dreifachbindung&nbsp;</div><div>Acryl: CH2-CH Bindung&nbsp;</div>",
                                         ""
                                     ],
@@ -46854,8 +46919,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_381.png\">",
-                                        "Isopren<div>But-1,3-dien&nbsp;</div><div>Zwei Doppelbindungen am C1 und C3&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_381.png\" width=\"1000\">",
+                                        "Isopren<div style=\"text-align: left;\">But-1,3-dien&nbsp;</div><div style=\"text-align: left;\">Zwei Doppelbindungen am C1 und C3&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "f4<ze;%+6?",
@@ -46880,7 +46945,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_385.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_385.png\" width=\"1000\">",
                                         "Morpholin<div>Lernen!&nbsp;</div>",
                                         ""
                                     ],
@@ -46919,7 +46984,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_391.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_391.png\" width=\"1000\">",
                                         "Pyrrolidin",
                                         ""
                                     ],
@@ -47121,8 +47186,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"5cc3e2f7-9ff1-4061-9296-102939089082\" class=\"toggle\"><li><details><summary>Zerfallsarten </summary><div><p class=\"\" id=\"318719be-1cb3-42c7-a403-6e2d845c2e34\">Alpha- Strahlung: positiv; Teilchen: Helium, Ladung 2+; Abschirmung mit Papier möglich </p><p class=\"\" id=\"3842f72d-4a42-48ca-9460-e5204e69e35b\">Beta- Strahlung: negativ; Teilchen: Elektron, Ladung: -1; Abschirmung durch Alufolie </p><p class=\"\" id=\"d03594a2-fe50-400c-a2a3-aebce05fbeaf\">Gamma- Strahlung: neutral; Teilchen: Photonen, Ladung: 0; Abschirmung durch Bleiplatten </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"318719be-1cb3-42c7-a403-6e2d845c2e34\">Alpha- Strahlung: positiv; Teilchen: Helium, Ladung 2+; Abschirmung mit Papier möglich </p><p class=\"\" id=\"3842f72d-4a42-48ca-9460-e5204e69e35b\">Beta- Strahlung: negativ; Teilchen: Elektron, Ladung: -1; Abschirmung durch Alufolie </p><p class=\"\" id=\"d03594a2-fe50-400c-a2a3-aebce05fbeaf\">Gamma- Strahlung: neutral; Teilchen: Photonen, Ladung: 0; Abschirmung durch Bleiplatten </p>",
+                        "Zerfallsarten",
+                        "<div style=\"text-align: left;\"><ul><li>Alpha- Strahlung: positiv; Teilchen: Helium, Ladung 2+; Abschirmung mit Papier möglich</li><li>Beta- Strahlung: negativ; Teilchen: Elektron, Ladung: -1; Abschirmung durch Alufolie</li><li>Gamma- Strahlung: neutral; Teilchen: Photonen, Ladung: 0; Abschirmung durch Bleiplatten</li></ul></div>",
                         ""
                     ],
                     "guid": "A++:C`+iu4",
@@ -47154,8 +47219,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"3f6487ff-c20f-4efc-8df9-0a37e4880a8d\" class=\"toggle\"><li><details><summary>Beta Minus Zerfall </summary><div><p class=\"\" id=\"b59bb4df-5e42-4898-8ac0-79dffd9f308a\">Um Wandlung eines überschüssigen Neutrons in ein Proton und ein Elektron (ß-Teilchen)</p><p class=\"\" id=\"0127b186-d52a-4443-85bf-c329c54197f3\">Die Zahl der Nukleonen bleibt gleich (weil ein Neutron zum Proton wird, also bleibt die Teilchenzahl im Kern gleich) →</p><p class=\"\" id=\"b9b4259e-14dd-44d5-bec8-116ea79ed427\">Zahl der Neutronen erniedrigt sich um eins, während sich die Protonenzahl ums eins erhöht </p><p class=\"\" id=\"55bfe36a-b2b1-41d4-bba1-9119d4ddd21b\">→ es entsteht das nächsthöhere Element </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"b59bb4df-5e42-4898-8ac0-79dffd9f308a\">Um Wandlung eines überschüssigen Neutrons in ein Proton und ein Elektron (ß-Teilchen)</p><p class=\"\" id=\"0127b186-d52a-4443-85bf-c329c54197f3\">Die Zahl der Nukleonen bleibt gleich (weil ein Neutron zum Proton wird, also bleibt die Teilchenzahl im Kern gleich) →</p><p class=\"\" id=\"b9b4259e-14dd-44d5-bec8-116ea79ed427\">Zahl der Neutronen erniedrigt sich um eins, während sich die Protonenzahl ums eins erhöht </p><p class=\"\" id=\"55bfe36a-b2b1-41d4-bba1-9119d4ddd21b\">→ es entsteht das nächsthöhere Element </p>",
+                        "Beta Minus Zerfall",
+                        "<div style=\"text-align: left;\">Um Wandlung eines überschüssigen Neutrons in ein Proton und ein Elektron (ß-Teilchen)</div><div style=\"text-align: left;\">Die Zahl der Nukleonen bleibt gleich (weil ein Neutron zum Proton wird, also bleibt die Teilchenzahl im Kern gleich)</div><div style=\"text-align: left;\">→\n\nZahl der Neutronen erniedrigt sich um eins, während sich die Protonenzahl ums eins erhöht</div><div style=\"text-align: left;\">→ es entsteht das nächsthöhere Element</div><div style=\"text-align: left;\"><br></div>",
                         ""
                     ],
                     "guid": "ki6N_(yL+W",
@@ -47176,8 +47241,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"06abe492-7f96-43cd-8341-5be8b21dcf0e\" class=\"toggle\"><li><details><summary>Gamma Strahlung </summary><div><p class=\"\" id=\"7e018394-eb24-4a1b-8f55-b36110e949e6\">Emission überschüssiger Energie angeregter Kerne in Form von harter, kurzwelliger elektromagnetischer Strahlung, begleitend bei Kernzerfallsprozessen </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"7e018394-eb24-4a1b-8f55-b36110e949e6\">Emission überschüssiger Energie angeregter Kerne in Form von harter, kurzwelliger elektromagnetischer Strahlung, begleitend bei Kernzerfallsprozessen </p>",
+                        "Gamma Strahlung",
+                        "Emission überschüssiger Energie angeregter Kerne in Form von harter, kurzwelliger elektromagnetischer Strahlung, begleitend bei Kernzerfallsprozessen",
                         ""
                     ],
                     "guid": "AQW!~?wFTT",
@@ -47330,8 +47395,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"edb5d711-8bc0-4b07-b341-88191c1fbbf3\" class=\"toggle\"><li><details><summary>Valenzschale </summary><div><p class=\"\" id=\"fee6e6aa-4873-4754-9bbf-9848569f8510\">Äußerste Schale </p><p class=\"\" id=\"a761da4b-f34d-4e1c-9496-2a188fa4f052\">Definiert die Wertigkeit und die Reaktivität → wie viele Bindungen ein Atom eingeht </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"fee6e6aa-4873-4754-9bbf-9848569f8510\">Äußerste Schale </p><p class=\"\" id=\"a761da4b-f34d-4e1c-9496-2a188fa4f052\">Definiert die Wertigkeit und die Reaktivität → wie viele Bindungen ein Atom eingeht </p>",
+                        "Valenzschale",
+                        "<ul><li>Äußerste Schale\n</li><li>Definiert die Wertigkeit und die Reaktivität → wie viele Bindungen ein Atom eingeht</li></ul>",
                         ""
                     ],
                     "guid": "fsDn]S[Hoi",
@@ -47396,8 +47461,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"071e8283-c669-4acf-86a7-761ffd7750e7\" class=\"toggle\"><li><details><summary>Pauli Prinzip </summary><div><p class=\"\" id=\"e350873f-6a96-4d43-8d29-32e05af0b6c9\">Zwei Elektronen können nicht in allen vier Quantenzahlen übereinstimmen </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"e350873f-6a96-4d43-8d29-32e05af0b6c9\">Zwei Elektronen können nicht in allen vier Quantenzahlen übereinstimmen </p>",
+                        "Pauli Prinzip",
+                        "Zwei Elektronen können nicht in allen vier Quantenzahlen übereinstimmen",
                         ""
                     ],
                     "guid": "KYq38y=Xp[",
@@ -47495,8 +47560,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"9ac87da5-0199-4408-9318-d46d90c45a3b\" class=\"toggle\"><li><details><summary>Elektronenaffinität </summary><div><p class=\"\" id=\"3577dfe0-31e2-485a-9390-ee922eb0716b\">Energie, die benötigt wird, um das Elektron an ein ungeladenes Atom zu binden </p><p class=\"\" id=\"7aaca628-1516-420b-95f1-9d7e1e24ca2d\">Negative Elektronenaffinität: Energie wird frei </p><p class=\"\" id=\"08088308-1386-41f2-91ca-b7ac21018eb8\">Positive Elektronenaffinität: Energie muss aufgewendet werden </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"3577dfe0-31e2-485a-9390-ee922eb0716b\">Energie, die benötigt wird, um das Elektron an ein ungeladenes Atom zu binden </p><p class=\"\" id=\"7aaca628-1516-420b-95f1-9d7e1e24ca2d\">Negative Elektronenaffinität: Energie wird frei </p><p class=\"\" id=\"08088308-1386-41f2-91ca-b7ac21018eb8\">Positive Elektronenaffinität: Energie muss aufgewendet werden </p>",
+                        "Elektronenaffinität",
+                        "<ul><li style=\"text-align: left;\">Energie, die benötigt wird, um das Elektron an ein ungeladenes Atom zu binden\n</li><li style=\"text-align: left;\">Negative Elektronenaffinität: Energie wird frei\n</li><li style=\"text-align: left;\">Positive Elektronenaffinität: Energie muss aufgewendet werden</li></ul>",
                         ""
                     ],
                     "guid": "fAuv#WD2q(",
@@ -47847,8 +47912,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"5e8b1def-cc88-4785-8ebe-1cfedfebc698\" class=\"toggle\"><li><details open=\"\"><summary>Löslichkeitsprodukt am Beispiel von Bariumsulfat </summary><div><p class=\"\" id=\"5b54bb70-8eb1-4568-8298-a4bda613bef2\">Einsatz als Röntgenkontrastmittel; </p><p class=\"\" id=\"ca32deab-39db-4425-8f9c-ef80d9f7224c\">Wie viel Gramm BaSO<sub>4</sub> lösen sich in einem Liter Wasser? Fast gar nichts :)</p><p class=\"\" id=\"ecd38790-e7df-4584-a821-639625722869\">BaSO<sub>4</sub> → Ba<sup>2+</sup> + SO<sub>4</sub><sup>-2</sup> </p><p class=\"\" id=\"4d117cd1-f0f1-4b28-a8af-a6827b53ff07\"></p></div></details></li></ul>",
-                        "<p class=\"\" id=\"5b54bb70-8eb1-4568-8298-a4bda613bef2\">Einsatz als Röntgenkontrastmittel; </p><p class=\"\" id=\"ca32deab-39db-4425-8f9c-ef80d9f7224c\">Wie viel Gramm BaSO<sub>4</sub> lösen sich in einem Liter Wasser? </p><p class=\"\" id=\"ecd38790-e7df-4584-a821-639625722869\">BaSO<sub>4</sub> → Ba<sup>2+</sup> + SO<sub>4</sub><sup>-2</sup> </p><p class=\"\" id=\"4d117cd1-f0f1-4b28-a8af-a6827b53ff07\"></p>",
+                        "Löslichkeitsprodukt am Beispiel von Bariumsulfat",
+                        "<div style=\"text-align: left;\">Einsatz als Röntgenkontrastmittel;</div><div style=\"text-align: left;\">Wie viel Gramm BaSO4 lösen sich in einem Liter Wasser?</div><div style=\"text-align: left;\">BaSO<sub>4</sub> → Ba<sup>2+</sup> + SO<sub>4</sub><sup>-2</sup></div>",
                         ""
                     ],
                     "guid": "i9P`7p#+mD",
@@ -47869,8 +47934,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"4e8b93e8-19a9-4784-a740-3d5109020c69\" class=\"toggle\"><li><details><summary>Konzentrationsangaben bei Lösungen </summary><div><p class=\"\" id=\"635de5cf-ace3-4c3f-bdfc-482368d17cca\">Stoffmengekonzneration: c(x)= n(x)/V(Lösung)</p><p class=\"\" id=\"9b378bfa-301c-4d1a-9f37-ce0467f15962\">Massenkonzentration: ß(x)=m(x)/V (Lösung) </p><p class=\"\" id=\"907c057b-64d7-431d-985a-dcf76f364ebb\">Volumenkonzentration: v(x)= V(x)/V(Lösung) (x100, wenn Prozentangabe gefordert wird) </p><p class=\"\" id=\"449068e8-46c4-413e-a7f9-dc1033444e8e\">Gehalt (Massengehalt): w(x)= m(x)/m(Lösung) (x100, wenn Prozentangabe gefordert wird) </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"635de5cf-ace3-4c3f-bdfc-482368d17cca\">Stoffmengekonzneration: c(x)= n(x)/V(Lösung)</p><p class=\"\" id=\"9b378bfa-301c-4d1a-9f37-ce0467f15962\">Massenkonzentration: ß(x)=m(x)/V (Lösung) </p><p class=\"\" id=\"907c057b-64d7-431d-985a-dcf76f364ebb\">Volumenkonzentration: v(x)= V(x)/V(Lösung) (x100, wenn Prozentangabe gefordert wird) </p><p class=\"\" id=\"449068e8-46c4-413e-a7f9-dc1033444e8e\">Gehalt (Massengehalt): w(x)= m(x)/m(Lösung) (x100, wenn Prozentangabe gefordert wird) </p>",
+                        "Konzentrationsangaben bei Lösungen",
+                        "<ul><li style=\"text-align: left;\">Stoffmengekonzentration: c(x)= n(x)/V(Lösung)\n</li><li style=\"text-align: left;\">Massenkonzentration: ß(x)=m(x)/V (Lösung)\n</li><li style=\"text-align: left;\">Volumenkonzentration: v(x)= V(x)/V(Lösung) (x100, wenn Prozentangabe gefordert wird)\n</li><li style=\"text-align: left;\">Gehalt (Massengehalt): w(x)= m(x)/m(Lösung) (x100, wenn Prozentangabe gefordert wird)</li></ul>",
                         ""
                     ],
                     "guid": "f6#PS0i/~#",
@@ -47891,8 +47956,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"a780e91f-23e2-418e-b230-715d0e59576c\" class=\"toggle\"><li><details><summary>Formeln zur Berechnung von Stoffmengen </summary><div><p class=\"\" id=\"a748ac67-0bd4-47fd-aa63-4ffdeb07b448\">Über Massen: n=m/M; m=n M </p><p class=\"\" id=\"03f7312a-4062-4181-8fde-89cf5a9796c0\">Volumenmessung bei Gasen: n=V/V0; V=n V0 </p><p class=\"\" id=\"2cb77d63-01e9-4f24-a357-4207face6b9c\">Volumenmessung bei Lösungen: n=c V; c=n V </p><p class=\"\" id=\"7873d3c7-fc8e-4726-a6d4-76210a27602f\">Lambert-Beer-Gesetz: E= lg(l0/l)= epsilon c d </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"a748ac67-0bd4-47fd-aa63-4ffdeb07b448\">Über Massen: n=m/M; m=n M </p><p class=\"\" id=\"03f7312a-4062-4181-8fde-89cf5a9796c0\">Volumenmessung bei Gasen: n=V/V0; V=n V0 </p><p class=\"\" id=\"2cb77d63-01e9-4f24-a357-4207face6b9c\">Volumenmessung bei Lösungen: n=c V; c=n V </p><p class=\"\" id=\"7873d3c7-fc8e-4726-a6d4-76210a27602f\">Lambert-Beer-Gesetz: E= lg(l0/l)= epsilon c d </p>",
+                        "Formeln zur Berechnung von Stoffmengen",
+                        "<div style=\"text-align: left;\"><ul><li>Über Massen: n=m/M; m=n M</li><li>Volumenmessung bei Gasen: n=V/V0; V=n V0</li><li>Volumenmessung bei Lösungen: n=c V; c=n V</li><li>Lambert-Beer-Gesetz: E= lg(l0/l)= epsilon c d</li></ul></div>",
                         ""
                     ],
                     "guid": "b8}j}PyK9x",
@@ -47913,8 +47978,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"00ff5675-7600-4fdc-abea-d3d2ea40a31f\" class=\"toggle\"><li><details><summary>AB- Salze </summary><div><p class=\"\" id=\"22625a5d-d4ef-431a-8c52-ec2fb63ec8df\">Liegen im Verhältnis 1:1 vor </p><p class=\"\" id=\"15f0843c-2382-4337-8795-69afe462b871\">C(A) = c(B) = Wurzel aus KL </p><p class=\"\" id=\"17784a91-7309-48bf-818a-7da993e2352c\"></p></div></details></li></ul>",
-                        "<p class=\"\" id=\"22625a5d-d4ef-431a-8c52-ec2fb63ec8df\">Liegen im Verhältnis 1:1 vor </p><p class=\"\" id=\"15f0843c-2382-4337-8795-69afe462b871\">c(A) = c(B) = Wurzel aus KL </p><p class=\"\" id=\"15f0843c-2382-4337-8795-69afe462b871\">→ HCL&nbsp;</p><p class=\"\" id=\"17784a91-7309-48bf-818a-7da993e2352c\"></p>",
+                        "AB- Salze",
+                        "<div style=\"text-align: left;\">Liegen im Verhältnis 1:1 vor</div><div style=\"text-align: left;\">c(A) = c(B) = Wurzel aus KL</div><div style=\"text-align: left;\">→ HCL</div>",
                         ""
                     ],
                     "guid": "ma_ODWmui9",
@@ -47957,8 +48022,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"8d623b10-76c8-42bb-a390-9356fd681651\" class=\"toggle\"><li><details><summary>PH-Wert Einteilungen </summary><div><p class=\"\" id=\"b0656e07-11c8-43ad-8e5a-c3246e9f4b59\">1-6 sauer </p><p class=\"\" id=\"b5bfb3aa-6554-4e90-8341-439186e4440e\">7 neutral </p><p class=\"\" id=\"00c47337-85ae-4e87-b9e9-be0a34e7058d\">8-14 basisch </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"b0656e07-11c8-43ad-8e5a-c3246e9f4b59\">1-6 sauer </p><p class=\"\" id=\"b5bfb3aa-6554-4e90-8341-439186e4440e\">7 neutral </p><p class=\"\" id=\"00c47337-85ae-4e87-b9e9-be0a34e7058d\">8-14 basisch </p>",
+                        "PH-Wert Einteilungen",
+                        "<ul><li style=\"text-align: left;\">1-6 sauer\n</li><li style=\"text-align: left;\">7 neutral\n</li><li style=\"text-align: left;\">8-14 basisch</li></ul>",
                         ""
                     ],
                     "guid": "DZ2aQ=o~,w",
@@ -48706,7 +48771,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Ausrechnen von Verhältnis aus Säure und Säureionen&nbsp;",
-                        "<img src=\"image-b52a2a6c3e3097be67a8279211c8331364f0e8a6.png\">",
+                        "<img src=\"image-b52a2a6c3e3097be67a8279211c8331364f0e8a6.png\" width=\"1000\">",
                         ""
                     ],
                     "guid": "GiFUo3Zt|Y",
