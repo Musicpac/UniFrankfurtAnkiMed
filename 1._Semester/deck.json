@@ -20990,8 +20990,8 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Gelenkknorpel",
-                                        "- besondere Form des hyalinen Knorpels<br>- kein Perichondrium<br>- hohe Druckelastizität / Stoßdämpfend<br><br><br><b>Zonen:</b><br><u>1. Tangentialzone</u><br>- Scheitelpunkt der U-förmig verlaufenden Kollagenfibrillen<br>- Kollagenfibrillen annährend horizontzal (tangential) zur Oberfläche<br><br><u>2. Übergangszone</u><br>- Übergang von 1 zu 3<br><br><u>3. Radiärzone</u><br>- Senkrecht zur Knorpeloberfläche verlaufende Kollagenfibrille<br>- Grenzlinie zu Zone 4<br><br><u>4. Mineralisationszone<br></u>- Verankerung der Kollagefibrillen<br><br><br><img src=\"IMG_96D94A95620B-1.jpeg\">",
-                                        ""
+                                        "<div style=\"text-align: left;\">- besondere Form des hyalinen Knorpels</div><div style=\"text-align: left;\">- kein Perichondrium</div><div style=\"text-align: left;\">- hohe Druckelastizität / Stoßdämpfend</div><div style=\"text-align: left;\"><br></div><b><div style=\"text-align: left;\"><b>Zonen:</b></div></b><u><div style=\"text-align: left;\"><u>1. Tangentialzone</u></div></u><div style=\"text-align: left;\">- Scheitelpunkt der U-förmig verlaufenden Kollagenfibrillen</div><div style=\"text-align: left;\">- Kollagenfibrillen annährend horizontzal (tangential) zur Oberfläche</div><div style=\"text-align: left;\"><br></div><u><div style=\"text-align: left;\"><u>2. Übergangszone</u></div></u><div style=\"text-align: left;\">- Übergang von 1 zu 3</div><div style=\"text-align: left;\"><br></div><u><div style=\"text-align: left;\"><u>3. Radiärzone</u></div></u><div style=\"text-align: left;\">- Senkrecht zur Knorpeloberfläche verlaufende Kollagenfibrille</div><div style=\"text-align: left;\">- Grenzlinie zu Zone 4</div><div style=\"text-align: left;\"><br></div><u><div style=\"text-align: left;\"><u>4. Mineralisationszone</u></div></u><div style=\"text-align: left;\">- Verankerung der Kollagefibrillen</div>",
+                                        "<img src=\"IMG_96D94A95620B-1.jpeg\" width=\"1000\">"
                                     ],
                                     "guid": "fS2dXk>lh0",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -36245,7 +36245,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Mittelhandmuskulatur",
-                                                "<img src=\"Bildschirmfoto 2022-12-09 um 21.39.17.png\">",
+                                                "<img src=\"Bildschirmfoto 2022-12-09 um 21.39.17.png\" width=\"1300\">",
                                                 ""
                                             ],
                                             "guid": "te`>}|{as|",
@@ -41848,7 +41848,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Was versteht man unter den Begriffen Codon und Anticodon?",
-                                "Codons sind die für Aminosäuren codierenden Basentripletts auf der mRNA, Anticodons die komplementären Tripletts auf den tRNAs",
+                                "<div style=\"text-align: left;\">Codons sind die für Aminosäuren codierenden Basentripletts auf der mRNA,</div><div style=\"text-align: left;\">→ Anticodons die komplementären Tripletts auf den tRNAs</div>",
                                 ""
                             ],
                             "guid": "FCMe0uf6R~",
@@ -42806,7 +42806,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Phospholipide",
-                        "<div style=\"text-align: left;\">Bestehen aus Glycerin, zwei kovalent verbundenen Fettsäureresten (jeweils aus C14-24, Phosphatrest (mit Glycerin verbunden), hydophiler Rest</div><div style=\"text-align: left;\">Lipophiler Schwanz: Fettsäurerest</div><div style=\"text-align: left;\">Hydrophiler Kopf: Phosphat, Rest</div>",
+                        "<div style=\"text-align: left;\">Bestehen aus&nbsp;</div><div style=\"text-align: left;\">→ Glycerin,&nbsp;</div><div style=\"text-align: left;\">→ zwei kovalent verbundenen Fettsäureresten (jeweils aus C14-24, Phosphatrest (mit Glycerin verbunden),&nbsp;</div><div style=\"text-align: left;\">→ hydophiler Rest</div><div style=\"text-align: left;\">Lipophiler Schwanz: Fettsäurerest</div><div style=\"text-align: left;\">Hydrophiler Kopf: Phosphat, Rest</div><div style=\"text-align: left;\">∟ Amphiphile</div>",
                         ""
                     ],
                     "guid": "g~H.nP9!-:",
@@ -44052,8 +44052,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "&nbsp;Glucose wird vollständig verbrannt. Bei dieser Verbrennung werden 4 mol Kohlendioxid gebildet. Eingesetzt wurden folglich:&nbsp;<div style=\"text-align: left;\"><ol><li>) 720g Glukose&nbsp;</li><li>) 360g Glukose&nbsp;</li><li>) 180g Glukose&nbsp;</li><li>) 120g Glukose&nbsp;</li><li>) 60g Glukose&nbsp;</li></ol></div>",
-                                "Es wurden 120g Glukose eingesetzt.&nbsp;<div><img src=\"image-fc327c73ff5f45424c325789a9cd80e51ca99985.png\" width=\"600\"><br></div>",
-                                ""
+                                "Es wurden 120g Glukose eingesetzt.&nbsp;",
+                                "<img src=\"image-fc327c73ff5f45424c325789a9cd80e51ca99985.png\" width=\"600\">"
                             ],
                             "guid": "H&j=D{z{Z=",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -44151,7 +44151,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "<div>Ein Katalysator beeinflusst bei einer Gleichgewichtsreaktion...</div>\n<div><br></div>\n<ol>\n<li>die Geschwindigkeit der Hin- und Rückreaktion.</li>\n<li>die Aktivierungsenergie.</li>\n<li>die Gleichgewichtslage.</li>\n<li>die freie Reaktionsenthalpie.</li>\n</ol><div><div>\n<div style=\"text-align: left;\">1. Nur Aussage 1</div></div>\n<div>\n<div style=\"text-align: left;\">2. Nur Aussage 1 und 2</div></div>\n<div>\n<div style=\"text-align: left;\">3. Nur Aussagen 1, 2 und 4</div></div>\n<div>\n<div style=\"text-align: left;\">4. Nur Aussagen 2 und 4.&nbsp;</div></div>\n<div><div style=\"text-align: left;\">5. Alle Aussagen treffen zu.</div></div></div>",
-                                "<div style=\"text-align: left;\">Nummer 2 ist richtig. Ein Katalysator setzt die Aktivierungsenergie herab und dadurch reagieren die Edukte schneller miteinander.&nbsp;</div><div style=\"text-align: left;\">Die Gleichgewichtslage wir durch den Katalysator nicht beeinflusst, da dieser nicht mitreagiert. Der Katalysator beeinflusst auch nicht die freie Reaktionsenthalpie, da die sich auf das energetische Niveau der Produkte und Edukte bezieht. Der Katalysator hat nichts mit den Edukten und Produkten zu tun sondern nur mit dem Reaktionsablauf.&nbsp;</div>",
+                                "<div style=\"text-align: center;\">Nummer 2 ist richtig.&nbsp;</div><div style=\"text-align: left;\">Ein Katalysator setzt die Aktivierungsenergie herab und dadurch reagieren die Edukte schneller miteinander.&nbsp;</div><div style=\"text-align: left;\">Die Gleichgewichtslage wir durch den Katalysator nicht beeinflusst, da dieser nicht mitreagiert.&nbsp;</div><div style=\"text-align: left;\">Der Katalysator beeinflusst auch nicht die freie Reaktionsenthalpie, da die sich auf das energetische Niveau der Produkte und Edukte bezieht.&nbsp;</div><div style=\"text-align: left;\">Der Katalysator hat nichts mit den Edukten und Produkten zu tun sondern nur mit dem Reaktionsablauf.&nbsp;</div>",
                                 ""
                             ],
                             "guid": "m2?<Kq$!T/",
@@ -44555,8 +44555,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_43.png\">",
-                                        "Tyrosin&nbsp;<div>Auch die kann man sich leider nicht aus dem NAmen erschließen. Das einzige Besondere sind hier der aromatische Ring und die daran gebundene OH Gruppe. Hier hängt an der AS Alanin ein Phenolring.&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_43.png\" width=\"1000\">",
+                                        "Tyrosin&nbsp;<div>Auch die kann man sich leider nicht aus dem Namen erschließen. Das einzige Besondere sind hier der aromatische Ring und die daran gebundene OH Gruppe. Hier hängt an der AS Alanin ein Phenolring.&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "v5A}3x.R15",
@@ -44620,7 +44620,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_54.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_54.png\" width=\"1000\">",
                                         "Hydroxyprolin<div>Wenn man die Strukturformel von Prolin kennt, kann man sich den Namen durch die zusätzliche OH-Gruppe erklären.&nbsp;</div><div>Die setzt man mit der Vorsilbe Hydroxy vor den Namen des eigentlichen Moleküls&nbsp;</div>",
                                         ""
                                     ],
@@ -44809,7 +44809,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_80.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_80.png\" width=\"1000\">",
                                         "D-Glycerinaldehyd<div>Das hier ist der so ziemlich einfachste Zucker den es gibt. Hier kann man den Namen gut auseinandernehmen. Aldehyd wegen der Aldehydgruppen am C1. Glycerin ist ein dreiwertiger Alkohol, das heisst, ein Alkohol aus drei C-Atomen mit jeweils einer OH-Gruppe. Wenn man zählt, kommt man erstmal nur auf zwei OH-Gruppen. Das liegt daran, dass die eine OH- Gruppe durch eine COH- Gruppe substituiert wurde&nbsp;</div>",
                                         ""
                                     ],
@@ -45073,7 +45073,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_115.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_115.png\" width=\"1000\">",
                                         "Thiophen<div>Vorsilbe Thio wegen Schwefel&nbsp;</div><div>Aromatischer Heterozyklus&nbsp;</div>",
                                         ""
                                     ],
@@ -45269,8 +45269,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_143.png\">",
-                                        "Carvon<div>Das ist ein Eigennamen. Den muss man leider einfach auswendiglernen&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_143.png\" width=\"1000\">",
+                                        "Carvon<br>Riecht nach Minze bzw. Kümmel → Bestes Beispiel von Enantiomere L- riecht nach Minze D- riecht nach Kümmel<br><div>Das ist ein Eigennamen. Den muss man leider einfach auswendig lernen&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "m/7a1idcN?",
@@ -45367,8 +45367,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_152.png\">",
-                                        "<hr id=answer>\nAcetanhydrid / Essigsäureanhydrid<div>Ein Anhydrid entsteht durch Dehydrierung und besteht aus zwei C-Atomen, die mit jeweils 2 O-Atomen verbunden sind</div><div>Acetat: Methylkette ist an ein C gebunden, das jeweils ein O doppelt gebunden hat&nbsp;</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_152.png\" width=\"1000\">",
+                                        "\nAcetanhydrid / Essigsäureanhydrid<div>Ein Anhydrid entsteht durch Dehydrierung und besteht aus zwei C-Atomen, die mit jeweils 2 O-Atomen verbunden sind</div><div>Acetat: Methylkette ist an ein C gebunden, das jeweils ein O doppelt gebunden hat&nbsp;</div>",
                                         ""
                                     ],
                                     "guid": "M?!Ka3dYRl",
@@ -45679,7 +45679,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_201.png\"><div>C16</div>",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_201.png\" width=\"1000\"><div>C16:0</div>",
                                         "Palmitinsäure<div>Fettsäure, die vollständig gesättigt ist, weil sie keine Doppelbindung enthält (also alle C-Atome vollständig an H-Atomen gesättigt)&nbsp;</div><div>Langer unpolarer CH-Rückrat: Fett</div><div>COOH-Gruppe: Säure&nbsp;</div>",
                                         ""
                                     ],
@@ -45881,7 +45881,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_228.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_228.png\" width=\"1000\">",
                                         "Oxalsäure<div>IUPAC: Ethandisäure&nbsp;</div>",
                                         ""
                                     ],
@@ -45894,7 +45894,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_230.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_230.png\" width=\"1000\">",
                                         "Phthalsäure<div>IUPAC Name: Benzoedisäure&nbsp;</div><div>Aus einem Bezolring(Ring mit drei Doppelbindungen) und zwei (di-) Säuregruppen (COOH)&nbsp;</div>",
                                         ""
                                     ],
@@ -46025,7 +46025,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_245.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_245.png\" width=\"1000\">",
                                         "Brenztraubensäure: Eigenname, den man lernen muss&nbsp;<div>Acetylgruppe bzw. Acetat + Ameisensäure (Methansäure)&nbsp;</div><div>Anion hiervon heißt Pyruvat</div>",
                                         ""
                                     ],
@@ -46676,7 +46676,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_348.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_348.png\" width=\"1000\">",
                                         "Cysteamin<div>Cyst: kann man sich von Cystein ableiten, das besitzt ein gebundenes SH&nbsp;</div><div>Amin wegen NH2&nbsp;</div>",
                                         ""
                                     ],
@@ -47073,6 +47073,7 @@
             "extendNew": 200,
             "extendRev": 0,
             "media_files": [
+                "215489_2_De_3_Fig9_HTML.png",
                 "2717e7bd63c522cbbe7337f83d6b3005cd3f96b4fae31927e34db1000515fd3d07e1ae342310503d25185a667a219ca4f693.jpeg",
                 "79b81ddc50f9882391515d3e94847b1099538e1c4821aa4a001b20bed0091448575315dfa70c5726efe1331c9c09027052ac.jpeg",
                 "90e192361d05fe1f05aa14f9c32a9d6c6ca74819b634b4f97e232bb1818236d6a299f78b0daca2248cb5f1fb107e64e35a91.jpeg",
@@ -47197,9 +47198,9 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"233488fe-2c05-4db8-adfd-e6f35b818d77\" class=\"toggle\"><li><details><summary>Veränderte Eigenschaften des Atomkerns nach Zerfall </summary><div><p class=\"\" id=\"8bc58aa3-1898-4682-8ab2-69bbd6b905ca\">Alpha: Abspaltung eines Heliumkerns, der zwei Protonen enthält → OZ nimmt um 2 ab → Massenzahl -4 </p><p class=\"\" id=\"2860512c-659a-4475-9c41-71b78c1db970\">Beta-minus: Umwandlung eines Neutrons in ein Proton unter Aussendung eines Elektrons → OZ nimmt um +1 zu → MZ bleibt gleich</p><p class=\"\" id=\"f17bfbdf-28ed-48f8-9c9e-004ed84f6b60\">Beta-plus: Umwandlung eines Protons in ein Neutron unter Aussendung eines Positrons → OZ nimmt um eins ab→ MZ bleibt gleich </p><p class=\"\" id=\"cbc0f0a9-d6c7-4c3f-a56f-51f3f59c1340\">Gamma: Ausstrahlung von Energie → weder OZ noch MZ verändern sich (wird ja auch kein Teilchen entfernt)</p></div></details></li></ul>",
-                        "<p class=\"\" id=\"8bc58aa3-1898-4682-8ab2-69bbd6b905ca\">Alpha: Abspaltung eines Heliumkerns, der zwei Protonen enthält → OZ nimmt um 2 ab → Massenzahl -4 </p><p class=\"\" id=\"2860512c-659a-4475-9c41-71b78c1db970\">Beta-minus: Umwandlung eines Neutrons in ein Proton unter Aussendung eines Elektrons → OZ nimmt um +1 zu → MZ bleibt gleich</p><p class=\"\" id=\"f17bfbdf-28ed-48f8-9c9e-004ed84f6b60\">Beta-plus: Umwandlung eines Protons in ein Neutron unter Aussendung eines Positrons → OZ nimmt um -1 ab → MZ bleibt gleich </p><p class=\"\" id=\"cbc0f0a9-d6c7-4c3f-a56f-51f3f59c1340\">Gamma: Ausstrahlung von Energie → weder OZ noch MZ verändern sich (wird ja auch kein Teilchen entfernt)</p>",
-                        ""
+                        "Veränderte Eigenschaften des Atomkerns nach Zerfall",
+                        "<div style=\"text-align: left;\">Alpha: Abspaltung eines Heliumkerns, der zwei Protonen enthält → OZ nimmt um 2 ab → Massenzahl -4</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Beta-minus: Umwandlung eines Neutrons in ein Proton unter Aussendung eines Elektrons → OZ nimmt um +1 zu → MZ bleibt gleich</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Beta-plus: Umwandlung eines Protons in ein Neutron unter Aussendung eines Positrons → OZ nimmt um -1 ab → MZ bleibt gleich</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Gamma: Ausstrahlung von Energie → weder OZ noch MZ verändern sich (wird ja auch kein Teilchen entfernt)</div>",
+                        "<img alt=\"Stromerzeugung und -speicherung | SpringerLink\" src=\"215489_2_De_3_Fig9_HTML.png\" width=\"600\">"
                     ],
                     "guid": "NL^`o[-}=X",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -47527,8 +47528,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"6d571c4b-8db1-4256-8189-182b70e3e261\" class=\"toggle\"><li><details><summary>Perioden </summary><div><p class=\"\" id=\"41a8b2e5-b9c3-4f1f-a8ff-a1d135e774f7\">Waagerechte Zeilen des PSE </p><p class=\"\" id=\"90068998-ac59-44e9-b608-f0af5e390359\">Innerhalb einer Periode: Zunahme der Protonenzahl von links nach rechts um jeweils eins</p><p class=\"\" id=\"39d81639-9a91-432b-9896-7adec93b1565\">Alle Elemente in einer Periode: gleiche Schalenanzahl </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"41a8b2e5-b9c3-4f1f-a8ff-a1d135e774f7\">Waagerechte Zeilen des PSE </p><p class=\"\" id=\"90068998-ac59-44e9-b608-f0af5e390359\">Innerhalb einer Periode: Zunahme der Protonenzahl von links nach rechts um jeweils eins</p><p class=\"\" id=\"39d81639-9a91-432b-9896-7adec93b1565\">Alle Elemente in einer Periode: gleiche Schalenanzahl </p>",
+                        "Perioden",
+                        "<ul><li>Waagerechte Zeilen des PSE\n</li><li>Innerhalb einer Periode: Zunahme der Protonenzahl von links nach rechts um jeweils eins\n</li><li>Alle Elemente in einer Periode: gleiche Schalenanzahl</li></ul>",
                         ""
                     ],
                     "guid": "l8Qg:`{~Ga",
@@ -48033,8 +48034,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"7a2ad099-235e-4b54-9c97-f48bb236990b\" class=\"toggle\"><li><details><summary>Lösung von H-Cl in Wasser </summary><div><p class=\"\" id=\"291674d1-6f8d-4b6d-95d4-42505adb9104\">0,1 mol /l HCl= dementsprechend 0,1ml/l H+ = -lg (0,1)= -lg (10^-1) : ph-wert = 1 </p><p class=\"\" id=\"ee486ed3-5c25-437c-83a2-e78b80bc57ae\">Immer wenn eine Lösung um den Faktor 10 verdünnt wird, steigt der ph-Wert um 1</p></div></details></li></ul>",
-                        "<p class=\"\" id=\"291674d1-6f8d-4b6d-95d4-42505adb9104\">0,1 mol /l HCl= dementsprechend 0,1ml/l H+ = -lg (0,1)= -lg (10^-1) : ph-wert = 1 </p><p class=\"\" id=\"ee486ed3-5c25-437c-83a2-e78b80bc57ae\">Immer wenn eine Lösung um den Faktor 10 verdünnt wird, steigt der ph-Wert um 1</p>",
+                        "Lösung von HCl in Wasser",
+                        "0,1 mol/l HCl = dementsprechend 0,1ml/l H<sup>+</sup> = -lg (0,1)= -lg (10<sup>-1</sup>) : pH-wert = 1\n<br>Immer wenn eine Lösung um den Faktor 10 verdünnt wird, steigt der pH-Wert um 1",
                         ""
                     ],
                     "guid": "n^E9|BRM..",
