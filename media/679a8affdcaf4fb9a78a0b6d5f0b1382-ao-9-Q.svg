@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="931" height="683">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="679a8affdcaf4fb9a78a0b6d5f0b1382-ao-1" height="47.05882" width="87.05883" y="51.11766" x="27.82356" stroke="#2D2D2D" fill="#007fff"/>
+  <rect id="679a8affdcaf4fb9a78a0b6d5f0b1382-ao-2" height="48.2353" width="104.70589" y="120.52943" x="18.41179" stroke="#2D2D2D" fill="#007fff"/>
+  <rect id="679a8affdcaf4fb9a78a0b6d5f0b1382-ao-3" height="51.76471" width="74.11765" y="187.58825" x="32.52944" stroke="#2D2D2D" fill="#007fff"/>
+  <rect id="679a8affdcaf4fb9a78a0b6d5f0b1382-ao-4" height="27.05882" width="110.58824" y="254.64708" x="6.64709" stroke="#2D2D2D" fill="#007fff"/>
+  <rect id="679a8affdcaf4fb9a78a0b6d5f0b1382-ao-5" height="24.70588" width="94.11765" y="301.7059" x="20.76474" stroke="#2D2D2D" fill="#007fff"/>
+  <rect id="679a8affdcaf4fb9a78a0b6d5f0b1382-ao-6" height="29.41177" width="118.82353" y="346.41179" x="21.94121" stroke="#2D2D2D" fill="#007fff"/>
+  <rect id="679a8affdcaf4fb9a78a0b6d5f0b1382-ao-7" height="29.41177" width="95.29412" y="389.9412" x="69.00003" stroke="#2D2D2D" fill="#007fff"/>
+  <rect id="679a8affdcaf4fb9a78a0b6d5f0b1382-ao-8" height="28.23529" width="108.2353" y="437.00002" x="83.11768" stroke="#2D2D2D" fill="#007fff"/>
+  <rect id="679a8affdcaf4fb9a78a0b6d5f0b1382-ao-9" height="45.88235" width="168.2353" y="481.70591" x="76.05885" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  <rect id="679a8affdcaf4fb9a78a0b6d5f0b1382-ao-10" height="22.35294" width="112.94118" y="549.9412" x="225.47062" stroke="#2D2D2D" fill="#007fff"/>
+  <rect id="679a8affdcaf4fb9a78a0b6d5f0b1382-ao-11" height="55.29412" width="160" y="592.29415" x="329.00004" stroke="#2D2D2D" fill="#007fff"/>
+  <rect id="679a8affdcaf4fb9a78a0b6d5f0b1382-ao-12" height="23.52941" width="116.47059" y="551.11768" x="719.58829" stroke="#2D2D2D" fill="#007fff"/>
+  <rect id="679a8affdcaf4fb9a78a0b6d5f0b1382-ao-13" height="40" width="105.88236" y="597.00003" x="714.8824" stroke="#2D2D2D" fill="#007fff"/>
+ </g>
+</svg>

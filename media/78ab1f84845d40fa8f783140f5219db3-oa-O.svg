@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="613">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="78ab1f84845d40fa8f783140f5219db3-oa-1" height="27.08333" width="120.83334" y="155.54169" x="52.29167" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="78ab1f84845d40fa8f783140f5219db3-oa-2" height="33.33333" width="135.41667" y="209.70836" x="25.20834" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="78ab1f84845d40fa8f783140f5219db3-oa-3" height="25" width="129.16667" y="164.91669" x="606.25003" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="78ab1f84845d40fa8f783140f5219db3-oa-4" height="54.16667" width="148.95834" y="279.50003" x="629.16669" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="78ab1f84845d40fa8f783140f5219db3-oa-5" height="47.91667" width="140.625" y="354.50003" x="631.25003" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="78ab1f84845d40fa8f783140f5219db3-oa-6" height="34.375" width="170.83334" y="490.95837" x="621.87503" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="78ab1f84845d40fa8f783140f5219db3-oa-7" height="20.83333" width="143.75" y="537.83337" x="38.54167" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>
