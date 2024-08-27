@@ -1,14 +1,14 @@
 # Medical Anki deck. (CrowdAnki JSON)
 Ahoi, 
-this is a start for hopefully something big.... maybe at some point it will be the one and only necessary Anki Flashcard set that you will need to studie human medicin.
+this is the start of something big.... maybe at some point it will be the one and only necessary Anki Flashcard set that you will need to studie human medicin (megalomania intensifies).
 But until then its just a small continues project of mine in the hopes to bring education to more people and to make it free...
 
 **Experience with deck**
 
-First semester worked --> For anatomy I only used this deck and reached 43/50 Points  
-Latin --> All this deck  
-Chem --> Partly previous knowledge (NileRed, Ex&F, etc.) and for all chem structes etc. I used this deck  
-Bio --> This deck was the major part and I also used old exams.  
+First semester worked → For anatomy I only used this deck and reached 43/50 Points  
+Latin → All this deck  
+Chem → Partly previous knowledge (NileRed, Ex&F, etc.) and for all chem structes etc. I used this deck  
+Bio → This deck was the major part and I also used old exams.  
 
 Second semester → Well idk not perfect  
 Anatomy → I already improved on the missing things and it got me through the exams (oral and written but its wasnt perfect → I passed with 80 % or smth  
