@@ -30,6 +30,7 @@ In order to use this deck and to contribute back - please use the CrowdAnki plug
 
 You're welcome to use and improve this deck!
 
-**Quellen**
+**Sources**
+
 Parts of the decks were taken from other decks. I do not intend to take credit for any of those works and if anyone has a problem with something that I used → Please come forward and let me know.
 I will immediately remove anything that is not wanted. Please dont sue me I just want to help and do not intend to harm anyone.
