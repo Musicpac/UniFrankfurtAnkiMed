@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4364" height="3086">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="da07b917337f48a28b3ea65fbcc424f1-ao-1">
+   <rect height="136.36364" width="375.75758" y="538.2424" x="1867.8182" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="148.48485" width="384.84849" y="2013.99998" x="1825.39396" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="da07b917337f48a28b3ea65fbcc424f1-ao-2">
+   <rect height="148.48485" width="372.72727" y="1092.78786" x="1804.18184" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="172.72727" width="363.63636" y="2468.54544" x="410.24244" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <rect id="da07b917337f48a28b3ea65fbcc424f1-ao-3" height="130.30303" width="406.06061" y="744.30301" x="3755.697" stroke="#2D2D2D" fill="#FFEBA2"/>
+  
+  <g id="da07b917337f48a28b3ea65fbcc424f1-ao-5">
+   <g>
+    <rect height="215.15152" width="224.24243" y="1129.15149" x="3610.24245" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect height="78.78788" width="224.24243" y="1426.12119" x="3610.24245" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect height="178.78788" width="218.18182" y="1598.84846" x="3604.18185" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect height="145.45455" width="263.63636" y="1395.81816" x="3892.06063" stroke="#2D2D2D" fill="#FFEBA2"/>
+   </g>
+   <rect height="142.42424" width="251.51515" y="971.57573" x="2619.33336" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="da07b917337f48a28b3ea65fbcc424f1-ao-6">
+   <g>
+    <rect height="148.48485" width="396.9697" y="777.63634" x="1807.21214" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect height="136.36364" width="409.09091" y="226.12118" x="1407.21214" stroke="#2D2D2D" fill="#FFEBA2"/>
+   </g>
+   <rect height="151.51515" width="396.9697" y="2323.09089" x="1576.90911" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect stroke="#2D2D2D" height="115.1515" width="357.57576" y="2183.69695" x="1725.39396" fill="#FFEBA2"/>
+  </g>
+ </g>
+</svg>

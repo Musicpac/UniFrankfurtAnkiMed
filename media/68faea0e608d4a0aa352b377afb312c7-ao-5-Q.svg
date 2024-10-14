@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="2431">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="68faea0e608d4a0aa352b377afb312c7-ao-1">
+   <rect height="36" width="160" y="421" x="357" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="36" width="166" y="1971" x="377" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="68faea0e608d4a0aa352b377afb312c7-ao-2">
+   <rect height="38" width="154" y="2252" x="385" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="44" width="148" y="1028" x="389" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="68faea0e608d4a0aa352b377afb312c7-ao-3">
+   <rect stroke="#2D2D2D" height="30" width="194" y="242" x="327" fill="#FFEBA2"/>
+   <rect height="28" width="204" y="1082" x="327" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="48" width="202" y="1714" x="339" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="32" width="210" y="2150" x="333" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <rect id="68faea0e608d4a0aa352b377afb312c7-ao-4" height="46" width="204" y="1258" x="335" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="68faea0e608d4a0aa352b377afb312c7-ao-5" height="34" width="140" y="1308" x="389" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  <rect id="68faea0e608d4a0aa352b377afb312c7-ao-6" height="34" width="186" y="1182" x="347" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <g id="68faea0e608d4a0aa352b377afb312c7-ao-7">
+   <rect height="34" width="116" y="380" x="405" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="36" width="124" y="1924" x="421" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="68faea0e608d4a0aa352b377afb312c7-ao-8">
+   <rect stroke="#2D2D2D" height="36" width="98" y="340" x="427" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FFEBA2"/>
+   <rect height="40" width="100" y="1878" x="441" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="68faea0e608d4a0aa352b377afb312c7-ao-12">
+   <g>
+    <rect height="56" width="170" y="278" x="351" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect height="56" width="226" y="1116" x="299" stroke="#2D2D2D" fill="#FFEBA2"/>
+   </g>
+   <rect height="42" width="240" y="1830" x="309" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="52" width="180" y="1772" x="367" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="48" width="176" y="2190" x="365" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="68faea0e608d4a0aa352b377afb312c7-ao-13">
+   <rect fill="#FFEBA2" stroke="#2D2D2D" x="384.14293" y="2021.38091" width="159.52381" height="26.19048"/>
+   <rect fill="#FFEBA2" stroke="#2D2D2D" x="367.47627" y="464.238" width="152.38096" height="28.57143"/>
+  </g>
+  <g id="68faea0e608d4a0aa352b377afb312c7-ao-9">
+   <rect height="38" width="138" y="498" x="377" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="38" width="220" y="2054" x="317" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="32" width="216" y="2104" x="327" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+ </g>
+</svg>
