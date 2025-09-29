@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="114" width="547">
+ 
+ <g>
+  <title>background</title>
+  <rect fill="#fff" height="116" id="canvas_background" width="549" x="-1" y="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <image height="422" id="svg_1" width="600" x="-33" y="-302"/>
+ </g>
+</svg>
