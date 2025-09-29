@@ -35,6 +35,11 @@ In order to use this deck and to contribute back - please use the CrowdAnki plug
 
 You're welcome to use and improve this deck!
 
+**Donate**
+If you feel like donating:
+BTC: bc1q6arc3m0dmd9tldtuu8862cu9v6sws0vm4a42nc
+ETH: 0xC392ffc015999CcFE8dE0d39d25C01e0093b4f56
+
 **Sources**
 
 Parts of the decks were taken from other decks. I do not intend to take credit for any of those works and if anyone has a problem with something that I used → Please come forward and let me know.
