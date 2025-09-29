@@ -14,7 +14,12 @@ Second semester → Well idk not perfect
 Anatomy → I already improved on the missing things and it got me through the exams (oral and written but its wasnt perfect → I passed with 80 % or smth  
 Biology → More than you need for the practical side of things BUT for the written exam its a bit superficial → currently improving (PLS HELP) → I passed with 18/20 Points but had to do some extra google stuff and old exams  
 Biochem → The oral exams can be conquered with this deck dont know about the written yet  
-Physio → HELP I HAVE NOTHING → I will try to get some stuff done during the summer break but I cant garantee anything (currently a bit overworked) (HELP)(Please)(pretty please)  
+Physio → Went okay
+
+Third Semester → Gotta be honest with yourself but should be fine
+
+fourth Semester and Physikum → Way better then expected → Got a 2 as a average Grade which equates to a B in the American system
+so i definitly cant complain
 
 **Prerequisites**
 
